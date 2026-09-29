@@ -1,0 +1,776 @@
+VEYRA - PROMPTS 19 TO 58
+Section 1 end (19-20) | Section 2 "Run" (21-40) | Section 3 "The Dead Expanse" first half (41-58)
+
+NOTE: Prompts 46-58 use ENV_10_dead_expanse (salt flats / canyon wastes outside Solace). This reference image does NOT exist yet - generate it before running those prompts.
+
+
+PROMPT 19 - COLLAPSE
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 18 - the Khorr Hunter standing in the white steam wall of the underground market, three red eyes glowing, glaive drawn.
+References: ENV_03_undercity, ENEMY_Elite, ENEMY_Soldier, CHAR_Nyra, CHAR_Teo.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, weapon, impact, piece of debris, water and dust moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they move at full speed, strike hard, flank, grab and fire without pause, and never hold back or slow down.
+0-8s: the Hunter (follow ENEMY_Elite pose sheet) explodes out of the steam at a full sprint, glaive igniting red, straight at the stone pillar where Teo (follow CHAR_Teo pose sheet) hides; Nyra (follow CHAR_Nyra pose sheet) steps in and catches the strike on crossed lightning swords, the impact skidding her backward across the wet stones; market people still in the tunnel scream and dive under stalls.
+8-15s: the Hunter (follow ENEMY_Elite pose sheet) chains strike after strike without a pause and fires its wrist blaster past Nyra's head; two soldiers (follow ENEMY_Soldier pose sheet) burst out of the steam on both flanks firing; Nyra grabs Teo and they bolt into a narrow curved side tunnel, red bolts ripping into the pipes around them.
+15-23s: over the Hunter's shoulder (follow ENEMY_Elite pose sheet): it charges down the tunnel at full speed, gaining fast, and hurls its glaive, which spins past Teo's head and buries itself in the wall; Teo (follow CHAR_Teo pose sheet) turns and raises his gauntlet at the cracked ceiling, amber light building.
+23-30s: the amber blast brings the ceiling down; the Hunter (follow ENEMY_Elite pose sheet) dives forward through the falling rock and its claw grabs Teo's ankle; Nyra (follow CHAR_Nyra pose sheet) slashes, it yanks back, and boulders crash down and seal the tunnel.
+LAST FRAME: the sealed rubble wall in settling dust, three red eyes glowing through a gap in the rocks, Nyra and Teo backing away down the dim tunnel.
+Dialogue (Nyra, shouting, clear) at 15.5s: "Teo - the ceiling! Now!" (Teo, straining, clear) at 18.5s: "Okay... okay!"
+Sound: pounding footsteps, blaster shrieks, glaive whirr, blade clashes, charge hum, roaring collapse, rocks settling. No music.
+
+
+PROMPT 20 - EVERYONE WANTS YOU
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 19 - sealed rubble wall, three red eyes glowing through a gap, Nyra and Teo backing away down the dim tunnel.
+References: CHAR_Nyra, CHAR_Teo, ENEMY_Soldier, ENV_03_undercity.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, object, impact, piece of debris and dust moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they move at full speed, strike hard, search, grab and fire without pause, and never hold back or slow down.
+0-8s: Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) turn and run; behind them a red glaive blade punches through the rubble and grinds, stones shifting as it is torn at from the other side; they duck into a small dark stone chamber lit by one flickering teal lamp and slump against the wall, coughing.
+8-15s: close two-shot: Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) catch their breath and look at each other for the first time.
+15-23s: low angle up at a metal ceiling grate: heavy boots of soldiers (follow ENEMY_Soldier pose sheet) stride across it, a red scanning beam sweeps down through the bars, dust glowing; one soldier drops to a knee, grabs the bars and wrenches, bolts popping out one by one.
+23-30s: Nyra (follow CHAR_Nyra pose sheet) pulls Teo into a drainage opening in the floor; the grate tears free and a soldier (follow ENEMY_Soldier pose sheet) thrusts his carbine down, firing red bolts into the spot they just left; in the dark drain only Teo's glowing amber eyes are visible as the red light crosses his face; cut to black.
+LAST FRAME: pure black.
+Dialogue (Nyra, breathless, clear) at 8s: "Who are you?" (Teo, quiet, clear) at 10s: "...Teo." (Nyra, tired half-smile) at 11.5s: "Well, Teo - everyone up there wants you." (Khorr Hunter, muffled metallic radio from above) at 16s: "The key has a protector. Send every hunter below."
+Sound: coughing, lamp buzz, drips, scanner hum, heavy boots on metal, bolts snapping, carbine shrieks, then silence. No music.
+
+
+PROMPT 21 - THE DRAINS
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 20.
+References: CHAR_Teo, CHAR_Nyra, ENEMY_Soldier, ENV_03_undercity.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image; this is a deep drainage tunnel beneath it.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, splash, impact and piece of debris moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they move at full speed, strike hard, flank, grab and fire without pause, and never hold back or slow down.
+0-8s: wide in a deep curved drainage tunnel: Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) sprint through knee-deep rushing water, spray flying, lamps flickering overhead.
+8-15s: behind them soldiers (follow ENEMY_Soldier pose sheet) drop from overhead shafts one after another, land hard in the water and instantly charge, firing; bolts blast columns of water up around Nyra and Teo.
+15-23s: Nyra (follow CHAR_Nyra pose sheet) spins and slashes a rusted valve; a torrent bursts out and slams two soldiers (follow ENEMY_Soldier pose sheet) off their feet, but the rest push straight through the torrent without slowing, still firing.
+23-30s: the tunnel forks; Nyra boosts Teo (follow CHAR_Teo pose sheet) up onto a narrow maintenance ledge and leaps up after him; a soldier (follow ENEMY_Soldier pose sheet) grabs the ledge edge and hauls himself up right behind them.
+LAST FRAME: a soldier pulling himself onto the ledge, Nyra and Teo running away along the ledge.
+Dialogue (Nyra, urgent, clear) at 18s: "Don't stop. Keep moving!"
+Sound: rushing water, splashes, heavy landings, carbine shrieks, valve burst, metal grinding. No music.
+
+
+PROMPT 22 - THE ELDER
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 21 - a soldier pulling himself onto the ledge, Nyra and Teo running away along the ledge.
+References: CHAR_Teo, CHAR_Nyra, GUEST_Oris, ENEMY_Soldier, ENV_03_undercity.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Oris = GUEST_Oris. Inspect all 4 poses from the GUEST_Oris reference sheet (front view, side profile, back view, and staff-raised pose) to lock 360° character consistency before filming.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, door, impact and spark moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they move at full speed, strike hard, flank, grab and fire without pause, and never hold back or slow down.
+0-8s: the soldier (follow ENEMY_Soldier pose sheet) lunges along the ledge and grabs Teo's backpack, yanking him backward off his feet; Nyra (follow CHAR_Nyra pose sheet) spins and kicks the soldier off the ledge into the water below.
+8-15s: a heavy rusted door in the tunnel wall scrapes open; Oris (follow GUEST_Oris pose sheet) grabs Teo (follow CHAR_Teo pose sheet) by the arm and pulls him inside, Nyra follows; three more soldiers charge along the ledge, firing.
+15-23s: inside a cramped stone passage: Oris (follow GUEST_Oris pose sheet) strikes a wall panel with his staff and an iron shutter crashes down; bolts hammer it from the other side, glowing red dents punching through the metal.
+23-30s: Oris (follow GUEST_Oris pose sheet) points his staff down a passage lined with amber lamps; a red-hot cutting line starts tracing around the shutter edge; Nyra (follow CHAR_Nyra pose sheet) hesitates, then pulls Teo away down the passage.
+LAST FRAME: Oris facing the shutter with its glowing cut line, staff raised, Nyra and Teo running away down the amber-lit passage.
+Dialogue (Oris, old gravel voice, clear) at 24s: "Find Kael. Follow the amber lamps." (Nyra, urgent, clear) at 27.5s: "Go, Teo!"
+Sound: splash, door scraping, shutter slam, bolt impacts on metal, cutting torch hiss, running footsteps. No music.
+
+
+PROMPT 23 - THE CHASM
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 22.
+References: CHAR_Teo, CHAR_Nyra, ENEMY_Elite, ENEMY_Soldier, ENV_03_undercity.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Khorr Hunters = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image; here it opens into a vast underground chasm with lanes of flying traffic far below.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, blade impact, falling railing and vehicle moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they move at full speed, strike hard, flank, grab and fire without pause, and never hold back or slow down.
+0-8s: the amber-lit passage opens onto a vast underground chasm; Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) skid to a stop at the broken end of a walkway, glowing traffic lanes far below.
+8-15s: two Hunters (follow ENEMY_Elite pose sheet) drop from above onto the walkway behind them, land in a crouch and rise already moving, glaives igniting; soldiers (follow ENEMY_Soldier pose sheet) pour out of the passage behind them, rifles up.
+15-23s: both Hunters (follow ENEMY_Elite pose sheet) attack at once; Nyra (follow CHAR_Nyra pose sheet) fights them on the narrow edge, blue lightning against red, pushed back step by step toward the drop; a glaive shears through the railing beside Teo and it falls into the chasm; far below, flying cars swerve away from the falling metal.
+23-30s: a Hunter (follow ENEMY_Elite pose sheet) slams Nyra to the ground and reaches for Teo (follow CHAR_Teo pose sheet), who backs up until his heel is over the drop; a roaring engine sound rises from below.
+LAST FRAME: Teo on the very edge, a Hunter's claw reaching for him, Nyra on the ground, headlights glowing up out of the chasm behind Teo.
+Dialogue (Nyra, strained shout, clear) at 20s: "Stay behind me!"
+Sound: wind in the chasm, distant traffic, heavy landings, glaive ignition, energy clashes, railing snapping, rising engine roar. No music.
+
+
+PROMPT 24 - KAEL
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 23 - Teo on the edge, a Hunter's claw reaching for him, Nyra on the ground, headlights glowing up from the chasm.
+References: CHAR_Kael, CHAR_Teo, CHAR_Nyra, ENEMY_Elite, ENV_03_undercity.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Khorr Hunters = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
+Kael's vehicle: a battered rust-orange open-top skycar with two rear engines.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, impact and recoil moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they move at full speed, strike hard, leap, grab and fire without pause, and never hold back or slow down.
+0-8s: the skycar rises out of the chasm right behind Teo, engines roaring; Kael (follow CHAR_Kael pose sheet) stands at the controls and fires his revolver; the plasma round slams into the Hunter's chest (follow ENEMY_Elite pose sheet) and throws it backward.
+8-15s: Kael (follow CHAR_Kael pose sheet) swings the skycar alongside the walkway, grabs Teo (follow CHAR_Teo pose sheet) by the coat and hauls him into the back seat; Nyra (follow CHAR_Nyra pose sheet) rolls to her feet and leaps in.
+15-23s: the second Hunter (follow ENEMY_Elite pose sheet) sprints and jumps across the gap, landing on the skycar's tail; the car dips hard under its weight, glaive already swinging.
+23-30s: Kael (follow CHAR_Kael pose sheet) slams the throttle and banks hard, and the skycar dives into the traffic lanes below with the Hunter clinging to the tail, claws dug into the metal.
+LAST FRAME: the skycar diving into the glowing traffic lanes, the Hunter clinging to its tail, Kael at the controls.
+Dialogue (Kael, rough low voice, clear) at 10s: "Get in. Now."
+Sound: engine roar, revolver blast, armour impact, metal groaning, wind, horns from traffic below. No music.
+
+
+PROMPT 25 - HITCHHIKER
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 24 - the skycar diving into the traffic lanes, the Hunter clinging to its tail, Kael at the controls.
+References: CHAR_Kael, CHAR_Nyra, CHAR_Teo, ENEMY_Elite, ENV_03_undercity.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
+Kael's vehicle: the same battered rust-orange open-top skycar from PROMPT 24.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, blade and spark moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they move at full speed, strike hard, climb, grab and attack without pause, and never hold back or slow down.
+0-8s: the skycar weaves through the glowing traffic lanes at high speed; civilian flying cars brake and swerve, one clips a wall in sparks; the Hunter (follow ENEMY_Elite pose sheet) climbs forward along the tail.
+8-15s: Nyra (follow CHAR_Nyra pose sheet) stands up in the roaring wind and fights the Hunter on the back of the speeding car, lightning swords against the red glaive, sparks streaming behind them.
+15-23s: the Hunter (follow ENEMY_Elite pose sheet) drives its glaive into the rear engine cowling; sparks and black smoke burst out, the car lurches; Kael (follow CHAR_Kael pose sheet) wrenches the controls sideways while Teo (follow CHAR_Teo pose sheet) grips the seat.
+23-30s: Kael swerves under a low pipe; Nyra (follow CHAR_Nyra pose sheet) ducks flat; the pipe sweeps the Hunter (follow ENEMY_Elite pose sheet) off the tail, but it grabs a trailing cable and is dragged behind the car.
+LAST FRAME: the smoking skycar speeding away, the Hunter dragged behind it on a cable.
+Dialogue (Kael, shouting, clear) at 22s: "Get down!"
+Sound: engine roar, wind, horns, energy clashes, engine sparks and coughing, pipe impact. No music.
+
+
+PROMPT 26 - THE SWARM
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 25 - the smoking skycar speeding away, the Hunter dragged behind it on a cable.
+References: CHAR_Teo, CHAR_Kael, CHAR_Nyra, ENEMY_Elite, ENV_03_undercity, ENV_07_sky_battle.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
+Khorr strike craft: copy the small black-and-red enemy fighters exactly from ENV_07_sky_battle.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, blast and piece of debris moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they move at full speed, climb, chase and fire without pause, and never hold back or slow down.
+0-8s: the Hunter (follow ENEMY_Elite pose sheet) climbs hand over hand up the cable toward the car; Teo (follow CHAR_Teo pose sheet) leans over the back and raises his gauntlet, amber light flaring; a blast severs the cable and the Hunter falls away, crashing onto the roof of a car below.
+8-15s: behind them three Khorr strike craft scream into the chasm in formation and open fire; red bolts explode against the walls around the skycar.
+15-23s: Kael (follow CHAR_Kael pose sheet) dives into a narrow side tunnel; the strike craft follow, one scraping the wall in a shower of sparks but staying on them, still firing.
+23-30s: the tunnel opens into a busy underground market; Nyra (follow CHAR_Nyra pose sheet) looks back at the craft closing in; below them shoppers look up and start to run.
+LAST FRAME: the skycar bursting out over the crowded market, three strike craft right behind it, shoppers starting to scatter.
+Dialogue (Kael, gritted teeth, clear) at 17s: "Hold on to something."
+Sound: gauntlet charge and blast, cable snap, metal crash, jet screams, blaster fire, echoing tunnel roar, crowd gasps. No music.
+
+
+PROMPT 27 - MARKET RUN
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 26 - the skycar bursting out over the crowded market, three strike craft right behind it.
+References: CHAR_Kael, CHAR_Nyra, CHAR_Teo, ENV_03_undercity, ENV_07_sky_battle.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
+Khorr strike craft: copy the small black-and-red enemy fighters exactly from ENV_07_sky_battle.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, stall, canopy, vehicle, blast and piece of debris moves with true weight and momentum. Everyone in the scene reacts to what is happening around them: shoppers scream, run, drop their bags, dive behind stalls and pull children away.
+The Khorr are relentless: they chase at full speed and fire without pause, straight through the crowd, and never hold back or slow down.
+0-8s: the skycar tears through the market just above the stalls, ripping through hanging cloth; shoppers throw themselves flat, a vendor drags a child behind his counter, fruit and fabric whip up in the wake; Kael (follow CHAR_Kael pose sheet) steers through gaps inches wide.
+8-15s: the strike craft follow low, bolts ripping through stalls and exploding lamps; one craft clips a hanging sign, shatters it and keeps coming; people flee into side tunnels.
+15-23s: Kael (follow CHAR_Kael pose sheet) fires his revolver back one-handed while steering and hits a craft's engine; it spins and crashes into the tunnel wall in a fireball; people run from the flames.
+23-30s: the other two craft close in; red targeting lights lock onto the skycar; Nyra (follow CHAR_Nyra pose sheet) shields Teo (follow CHAR_Teo pose sheet) with her body.
+LAST FRAME: the skycar racing toward a broken wall, two strike craft right behind it, red targeting lights on its back.
+Dialogue (Nyra, shouting, clear) at 24s: "They've locked on!"
+Sound: screaming crowd, tearing canvas, jet screams, bolt blasts, glass bursting, revolver shot, fireball roar. No music.
+
+
+PROMPT 28 - NO WAY THROUGH
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 27 - the skycar racing toward a broken wall, two strike craft right behind it.
+References: CHAR_Kael, CHAR_Nyra, CHAR_Teo, ENV_03_undercity, ENV_08_hangar, ENV_07_sky_battle.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Location = ENV_03_undercity, then the blast door of ENV_08_hangar. Copy both exactly as they appear in the images.
+Khorr strike craft: copy the small black-and-red enemy fighters exactly from ENV_07_sky_battle.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, blast, spark and piece of debris moves with true weight and momentum.
+The Khorr are relentless: they chase at full speed and fire without pause, and never hold back or slow down.
+0-8s: Kael (follow CHAR_Kael pose sheet) dives through a gap in the broken wall into a dark service shaft; the strike craft follow firing, and a bolt hits the skycar's left engine; flames burst out.
+8-15s: the skycar loses power, trailing black smoke, scraping the walls in long streams of sparks; Kael fights the controls, Teo (follow CHAR_Teo pose sheet) is thrown against Nyra (follow CHAR_Nyra pose sheet).
+15-23s: ahead, a massive rusted blast door in the rock; Kael (follow CHAR_Kael pose sheet) slams a button on the dash and the door starts grinding open, far too slowly.
+23-30s: Kael swings the car sideways at the last second; the lead strike craft slams into the shaft wall and explodes; the second craft punches through the fireball, still firing; the skycar squeezes through the narrow gap in the opening door.
+LAST FRAME: the burning skycar passing through the gap in the blast door, the second strike craft right behind it.
+Dialogue (Kael, strained, clear) at 17s: "Come on... open!"
+Sound: engine sputtering, alarms, metal scraping, blaster fire, door grinding, explosion. No music.
+
+
+PROMPT 29 - CRASH LANDING
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 28 - the burning skycar passing through the gap in the blast door, the second strike craft right behind it.
+References: ENV_08_hangar, ENV_09_rust_moth_exterior, ENV_07_sky_battle, CHAR_Kael, CHAR_Teo, CHAR_Nyra, GUEST_Dax.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = ENV_08_hangar. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+Khorr strike craft: copy exactly from ENV_07_sky_battle.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, skid, barrel, spark and piece of debris moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they chase at full speed and never hold back or slow down.
+0-8s: the burning skycar bursts into the hangar, clips the top of the door, drops to the floor and skids across the stone in a spray of sparks, scattering barrels and toolboxes.
+8-15s: it spins to a stop a metre from the Rust Moth's nose cannon; Dax (follow GUEST_Dax pose sheet) runs in with a fire extinguisher and blasts the burning engine with foam.
+15-23s: Kael (follow CHAR_Kael pose sheet), Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) climb out coughing; behind them the second strike craft rams into the closing blast door and gets wedged, engine screaming, and the grinding doors crush its nose in a burst of red sparks.
+23-30s: the engine noise fades; Dax (follow GUEST_Dax pose sheet) lowers the extinguisher and looks from Nyra and Teo to Kael.
+LAST FRAME: the four of them standing by the smoking skycar, the crushed strike craft wedged in the closed blast door behind them.
+Dialogue (Dax, deep voice, dry, clear) at 25s: "You brought guests." (Kael, catching breath, clear) at 27.5s: "They brought company."
+Sound: crash, long metal skid, barrels clanging, extinguisher hiss, jet scream, door grinding and crushing metal, then quiet hissing. No music.
+
+
+PROMPT 30 - RESONANCE
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 29 - the four of them by the smoking skycar, the crushed strike craft wedged in the blast door behind them.
+References: CHAR_Teo, CHAR_Kael, CHAR_Nyra, GUEST_Dax, ENV_08_hangar, ENV_09_rust_moth_exterior.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = ENV_08_hangar. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, tool and object moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+0-8s: Nyra (follow CHAR_Nyra pose sheet) ignites her swords and points them at Kael, stepping in front of Teo; Kael (follow CHAR_Kael pose sheet) slowly raises his empty hands; Dax (follow GUEST_Dax pose sheet) rests a hand on his axe.
+8-15s: Teo (follow CHAR_Teo pose sheet) steps out from behind Nyra; his gauntlet starts glowing amber on its own, and at the same moment the amber fissures in Kael's arm light up; everyone freezes and stares.
+15-23s: close on the two amber glows pulsing in the same rhythm; a low hum fills the hangar, tools rattle on the wall racks, dust lifts off the floor.
+23-30s: Kael (follow CHAR_Kael pose sheet) pulls his arm back and the glow fades; he turns to Dax (follow GUEST_Dax pose sheet), who is already running toward the Rust Moth.
+LAST FRAME: Dax running to the Rust Moth's ramp, Kael turning after him, Nyra lowering her swords beside Teo.
+Dialogue (Kael, quiet, stunned, clear) at 17s: "Where did you get that?" (Teo, quiet, clear) at 19.5s: "It found me." (Kael, sharp, clear) at 25s: "Dax. Fire up the Moth."
+Sound: electric crackle of swords, rising resonant hum, rattling tools, then heavy footsteps. No music.
+
+
+PROMPT 31 - CUTTING THROUGH
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 30.
+References: ENV_08_hangar, ENV_09_rust_moth_exterior, ENEMY_Soldier, GUEST_Dax, CHAR_Kael, CHAR_Nyra, CHAR_Teo.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Location = ENV_08_hangar. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, crate, molten drip, door section and piece of debris moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+The Khorr are relentless: they break in at full force, advance fast, flank and fire without pause, and never hold back or slow down.
+0-8s: the main blast door glows as a red-hot cutting line traces across it from outside, molten metal dripping and hissing on the floor; the wedged strike craft wreck is ripped out of the doorway from the other side.
+8-15s: Dax (follow GUEST_Dax pose sheet) drags crates into a barricade and racks his shotgun; Kael (follow CHAR_Kael pose sheet) draws his revolver; Nyra (follow CHAR_Nyra pose sheet) pushes Teo (follow CHAR_Teo pose sheet) toward the Rust Moth's ramp.
+15-23s: a heavy battering impact dents the door inward, then another; bolts shear off and ricochet across the hangar; everyone ducks.
+23-30s: a door section blasts inward and spins across the floor; soldiers (follow ENEMY_Soldier pose sheet) pour through the smoke already firing.
+LAST FRAME: soldiers charging through the smoking breach, red bolts flying toward the crate barricade.
+Dialogue (Kael, shouting, clear) at 12s: "Get him on the ship!"
+Sound: cutting-torch hiss, molten metal sizzling, huge metal impacts, shearing bolts, explosion, carbine fire. No music.
+
+
+PROMPT 32 - FIREFIGHT
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 31 - soldiers charging through the smoking breach, red bolts flying toward the crate barricade.
+References: ENV_08_hangar, ENEMY_Soldier, GUEST_Dax, CHAR_Kael, CHAR_Nyra.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Location = ENV_08_hangar. Copy this location exactly as it appears in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast real combat choreography, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, recoil, crate, splinter and spark moves with true weight and momentum.
+The Khorr are relentless: they advance in formation, flank, swarm and fire without pause, and never hold back or slow down.
+0-8s: soldiers (follow ENEMY_Soldier pose sheet) advance through the smoke firing continuous bursts, crates bursting into splinters; Dax (follow GUEST_Dax pose sheet) fires his shotgun over the barricade and the blast throws a soldier back.
+8-15s: the soldiers split; two climb onto the catwalks to flank while the rest keep up the pressure; Kael (follow CHAR_Kael pose sheet) fires his revolver from cover and a soldier on the catwalk falls onto the crates below.
+15-23s: Nyra (follow CHAR_Nyra pose sheet) vaults the barricade into the middle of them, lightning swords cutting carbines in half; the soldiers (follow ENEMY_Soldier pose sheet) immediately swarm her from three sides and one tackles her to the floor.
+23-30s: Dax (follow GUEST_Dax pose sheet) charges out swinging his glowing axes and knocks two soldiers off her; more soldiers pour in through the breach, firing.
+LAST FRAME: Dax pulling Nyra up off the floor, more soldiers flooding through the smoking breach behind them.
+Dialogue (Dax, roaring, clear) at 24s: "Get off her!"
+Sound: carbine bursts, shotgun booms, splintering crates, revolver cracks, electric crackle, armour impacts, grunts. No music.
+
+
+PROMPT 33 - THE HUNTER RETURNS
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 32.
+References: ENV_08_hangar, ENV_09_rust_moth_exterior, ENEMY_Elite, CHAR_Kael, CHAR_Teo.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Location = ENV_08_hangar. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast real sword choreography, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, blade impact, spark and piece of debris moves with true weight and momentum.
+The Khorr are relentless: the Hunter moves at full speed, strikes hard and chains attack after attack, and never holds back or slows down.
+0-8s: a Hunter (follow ENEMY_Elite pose sheet) bursts through the smoke at a full sprint, leaps the barricade and lands beside Kael, glaive already swinging; Kael (follow CHAR_Kael pose sheet) draws his amber broadsword from his back and blocks it an inch from his face.
+8-15s: heavy clashes, red glaive against amber broadsword, sparks and energy arcs on every hit; the Hunter (follow ENEMY_Elite pose sheet) drives forward without letting up.
+15-23s: the Hunter pins Kael (follow CHAR_Kael pose sheet) against the Rust Moth's landing gear, the glaive grinding down toward his shoulder; Kael kicks its knee, shoves it off with his alien arm and staggers free.
+23-30s: the Hunter (follow ENEMY_Elite pose sheet) spins away and instantly sprints toward the ramp where Teo (follow CHAR_Teo pose sheet) stands frozen.
+LAST FRAME: the Hunter charging toward the Rust Moth's ramp, Teo on the ramp looking straight at it.
+Dialogue (Kael, shouting, clear) at 25s: "Teo! Inside!"
+Sound: heavy landing, energy blade clashes, metal groaning, grunts, running armoured footsteps. No music.
+
+
+PROMPT 34 - THE RAMP
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 33 - the Hunter charging toward the Rust Moth's ramp, Teo on the ramp looking straight at it.
+References: ENV_08_hangar, ENV_09_rust_moth_exterior, ENEMY_Elite, ENEMY_Soldier, CHAR_Teo, CHAR_Nyra, CHAR_Kael, GUEST_Dax.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = ENV_08_hangar. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, blast, barrel and spark moves with true weight and momentum.
+The Khorr are relentless: they charge, grab and fire without pause, and never hold back or slow down.
+0-8s: Teo (follow CHAR_Teo pose sheet) backs up the ramp as the Hunter (follow ENEMY_Elite pose sheet) charges up after him; its claw grabs Teo's coat collar and lifts him off his feet.
+8-15s: Teo's gauntlet (follow CHAR_Teo pose sheet) flares; a point-blank amber blast throws the Hunter off the ramp into a stack of barrels, which burst open across the floor.
+15-23s: the soldiers (follow ENEMY_Soldier pose sheet) turn their fire on the ramp, bolts sparking off the hull; Nyra (follow CHAR_Nyra pose sheet) and Dax (follow GUEST_Dax pose sheet) fall back toward the ramp, covering each other.
+23-30s: Kael (follow CHAR_Kael pose sheet) sprints past them up the ramp into the ship; Nyra drags Teo inside; Dax holds the bottom of the ramp, firing his shotgun.
+LAST FRAME: Dax at the bottom of the ramp firing into the smoke, the ship's interior lights glowing behind him.
+Dialogue (Nyra, urgent, clear) at 24s: "In! Get in!"
+Sound: running boots on metal ramp, gauntlet charge and blast, barrels crashing, bolts pinging off the hull, shotgun booms. No music.
+
+
+PROMPT 35 - COLD START
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 34.
+References: ENV_04_rust_moth, ENEMY_Soldier, CHAR_Kael, CHAR_Teo, CHAR_Nyra.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Location = ENV_04_rust_moth (cockpit). Copy this location exactly as it appears in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, switch, vibration, glass crack and impact moves with true weight and momentum.
+The Khorr are relentless: they climb, smash and fire without pause, and never hold back or slow down.
+0-8s: Kael (follow CHAR_Kael pose sheet) drops into the pilot seat and slams switches; the amber dials flicker to life, engines whine up; bolts spark against the cockpit glass.
+8-15s: a crack spreads across the glass; Teo (follow CHAR_Teo pose sheet) straps into a seat with shaking hands; Nyra (follow CHAR_Nyra pose sheet) braces against the frame.
+15-23s: Kael pulls a heavy lever; through the glass the circular hatch in the silo ceiling grinds open far above, dust pouring down in columns of light.
+23-30s: a soldier (follow ENEMY_Soldier pose sheet) leaps onto the nose and hammers the glass with his carbine butt, cracks spreading; Kael (follow CHAR_Kael pose sheet) fires the nose cannon and the blast hurls the soldier off.
+LAST FRAME: the cracked cockpit glass, the open hatch far above, Kael's hand on the throttle.
+Dialogue (Kael, shouting toward the back, clear) at 26s: "Dax! Now or never!"
+Sound: switches clicking, engine whine rising, alarms, bolts on glass, glass cracking, hatch grinding, cannon boom. No music.
+
+
+PROMPT 36 - SEAL THE SKY
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 35.
+References: ENV_05c_mothership_bridge, ENV_05b_mothership_outside, ENEMY_Commander, ENEMY_Soldier, ENV_07_sky_battle.
+Khorr Commander = ENEMY_Commander. Inspect all 4 poses from the ENEMY_Commander reference sheet (front view, left side view, back view, and commanding pose) to lock 360° character consistency before filming.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Location = ENV_05c_mothership_bridge. Copy this location exactly as it appears in the image. Warship exterior = ENV_05b_mothership_outside. Khorr strike craft = exactly as in ENV_07_sky_battle.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, cape, vibration and movement has true weight and momentum.
+The Khorr are relentless: they act instantly and never hold back or slow down.
+0-8s: on the bridge the red hologram of the city shows the Undercity; one amber dot starts rising up through a silo; the Commander (follow ENEMY_Commander pose sheet) rises from the throne at once.
+8-15s: the Commander drives the tip of his greatsword into the floor; red alarm lines pulse along the floor channels; soldiers (follow ENEMY_Soldier pose sheet) on the tiers run to their stations.
+15-23s: through the giant window, squadrons of strike craft launch from the warship's belly and dive toward the city.
+23-30s: the Commander (follow ENEMY_Commander pose sheet) strides to the window and points at the city; the whole bridge shudders as the warship begins to turn.
+LAST FRAME: the Commander at the window pointing down at the city, strike craft streaming below.
+Dialogue (Commander, very deep slow metallic distorted voice) at 16s: "Seal the sky. Nothing leaves Veyra."
+Sound: ship hum, alarm pulses, sword striking metal, running boots, launch roars, deep structural groan. No music.
+
+
+PROMPT 37 - LIFT OFF
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 36.
+References: ENV_08_hangar, ENV_09_rust_moth_exterior, GUEST_Dax, ENEMY_Soldier, ENEMY_Elite.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Location = ENV_08_hangar. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, thruster blast, crate, spark and cloud of dust moves with true weight and momentum.
+The Khorr are relentless: they charge, grab, leap and fire without pause, and never hold back or slow down.
+0-8s: wide in the silo: the Rust Moth's twin thrusters ignite; a blast of heat and dust flattens crates and throws soldiers (follow ENEMY_Soldier pose sheet) off their feet, while others brace and keep firing.
+8-15s: the ship lifts off the floor; Dax (follow GUEST_Dax pose sheet) runs up the rising ramp; a soldier grabs his coat and pulls; Dax swings an axe back, breaks free and scrambles in.
+15-23s: the Hunter (follow ENEMY_Elite pose sheet) sprints across the hangar floor and leaps, catching the edge of the closing ramp, hanging on as the ship rises.
+23-30s: the Rust Moth climbs up the silo shaft toward the open hatch, hull scraping the walls in showers of sparks, the Hunter (follow ENEMY_Elite pose sheet) still clinging to the ramp.
+LAST FRAME: the Rust Moth rising up the shaft toward the light, the Hunter hanging from the edge of its ramp.
+Dialogue (Dax, shouting, clear) at 13s: "Go! Go!"
+Sound: thruster ignition roar, gale of wind, crates tumbling, carbine fire, axe impact, metal scraping. No music.
+
+
+PROMPT 38 - OVERBOARD
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 37 - the Rust Moth rising up the shaft, the Hunter hanging from the edge of its ramp.
+References: ENV_09_rust_moth_exterior, ENV_08_hangar, ENEMY_Elite, CHAR_Nyra, GUEST_Dax.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = the Rust Moth's cargo hold, matching the ship in ENV_09_rust_moth_exterior; the silo shaft from ENV_08_hangar is visible through the ramp opening.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast real combat choreography, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, crate, gust of wind and blade impact moves with true weight and momentum.
+The Khorr are relentless: the Hunter climbs, strikes and attacks without pause, and never holds back or slows down.
+0-8s: inside the shaking cargo hold: the Hunter (follow ENEMY_Elite pose sheet) hauls itself in through the closing gap and swings its glaive; Dax (follow GUEST_Dax pose sheet) blocks with both axes.
+8-15s: Nyra (follow CHAR_Nyra pose sheet) joins; two against one in the tilting hold, crates sliding across the floor and slamming into the walls.
+15-23s: the Hunter (follow ENEMY_Elite pose sheet) kicks Dax back into the crates and drives Nyra against the wall; Dax slams his fist on the ramp release.
+23-30s: the ramp drops open and wind roars in; Nyra (follow CHAR_Nyra pose sheet) plants her boot in the Hunter's chest and kicks it out; it falls away down the shaft, its red glaive leaving a streak of light.
+LAST FRAME: the open ramp, the red streak falling away down the shaft, Nyra and Dax holding on in the wind.
+Dialogue (Nyra, through gritted teeth, clear) at 26s: "Get off my ship." (Dax, winded, clear) at 28.5s: "His ship."
+Sound: engine roar, blade clashes, crates crashing, ramp hydraulics, howling wind, fading metallic shriek. No music.
+
+
+PROMPT 39 - BREAKOUT
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 38.
+References: ENV_02b_city_under_attack, ENV_09_rust_moth_exterior, ENV_07_sky_battle.
+Location = ENV_02b_city_under_attack. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image. Khorr strike craft and Solace interceptors = exactly as in ENV_07_sky_battle.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, blast, collapse and piece of debris moves with true weight and momentum.
+The Khorr are relentless: their craft chase at full speed and fire without pause, and never hold back or slow down.
+0-8s: wide on the burning outskirts of the city: a circular hatch in the rocky ground bursts open and the Rust Moth blasts up out of it, thrusters blazing, dust and rock spraying.
+8-15s: it banks hard between burning towers; a squadron of Khorr strike craft swoops onto its tail, firing.
+15-23s: chase through the city: the Rust Moth dives under a collapsing bridge; a strike craft clips the falling bridge and explodes.
+23-30s: white-and-gold Solace interceptors dive in from above and engage the strike craft; the sky fills with crossing laser fire.
+LAST FRAME: the Rust Moth climbing away from the city, a dogfight between interceptors and strike craft exploding behind it.
+Dialogue (female commander over radio, calm and hard, clear) at 25s: "Unknown freighter - Solace wing on you. Climb!"
+Sound: ground bursting, thruster roar, jet screams, laser fire, bridge collapse, explosions. No music.
+
+
+PROMPT 40 - UP
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 39 - the Rust Moth climbing away from the city, the dogfight exploding behind it.
+References: ENV_06_sky_peaceful, ENV_05b_mothership_outside, ENV_09_rust_moth_exterior, ENV_04_rust_moth, CHAR_Kael, CHAR_Teo.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Locations = ENV_06_sky_peaceful (sky), ENV_05b_mothership_outside (warship), ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, beam, explosion and vibration moves with true weight and momentum.
+The Khorr are relentless: the warship turns and fires without pause, and never holds back.
+0-8s: the Rust Moth climbs almost vertically through the golden cloud layers toward the ringed gas giant and the two suns.
+8-15s: cockpit: Kael (follow CHAR_Kael pose sheet) shoves the throttle forward, the whole cockpit shaking; Teo (follow CHAR_Teo pose sheet) stares out at the sky, glowing through the cracked glass.
+15-23s: above them the colossal black warship turns its prow toward them; rows of vents underneath glow blood-red.
+23-30s: a massive red beam fires; the Rust Moth rolls hard, the beam grazes its left engine; an explosion bursts from the engine and the ship tumbles, trailing fire and black smoke.
+LAST FRAME: the Rust Moth tumbling through the golden clouds, left engine on fire, the warship above.
+Dialogue (Kael, strained, clear) at 10s: "Come on, old girl... climb." (Teo, shouting, clear) at 20s: "Kael! Above us!"
+Sound: engine howl, hull rattling, alarms, deep warship hum, beam blast, explosion, wind roar. No music.
+
+
+PROMPT 41 - FALLING
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 40 - the Rust Moth tumbling through the golden clouds, left engine on fire, the warship above.
+References: ENV_04_rust_moth, ENV_09_rust_moth_exterior, ENV_06_sky_peaceful, CHAR_Kael, CHAR_Teo, CHAR_Nyra, GUEST_Dax.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Locations = ENV_04_rust_moth (cockpit), ENV_06_sky_peaceful (sky). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, loose object, g-force, vibration and flame moves with true weight and momentum. Everyone reacts to what is happening around them.
+0-8s: exterior: the Rust Moth tumbles end over end, trailing fire through the golden clouds.
+8-15s: cockpit: alarms blare, amber warning lights flash; Kael (follow CHAR_Kael pose sheet) wrestles the controls with both hands, g-force pressing him into the seat; loose objects fly across the cockpit; Teo (follow CHAR_Teo pose sheet) is pinned in his straps.
+15-23s: cargo hold: fire spreads along a fuel line; Dax (follow GUEST_Dax pose sheet) fights it with an extinguisher while Nyra (follow CHAR_Nyra pose sheet) hauls a burning panel off the wall with her bare hands.
+23-30s: exterior: Kael pulls the ship out of the spin; it levels off, still burning, low above a sky full of fighting ships.
+LAST FRAME: the burning Rust Moth leveling off, a dogfight full of red and amber laser fire ahead of it.
+Dialogue (Kael, gritted teeth, clear) at 11s: "I've got it... I've got it!" (Dax, shouting from the back, clear) at 17s: "You don't!"
+Sound: alarms, tearing wind, engine sputtering, extinguisher blasts, fire roar, hull groaning. No music.
+
+
+PROMPT 42 - SKY WAR
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 41 - the burning Rust Moth leveling off, a dogfight full of red and amber laser fire ahead of it.
+References: ENV_07_sky_battle, ENV_09_rust_moth_exterior, GUEST_Rhea.
+Rhea = GUEST_Rhea. Inspect all 4 poses from the GUEST_Rhea reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Location = ENV_07_sky_battle. Copy this sky battle exactly as it appears in the image: the Solace interceptors and the Khorr strike craft. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, blast, piece of wreckage and trail of smoke moves with true weight and momentum.
+The Khorr are relentless: their strike craft swarm, chase and fire without pause, and never hold back or slow down.
+0-8s: the Rust Moth flies straight into the dogfight; strike craft peel off from the battle and swarm onto it, bolts slamming into its hull.
+8-15s: a white-and-gold interceptor streaks past the Rust Moth's cockpit and blasts the nearest strike craft into a fireball.
+15-23s: inside the interceptor's cockpit: Rhea (follow GUEST_Rhea pose sheet) flies with one hand, turns her head toward the Rust Moth and presses her radio.
+23-30s: Rhea's interceptor pulls alongside the burning Rust Moth, wingtip to wingtip, as more strike craft dive in from above.
+LAST FRAME: Rhea's interceptor flying alongside the burning Rust Moth, strike craft diving at them from above.
+Dialogue (Rhea, over radio, hard and calm, clear) at 18s: "Freighter, stay on my wing."
+Sound: jet screams, laser fire, bolt impacts on hull, explosions, radio crackle. No music.
+
+
+PROMPT 43 - ESCORT
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 42 - Rhea's interceptor alongside the burning Rust Moth, strike craft diving at them from above.
+References: ENV_07_sky_battle, ENV_09_rust_moth_exterior, ENV_04_rust_moth, CHAR_Kael, GUEST_Dax.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Locations = ENV_07_sky_battle (sky), ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, recoil, blast and piece of wreckage moves with true weight and momentum.
+The Khorr are relentless: their strike craft chase and fire without pause, and never hold back or slow down.
+0-8s: the strike craft dive on the two ships; the Rust Moth and the interceptor break apart and weave through crossing fire.
+8-15s: cockpit: Kael (follow CHAR_Kael pose sheet) flips a switch and shouts back; Dax (follow GUEST_Dax pose sheet) drops into the nose cannon seat below the cockpit and grabs the firing grips.
+15-23s: the nose cannon fires heavy amber rounds; a strike craft is blown apart, wreckage spinning past the cockpit glass.
+23-30s: a Solace interceptor flying escort is hit and explodes beside them; its burning wreckage falls away toward the city.
+LAST FRAME: burning wreckage of the Solace interceptor falling away, the Rust Moth flying on through the smoke.
+Dialogue (Kael, shouting, clear) at 10s: "Dax, the cannon!" (Dax, roaring, clear) at 20s: "Got one!"
+Sound: jet screams, cannon thuds, explosions, radio static, falling wreckage whine. No music.
+
+
+PROMPT 44 - DRAW THEM OFF
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 43 - burning interceptor wreckage falling away, the Rust Moth flying on through the smoke.
+References: ENV_07_sky_battle, ENV_09_rust_moth_exterior, GUEST_Rhea.
+Rhea = GUEST_Rhea. Inspect all 4 poses from the GUEST_Rhea reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Location = ENV_07_sky_battle. Copy this sky battle exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, blast and smoke trail moves with true weight and momentum.
+The Khorr are relentless: their strike craft chase at full speed and fire without pause, and never hold back or slow down.
+0-8s: a fresh wave of strike craft pours out of the clouds toward the Rust Moth.
+8-15s: in her cockpit, Rhea (follow GUEST_Rhea pose sheet) looks at the wave, sets her jaw and pushes her throttle forward.
+15-23s: Rhea's interceptor flips around and charges head-on into the wave, firing; three craft explode; the rest break off and chase her.
+23-30s: the Rust Moth breaks away alone, trailing smoke, diving toward the horizon beyond the city while Rhea's interceptor disappears into a storm of red fire behind it.
+LAST FRAME: the Rust Moth diving alone toward the horizon, the battle shrinking behind it.
+Dialogue (Rhea, over radio, calm, clear) at 12s: "Get clear. I'll draw them off." (Kael, over radio, quiet, clear) at 26s: "...Thank you, Commander."
+Sound: jet screams, laser fire, explosions, radio crackle, the battle fading into wind. No music.
+
+
+PROMPT 45 - LAST PURSUER
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 44.
+References: ENV_09_rust_moth_exterior, ENV_02b_city_under_attack, ENV_07_sky_battle, ENV_04_rust_moth, CHAR_Kael, CHAR_Nyra.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Locations = the rocky canyon outskirts of ENV_02b_city_under_attack, and ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior. Khorr strike craft = exactly as in ENV_07_sky_battle.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, rock, blast and dust cloud moves with true weight and momentum.
+The Khorr are relentless: the strike craft chases at full speed and fires without pause, and never holds back or slows down.
+0-8s: the smoking Rust Moth races low over the rocky canyons outside the city; a single strike craft screams in behind it, firing.
+8-15s: cockpit: Kael (follow CHAR_Kael pose sheet) drops the ship into a narrow canyon; Nyra (follow CHAR_Nyra pose sheet) grips the back of his seat as the canyon walls rush past inches from the wings.
+15-23s: the strike craft follows into the canyon, bolts blasting rock off the walls, closing in.
+23-30s: Kael pulls up hard at a sharp bend; the strike craft can't turn in time and slams into the canyon wall in a fireball of rock and metal.
+LAST FRAME: a fireball on the canyon wall behind, the smoking Rust Moth climbing out of the canyon.
+Dialogue (Nyra, tense, clear) at 13s: "Too close!" (Kael, focused, clear) at 16s: "That's the idea."
+Sound: engine roar echoing off rock, blaster fire, rocks bursting, crash explosion. No music.
+
+
+PROMPT 46 - ENGINE OUT
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 45 - a fireball on the canyon wall behind, the smoking Rust Moth climbing out of the canyon.
+References: ENV_09_rust_moth_exterior, ENV_04_rust_moth, ENV_10_dead_expanse, CHAR_Kael, CHAR_Teo, CHAR_Nyra.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Locations = ENV_10_dead_expanse (salt flats), ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, vibration and smoke trail moves with true weight and momentum.
+0-8s: the Rust Moth flies out over an endless white salt flat under the twin suns; its left engine coughs, sputters and cuts out.
+8-15s: cockpit: the amber dials drop to zero one by one; Kael (follow CHAR_Kael pose sheet) hits them with his fist; nothing.
+15-23s: Kael turns in his seat; Teo (follow CHAR_Teo pose sheet) and Nyra (follow CHAR_Nyra pose sheet) look at him; he turns back and grips the controls with both hands.
+23-30s: exterior: the Rust Moth glides down toward the salt flat, nose up, smoke trailing, the ground rushing closer.
+LAST FRAME: the Rust Moth a few metres above the salt flat, nose up, smoke trailing.
+Dialogue (Kael, flat, clear) at 17s: "Brace."
+Sound: engine coughing then silence, wind hissing over the hull, dials clicking, alarms fading. No music.
+
+
+PROMPT 47 - SALT
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 46 - the Rust Moth a few metres above the salt flat, nose up, smoke trailing.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, ENV_04_rust_moth, CHAR_Teo, CHAR_Kael.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Locations = ENV_10_dead_expanse (salt flats), ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, the hull, salt crust, dust and debris move with true weight and momentum.
+0-8s: the Rust Moth's belly hits the salt flat and bounces, then slams down again, salt crust shattering and spraying high into the air.
+8-15s: it skids across the flat for hundreds of metres, landing gear tearing off, panels peeling away, a huge white cloud billowing behind it.
+15-23s: cockpit: everything shakes violently; the cracked glass finally shatters inward; Kael (follow CHAR_Kael pose sheet) throws an arm across Teo (follow CHAR_Teo pose sheet).
+23-30s: exterior: the ship slides to a stop, tilted on one wing; the salt cloud drifts over it; silence.
+LAST FRAME: the wrecked Rust Moth tilted on one wing in the drifting salt cloud on the empty flat.
+Sound: huge impact, crust shattering, long metal skid, glass bursting, creaking, then silence and wind. No dialogue, no music.
+
+
+PROMPT 48 - STILL BREATHING
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 47 - the wrecked Rust Moth tilted on one wing in the drifting salt cloud.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, ENV_04_rust_moth, CHAR_Kael, CHAR_Teo, CHAR_Nyra, GUEST_Dax.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Locations = ENV_10_dead_expanse (salt flats), ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, piece of glass, dust and smoke moves with true weight and momentum.
+0-8s: cockpit full of salt dust and smoke: Kael (follow CHAR_Kael pose sheet) coughs, unbuckles and turns to Teo (follow CHAR_Teo pose sheet), who opens his eyes, covered in white dust.
+8-15s: in the tilted cargo hold, Nyra (follow CHAR_Nyra pose sheet) shoves a fallen crate off herself; Dax (follow GUEST_Dax pose sheet) kicks the jammed side hatch until it bangs open.
+15-23s: exterior: one by one they climb out onto the salt, squinting in the harsh light of the twin suns; Teo drops down from the wing.
+23-30s: wide: four small figures beside the smoking wreck in an endless white desert, canyons on the far horizon.
+LAST FRAME: the four of them beside the smoking wreck, the endless white salt flat around them.
+Dialogue (Kael, hoarse, clear) at 6s: "You in one piece?" (Teo, dazed, clear) at 8s: "...I think so." (Dax, looking at the ship, clear) at 25s: "She's not flying again today."
+Sound: coughing, creaking metal, salt crunching, hatch banging, hiss of smoke, dry wind. No music.
+
+
+PROMPT 49 - WHAT ARE YOU
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 48 - the four of them beside the smoking wreck on the white salt flat.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, CHAR_Nyra, CHAR_Kael, CHAR_Teo, GUEST_Dax.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, blade and gust of salt dust moves with true weight and momentum.
+0-8s: Nyra (follow CHAR_Nyra pose sheet) turns on Kael, ignites one sword and puts the blade against his chest; Dax (follow GUEST_Dax pose sheet) draws an axe; Kael (follow CHAR_Kael pose sheet) does not move.
+8-15s: Kael slowly lifts his alien arm; the amber fissures glow faintly; Nyra's blade does not waver.
+15-23s: Teo (follow CHAR_Teo pose sheet) steps between them, his gauntlet glowing in answer to Kael's arm, and pushes Nyra's blade down with his hand.
+23-30s: Nyra (follow CHAR_Nyra pose sheet) lowers the sword but keeps it lit; Kael and Nyra stare at each other; Dax lowers his axe.
+LAST FRAME: Teo standing between Nyra and Kael, her lit sword lowered, the wreck behind them.
+Dialogue (Nyra, cold, clear) at 5s: "What are you?" (Kael, quiet, clear) at 11s: "Same thing he is. Part of it." (Teo, firm, clear) at 19s: "Stop. He saved us."
+Sound: sword ignition crackle, dry wind, resonant hum rising and fading, salt crunching. No music.
+
+
+PROMPT 50 - DROPSHIP
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 49.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, ENEMY_Soldier, CHAR_Kael, CHAR_Nyra, CHAR_Teo, GUEST_Dax.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+Khorr dropship: the same black angular enemy dropship from PROMPT 10.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, landing, salt spray and blast moves with true weight and momentum.
+The Khorr are relentless: they deploy fast, spread out, advance and fire without pause, and never hold back or slow down.
+0-8s: a black Khorr dropship roars in low over the salt flat, kicking up a white storm; Kael (follow CHAR_Kael pose sheet) and the others dive behind the wreck.
+8-15s: the dropship's side doors open while it is still moving; soldiers (follow ENEMY_Soldier pose sheet) jump out, hit the salt running and spread into a wide line.
+15-23s: the soldiers open fire as they advance; bolts punch holes in the Rust Moth's hull; Dax (follow GUEST_Dax pose sheet) and Nyra (follow CHAR_Nyra pose sheet) crouch behind the wing.
+23-30s: two soldiers break off and sprint around the wreck to flank; Teo (follow CHAR_Teo pose sheet) sees them first and points.
+LAST FRAME: two soldiers rounding the tail of the wreck, Teo pointing at them, the main line advancing and firing.
+Dialogue (Teo, shouting, clear) at 26s: "Behind us!"
+Sound: dropship engine roar, salt storm hiss, heavy landings, carbine fire, bolts punching metal. No music.
+
+
+PROMPT 51 - STAND
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 50 - two soldiers rounding the tail of the wreck, Teo pointing at them.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, ENEMY_Soldier, CHAR_Kael, CHAR_Nyra, GUEST_Dax, CHAR_Teo.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast real combat choreography, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, blade impact, recoil and spray of salt moves with true weight and momentum.
+The Khorr are relentless: they charge, flank, swarm and fire without pause, and never hold back or slow down.
+0-8s: Kael (follow CHAR_Kael pose sheet) spins around the tail with his amber broadsword and cuts the first flanking soldier's carbine in half; the second soldier (follow ENEMY_Soldier pose sheet) charges him shoulder-first and they crash into the salt.
+8-15s: Nyra (follow CHAR_Nyra pose sheet) leaps over the wing into the advancing line, lightning swords flashing; the soldiers close around her immediately from all sides.
+15-23s: Dax (follow GUEST_Dax pose sheet) fires his shotgun from the wing, then jumps down swinging his axes into the fight; soldiers keep coming out of the salt storm.
+23-30s: Teo (follow CHAR_Teo pose sheet) crouches under the wreck, watching; a soldier (follow ENEMY_Soldier pose sheet) spots him, drops to a knee and aims straight at him.
+LAST FRAME: a soldier kneeling and aiming under the wreck at Teo, the battle raging behind.
+Dialogue (Kael, shouting, clear) at 10s: "Keep them off Teo!"
+Sound: blade clashes, electric crackle, shotgun booms, carbine fire, grunts, salt crunching, wind. No music.
+
+
+PROMPT 52 - TWO LIGHTS
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 51 - a soldier kneeling and aiming under the wreck at Teo, the battle raging behind.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, ENEMY_Soldier, CHAR_Teo, CHAR_Kael, CHAR_Nyra, GUEST_Dax.
+Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, shockwave, salt spray and piece of debris moves with true weight and momentum.
+The Khorr are relentless: they charge and fire without pause, and never hold back or slow down.
+0-8s: Kael (follow CHAR_Kael pose sheet) throws himself between the soldier and Teo; the bolt hits his alien arm raised as a shield and splashes off in sparks.
+8-15s: Kael's arm and Teo's gauntlet (follow CHAR_Teo pose sheet) flare at the same moment; Teo grabs Kael's alien hand; amber light races along both their arms.
+15-23s: a huge amber shockwave bursts outward from the two of them in a ring, lifting a wave of salt; every soldier (follow ENEMY_Soldier pose sheet) in range is thrown off their feet and tumbling across the flat; Nyra (follow CHAR_Nyra pose sheet) and Dax (follow GUEST_Dax pose sheet) drop flat as it passes over them.
+23-30s: the soldiers still able to move scramble back toward the dropship, dragging each other; the dropship lifts off, one engine smoking, and flies away low toward the canyons.
+LAST FRAME: the dropship flying away toward the canyons, Teo and Kael still gripping hands in a ring of blasted salt.
+Dialogue (Kael, strained, clear) at 10s: "Don't let go." (Teo, shaking, clear) at 12s: "I won't."
+Sound: bolt impact, rising resonant hum, massive shockwave boom, salt hail falling, dropship engine sputtering away. No music.
+
+
+PROMPT 53 - AFTERSHOCK
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 52 - the dropship flying away, Teo and Kael gripping hands in a ring of blasted salt.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, CHAR_Teo, CHAR_Kael, CHAR_Nyra, GUEST_Dax.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body and falling grain of salt moves with true weight and momentum.
+0-8s: Teo (follow CHAR_Teo pose sheet) lets go of Kael's hand and collapses to his knees, breathing hard, the amber glow fading from his skin.
+8-15s: Kael (follow CHAR_Kael pose sheet) kneels in front of him and steadies him by the shoulders; Nyra (follow CHAR_Nyra pose sheet) runs over and kneels beside them.
+15-23s: Nyra looks at Kael, then extinguishes her swords and slides them onto her back for the first time.
+23-30s: Dax (follow GUEST_Dax pose sheet) walks up behind them, looking at the scorched ring in the salt around them.
+LAST FRAME: the four of them in the centre of the scorched ring on the white salt, the wreck behind them.
+Dialogue (Teo, weak, clear) at 9s: "What was that?" (Kael, quiet, clear) at 11.5s: "I don't know. First time it's done that." (Nyra, to Kael, clear) at 19s: "Then we find out. Together."
+Sound: heavy breathing, dry wind, salt settling, swords powering down. No music.
+
+
+PROMPT 54 - MAKESHIFT
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 53.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, GUEST_Dax, CHAR_Kael, CHAR_Teo, CHAR_Nyra.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse, late afternoon light. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, tool, panel and spark moves with true weight and momentum.
+0-8s: late afternoon, long shadows on the salt: Dax (follow GUEST_Dax pose sheet) hangs half inside the burnt left engine, sparks spitting from a cutting tool.
+8-15s: Kael (follow CHAR_Kael pose sheet) drags a hull panel across the salt; Teo (follow CHAR_Teo pose sheet) runs to grab the other end and helps him lift it into place.
+15-23s: Nyra (follow CHAR_Nyra pose sheet) stands on top of the wreck, keeping watch toward the canyons, one hand on a sword hilt.
+23-30s: Dax climbs out of the engine, wipes his hands and shakes his head at Kael.
+LAST FRAME: Dax and Kael facing each other by the open engine, Teo holding the panel, Nyra on watch above.
+Dialogue (Dax, tired, clear) at 25s: "Two days. Maybe three." (Kael, grim, clear) at 27.5s: "We don't have three."
+Sound: cutting tool sparks, metal scraping over salt, clanks, dry wind. No music.
+
+
+PROMPT 55 - FIRELIGHT
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 54.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, CHAR_Teo, CHAR_Kael.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse at night, lit by a small fire and the ringed gas giant in the sky. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every flame, spark, ember and movement behaves naturally.
+0-8s: night: a small fire burns beside the wreck, the ringed gas giant huge in the sky; Teo (follow CHAR_Teo pose sheet) sits hugging his knees, staring at his gauntlet.
+8-15s: Kael (follow CHAR_Kael pose sheet) sits down next to him and holds his alien arm toward the fire; the amber fissures glow softly.
+15-23s: close on the two arms side by side in the firelight, arm and gauntlet glowing faintly in the same slow rhythm.
+23-30s: Teo looks up at Kael; Kael gives the smallest nod; embers drift up into the night sky.
+LAST FRAME: Teo and Kael side by side at the fire, the gas giant above, embers rising.
+Dialogue (Teo, quiet, clear) at 10s: "Does it hurt?" (Kael, quiet, clear) at 12.5s: "Every day. You get used to it." (Teo, quiet, clear) at 24s: "I don't want to get used to it."
+Sound: crackling fire, soft wind, faint resonant hum. No music.
+
+
+PROMPT 56 - THE WATCH
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 55 - Teo and Kael side by side at the fire, the gas giant above, embers rising.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, CHAR_Nyra, CHAR_Kael, CHAR_Teo, GUEST_Dax.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse at night. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every flame, body and movement behaves naturally.
+0-8s: Nyra (follow CHAR_Nyra pose sheet) climbs down from the wreck and sits across the fire from Kael (follow CHAR_Kael pose sheet); Teo (follow CHAR_Teo pose sheet) has fallen asleep against his backpack between them.
+8-15s: Nyra takes off her fur mantle and lays it over Teo; Kael watches her do it.
+15-23s: Kael holds out a battered metal flask across the fire; Nyra hesitates, then takes it and drinks.
+23-30s: behind them, Dax (follow GUEST_Dax pose sheet) snores inside the open hatch; Nyra almost smiles and hands the flask back.
+LAST FRAME: Nyra and Kael across the fire, Teo asleep under the fur mantle between them.
+Dialogue (Kael, low, clear) at 17s: "For the cold." (Nyra, low, clear) at 26s: "You fly terribly." (Kael, low half-smile, clear) at 28s: "You're alive, aren't you?"
+Sound: crackling fire, wind, Dax snoring, flask cap turning. No music.
+
+
+PROMPT 57 - RED ON THE HORIZON
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 56.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, ENEMY_Elite, CHAR_Nyra, CHAR_Kael.
+Khorr Hunters = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse, just before dawn. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, cape and gust of dust moves with true weight and momentum.
+The Khorr are relentless: they hunt at full speed in a wide search line and never stop, never hold back and never slow down.
+0-8s: just before dawn: Nyra (follow CHAR_Nyra pose sheet) snaps awake by the cold ashes of the fire, one hand going to her sword.
+8-15s: far out on the flat, a line of red lights moves across the salt toward the wreck, fast, sweeping from side to side.
+15-23s: closer: Hunters (follow ENEMY_Elite pose sheet) running at full speed in a wide search line, capes streaming, three red eyes glowing, red scanning beams sweeping the ground ahead of them.
+23-30s: Nyra shakes Kael (follow CHAR_Kael pose sheet) awake; he looks out at the red lights and is on his feet instantly.
+LAST FRAME: Nyra and Kael standing by the wreck, the line of red lights racing toward them across the salt.
+Dialogue (Nyra, whisper, clear) at 25s: "Kael. They found us."
+Sound: pre-dawn wind, distant scanner hum growing, faint rhythmic footfalls, sword hilt scrape. No music.
+
+
+PROMPT 58 - THEY'RE NOT STOPPING
+Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
+FIRST FRAME: must be the exact last frame of PROMPT 57 - Nyra and Kael standing by the wreck, the line of red lights racing toward them across the salt.
+References: ENV_10_dead_expanse, ENV_09_rust_moth_exterior, ENEMY_Elite, CHAR_Kael, CHAR_Nyra, CHAR_Teo, GUEST_Dax.
+Khorr Hunters = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
+Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
+Location = ENV_10_dead_expanse at dawn. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
+30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, cape, spark and spray of salt moves with true weight and momentum.
+The Khorr are relentless: they sprint at full speed, fire on the move and never stop, never hold back and never slow down.
+0-8s: Kael (follow CHAR_Kael pose sheet) kicks sand over the fire's embers; Nyra (follow CHAR_Nyra pose sheet) lifts the sleeping Teo (follow CHAR_Teo pose sheet) to his feet; Dax (follow GUEST_Dax pose sheet) jumps down from the hatch with his shotgun.
+8-15s: the Hunters (follow ENEMY_Elite pose sheet) spot them and break into an all-out sprint, wrist blasters firing on the run; bolts hammer the wreck.
+15-23s: Kael points toward the canyons; the four of them run from the wreck across the salt as the first bolts land around their feet.
+23-30s: wide at dawn, the first sun rising: four small figures running toward the canyon mouth, the line of Hunters racing after them and closing fast.
+LAST FRAME: four figures running into the canyon mouth at sunrise, the Hunters' red lights close behind them.
+Dialogue (Kael, shouting, clear) at 16s: "The canyons - run!" (Teo, breathless, clear) at 26s: "They're not stopping!"
+Sound: scanner hum, rapid armoured footfalls, blaster fire, bolts slamming metal, heavy breathing, wind. No music.
