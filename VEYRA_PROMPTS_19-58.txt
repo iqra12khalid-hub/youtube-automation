@@ -113,6 +113,7 @@ Khorr Hunters = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference 
 Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
 Kael's vehicle: a battered rust-orange open-top skycar with two rear engines.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, impact and recoil moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+DIRECTION LOCK: the skycar always moves nose-first. 0-8s it rises straight up out of the chasm behind Teo; 8-15s it moves forward along the walkway edge; 23-30s it drives forward nose-first and dives down into the traffic lanes. The Hunter jumps in the same direction the car is travelling. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: they move at full speed, strike hard, leap, grab and fire without pause, and never hold back or slow down.
 0-8s: the skycar rises out of the chasm right behind Teo, engines roaring; Kael (follow CHAR_Kael pose sheet) stands at the controls and fires his revolver; the plasma round slams into the Hunter's chest (follow ENEMY_Elite pose sheet) and throws it backward.
 8-15s: Kael (follow CHAR_Kael pose sheet) swings the skycar alongside the walkway, grabs Teo (follow CHAR_Teo pose sheet) by the coat and hauls him into the back seat; Nyra (follow CHAR_Nyra pose sheet) rolls to her feet and leaps in.
@@ -134,6 +135,7 @@ Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference s
 Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
 Kael's vehicle: the same battered rust-orange open-top skycar from PROMPT 24.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, blade and spark moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+DIRECTION LOCK: the camera stays BEHIND the skycar for the whole clip, looking forward over its tail; the skycar flies nose-first AWAY from the camera. All civilian traffic flows in the same direction as the skycar. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: they move at full speed, strike hard, climb, grab and attack without pause, and never hold back or slow down.
 0-8s: the skycar weaves through the glowing traffic lanes at high speed; civilian flying cars brake and swerve, one clips a wall in sparks; the Hunter (follow ENEMY_Elite pose sheet) climbs forward along the tail.
 8-15s: Nyra (follow CHAR_Nyra pose sheet) stands up in the roaring wind and fights the Hunter on the back of the speeding car, lightning swords against the red glaive, sparks streaming behind them.
@@ -155,6 +157,7 @@ Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference s
 Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
 Khorr strike craft: copy the small black-and-red enemy fighters exactly from ENV_07_sky_battle.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, blast and piece of debris moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+DIRECTION LOCK: the camera stays IN FRONT of the skycar for the whole clip, facing it and moving backward ahead of it; the skycar flies nose-first TOWARD the camera. The strike craft appear BEHIND the skycar and fly nose-first in the same direction, chasing it toward the camera. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: they move at full speed, climb, chase and fire without pause, and never hold back or slow down.
 0-8s: the Hunter (follow ENEMY_Elite pose sheet) climbs hand over hand up the cable toward the car; Teo (follow CHAR_Teo pose sheet) leans over the back and raises his gauntlet, amber light flaring; a blast severs the cable and the Hunter falls away, crashing onto the roof of a car below.
 8-15s: behind them three Khorr strike craft scream into the chasm in formation and open fire; red bolts explode against the walls around the skycar.
@@ -175,6 +178,7 @@ Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front vi
 Location = ENV_03_undercity. Copy this location exactly as it appears in the image.
 Khorr strike craft: copy the small black-and-red enemy fighters exactly from ENV_07_sky_battle.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, stall, canopy, vehicle, blast and piece of debris moves with true weight and momentum. Everyone in the scene reacts to what is happening around them: shoppers scream, run, drop their bags, dive behind stalls and pull children away.
+DIRECTION LOCK: the camera stays IN FRONT of the skycar for the whole clip, facing it and moving backward ahead of it; the skycar flies nose-first TOWARD the camera through the market. The strike craft stay BEHIND the skycar, flying nose-first in the same direction, chasing it toward the camera. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: they chase at full speed and fire without pause, straight through the crowd, and never hold back or slow down.
 0-8s: the skycar tears through the market just above the stalls, ripping through hanging cloth; shoppers throw themselves flat, a vendor drags a child behind his counter, fruit and fabric whip up in the wake; Kael (follow CHAR_Kael pose sheet) steers through gaps inches wide.
 8-15s: the strike craft follow low, bolts ripping through stalls and exploding lamps; one craft clips a hanging sign, shatters it and keeps coming; people flee into side tunnels.
@@ -195,6 +199,7 @@ Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front vi
 Location = ENV_03_undercity, then the blast door of ENV_08_hangar. Copy both exactly as they appear in the images.
 Khorr strike craft: copy the small black-and-red enemy fighters exactly from ENV_07_sky_battle.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, blast, spark and piece of debris moves with true weight and momentum.
+DIRECTION LOCK: the camera stays IN FRONT of the skycar, facing it; the skycar flies nose-first TOWARD the camera down the shaft, and the blast door is BEHIND the camera. The strike craft stay BEHIND the skycar, flying nose-first in the same direction. In 23-30s the skycar passes the camera and flies nose-first through the gap in the door. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: they chase at full speed and fire without pause, and never hold back or slow down.
 0-8s: Kael (follow CHAR_Kael pose sheet) dives through a gap in the broken wall into a dark service shaft; the strike craft follow firing, and a bolt hits the skycar's left engine; flames burst out.
 8-15s: the skycar loses power, trailing black smoke, scraping the walls in long streams of sparks; Kael fights the controls, Teo (follow CHAR_Teo pose sheet) is thrown against Nyra (follow CHAR_Nyra pose sheet).
@@ -216,19 +221,21 @@ Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front v
 Location = ENV_08_hangar. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 Khorr strike craft: copy exactly from ENV_07_sky_battle.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, vehicle, skid, barrel, spark and piece of debris moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+DOOR LOCK: there is only ONE entrance used in this clip: the tall rusted blast door on the LEFT wall of ENV_08_hangar. The skycar comes in through that door, and the strike craft comes in through that SAME door behind it. The other door and the round ceiling hatch stay shut the whole time and nothing comes through them.
+DIRECTION LOCK: the skycar moves nose-first from the left blast door across the floor toward the Rust Moth; the strike craft moves nose-first through the same door in the same direction. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: they chase at full speed and never hold back or slow down.
-0-8s: the burning skycar bursts into the hangar, clips the top of the door, drops to the floor and skids across the stone in a spray of sparks, scattering barrels and toolboxes.
+0-8s: the burning skycar bursts nose-first through the gap in the LEFT blast door, clips the top edge of the door, drops to the floor and skids forward across the stone toward the Rust Moth in a spray of sparks, scattering barrels and toolboxes.
 8-15s: it spins to a stop a metre from the Rust Moth's nose cannon; Dax (follow GUEST_Dax pose sheet) runs in with a fire extinguisher and blasts the burning engine with foam.
-15-23s: Kael (follow CHAR_Kael pose sheet), Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) climb out coughing; behind them the second strike craft rams into the closing blast door and gets wedged, engine screaming, and the grinding doors crush its nose in a burst of red sparks.
-23-30s: the engine noise fades; Dax (follow GUEST_Dax pose sheet) lowers the extinguisher and looks from Nyra and Teo to Kael.
-LAST FRAME: the four of them standing by the smoking skycar, the crushed strike craft wedged in the closed blast door behind them.
+15-23s: Kael (follow CHAR_Kael pose sheet), Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) climb out coughing; behind them the strike craft bursts nose-first into the SAME left blast door as it grinds shut, and the closing doors crush and pin its nose in a burst of red sparks, engine screaming, its guns firing wildly into the ceiling; everyone reacts instantly: Nyra throws Teo to the floor and covers him with her body, Kael and Dax (follow GUEST_Dax pose sheet) dive behind the skycar, debris raining down on them.
+23-30s: the doors keep crushing the craft until its engine chokes out in sparks and black smoke; they slowly rise from cover, breathing hard, staring at the pinned wreck; Dax (follow GUEST_Dax pose sheet) looks from Nyra and Teo to Kael.
+LAST FRAME: the four of them rising from cover beside the smoking skycar, the crushed strike craft pinned in the left blast door behind them.
 Dialogue (Dax, deep voice, dry, clear) at 25s: "You brought guests." (Kael, catching breath, clear) at 27.5s: "They brought company."
-Sound: crash, long metal skid, barrels clanging, extinguisher hiss, jet scream, door grinding and crushing metal, then quiet hissing. No music.
+Sound: crash, long metal skid, barrels clanging, extinguisher hiss, jet scream, wild gunfire, door grinding and crushing metal, falling debris, then choking engine and hissing smoke. No music.
 
 
 PROMPT 30 - RESONANCE
 Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
-FIRST FRAME: must be the exact last frame of PROMPT 29 - the four of them by the smoking skycar, the crushed strike craft wedged in the blast door behind them.
+FIRST FRAME: must be the exact last frame of PROMPT 29 - the four of them rising from cover beside the smoking skycar, the crushed strike craft pinned in the left blast door behind them.
 References: CHAR_Teo, CHAR_Kael, CHAR_Nyra, GUEST_Dax, ENV_08_hangar, ENV_09_rust_moth_exterior.
 Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
 Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
@@ -256,8 +263,9 @@ Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front 
 Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
 Location = ENV_08_hangar. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, crate, molten drip, door section and piece of debris moves with true weight and momentum. Everyone in the scene reacts to what is happening around them.
+DOOR LOCK: the soldiers break in through the tall rusted blast door on the LEFT wall of ENV_08_hangar, the same door the skycar came through in PROMPT 29, with the crushed strike craft wreck still pinned in it. The other door and the round ceiling hatch stay shut the whole time.
 The Khorr are relentless: they break in at full force, advance fast, flank and fire without pause, and never hold back or slow down.
-0-8s: the main blast door glows as a red-hot cutting line traces across it from outside, molten metal dripping and hissing on the floor; the wedged strike craft wreck is ripped out of the doorway from the other side.
+0-8s: the LEFT blast door glows as a red-hot cutting line traces across it from outside, molten metal dripping and hissing on the floor; the pinned strike craft wreck is ripped out of the doorway from the other side.
 8-15s: Dax (follow GUEST_Dax pose sheet) drags crates into a barricade and racks his shotgun; Kael (follow CHAR_Kael pose sheet) draws his revolver; Nyra (follow CHAR_Nyra pose sheet) pushes Teo (follow CHAR_Teo pose sheet) toward the Rust Moth's ramp.
 15-23s: a heavy battering impact dents the door inward, then another; bolts shear off and ricochet across the hangar; everyone ducks.
 23-30s: a door section blasts inward and spins across the floor; soldiers (follow ENEMY_Soldier pose sheet) pour through the smoke already firing.
@@ -374,6 +382,7 @@ Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier refer
 Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
 Location = ENV_08_hangar. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, thruster blast, crate, spark and cloud of dust moves with true weight and momentum.
+DIRECTION LOCK: the Rust Moth lifts straight UP off the floor, level, and rises vertically up the silo shaft toward the round ceiling hatch. It never moves backward, never drifts sideways out of the shaft, and never reverses direction.
 The Khorr are relentless: they charge, grab, leap and fire without pause, and never hold back or slow down.
 0-8s: wide in the silo: the Rust Moth's twin thrusters ignite; a blast of heat and dust flattens crates and throws soldiers (follow ENEMY_Soldier pose sheet) off their feet, while others brace and keep firing.
 8-15s: the ship lifts off the floor; Dax (follow GUEST_Dax pose sheet) runs up the rising ramp; a soldier grabs his coat and pulls; Dax swings an axe back, breaks free and scrambles in.
@@ -409,6 +418,7 @@ FIRST FRAME: new shot - does NOT continue from the last frame of PROMPT 38.
 References: ENV_02b_city_under_attack, ENV_09_rust_moth_exterior, ENV_07_sky_battle.
 Location = ENV_02b_city_under_attack. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image. Khorr strike craft and Solace interceptors = exactly as in ENV_07_sky_battle.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, blast, collapse and piece of debris moves with true weight and momentum.
+DIRECTION LOCK: the Rust Moth always flies nose-first, forward, away from the ground and the city. The strike craft stay BEHIND it, flying nose-first in the same direction, chasing it. The interceptors dive in nose-first from above. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: their craft chase at full speed and fire without pause, and never hold back or slow down.
 0-8s: wide on the burning outskirts of the city: a circular hatch in the rocky ground bursts open and the Rust Moth blasts up out of it, thrusters blazing, dust and rock spraying.
 8-15s: it banks hard between burning towers; a squadron of Khorr strike craft swoops onto its tail, firing.
@@ -427,6 +437,7 @@ Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front 
 Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
 Locations = ENV_06_sky_peaceful (sky), ENV_05b_mothership_outside (warship), ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, beam, explosion and vibration moves with true weight and momentum.
+DIRECTION LOCK: the Rust Moth flies nose-first, climbing UPWARD for the whole clip. The warship stays above it. The beam travels from the warship down toward the Rust Moth. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: the warship turns and fires without pause, and never holds back.
 0-8s: the Rust Moth climbs almost vertically through the golden cloud layers toward the ringed gas giant and the two suns.
 8-15s: cockpit: Kael (follow CHAR_Kael pose sheet) shoves the throttle forward, the whole cockpit shaking; Teo (follow CHAR_Teo pose sheet) stares out at the sky, glowing through the cracked glass.
@@ -447,6 +458,7 @@ Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front 
 Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
 Locations = ENV_04_rust_moth (cockpit), ENV_06_sky_peaceful (sky). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, loose object, g-force, vibration and flame moves with true weight and momentum. Everyone reacts to what is happening around them.
+DIRECTION LOCK: 0-8s the Rust Moth tumbles as one continuous fall; 23-30s it levels off and flies nose-first forward. Once level it never moves backward or in reverse.
 0-8s: exterior: the Rust Moth tumbles end over end, trailing fire through the golden clouds.
 8-15s: cockpit: alarms blare, amber warning lights flash; Kael (follow CHAR_Kael pose sheet) wrestles the controls with both hands, g-force pressing him into the seat; loose objects fly across the cockpit; Teo (follow CHAR_Teo pose sheet) is pinned in his straps.
 15-23s: cargo hold: fire spreads along a fuel line; Dax (follow GUEST_Dax pose sheet) fights it with an extinguisher while Nyra (follow CHAR_Nyra pose sheet) hauls a burning panel off the wall with her bare hands.
@@ -463,6 +475,7 @@ References: ENV_07_sky_battle, ENV_09_rust_moth_exterior, GUEST_Rhea.
 Rhea = GUEST_Rhea. Inspect all 4 poses from the GUEST_Rhea reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
 Location = ENV_07_sky_battle. Copy this sky battle exactly as it appears in the image: the Solace interceptors and the Khorr strike craft. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, blast, piece of wreckage and trail of smoke moves with true weight and momentum.
+DIRECTION LOCK: every aircraft flies nose-first, forward. The Rust Moth flies forward into the dogfight; the strike craft come at it and then chase it from BEHIND, flying in the same direction; Rhea's interceptor comes up from behind and settles alongside, flying in the same direction. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: their strike craft swarm, chase and fire without pause, and never hold back or slow down.
 0-8s: the Rust Moth flies straight into the dogfight; strike craft peel off from the battle and swarm onto it, bolts slamming into its hull.
 8-15s: a white-and-gold interceptor streaks past the Rust Moth's cockpit and blasts the nearest strike craft into a fireball.
@@ -481,6 +494,7 @@ Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front 
 Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front view, left side view, back view, and fighting pose) to lock 360° character consistency before filming.
 Locations = ENV_07_sky_battle (sky), ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, recoil, blast and piece of wreckage moves with true weight and momentum.
+DIRECTION LOCK: every aircraft flies nose-first, forward. The Rust Moth and the interceptor fly in the same direction; the strike craft chase them from BEHIND. The nose cannon fires forward. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: their strike craft chase and fire without pause, and never hold back or slow down.
 0-8s: the strike craft dive on the two ships; the Rust Moth and the interceptor break apart and weave through crossing fire.
 8-15s: cockpit: Kael (follow CHAR_Kael pose sheet) flips a switch and shouts back; Dax (follow GUEST_Dax pose sheet) drops into the nose cannon seat below the cockpit and grabs the firing grips.
@@ -498,6 +512,7 @@ References: ENV_07_sky_battle, ENV_09_rust_moth_exterior, GUEST_Rhea.
 Rhea = GUEST_Rhea. Inspect all 4 poses from the GUEST_Rhea reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming.
 Location = ENV_07_sky_battle. Copy this sky battle exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, blast and smoke trail moves with true weight and momentum.
+DIRECTION LOCK: every aircraft flies nose-first, forward. Rhea's interceptor turns once, in one smooth arc, to face the incoming wave, then flies nose-first into it. The Rust Moth flies nose-first away from the battle toward the horizon. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: their strike craft chase at full speed and fire without pause, and never hold back or slow down.
 0-8s: a fresh wave of strike craft pours out of the clouds toward the Rust Moth.
 8-15s: in her cockpit, Rhea (follow GUEST_Rhea pose sheet) looks at the wave, sets her jaw and pushes her throttle forward.
@@ -516,6 +531,7 @@ Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front 
 Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
 Locations = the rocky canyon outskirts of ENV_02b_city_under_attack, and ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior. Khorr strike craft = exactly as in ENV_07_sky_battle.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, fast energetic pace, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, rock, blast and dust cloud moves with true weight and momentum.
+DIRECTION LOCK: the camera stays BEHIND the Rust Moth for the whole clip; the Rust Moth flies nose-first AWAY from the camera through the canyon. The strike craft is behind it, between the Rust Moth and the camera, flying nose-first in the same direction and chasing it. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: the strike craft chases at full speed and fires without pause, and never holds back or slows down.
 0-8s: the smoking Rust Moth races low over the rocky canyons outside the city; a single strike craft screams in behind it, firing.
 8-15s: cockpit: Kael (follow CHAR_Kael pose sheet) drops the ship into a narrow canyon; Nyra (follow CHAR_Nyra pose sheet) grips the back of his seat as the canyon walls rush past inches from the wings.
@@ -535,6 +551,7 @@ Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front vi
 Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
 Locations = ENV_10_dead_expanse (salt flats), ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every ship, vibration and smoke trail moves with true weight and momentum.
+DIRECTION LOCK: the Rust Moth flies and glides nose-first, forward, the whole clip, slowly descending toward the salt flat. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 0-8s: the Rust Moth flies out over an endless white salt flat under the twin suns; its left engine coughs, sputters and cuts out.
 8-15s: cockpit: the amber dials drop to zero one by one; Kael (follow CHAR_Kael pose sheet) hits them with his fist; nothing.
 15-23s: Kael turns in his seat; Teo (follow CHAR_Teo pose sheet) and Nyra (follow CHAR_Nyra pose sheet) look at him; he turns back and grips the controls with both hands.
@@ -552,6 +569,7 @@ Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front vi
 Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency before filming.
 Locations = ENV_10_dead_expanse (salt flats), ENV_04_rust_moth (cockpit). Copy each exactly as it appears in its image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, the hull, salt crust, dust and debris move with true weight and momentum.
+DIRECTION LOCK: the Rust Moth hits the ground moving forward and skids nose-first in the same direction it was flying until it stops. It never slides backward.
 0-8s: the Rust Moth's belly hits the salt flat and bounces, then slams down again, salt crust shattering and spraying high into the air.
 8-15s: it skids across the flat for hundreds of metres, landing gear tearing off, panels peeling away, a huge white cloud billowing behind it.
 15-23s: cockpit: everything shakes violently; the cracked glass finally shatters inward; Kael (follow CHAR_Kael pose sheet) throws an arm across Teo (follow CHAR_Teo pose sheet).
@@ -610,6 +628,7 @@ Dax = GUEST_Dax. Inspect all 4 poses from the GUEST_Dax reference sheet (front v
 Location = ENV_10_dead_expanse. Copy this location exactly as it appears in the image. The Rust Moth = ENV_09_rust_moth_exterior, exactly as in the image.
 Khorr dropship: the same black angular enemy dropship from PROMPT 10.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, wide framing, no zoom-ins. Real-world physics: every body, landing, salt spray and blast moves with true weight and momentum.
+DIRECTION LOCK: the dropship flies nose-first in from the horizon toward the wreck and keeps moving forward as the soldiers jump out. No vehicle ever moves backward, sideways-drifting or in reverse, and the direction of travel never flips during the clip.
 The Khorr are relentless: they deploy fast, spread out, advance and fire without pause, and never hold back or slow down.
 0-8s: a black Khorr dropship roars in low over the salt flat, kicking up a white storm; Kael (follow CHAR_Kael pose sheet) and the others dive behind the wreck.
 8-15s: the dropship's side doors open while it is still moving; soldiers (follow ENEMY_Soldier pose sheet) jump out, hit the salt running and spread into a wide line.
