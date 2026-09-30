@@ -4,13 +4,13 @@ What is new in V2:
 - Each 30-second video is ONE video built from 8 short shots (3-4 seconds each) joined by hard cuts. The model only has to hold physics for a few seconds at a time.
 - Every move is explained physically: START position -> FORCE (what drives it) -> MOTION & CONTACT (direction, what stays touching what) -> WEIGHT & REACTION (how bodies, cloth, dust react) -> END position.
 - One action per shot. Screen direction is locked for the whole video.
-- No frame images are used. The only image inputs are the main reference images (CHAR_, ENEMY_, ENV_ files). Character and location consistency comes only from them.
+- No frame images are used. The same full set of 21 main reference images (all CHAR_, GUEST_, ENEMY_ and ENV_ files) is uploaded with every prompt. Each prompt names which of them this video uses; the rest are ignored.
 
 
 PROMPT 19 - COLLAPSE
 Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
 OPENING (no image input - references only): the story continues straight on from PROMPT 18. The video opens on the Khorr Hunter standing in the white steam wall of the underground market, three red eyes glowing, glaive drawn.
-References: ENV_03_undercity, ENEMY_Elite, ENEMY_Soldier, CHAR_Nyra, CHAR_Teo.
+UPLOADED REFERENCES: all 21 VEYRA reference images are attached. For this video use ONLY: ENV_03_undercity, ENEMY_Elite, ENEMY_Soldier, CHAR_Nyra, CHAR_Teo. Ignore every other attached image; no other character, enemy or location from the set may appear.
 Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
 Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
 Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
@@ -93,7 +93,7 @@ Sound: boots splashing, glaive ignition, blade clash with electric crackle, mark
 PROMPT 20 - EVERYONE WANTS YOU
 Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
 OPENING (no image input - references only): the story continues straight on from PROMPT 19. The video opens on the sealed rubble wall in settling dust, three red eyes glowing through a gap, Nyra and Teo backing away to screen right down the dim tunnel.
-References: CHAR_Nyra, CHAR_Teo, ENEMY_Soldier, ENEMY_Elite, ENV_03_undercity.
+UPLOADED REFERENCES: all 21 VEYRA reference images are attached. For this video use ONLY: CHAR_Nyra, CHAR_Teo, ENEMY_Soldier, ENEMY_Elite, ENV_03_undercity. Ignore every other attached image; no other character, enemy or location from the set may appear.
 Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
 Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
 Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming. Every soldier matches this sheet.
