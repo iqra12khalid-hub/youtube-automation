@@ -1,0 +1,117 @@
+VEYRA v2 - ASSET PROMPTS (characters, environments, elements)
+Model: Seedream 5.0 Pro · 16:9 · highest resolution (target 4K) · one prompt = one sheet
+Rule for every sheet: photoreal live-action reference photo, plain layout, no text, no labels, no watermark, no borders.
+Always upload the OLD reference named in "Upload" so the design stays identical.
+
+======================================================================
+PART A - CHARACTER SHEETS  (5 views: front, 3/4, side, back, face close-up)
+======================================================================
+Standard layout for every character (used in all prompts below):
+ONE character shown 5 times side by side on a plain neutral grey studio background, soft even studio light, same scale in every view, full body with feet visible in views 1-4:
+1 front view, neutral stance  2 three-quarter view  3 side profile facing left  4 back view  5 head-and-shoulders face close-up, front, neutral expression.
+Exactly one character, five views.
+
+A1 · Save as: CHAR_Teo.jpg
+Use the separate file VEYRA_IMAGE_PROMPT_CHAR_Teo_v2.txt (new young-adult design).
+
+A2 · Save as: CHAR_Nyra.jpg   | Upload: old CHAR_Nyra.jpg
+Rebuild this character sheet from the uploaded CHAR_Nyra reference, keeping her design 100% identical: same face, golden-blonde braids, pearl-white antlers, white-and-gold armour with wolf-head pauldron, white fur mantle, twin curved swords (shown sheathed crossed on her back in views 1-4). Use the standard 5-view layout.
+
+A3 · Save as: CHAR_Kael.jpg   | Upload: old CHAR_Kael.jpg
+Rebuild this character sheet from the uploaded CHAR_Kael reference, keeping his design 100% identical: same face, stubble, scar, amber left eye, brown leather jacket with one sleeve torn off, bone-white alien arm with glowing amber fissures on the same side as in the reference, revolver holster, amber broadsword on his back. Use the standard 5-view layout.
+
+A4 · Save as: GUEST_Rhea.jpg  | Upload: old GUEST_Rhea.jpg
+Rebuild this character sheet from the uploaded GUEST_Rhea reference, keeping her design 100% identical: same face and shaved head, grey-and-white Solace pilot armour with amber accents, rifle on her back. Use the standard 5-view layout.
+
+A5 · Save as: GUEST_Oris.jpg  | Upload: old GUEST_Oris.jpg
+Rebuild this character sheet from the uploaded GUEST_Oris reference, keeping his design 100% identical: same face, long white beard and hair, patterned brown-and-grey robes, belt with pouches, bone staff with a crystal. Use the standard 5-view layout.
+
+A6 · Save as: GUEST_Dax.jpg   | Upload: old GUEST_Dax.jpg
+Rebuild this character sheet from the uploaded GUEST_Dax reference, keeping his design 100% identical: same face and beard, olive-green long coat, black shirt, amber ammo bandolier, glowing axes, shotgun on his back. Use the standard 5-view layout.
+
+A7 · Save as: ENEMY_Soldier.jpg | Upload: old ENEMY_Soldier.jpg
+Rebuild this enemy sheet from the uploaded ENEMY_Soldier reference, 100% identical design: matte-black armour with red light lines, sealed helmet with one horizontal red visor slit, spiked shoulders, red chest core, plasma carbine. Completely faceless. Use the standard layout, but view 5 is a helmet close-up (front) instead of a face.
+
+A8 · Save as: ENEMY_Elite.jpg | Upload: old ENEMY_Elite.jpg
+Rebuild this enemy sheet from the uploaded ENEMY_Elite reference, 100% identical design: sleek obsidian armour with red light lines, helmet with three red eyes in a triangle, tattered black cape, long red energy glaive (blade on a long pole), wrist blasters, clawed feet. Completely faceless. Standard layout; view 5 is a helmet close-up (front).
+
+A9 · Save as: ENEMY_Commander.jpg | Upload: old ENEMY_Commander.jpg
+Rebuild this enemy sheet from the uploaded ENEMY_Commander reference, 100% identical design: massive black-and-red armour, crown of black spikes, one vertical red eye slit, broken-ring red chest core, long red cape, huge red energy greatsword. Completely faceless. Standard layout; view 5 is a helmet close-up (front).
+
+======================================================================
+PART B - LOCATION SHEETS  (4 views of the same place in a 2x2 grid)
+======================================================================
+Standard layout for every location (used in all prompts below):
+ONE location shown 4 times in a 2x2 grid, same time of day, same lighting, same weather, every building/prop in the same place in all four views:
+top-left  = wide establishing view
+top-right = reverse angle (camera turned 180 degrees, looking back the other way)
+bottom-left = side view from ground level
+bottom-right = top-down overhead layout view (like a map, seen from directly above)
+No people. Photoreal live-action film location photography, cinematic lighting, 35mm.
+
+B1 · Save as: LOC_01_solace_peaceful.jpg | Upload: ENV_01_city_peaceful.jpg
+Location sheet of the peaceful city of Solace, copied exactly from the uploaded ENV_01: curved bone-white shell towers, glowing root bridges and highway ramps, flying traffic, the amber Vertebra Spine Tower at the centre, golden dusk, twin suns, ringed gas giant. Standard 2x2 layout.
+
+B2 · Save as: LOC_02_solace_burning.jpg | Upload: ENV_02b_city_under_attack.jpg
+Location sheet of Solace under attack, copied exactly from the uploaded ENV_02b: burning bone-white towers, black smoke, broken bridges, the long elevated bridge walkway with stalled cars (where clips 6-10 happen), the rocky terrace at the city edge. Standard 2x2 layout.
+
+B3 · Save as: LOC_03a_undercity_market.jpg | Upload: ENV_03_undercity.jpg
+Location sheet of the underground market, copied exactly from the uploaded ENV_03: curved bone-like arches, thick pipes and cables overhead, hanging amber lanterns, teal glyph signs, cloth-canopy stalls, wet reflective stone floor. Fixed layout: a thick stone pillar in the centre, fruit stalls on the right, a narrow side tunnel opening on the far right, a steam pipe on the left wall. Standard 2x2 layout.
+
+B4 · Save as: LOC_03b_undercity_tunnels.jpg | Upload: ENV_03_undercity.jpg
+Location sheet of the tunnels below the market, same materials and colours as the uploaded ENV_03: a narrow curved bone-ribbed tunnel with pipes along the left wall, caged amber work lights, a cracked ceiling; and a small square stone chamber with one teal lamp high on the right wall, a metal grate in the ceiling centre, a round drain opening in the floor corner. Views: top-left tunnel wide, top-right chamber wide, bottom-left the heavy door of Oris's passage with amber lamps, bottom-right top-down map of tunnel + chamber.
+
+B5 · Save as: LOC_04_rustmoth_cockpit.jpg | Upload: ENV_04_rust_moth.jpg
+Location sheet of the Rust Moth cockpit, copied exactly from the uploaded ENV_04: cramped retro controls, scratched glass, amber dials, two seats. Views: top-left from behind the seats looking out, top-right from the nose looking back at the seats, bottom-left side view of the seats and panels, bottom-right top-down layout.
+
+B6 · Save as: LOC_05a_warship_hall.jpg | Upload: ENV_05a_mothership_hall.jpg
+Location sheet of the warship's great hall, copied exactly from the uploaded ENV_05a: colossal angular obsidian walls, blood-red floor channels, fog, suspended black blocks, a narrow side walkway high on the left wall. Standard 2x2 layout.
+
+B7 · Save as: LOC_05c_warship_bridge.jpg | Upload: ENV_05c_mothership_bridge.jpg
+Location sheet of the warship's bridge, copied exactly from the uploaded ENV_05c: tiered black platforms, red holographic starcharts, the central throne facing a giant window, and a pulsing red energy core on a raised platform in front of the throne. Standard 2x2 layout.
+
+B8 · Save as: LOC_08_hangar_silo.jpg | Upload: ENV_08_hangar.jpg
+Location sheet of Kael's hidden hangar, copied exactly from the uploaded ENV_08: rock silo with bone-like arches, rusty walls, tool racks, barrels, a round hatch in the ceiling. Fixed layout: ONE main blast door on the LEFT wall, a small side door on the right, the Rust Moth parked in the centre facing left, crates on the right. Standard 2x2 layout.
+
+B9 · Save as: LOC_10_salt_flats.jpg | Upload: ENV_10_dead_expanse.jpg
+Location sheet of the salt flats, copied exactly from the uploaded ENV_10: endless white cracked salt crust, red canyon mesas on the horizon, twin suns, pale cream ringed gas giant (same colours as in ENV_02b). No smoke, no footprints. Standard 2x2 layout.
+
+B10 · Save as: LOC_06_07_sky.jpg | Upload: ENV_06_sky_peaceful.jpg, ENV_07_sky_battle.jpg
+Sky sheet: top-left peaceful golden cloud layers (as ENV_06), top-right the same sky during battle with smoke and flak (as ENV_07), bottom-left looking up from cloud level at the ringed gas giant and twin suns, bottom-right night sky over the salt flats with the gas giant. Same gas giant colours in all four.
+
+======================================================================
+PART C - ELEMENTS  (vehicles and key props, 4 views each)
+======================================================================
+Standard layout for every element: the object shown 4 times side by side on a plain neutral grey studio background, same scale: front, side, back, top-down. Photoreal, sharp detail, no people.
+
+C1 · Save as: VEH_rust_moth.jpg | Upload: ENV_09_rust_moth_exterior.jpg
+Vehicle sheet of the Rust Moth, copied exactly from the uploaded ENV_09: patched orange-brown rusty freighter, two oversized rear thrusters, nose cannon, cockpit glass, side ramp. Standard element layout.
+
+C2 · Save as: VEH_khorr_warship.jpg | Upload: ENV_05b_mothership_outside.jpg
+Vehicle sheet of the Khorr warship, copied exactly from the uploaded ENV_05b: jagged black blade-shaped hull, rows of red vents underneath, black spikes, huge scale. Show it against a golden sky instead of grey. Views: front, side, underside, top-down.
+
+C3 · Save as: VEH_khorr_dropship.jpg | Upload: ENEMY_Soldier.jpg, ENV_05b_mothership_outside.jpg
+Vehicle sheet of a Khorr dropship in the same design language as the warship and soldiers: angular matte-black hull, thin red light lines, side doors, red thrusters, landing claws. Standard element layout.
+
+C4 · Save as: VEH_khorr_strikecraft.jpg | Upload: ENV_07_sky_battle.jpg
+Vehicle sheet of the small black-and-red Khorr strike craft, copied exactly from the fighters in the uploaded ENV_07. Standard element layout.
+
+C5 · Save as: VEH_solace_fighter.jpg | Upload: ENV_07_sky_battle.jpg, GUEST_Rhea.jpg
+Vehicle sheet of Rhea's white-and-gold Solace interceptor, copied exactly from the Solace fighters in the uploaded ENV_07, colours matching Rhea's armour. Standard element layout, plus the cockpit canopy open in the top-down view.
+
+C6 · Save as: PROP_gauntlet.jpg | Upload: CHAR_Teo.jpg
+Prop sheet of Teo's white-and-amber armoured alien gauntlet, copied exactly from the uploaded CHAR_Teo, shown on a plain stand (no arm): front, side, back, top. Add a fifth view of the same gauntlet powered ON with glowing amber core and light lines.
+
+C7 · Save as: PROP_weapons.jpg | Upload: CHAR_Nyra.jpg, CHAR_Kael.jpg, ENEMY_Elite.jpg, ENEMY_Commander.jpg
+Prop sheet of the main weapons, each copied exactly from its uploaded character, laid out in one row on a grey background, powered ON: Nyra's twin curved swords (blue-white lightning), Kael's amber broadsword, Kael's revolver, the Hunter's long red glaive, the Commander's huge red greatsword.
+
+C8 · Save as: PROP_red_core.jpg | Upload: ENV_05c_mothership_bridge.jpg
+Prop sheet of the warship's red energy core in the style of the uploaded ENV_05c: a tall pulsing red crystal core inside black angular armour rings, shown front, side, top-down, and a fourth view cracked and leaking red light.
+
+======================================================================
+CHECKLIST
+======================================================================
+Characters: CHAR_Teo (new), CHAR_Nyra, CHAR_Kael, GUEST_Rhea, GUEST_Oris, GUEST_Dax, ENEMY_Soldier, ENEMY_Elite, ENEMY_Commander  (9)
+Locations: LOC_01, LOC_02, LOC_03a, LOC_03b, LOC_04, LOC_05a, LOC_05c, LOC_08, LOC_10, LOC_06_07  (10)
+Elements: VEH_rust_moth, VEH_khorr_warship, VEH_khorr_dropship, VEH_khorr_strikecraft, VEH_solace_fighter, PROP_gauntlet, PROP_weapons, PROP_red_core  (8)
+Total: 27 sheets. Keep the old ENV_ images too - they stay the "hero" view of each place.
