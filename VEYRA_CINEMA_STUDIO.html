@@ -1,0 +1,494 @@
+<title>VEYRA Cinema Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a camera-slate header, controls on the left, a sticky "monitor" with the finished prompt on the right; stacks on phones. Single dark theme on purpose (grading-suite look). */
+:root{
+  --bg:#100e0c; --panel:#181512; --panel-2:#201c18; --line:#302922;
+  --bone:#ece4d6; --muted:#9d9283; --amber:#e3a547; --amber-ink:#1a1206;
+  --red:#d2453b; --ok:#7fb069;
+  --f-display:"Chakra Petch", "Rajdhani", system-ui, sans-serif;
+  --f-body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{background:var(--bg);color:var(--bone)}
+body{font-family:var(--f-body);font-size:14px;line-height:1.5;padding-inline:16px;padding-block:0 40px}
+.wrap{max-width:1380px;margin:0 auto}
+h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance;letter-spacing:.02em}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
+
+/* slate */
+.slate{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding-block:14px 12px;display:flex;flex-wrap:wrap;gap:10px 20px;align-items:center}
+.brand{font-family:var(--f-display);font-weight:700;font-size:20px;letter-spacing:.14em}
+.brand span{color:var(--amber)}
+.slate-cells{display:flex;flex-wrap:wrap;gap:6px;margin-left:auto}
+.cell{border:1px solid var(--line);padding:4px 10px;min-width:0}
+.cell small{display:block;font-size:10px;text-transform:uppercase;letter-spacing:.12em;color:var(--muted)}
+.cell b{font-family:var(--f-mono);font-weight:500;font-size:13px;font-variant-numeric:tabular-nums}
+.cell.cont b{color:var(--amber)}
+
+/* clip strip */
+.acts{display:grid;gap:10px;padding-block:16px}
+.act{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.act-name{font-family:var(--f-display);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);width:118px;flex:none}
+.clipbtn{position:relative;width:40px;height:34px;border:1px solid var(--line);background:var(--panel);cursor:pointer;font-family:var(--f-mono);font-size:13px;font-variant-numeric:tabular-nums}
+.clipbtn:hover{border-color:var(--muted)}
+.clipbtn[aria-pressed="true"]{background:var(--amber);color:var(--amber-ink);border-color:var(--amber);font-weight:600}
+.clipbtn.cont::before{content:"";position:absolute;left:-7px;top:50%;width:6px;border-top:1px solid var(--amber)}
+.clipbtn.hard::after{content:"";position:absolute;right:3px;top:3px;width:5px;height:5px;border-radius:50%;background:var(--red)}
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--muted)}
+.legend i{display:inline-block;vertical-align:middle;margin-right:5px}
+.lg-c{width:12px;border-top:1px solid var(--amber)}
+.lg-h{width:6px;height:6px;border-radius:50%;background:var(--red)}
+
+/* main grid */
+.main{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:20px;align-items:start}
+@media (max-width:900px){.main{grid-template-columns:minmax(0,1fr)}}
+.controls{display:grid;gap:14px;min-width:0}
+.panel{background:var(--panel);border:1px solid var(--line);padding:14px 14px 16px;min-width:0}
+.panel h2{font-size:13px;text-transform:uppercase;letter-spacing:.16em;color:var(--amber);margin-bottom:10px;display:flex;justify-content:space-between;gap:8px}
+.panel h2 small{color:var(--muted);letter-spacing:.06em;text-transform:none;font-family:var(--f-body);font-weight:400;font-size:12px}
+.story h3{font-size:22px;margin-bottom:4px}
+.story .meta{color:var(--muted);font-size:13px;margin-bottom:8px}
+.story ol{margin:0;padding-left:20px;display:grid;gap:4px}
+.story .dia{margin-top:8px;font-style:italic;color:var(--bone)}
+.row{display:grid;gap:6px;margin-top:12px}
+.row:first-of-type{margin-top:0}
+.label{font-size:11px;text-transform:uppercase;letter-spacing:.12em;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:var(--panel-2);padding:6px 10px;cursor:pointer;font-size:13px;line-height:1.2;text-align:left}
+.chip:hover{border-color:var(--muted)}
+.chip[aria-pressed="true"]{border-color:var(--amber);background:rgba(227,165,71,.14);color:var(--bone)}
+.chip .sub{display:block;font-family:var(--f-mono);font-size:10.5px;color:var(--muted);margin-top:2px}
+.chip.lens{min-width:62px;text-align:center;font-family:var(--f-mono)}
+.chip.nosheet{border-style:dashed}
+.chip.nosheet .sub{color:var(--red)}
+.hint{font-size:12px;color:var(--muted)}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+input[type=text],textarea,select{width:100%;background:var(--panel-2);border:1px solid var(--line);padding:7px 9px;border-radius:0}
+textarea{resize:vertical;min-height:58px}
+.emo{display:grid;grid-template-columns:90px minmax(0,1fr);gap:8px;align-items:center}
+.emo span{font-family:var(--f-display);font-size:13px}
+.toggles{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:6px}
+.tog{display:flex;gap:8px;align-items:flex-start;padding:7px 9px;background:var(--panel-2);border:1px solid var(--line);cursor:pointer;font-size:13px}
+.tog input{accent-color:var(--amber);margin-top:3px}
+.dur{display:flex;gap:10px;align-items:center}
+.dur input{flex:1;accent-color:var(--amber)}
+.dur b{font-family:var(--f-mono);min-width:40px;text-align:right}
+
+/* monitor */
+@media (max-width:900px){.slate{position:static}}
+.monitor{position:sticky;top:calc(env(safe-area-inset-top,0px) + 76px);display:grid;gap:12px;min-width:0}
+@media (max-width:900px){.monitor{position:static}}
+.screen{background:#0a0908;border:1px solid var(--line);min-width:0}
+.screen-bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;padding:8px 10px;border-bottom:1px solid var(--line)}
+.rec{font-family:var(--f-mono);font-size:12px;color:var(--muted)}
+.rec::before{content:"";display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--red);margin-right:6px;vertical-align:1px}
+.seg{display:flex;border:1px solid var(--line)}
+.seg button{background:none;border:0;padding:5px 10px;cursor:pointer;font-size:12px}
+.seg button[aria-pressed="true"]{background:var(--panel-2);color:var(--amber)}
+pre{margin:0;padding:12px;font-family:var(--f-mono);font-size:12px;line-height:1.55;white-space:pre-wrap;word-break:break-word;max-height:62vh;overflow:auto;color:#d9d1c3}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+.btn{border:1px solid var(--amber);background:var(--amber);color:var(--amber-ink);font-weight:600;padding:9px 16px;cursor:pointer}
+.btn.ghost{background:none;color:var(--bone);border-color:var(--line)}
+.btn.ghost:hover{border-color:var(--muted)}
+.status{font-size:12px;color:var(--ok);align-self:center;min-height:1em}
+.upload{counter-reset:up;list-style:none;margin:0;padding:0;display:grid;gap:4px}
+.upload li{counter-increment:up;display:grid;grid-template-columns:24px minmax(0,1fr);gap:6px;font-family:var(--f-mono);font-size:12.5px}
+.upload li::before{content:counter(up);color:var(--muted)}
+.upload li.first{color:var(--amber)}
+.warn{border-left:2px solid var(--red);padding:6px 10px;background:rgba(210,69,59,.08);font-size:12.5px}
+.ff{border-left:2px solid var(--amber);padding:6px 10px;background:rgba(227,165,71,.08);font-size:12.5px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header class="slate">
+    <div class="brand">VEYRA <span>CINEMA STUDIO</span></div>
+    <div class="slate-cells">
+      <div class="cell"><small>Clip</small><b id="sClip">01</b></div>
+      <div class="cell"><small>Scene</small><b id="sTitle">IT COMES</b></div>
+      <div class="cell" id="sLinkCell"><small>Link</small><b id="sLink">CUT</b></div>
+      <div class="cell"><small>Lens</small><b id="sLens">E 75mm</b></div>
+      <div class="cell"><small>Duration</small><b id="sDur">30 s</b></div>
+    </div>
+  </header>
+
+  <section class="acts" aria-label="Clips">
+    <div id="acts"></div>
+    <div class="legend"><span><i class="lg-c"></i>continues from the clip before (use its real last frame)</span><span><i class="lg-h"></i>hard clip</span></div>
+  </section>
+
+  <div class="main">
+    <div class="controls">
+      <section class="panel story">
+        <h2>Scene <small>from VEYRA_V2_SCRIPT.md</small></h2>
+        <h3 id="stTitle"></h3>
+        <div class="meta" id="stMeta"></div>
+        <ol id="stBeats"></ol>
+        <div class="dia" id="stDia"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Elements <small>tap to add or remove</small></h2>
+        <div class="row"><div class="label">Characters</div><div class="chips" id="elChar"></div></div>
+        <div class="row"><div class="label">Enemies</div><div class="chips" id="elEnemy"></div></div>
+        <div class="row"><div class="label">Vehicles &amp; people</div><div class="chips" id="elVeh"></div></div>
+        <div class="row"><div class="label">Locations</div><div class="chips" id="elEnv"></div></div>
+      </section>
+
+      <section class="panel">
+        <h2>Camera <small>ARRI Alexa 65 · Panavision anamorphic</small></h2>
+        <div class="row"><div class="label">Lens family</div><div class="chips" id="lensFam"></div></div>
+        <div class="row"><div class="label">Focal length</div><div class="chips" id="focal"></div><div class="hint" id="focalHint"></div></div>
+        <div class="row"><div class="label">Aperture</div><div class="chips" id="aperture"></div></div>
+        <div class="row"><div class="label">Move</div><div class="chips" id="move"></div></div>
+        <div class="row"><div class="label">Angle</div><div class="chips" id="angle"></div></div>
+        <div class="row"><label class="label" for="position">Camera position</label><input type="text" id="position" placeholder="e.g. on a rooftop 200 m from the Spine Tower"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Look</h2>
+        <div class="row"><div class="label">Lighting</div><div class="chips" id="light"></div></div>
+        <div class="row"><div class="label">Colour palette</div><div class="chips" id="palette"></div></div>
+        <div class="row"><div class="label">Screen direction</div><div class="chips" id="dir"></div></div>
+        <div class="row" id="emoRow"><div class="label">Emotion, one line per character</div><div id="emo" class="grid2"></div></div>
+      </section>
+
+      <section class="panel">
+        <h2>Locks</h2>
+        <div class="toggles" id="locks"></div>
+        <div class="row"><label class="label" for="stateLog">State log: what is already damaged or changed</label><textarea id="stateLog" placeholder="e.g. three tower tops burning, road bridge cut in two"></textarea></div>
+        <div class="row"><label class="label" for="notes">Extra notes for this clip</label><textarea id="notes" placeholder="anything else Seedance must do"></textarea></div>
+      </section>
+
+      <section class="panel">
+        <h2>Output</h2>
+        <div class="row"><div class="label">Duration</div><div class="dur"><input type="range" id="dur" min="5" max="30" step="1" value="30" aria-label="Duration in seconds"><b id="durV">30 s</b></div></div>
+        <div class="row"><div class="label">Ratio</div><div class="chips" id="ratio"></div></div>
+      </section>
+    </div>
+
+    <aside class="monitor">
+      <div class="ff" id="firstFrame"></div>
+      <div class="panel">
+        <h2>Upload to Dola, in this order</h2>
+        <ol class="upload" id="upload"></ol>
+        <div class="warn" id="nosheetWarn" hidden></div>
+      </div>
+      <div class="screen">
+        <div class="screen-bar">
+          <span class="rec" id="recLbl">PROMPT · CLIP 01</span>
+          <div class="seg" role="group" aria-label="Prompt format">
+            <button id="fmtJson" aria-pressed="true">JSON</button>
+            <button id="fmtText" aria-pressed="false">Text</button>
+          </div>
+        </div>
+        <pre id="out" tabindex="0"></pre>
+      </div>
+      <div class="actions">
+        <button class="btn" id="copy">Copy prompt</button>
+        <button class="btn ghost" id="reset">Reset this clip</button>
+        <span class="status" id="status" role="status"></span>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<script>
+const CLIPS = [{"n": 1, "title": "IT COMES", "hard": false, "setting": "the sky above Solace at golden dusk (ENV_06), then the city (ENV_01)", "who": "no characters", "link": "CUT", "beats": ["Black screen. A single amber pulse, like a heartbeat, three times.", "Golden clouds under the ringed gas giant and the twin suns. Three white-and-gold Solace fighters glide past.", "The clouds split open. The black Khorr warship (ENV_05b) pushes through, nose first, huge and silent.", "Street level in Solace: its shadow slides across the bone-white towers. The glowing Vertebra Spine Tower dims. Rows of vents under the warship open and glow red."], "dialogue": "none."}, {"n": 2, "title": "FIRST STRIKE", "hard": false, "setting": "Solace as the attack begins (ENV_02a → ENV_02b)", "who": "no characters", "link": "C", "beats": ["The red vents fire. Thick red beams hit three towers; their tops burst into fire and falling debris.", "A beam cuts a road bridge in two; cars brake at the edge.", "Solace fighters launch from a tower platform and climb toward swarms of black Khorr strike craft pouring out of the warship.", "Wide: the city now burning under the black ship, smoke rising into the gold sky."], "dialogue": "(radio, calm female commander) \"All Solace wings — scramble. Hostile over the Spine.\""}, {"n": 3, "title": "THE CALL", "hard": false, "setting": "a rocky terrace at the edge of the burning city (ENV_02a)", "who": "Teo", "link": "CUT", "beats": ["Teo stumbles along a stone path, ash falling, and stops to look back at the fires.", "His right forearm: the white-and-amber gauntlet lights up by itself, faint amber lines running up his arm.", "He grips his wrist, confused, breathing hard.", "He looks up. The warship's prow slides overhead and its shadow swallows the terrace in red light."], "dialogue": "Teo (whisper) \"It's calling me.\""}, {"n": 4, "title": "THE KEY", "hard": false, "setting": "the warship's bridge (ENV_05c)", "who": "Commander, one Soldier", "link": "CUT", "beats": ["The Commander sits on the high throne, back to us, watching the burning city through the vast window.", "A red hologram of Solace rises; many small amber dots light up.", "One dot burns brighter than all the others. Red target rings lock onto it.", "The Commander raises one armoured hand and points. The kneeling soldier rises and marches out."], "dialogue": "Commander (deep, slow) \"There. The key.\" … \"Bring it to me.\" Soldier (flat, metallic) \"It will be done.\""}, {"n": 5, "title": "THEY COME DOWN", "hard": false, "setting": "under the warship (ENV_05b), then the sky above the burning city (ENV_02b)", "who": "Khorr soldiers", "link": "CUT", "beats": ["A hatch in the warship's belly slides open; red light spills into the smoke.", "Soldiers drop out of the hatch and slide down glowing red beams toward the city, escorted by small Khorr ships.", "Small Khorr ships dive between smoke columns and towers, clearing the way for the red beams.", "A soldier's faceless helmet in the doorway, red visor slit glowing, the fires rushing up below."], "dialogue": "none."}, {"n": 6, "title": "RUN", "hard": false, "setting": "a long elevated bridge walkway in the burning city (ENV_02b)", "who": "Teo, Khorr soldiers", "link": "CUT", "beats": ["Wide side view: Teo runs along the walkway, left to right, past stalled cars.", "Far behind him, a red beam from the mothership hits the bridge and soldiers slide down it and land in a burst of dust.", "The soldiers rise together, carbines up, and start running after him.", "Teo glances back, sees them, and runs harder toward the far end."], "dialogue": "none."}, {"n": 7, "title": "SURROUNDED", "hard": false, "setting": "the same bridge (ENV_02b)", "who": "Teo, Khorr soldiers", "link": "C", "beats": ["Two small Khorr ships roar low over the bridge ahead of Teo; a red beam strikes the walkway in front of him.", "Soldiers drop from it and land in a line, blocking the end of the bridge, carbines up.", "Teo stops. He raises the gauntlet; it sputters and dies.", "The soldiers step forward together, red aiming lights crossing the air in front of them. A shadow flickers across them from above."], "dialogue": "Soldier (flat, metallic) \"Target located. Take it intact.\""}, {"n": 8, "title": "NYRA", "hard": false, "setting": "the same bridge (ENV_02b)", "who": "Nyra, Teo, soldiers", "link": "C", "beats": ["High on a burning tower, Nyra stands against the fire, braids and fur mantle blowing — then steps off.", "She drops through the smoke and lands on one knee between Teo and the soldiers; the road cracks in a ring around her.", "She rises and draws both swords from her back; blue-white lightning runs along the blades.", "The soldiers adjust their aim to her. She settles into her stance."], "dialogue": "Nyra (low, calm) \"Get behind me.\""}, {"n": 9, "title": "BLADES", "hard": true, "setting": "the same bridge (ENV_02b)", "who": "Nyra, soldiers", "link": "C", "beats": ["The soldiers fire; Nyra deflects the bolts in bursts of blue sparks and cuts through their carbines. They fall back.", "The biggest soldier charges her alone. One-on-one: lightning swords against his armoured carbine, which he swings like a club, heavy exchanges.", "The soldier drives her back step by step, her boots scraping the road.", "Weapons locked, her face close to his red visor slit. She shoves him back and resets her stance."], "dialogue": "Soldier (metallic) \"You protect what you don't understand.\" Nyra \"I understand enough.\""}, {"n": 10, "title": "THE GAUNTLET", "hard": false, "setting": "the same bridge (ENV_02b)", "who": "Teo, Nyra, soldier", "link": "C", "beats": ["The soldier raises his carbine to strike Nyra.", "Behind her, Teo thrusts his right arm forward; the gauntlet's core flares blinding amber.", "An amber shockwave throws the soldier across the bridge into a wrecked car. The blast cracks the road under Nyra and Teo.", "The section tilts. Nyra grabs Teo's hand and they slide down into the dark opening below."], "dialogue": "Teo (shocked) \"I didn't mean to—\" Nyra \"Hold on!\""}, {"n": 11, "title": "BELOW", "hard": false, "setting": "the underground market (ENV_03)", "who": "Nyra, Teo", "link": "CUT", "beats": ["From below: Nyra and Teo crash through a cloth stall canopy and roll out onto wet stone.", "Wide: the market in panic — people flee into side tunnels, lanterns swing, dust falls from the hole above.", "Nyra pulls Teo up.", "They look up at the glowing hole. Red lights appear at its edge."], "dialogue": "Nyra \"Up. Move.\""}, {"n": 12, "title": "WHO ARE YOU", "hard": false, "setting": "a small stone chamber under the market (ENV_03)", "who": "Nyra, Teo", "link": "CUT", "beats": ["Nyra and Teo stumble in and slide down against the wall, coughing, one teal lamp flickering.", "They catch their breath and look at each other for the first time.", "A red scanner beam sweeps across a ceiling grate above them; heavy footsteps pass.", "Silence. The footsteps fade. Nyra almost smiles."], "dialogue": "Nyra \"Who are you?\" Teo \"…Teo.\" Nyra \"Well, Teo — everyone up there wants you.\""}, {"n": 13, "title": "THE ELDER", "hard": false, "setting": "a quiet side passage of the market (ENV_03)", "who": "Oris, Nyra, Teo", "link": "CUT", "beats": ["A heavy door creaks open; Oris stands there with his bone staff and waves them in.", "Inside, he looks at Teo's gauntlet for a long moment.", "He points his staff down a passage lined with amber lamps.", "Nyra nods; they go. Oris closes the door behind them and stays."], "dialogue": "Oris (old, gravelly) \"They'll tear the city apart for that.\" … \"Find Kael. Follow the amber lamps.\""}, {"n": 14, "title": "RED VISOR", "hard": false, "setting": "a steam-filled tunnel (ENV_03)", "who": "one soldier, Nyra, Teo", "link": "CUT", "beats": ["A burst pipe fills the tunnel with white steam. A red visor slit glows inside it.", "The soldier charges out at Nyra; she blocks and is pushed back against the wall.", "Nyra shouts; Teo aims the gauntlet at the cracked ceiling above the soldier.", "The ceiling comes down between them. A red visor glows through a gap in the rubble, then fades."], "dialogue": "Nyra \"Teo — the ceiling!\""}, {"n": 15, "title": "THE SILO", "hard": false, "setting": "Kael's hidden hangar (ENV_08) with the Rust Moth (ENV_09)", "who": "Kael, Dax", "link": "CUT", "beats": ["Kael lies under the Rust Moth's nose, fixing something; Dax carries a crate across the hangar.", "A knock at the small side door. Both freeze. Kael draws his revolver.", "The door opens: Nyra and Teo, dusty and exhausted.", "Kael lowers the revolver slightly. Dax looks at Kael."], "dialogue": "Dax \"Friends of yours?\" Kael \"Not yet.\""}, {"n": 16, "title": "RESONANCE", "hard": false, "setting": "the hangar (ENV_08)", "who": "Teo, Kael (Nyra and Dax watching)", "link": "C", "beats": ["Nyra steps in front of Teo, hand on a sword hilt.", "Teo steps out; his gauntlet starts to glow by itself — and at the same moment the amber lines on Kael's arm light up.", "The two glows pulse in the same rhythm; tools on the wall start to rattle.", "Kael pulls his arm back; the glow fades. He turns to Dax."], "dialogue": "Kael (quiet) \"Where did you get that?\" Teo \"It found me.\" Kael \"Dax. Fire up the Moth.\""}, {"n": 17, "title": "THEY'RE HERE", "hard": false, "setting": "the hangar (ENV_08)", "who": "Dax, soldiers (Kael, Nyra, Teo in background)", "link": "C", "beats": ["A red-hot line starts tracing across the main blast door from outside; molten metal drips.", "Dax drags crates into a barricade and racks his shotgun.", "Heavy impacts dent the door inward, again and again.", "The door section bursts in; soldiers appear in the smoke."], "dialogue": "Kael \"Get him on the ship!\""}, {"n": 18, "title": "HOLD THE DOOR", "hard": true, "setting": "the hangar (ENV_08)", "who": "Dax, Kael, Nyra, soldiers", "link": "C", "beats": ["Static wide: heroes on the right behind crates, soldiers entering from the left through smoke.", "The soldiers advance firing; crates splinter. Dax fires back; a soldier is knocked off his feet.", "Nyra deflects bolts at the ramp; Kael fires from the landing gear.", "Dax backs up the ramp last, still firing, as it starts to close."], "dialogue": "Dax \"Go! I'm right behind you!\""}, {"n": 19, "title": "COLD START", "hard": false, "setting": "the Rust Moth cockpit (ENV_04)", "who": "Kael, Teo", "link": "C", "beats": ["Kael drops into the pilot seat and flips switches; amber dials flicker on; engines whine up.", "Bolts spark against the cockpit glass; a crack spreads.", "Teo straps in beside him, gripping the seat.", "Kael pulls a lever; far above, the silo's round hatch grinds open to the burning sky."], "dialogue": "Kael \"Come on, old girl.\""}, {"n": 20, "title": "LIFT OFF", "hard": false, "setting": "the silo (ENV_08), then the sky above the burning city (ENV_02b)", "who": "no characters visible (the Rust Moth, ENV_09)", "link": "C", "beats": ["The Rust Moth's thrusters ignite; dust and crates blast across the hangar floor.", "It lifts, rising straight up the silo shaft, hull scraping sparks off the walls.", "It bursts out of the ground in the city outskirts into the smoke.", "Wide: the Rust Moth climbing away from the burning city."], "dialogue": "none."}, {"n": 21, "title": "SKY WAR", "hard": false, "setting": "the battle sky (ENV_07)", "who": "no characters (Rust Moth, fighters, strike craft)", "link": "CUT", "beats": ["Wide: white-gold Solace fighters and black Khorr strike craft crossing fire.", "The Rust Moth flies through the middle of it, always left to right.", "Strike craft break off and turn after it.", "A Solace fighter streaks in from above and blasts the lead strike craft."], "dialogue": "none."}, {"n": 22, "title": "RHEA", "hard": false, "setting": "Rhea's fighter cockpit, battle sky outside (ENV_07)", "who": "Rhea", "link": "CUT", "beats": ["Rhea flies with one hand, scanning the sky.", "She sees the Rust Moth with strike craft behind it.", "She pushes her throttle forward and banks toward them.", "Her fighter pulls alongside the Rust Moth, then turns into the strike craft."], "dialogue": "Rhea (radio, calm) \"Freighter — get clear. I'll draw them off.\""}, {"n": 23, "title": "HIT", "hard": false, "setting": "the Rust Moth cockpit (ENV_04) and exterior (ENV_09)", "who": "Kael, Nyra, Teo", "link": "C", "beats": ["Exterior: above them the warship turns; a red beam fires.", "The beam grazes the Rust Moth's left engine; it bursts into flame.", "Cockpit: alarms, flashing amber lights; Kael fights the controls; Nyra and Teo brace.", "Exterior: the ship levels off, trailing smoke, dropping toward the wastes."], "dialogue": "Kael \"Hold on to something!\""}, {"n": 24, "title": "DOWN", "hard": false, "setting": "the salt flats (ENV_10) — the Rust Moth (ENV_09)", "who": "no characters visible", "link": "C", "beats": ["The Rust Moth glides low over the white salt flat, engine smoking.", "Its belly hits the salt; crust bursts up in a white spray.", "It skids for hundreds of metres, panels tearing off, a white cloud rolling behind.", "It stops, tilted on one wing, in the settling salt."], "dialogue": "none."}, {"n": 25, "title": "STILL BREATHING", "hard": false, "setting": "beside the wreck on the salt flat (ENV_10)", "who": "Kael, Nyra, Teo, Dax", "link": "C", "beats": ["The side hatch bangs open; Dax climbs out coughing.", "Kael helps Teo down; Nyra drops from the wing.", "The four stand in the silence, squinting at the endless white under the twin suns.", "Dax looks at the ship and shakes his head."], "dialogue": "Kael \"Everyone in one piece?\" Dax \"She's not flying today.\""}, {"n": 26, "title": "FIRELIGHT", "hard": false, "setting": "the salt flat at night (ENV_10), the gas giant huge in the sky", "who": "Teo, Kael", "link": "CUT", "beats": ["A small fire beside the wreck. Teo sits staring at his gauntlet.", "Kael sits down next to him and holds out his alien arm; the amber lines glow softly.", "The two glows side by side, pulsing slowly together.", "Teo looks at Kael; Kael gives a small nod. Embers drift up."], "dialogue": "Teo \"Does it hurt?\" Kael \"Every day.\" … \"You get used to it.\""}, {"n": 27, "title": "RED ON THE HORIZON", "hard": false, "setting": "the salt flat at dawn (ENV_10)", "who": "Nyra, soldiers", "link": "CUT", "beats": ["Nyra wakes by the cold fire, hand going to her sword.", "Far across the salt, a line of red lights moves toward the wreck.", "Closer: soldiers marching fast in a wide line, red scanner beams sweeping the ground.", "Nyra shakes Kael awake; he is on his feet instantly."], "dialogue": "Nyra (whisper) \"They found us.\""}, {"n": 28, "title": "THE COMMANDER", "hard": true, "setting": "the salt flat (ENV_10)", "who": "Commander, Nyra, Kael (soldiers in background)", "link": "C", "beats": ["The mothership looms over the salt flat; a red beam comes down behind the soldiers' line and the Commander descends in it, greatsword in hand.", "Nyra charges him; he swings the greatsword into the ground — a red shockwave throws Nyra and Kael back across the salt.", "They land hard and try to rise; the soldiers close in around them.", "The Commander turns his vertical red eye toward the wreck."], "dialogue": "Commander \"Enough.\""}, {"n": 29, "title": "THE CHOICE", "hard": false, "setting": "the salt flat (ENV_10)", "who": "Teo, Commander", "link": "C", "beats": ["Teo steps out from behind the wreck.", "He looks at Nyra and Kael on the ground, then at the Commander.", "He lowers his gauntlet and walks across the salt toward the Commander by himself.", "He stops in front of him and looks up, steady."], "dialogue": "Teo \"Let them go. I'll come.\""}, {"n": 30, "title": "TAKEN", "hard": false, "setting": "the salt flat (ENV_10), the warship far above (ENV_05b)", "who": "Kael, Nyra", "link": "C", "beats": ["Teo steps into the red beam beside the Commander. He does not look back.", "Nyra gets up and runs toward it; Kael catches her arm and holds her back.", "The beam lifts Teo and the Commander up toward the mothership, blowing salt across them.", "It climbs toward the distant warship. Nyra and Kael watch it go."], "dialogue": "Nyra \"Let me go!\" Kael \"Not like this.\""}, {"n": 31, "title": "PROMISE", "hard": false, "setting": "the wreck on the salt flat (ENV_10), afternoon", "who": "Kael, Nyra, Dax", "link": "CUT", "beats": ["Dax welds the burnt engine, sparks flying.", "Kael and Nyra lift a hull panel into place together.", "Nyra looks up at the warship, a dark shape in the sky.", "Kael follows her look and wipes his hands."], "dialogue": "Nyra \"We get him back.\" Kael \"We get him back.\""}, {"n": 32, "title": "THE BELLY", "hard": false, "setting": "the warship's great hall (ENV_05a)", "who": "Teo, two soldiers", "link": "CUT", "beats": ["A massive obsidian hall, red light running along the floor channels.", "Teo walks between two soldiers, head up, not restrained.", "He passes rows of silent soldiers standing in formation.", "A huge door opens ahead of him into red light."], "dialogue": "none."}, {"n": 33, "title": "INFILTRATION", "hard": false, "setting": "outside the warship (ENV_05b)", "who": "no characters visible (Rust Moth, ENV_09)", "link": "CUT", "beats": ["The patched Rust Moth climbs toward the warship's belly, flying through the exhaust haze.", "It slides under the huge red vents, dwarfed by the hull.", "Clamps shoot out and lock onto an exhaust grate.", "The engines cut. It hangs there, unseen."], "dialogue": "Dax (radio) \"We're on.\""}, {"n": 34, "title": "INSIDE", "hard": false, "setting": "the warship's great hall (ENV_05a), a side walkway", "who": "Kael, Nyra, Dax", "link": "CUT", "beats": ["A vent panel pops open; Kael, Nyra and Dax drop onto a narrow walkway.", "They move quietly, left to right, keeping low.", "A patrol passes below; they freeze in the shadows.", "They reach a doorway glowing amber at the far end — the gauntlet's light."], "dialogue": "Kael (whisper) \"That's him.\""}, {"n": 35, "title": "THE CORE", "hard": false, "setting": "the warship's bridge (ENV_05c) around a red core", "who": "Teo, Commander", "link": "CUT", "beats": ["Teo stands before a pulsing red core; the Commander holds his gauntlet arm toward it.", "Red energy pulls at the gauntlet; amber light fights back up Teo's arm.", "Teo grits his teeth; the amber pushes the red back.", "The Commander grips harder; the whole bridge trembles."], "dialogue": "Commander \"It was never yours.\" Teo \"It chose me.\""}, {"n": 36, "title": "BREAKTHROUGH", "hard": true, "setting": "the bridge (ENV_05c)", "who": "Nyra, one soldier", "link": "C", "beats": ["The bridge door blasts open; Nyra runs in, swords igniting.", "The Commander's guard soldier blocks her path. One-on-one duel on the tiered platform.", "The soldier drives her to the edge; she spins free.", "She knocks his carbine away and kicks him off the platform into the dark."], "dialogue": "Nyra \"Out of my way.\""}, {"n": 37, "title": "TWO LIGHTS", "hard": false, "setting": "the bridge (ENV_05c)", "who": "Teo, Kael, Commander", "link": "C", "beats": ["Kael reaches Teo and grabs his gauntlet hand with his alien arm.", "Amber light races up both their arms and joins in one blinding glow.", "A combined amber blast throws the Commander backward into the red core.", "The core cracks; red light pours out; alarms everywhere."], "dialogue": "Kael \"Together.\" Teo \"Together.\""}, {"n": 38, "title": "THE FALL OF KHORR", "hard": false, "setting": "the sky (ENV_06) and the warship (ENV_05b)", "who": "no characters", "link": "CUT", "beats": ["Explosions ripple along the warship's hull from the inside.", "Its red vents flicker and go dark one by one.", "The giant ship breaks in two and starts to fall slowly toward the clouds.", "Wide: burning halves sinking under the ringed gas giant."], "dialogue": "none."}, {"n": 39, "title": "ESCAPE", "hard": false, "setting": "the Rust Moth cockpit (ENV_04) and exterior (ENV_09)", "who": "Kael, Teo, Nyra, Dax", "link": "CUT", "beats": ["The Rust Moth drops free of the falling warship and dives away, left to right.", "Cockpit: Kael pushes the throttle; Nyra, Teo and Dax brace.", "Debris falls past the glass; they fly clear.", "Exterior: the Rust Moth flies out into clean golden sky."], "dialogue": "Dax \"Tell me we're clear.\" Kael \"We're clear.\""}, {"n": 40, "title": "DAWN", "hard": false, "setting": "the ruins of Solace at dawn (ENV_02b / ENV_01)", "who": "Teo, Nyra, Kael, Dax, Rhea, Oris", "link": "CUT", "beats": ["The Rust Moth lands among the ruined bone-white towers as the twin suns rise.", "The four step down the ramp. Rhea and Oris walk out of the smoke to meet them.", "Teo looks at his gauntlet; its glow softens and goes quiet.", "Wide: the six of them standing in the ruins, the Spine Tower still standing, light spreading across Solace."], "dialogue": "Oris \"The city will rise again.\" Teo \"So will we.\""}];
+
+const ELEMENTS = {
+  char:[
+    {id:"Teo",file:"CHAR_Teo.jpg",kw:/\bteo\b/i},
+    {id:"Nyra",file:"CHAR_Nyra.jpg",kw:/\bnyra\b/i},
+    {id:"Kael",file:"CHAR_Kael.jpg",kw:/\bkael\b/i},
+    {id:"Dax",file:"GUEST_Dax.jpg",kw:/\bdax\b/i},
+    {id:"Oris",file:"GUEST_Oris.jpg",kw:/\boris\b/i},
+    {id:"Rhea",file:"GUEST_Rhea.jpg",kw:/\brhea\b/i}],
+  enemy:[
+    {id:"Khorr soldier",file:"ENEMY_Soldier.jpg",kw:/soldier/i},
+    {id:"Khorr Commander",file:"ENEMY_Commander.jpg",kw:/commander/i}],
+  veh:[
+    {id:"Mothership",file:"Enemy_ship.jpg",kw:/warship|mothership|ENV_05b/i},
+    {id:"Khorr small ships",file:"Eenmy_responders.jpg",kw:/small khorr ships|strike craft|small ships/i},
+    {id:"Solace fighters",file:"Friendly_responders.jpg",kw:/solace fighter|fighters|fighter cockpit/i},
+    {id:"Rust Moth",file:"ENV_09_rust_moth_exterior.jpg",kw:/rust moth|ENV_09/i},
+    {id:"Civilian traffic",file:"civilain_vehicles.jpg",kw:/\bcars?\b|traffic/i},
+    {id:"Civilians",file:"public people .jpg",kw:/crowd|citizens|civilian|people scatter/i}],
+  env:[
+    {id:"Solace city",file:"ENV_01_solace_city.jpg",kw:/ENV_01|ENV_02|solace|city|terrace/i},
+    {id:"Golden sky",file:"ENV_06_sky_peaceful.jpg",kw:/ENV_06|golden clouds|golden dusk/i},
+    {id:"Mothership hall",file:"ENV_05a_mothership_hall.jpg",kw:/ENV_05a|great hall/i},
+    {id:"Mothership bridge",file:"ENV_05c_mothership_bridge.jpg",kw:/ENV_05c|warship's bridge/i},
+    {id:"Salt flats",file:"ENV_10_dead_expanse.jpg",kw:/ENV_10|salt/i},
+    {id:"Underground market",file:null,kw:/ENV_03/},
+    {id:"Rust Moth cockpit",file:null,kw:/ENV_04/},
+    {id:"Battle sky",file:null,kw:/ENV_07/},
+    {id:"Kael's hangar / silo",file:null,kw:/ENV_08/}]
+};
+const ALL_EL = [...ELEMENTS.char,...ELEMENTS.enemy,...ELEMENTS.veh,...ELEMENTS.env];
+const CHAR_IDS = ELEMENTS.char.map(e=>e.id);
+const PEOPLE_IDS = [...CHAR_IDS,"Khorr soldier","Khorr Commander"];
+
+const SET_DESC = {
+  "Solace city":"Solace is built ONLY from the repeating pieces in ENV_01_solace_city.jpg: stacked bone-white shell towers with oval amber windows, curved root bridges with amber edge lines, cream stone walkways with amber lamps, ribbed white arches, and the single giant amber Spine Tower in the centre. Every district looks like this.",
+  "Golden sky":"Veyra's sky from ENV_06_sky_peaceful.jpg: golden cloud layers, two suns, huge pale cream ringed gas giant.",
+  "Mothership hall":"Inside the mothership: the great hall exactly as ENV_05a_mothership_hall.jpg.",
+  "Mothership bridge":"Inside the mothership: the bridge exactly as ENV_05c_mothership_bridge.jpg.",
+  "Salt flats":"The salt flats exactly as ENV_10_dead_expanse.jpg: flat cracked white salt to the horizon.",
+  "Underground market":"The underground market under Solace (no sheet yet - describe from the keyframe image).",
+  "Rust Moth cockpit":"The Rust Moth's cramped cockpit (no sheet yet - describe from the keyframe image).",
+  "Battle sky":"The sky over burning Solace full of fighters and smoke (no sheet yet - use Golden sky + keyframe).",
+  "Kael's hangar / silo":"Kael's hidden silo hangar (no sheet yet - describe from the keyframe image)."
+};
+
+const FOCALS = [
+  {v:14,h:"inside tight spaces, looking up: towers feel enormous"},
+  {v:18,h:"inside tight spaces, looking up"},
+  {v:24,h:"wide establishing inside the city, low angles up at towers"},
+  {v:35,h:"action and fights: shows the body and the space around it"},
+  {v:40,h:"walking with characters, natural perspective"},
+  {v:50,h:"people, dialogue, walking - closest to the human eye"},
+  {v:75,h:"medium close-ups; also layered city + ship shots with depth"},
+  {v:85,h:"faces and details, soft background"},
+  {v:135,h:"distant scale: compresses depth, huge things look huge"},
+  {v:180,h:"very distant scale: warning, can make a far city too small"}];
+const OPT = {
+  lensFam:["C-Series","E-Series"],
+  aperture:["T2","T2.8","T4","T5.6"],
+  move:["Locked-off","Slow dolly in","Slow dolly out","Tracking at subject speed","Slow crane up","Slow pan left to right"],
+  angle:["Eye level","Low angle, looking up","High angle, looking down","Over the shoulder","Aerial, level with the clouds"],
+  light:{
+    "Golden dusk":"Golden dusk, two suns low on the right, ringed gas giant upper left, soft haze.",
+    "Burning city":"Golden dusk smothered by smoke; firelight from burning towers and blood-red light from the mothership's beams; heavy haze.",
+    "Underground":"Warm amber lamps, drifting steam, deep shadows; red scanner light when the Khorr are near.",
+    "Hangar":"Hard work lights, sparks, oily haze, amber instrument glow.",
+    "Khorr interior":"Black obsidian surfaces lit by blood-red strip lights and a red core glow; strong contrast.",
+    "Night firelight":"Night; one campfire lights faces warm orange; the ringed gas giant fills the sky with pale light.",
+    "Dawn":"Dawn; twin suns rising, long soft shadows, pale gold haze."},
+  palette:{
+    "Solace":"bone-white, cream, amber",
+    "Khorr":"matte black, blood-red",
+    "Battle":"amber against blood-red, black smoke, gold sky",
+    "Salt flats":"white salt, pale gold, dust grey"},
+  dir:["Left to right","Right to left","Toward camera","Away from camera","No main movement"],
+  ratio:["16:9","21:9","9:16","1:1"]
+};
+const LOCKS = [
+  {id:"physics",t:"Physics",txt:"Real weight and momentum for everything; feet stay in contact with the ground; hits push bodies back; cloth, smoke and dust trail behind motion; nothing floats or changes speed without a cause."},
+  {id:"direction",t:"Screen direction",txt:null},
+  {id:"set",t:"Set",txt:null},
+  {id:"scale",t:"Scale & depth",txt:"Write three depth layers: foreground, middle, far. The mothership hangs DIRECTLY ABOVE the city at the same distance as the city - never in front of it or near the camera. It is as hazy as the city layer, casts its shadow onto the city, always runs out of the frame edges, and moves very slowly. Thin clouds drift below its hull. IGNORE the small jet on Enemy_ship.jpg - it is not to scale; the mothership is about 3 km wide."},
+  {id:"ship",t:"Mothership rules",txt:"Never show the mothership's front face with its two large red lights; show its side and underside only. Beams fire only from the rows of vents on its underside. Explosions are real fire, smoke and falling debris - never black spiky balls."},
+  {id:"people",t:"People react",txt:"Every bystander reacts to danger: they flinch, duck, shield their faces, run away from it."},
+  {id:"enemy",t:"Enemy behaviour",txt:"The Khorr are completely faceless and act instantly and relentlessly; they never hesitate or hold back. The enemy fleet is only the mothership and its small ships."},
+  {id:"sheets",t:"Sheets are design only",txt:"Reference sheets are for DESIGN ONLY: copy how things look, never copy the sheets' straight front/side/top camera angles. Film everything through the camera block."}
+];
+
+/* per-clip defaults */
+const CAM_OVERRIDE = {
+  1:{lensFam:"E-Series",focal:75,move:"Locked-off",angle:"Aerial, level with the clouds",aperture:"T5.6",position:"on a high ridge outside the city, the city filling the lower half of frame",dir:"Left to right"},
+  2:{lensFam:"E-Series",focal:75,move:"Locked-off",angle:"Aerial, level with the clouds",aperture:"T5.6",position:"same position as the end of clip 1",dir:"No main movement"},
+  3:{lensFam:"C-Series",focal:40,move:"Slow dolly in"},
+  4:{lensFam:"E-Series",focal:50,move:"Slow dolly in"},
+  5:{lensFam:"C-Series",focal:24,move:"Locked-off",angle:"Low angle, looking up",position:"on a rooftop in the city, looking up at the mothership's underside"},
+  6:{lensFam:"C-Series",focal:50,move:"Tracking at subject speed",dir:"Left to right"}
+};
+function clipText(c){return [c.setting,c.who,...c.beats].join(" ")}
+function defaults(c){
+  const txt=clipText(c), setTxt=c.setting+" "+c.who;
+  const els=ALL_EL.filter(e=>{
+    if(CHAR_IDS.includes(e.id)) return e.kw.test(c.who);
+    if(e.id==="Khorr soldier"||e.id==="Khorr Commander") return e.kw.test(c.who);
+    if(ELEMENTS.env.includes(e)) return e.kw.test(c.setting);
+    return e.kw.test(txt);
+  }).map(e=>e.id);
+  const noChars=/no characters/i.test(c.who);
+  const fight=c.hard||/fight|duel|blast|knock|firefight/i.test(txt);
+  let d={lensFam:noChars?"E-Series":"C-Series",focal:noChars?135:(fight?35:50),aperture:noChars?"T5.6":"T2.8",
+    move:noChars?"Locked-off":(fight?"Tracking at subject speed":"Slow dolly in"),angle:noChars?"Aerial, level with the clouds":"Eye level",
+    position:"",dir:/left.?to.?right|left→right/i.test(txt)?"Left to right":"No main movement"};
+  let light="Golden dusk",pal="Solace";
+  if(/ENV_05a|ENV_05c/.test(setTxt)){light="Khorr interior";pal="Khorr"}
+  else if(/ENV_03/.test(setTxt)){light="Underground";pal="Solace"}
+  else if(/ENV_08|ENV_04/.test(setTxt)){light="Hangar";pal="Battle"}
+  else if(/night/i.test(setTxt)){light="Night firelight";pal="Salt flats"}
+  else if(/dawn/i.test(setTxt)){light="Dawn";pal=/ENV_10/.test(setTxt)?"Salt flats":"Solace"}
+  else if(/ENV_10/.test(setTxt)){light="Golden dusk";pal="Salt flats"}
+  else if(/burning|attack|ENV_02b|ENV_07/i.test(setTxt)){light="Burning city";pal="Battle"}
+  const hasShip=els.includes("Mothership");
+  return Object.assign(d,{elements:els,light,palette:pal,emo:{},
+    locks:{physics:true,direction:true,set:true,scale:hasShip&&els.includes("Solace city"),ship:hasShip,people:/crowd|cars|scatter|citizens/i.test(txt),enemy:/soldier|commander|khorr|warship/i.test(txt),sheets:true},
+    stateLog:"",notes:"",dur:30,ratio:"16:9"},CAM_OVERRIDE[c.n]||{});
+}
+
+/* state */
+const KEY="veyra-studio-v1";
+let store={};
+try{store=JSON.parse(localStorage.getItem(KEY)||"{}")||{}}catch(e){store={}}
+let cur=+(store._clip||1), fmt=store._fmt||"json";
+function st(){const c=CLIPS[cur-1];if(!store[cur])store[cur]=defaults(c);return store[cur]}
+function save(){store._clip=cur;store._fmt=fmt;try{localStorage.setItem(KEY,JSON.stringify(store))}catch(e){}}
+
+const $=id=>document.getElementById(id);
+const pad=n=>String(n).padStart(2,"0");
+function el(tag,attrs,html){const e=document.createElement(tag);Object.assign(e,attrs||{});if(html!=null)e.innerHTML=html;return e}
+const esc=s=>String(s).replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
+const cleanCodes=s=>s.replace(/\s*\((ENV_[0-9a-z]+(\s*\/\s*ENV_[0-9a-z]+)*|ENV_[0-9a-z]+ → ENV_[0-9a-z]+)\)/g,"").replace(/,?\s*ENV_[0-9a-z]+/g,"");
+
+/* clip strip */
+const ACTS=[["Act 1 · The Fall",1,10],["Act 2 · Below",11,20],["Act 3 · Taken",21,31],["Act 4 · Dawn",32,40]];
+function buildActs(){
+  const box=$("acts");box.className="acts";
+  ACTS.forEach(([name,a,b])=>{
+    const row=el("div",{className:"act"});row.append(el("div",{className:"act-name"},name));
+    for(let n=a;n<=b;n++){const c=CLIPS[n-1];
+      const btn=el("button",{className:"clipbtn"+(c.link==="C"?" cont":"")+(c.hard?" hard":""),title:pad(n)+" · "+c.title},pad(n));
+      btn.dataset.n=n;btn.onclick=()=>{cur=n;save();render()};row.append(btn)}
+    box.append(row)});
+}
+
+function chipGroup(boxId,items,isOn,onTap,cls){
+  const box=$(boxId);box.innerHTML="";
+  items.forEach(it=>{const b=el("button",{className:"chip"+(cls?" "+cls:"")+(it.nosheet?" nosheet":"")},esc(it.label)+(it.sub?`<span class="sub">${esc(it.sub)}</span>`:""));
+    b.setAttribute("aria-pressed",isOn(it.v));b.onclick=()=>{onTap(it.v);save();render()};box.append(b)});
+}
+
+function render(){
+  const c=CLIPS[cur-1], s=st();
+  document.querySelectorAll(".clipbtn").forEach(b=>b.setAttribute("aria-pressed",+b.dataset.n===cur));
+  $("sClip").textContent=pad(cur);$("sTitle").textContent=c.title;
+  $("sLink").textContent=c.link==="C"?"FROM "+pad(cur-1):"CUT";$("sLinkCell").classList.toggle("cont",c.link==="C");
+  $("sLens").textContent=s.lensFam[0]+" "+s.focal+"mm";$("sDur").textContent=s.dur+" s";
+
+  $("stTitle").textContent=pad(cur)+" · "+c.title+(c.hard?"  (hard)":"");
+  $("stMeta").textContent=cleanCodes(c.setting)+" · "+c.who;
+  $("stBeats").innerHTML=c.beats.map(b=>"<li>"+esc(cleanCodes(b))+"</li>").join("");
+  $("stDia").textContent="Dialogue: "+c.dialogue;
+
+  const tog=id=>{const i=s.elements.indexOf(id);i<0?s.elements.push(id):s.elements.splice(i,1)};
+  const mk=list=>list.map(e=>({v:e.id,label:e.id,sub:e.file||"no sheet yet",nosheet:!e.file}));
+  const on=v=>s.elements.includes(v);
+  chipGroup("elChar",mk(ELEMENTS.char),on,tog);chipGroup("elEnemy",mk(ELEMENTS.enemy),on,tog);
+  chipGroup("elVeh",mk(ELEMENTS.veh),on,tog);chipGroup("elEnv",mk(ELEMENTS.env),on,tog);
+
+  const single=(id,arr,key,cls)=>chipGroup(id,arr.map(v=>({v,label:v})),v=>s[key]===v,v=>{s[key]=v},cls);
+  single("lensFam",OPT.lensFam,"lensFam");
+  chipGroup("focal",FOCALS.map(f=>({v:f.v,label:f.v+"mm"})),v=>s.focal===v,v=>{s.focal=v},"lens");
+  $("focalHint").textContent=(FOCALS.find(f=>f.v===s.focal)||{}).h||"";
+  single("aperture",OPT.aperture,"aperture");single("move",OPT.move,"move");single("angle",OPT.angle,"angle");
+  single("light",Object.keys(OPT.light),"light");single("palette",Object.keys(OPT.palette),"palette");
+  single("dir",OPT.dir,"dir");single("ratio",OPT.ratio,"ratio");
+  $("position").value=s.position||"";$("stateLog").value=s.stateLog||"";$("notes").value=s.notes||"";
+  $("dur").value=s.dur;$("durV").textContent=s.dur+" s";
+
+  const chars=s.elements.filter(e=>PEOPLE_IDS.includes(e));
+  $("emoRow").hidden=!chars.length;$("emo").innerHTML="";
+  chars.forEach(ch=>{const w=el("label",{className:"emo"});w.append(el("span",{},esc(ch)));
+    const inp=el("input",{type:"text",id:"emo-"+ch.replace(/\W/g,""),value:s.emo[ch]||"",placeholder:"e.g. afraid but determined"});
+    inp.oninput=()=>{s.emo[ch]=inp.value;save();output()};w.append(inp);$("emo").append(w)});
+
+  const lb=$("locks");lb.innerHTML="";
+  LOCKS.forEach(l=>{const w=el("label",{className:"tog"});const cb=el("input",{type:"checkbox",id:"lock-"+l.id,checked:!!s.locks[l.id]});
+    cb.onchange=()=>{s.locks[l.id]=cb.checked;save();output()};w.append(cb,el("span",{},esc(l.t)));lb.append(w)});
+
+  $("fmtJson").setAttribute("aria-pressed",fmt==="json");$("fmtText").setAttribute("aria-pressed",fmt==="text");
+  output();
+}
+
+function build(){
+  const c=CLIPS[cur-1], s=st();
+  const els=ALL_EL.filter(e=>s.elements.includes(e.id));
+  const files=els.filter(e=>e.file).map(e=>e.file);
+  const missing=els.filter(e=>!e.file).map(e=>e.id);
+  const ff=c.link==="C"?`Clip${pad(cur-1)}_last.png`:`Clip${pad(cur)}_key.png`;
+  const firstFrame=c.link==="C"
+    ?`${ff} - the REAL last frame cut from finished clip ${cur-1}. This video starts exactly on it: same camera position, same lighting, same people in the same places. Do not draw a new still.`
+    :`${ff} if a keyframe image was made for this clip (use it as the first frame); otherwise none - new scene.`;
+  const refs={};
+  els.forEach(e=>{if(!e.file)return;
+    if(PEOPLE_IDS.includes(e.id)) refs[e.file]=`${e.id} = ${e.file}. Inspect all views on this sheet before filming; keep face, outfit, weapons and markings identical.`;
+    else if(e.id==="Mothership") refs[e.file]="Khorr mothership design sheet. Design only; not to scale.";
+    else if(SET_DESC[e.id]) refs[e.file]=SET_DESC[e.id];
+    else refs[e.file]=`${e.id} design sheet. Every ${e.id.toLowerCase()} matches it.`});
+  const locks={};
+  LOCKS.forEach(l=>{if(!s.locks[l.id])return;
+    if(l.id==="direction") locks.screen_direction=s.dir==="No main movement"?"Keep every character and vehicle on the same side of frame for the whole clip; nothing reverses direction.":`Main movement is ${s.dir.toLowerCase()} and never flips during the clip.`;
+    else if(l.id==="set"){const sets=els.filter(e=>SET_DESC[e.id]).map(e=>SET_DESC[e.id]);if(sets.length)locks.set=sets.join(" ")}
+    else locks[l.id]=l.txt});
+  if(s.stateLog) locks.state_log=s.stateLog;
+  locks.light=OPT.light[s.light];
+  const emotion={};Object.entries(s.emo).forEach(([k,v])=>{if(v&&s.elements.includes(k))emotion[k]=v});
+  const upload=[ff,...files];
+  const obj={
+    clip:cur,title:c.title,duration_seconds:s.dur,aspect_ratio:s.ratio,model:"seedance_2.5",
+    generation:`ONE single continuous ${s.dur}-second shot in one generation. No cuts, no splits, no scene changes.`,
+    link_to_previous_clip:c.link==="C"?`CONTINUOUS from clip ${cur-1}`:"CUT - new scene",
+    first_frame:firstFrame,
+    references:Object.assign({use_only_these:files,ignore_any_other_image:true},refs),
+    camera:{camera_body:"ARRI Alexa 65 large-format digital cinema camera",lens:`Panavision ${s.lensFam} anamorphic, ${s.focal}mm`,aperture:s.aperture,
+      angle:s.angle,movement:s.move+". Never handheld, never zoom.",...(s.position?{position:s.position}:{}),
+      look:"anamorphic horizontal lens flares, oval bokeh, gentle edge softness, 35mm film grain, 24 fps natural motion blur"},
+    style:"photoreal live-action sci-fi feature film, high-budget Hollywood look (Dune, Blade Runner 2049), practical light sources only, atmospheric haze, real-time speed",
+    colour_palette:OPT.palette[s.palette],
+    locks,
+    ...(Object.keys(emotion).length?{emotion}:{}),
+    setting:cleanCodes(c.setting),
+    story_beats_in_order:c.beats.map(cleanCodes),
+    dialogue:c.dialogue,
+    ...(s.notes?{notes:s.notes}:{}),
+    sound:"real location sound matched to every action; deep distant rumble for huge objects arriving late; no music unless stated",
+    negative:"no text, letters or symbols anywhere, no watermark, no cartoon or CGI look, no duplicate characters, no extra characters, no morphing, no reverse motion, no zoom, no split screen"
+  };
+  return {obj,upload,missing,firstFrame,ff,c};
+}
+function toText(o){
+  const L=[];
+  L.push(`CLIP ${o.clip} - ${o.title} - ${o.duration_seconds} s - ${o.aspect_ratio} - Seedance 2.5`);
+  L.push(o.generation,"",`LINK: ${o.link_to_previous_clip}`,`FIRST FRAME: ${o.first_frame}`,"");
+  L.push("REFERENCES (use only these, ignore any other image):");
+  o.references.use_only_these.forEach(f=>L.push(`- ${o.references[f]}`));
+  L.push("","CAMERA: "+Object.values(o.camera).join("; ")+".","STYLE: "+o.style+".","PALETTE: "+o.colour_palette+".","");
+  L.push("LOCKS:");Object.entries(o.locks).forEach(([k,v])=>L.push(`- ${k.replace(/_/g," ").toUpperCase()}: ${v}`));
+  if(o.emotion){L.push("","EMOTION:");Object.entries(o.emotion).forEach(([k,v])=>L.push(`- ${k}: ${v}`))}
+  L.push("","SETTING: "+o.setting+".","","ACTION, in this order, as one continuous take:");
+  o.story_beats_in_order.forEach((b,i)=>L.push(`${i+1}. ${b}`));
+  L.push("","DIALOGUE: "+o.dialogue);
+  if(o.notes)L.push("","NOTES: "+o.notes);
+  L.push("","SOUND: "+o.sound+".","","NEGATIVE: "+o.negative+".");
+  return L.join("\n");
+}
+let lastPrompt="";
+function output(){
+  const {obj,upload,missing,firstFrame,ff,c}=build();
+  lastPrompt=fmt==="json"?JSON.stringify(obj,null,2):toText(obj);
+  $("out").textContent=lastPrompt;$("recLbl").textContent="PROMPT · CLIP "+pad(cur);
+  $("firstFrame").innerHTML=c.link==="C"
+    ?`<b>First frame:</b> ${esc(ff)}, the real last frame of clip ${cur-1}. Upload it first.`
+    :`<b>First frame:</b> new scene. Upload ${esc(ff)} first if you made a keyframe; otherwise skip it.`;
+  $("upload").innerHTML=upload.map((f,i)=>`<li class="${i===0?"first":""}">${esc(f)}${i===0?(c.link==="C"?"  ← first frame":"  ← keyframe, if made"):""}</li>`).join("");
+  const w=$("nosheetWarn");w.hidden=!missing.length;
+  if(missing.length)w.textContent=`No reference sheet yet for: ${missing.join(", ")}. Make a keyframe image for this location first, then upload it as the first frame.`;
+}
+
+$("position").oninput=e=>{st().position=e.target.value;save();output()};
+$("stateLog").oninput=e=>{st().stateLog=e.target.value;save();output()};
+$("notes").oninput=e=>{st().notes=e.target.value;save();output()};
+$("dur").oninput=e=>{st().dur=+e.target.value;$("durV").textContent=e.target.value+" s";$("sDur").textContent=e.target.value+" s";save();output()};
+$("fmtJson").onclick=()=>{fmt="json";save();render()};
+$("fmtText").onclick=()=>{fmt="text";save();render()};
+$("reset").onclick=()=>{delete store[cur];save();render();flash("Clip "+pad(cur)+" reset to its defaults")};
+$("copy").onclick=()=>{
+  const done=()=>flash("Copied. Paste it into Dola with the files above.");
+  try{navigator.clipboard.writeText(lastPrompt).then(done,sel)}catch(e){sel()}
+  function sel(){const r=document.createRange();r.selectNodeContents($("out"));const g=getSelection();g.removeAllRanges();g.addRange(r);flash("Prompt selected. Press copy on your keyboard or phone.")}
+};
+let ft;function flash(m){$("status").textContent=m;clearTimeout(ft);ft=setTimeout(()=>$("status").textContent="",3500)}
+
+buildActs();render();
+</script>
