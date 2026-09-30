@@ -1,0 +1,344 @@
+THE ONE-EYED ISLAND - CLIPS 1 TO 12 (Act 1 The Storm + Act 2 The Beach)
+Each clip = ONE 15-second video with 4-6 short shots (cuts inside the clip).
+Upload ONLY the files listed for each clip, then paste the JSON.
+Save each result as Clip001.mp4, Clip002.mp4 ...
+
+======================================================================
+CLIP 1 - FLYING ALONE
+UPLOAD: VEH_plane.jpg, CHAR_Noor.jpg
+======================================================================
+{
+  "clip": 1,
+  "title": "FLYING ALONE",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 5 short shots with hard cuts, like a real film trailer edit",
+  "references": {
+    "use_only_these": ["VEH_plane.jpg", "CHAR_Noor.jpg"],
+    "VEH_plane.jpg": "The plane. Copy it exactly: small white single-engine high-wing plane, dark-red stripes, red propeller tips, cockpit with round gauges and a family photo on the dashboard. Design only - ignore the sheet's grey background and camera angles.",
+    "CHAR_Noor.jpg": "Noor. Inspect all views on this sheet. Keep her face, dark ponytail, white t-shirt, black jeans and small gold coin necklace identical. Design only - ignore the grey background and any printed words on the sheet."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "aerial drone, 24mm, slow forward move", "action": "Endless calm blue ocean at golden sunset. The small white plane flies left to right, tiny in the frame, the sun reflecting on the water below."},
+    {"time": "4-7s", "camera": "air-to-air side tracking shot, 50mm", "action": "The plane from the side, flying left to right, propeller spinning, golden light on the white body and red stripes."},
+    {"time": "7-10s", "camera": "inside the cockpit, 35mm, from the passenger seat", "action": "Noor flies alone, relaxed, both hands on the yoke, a headset over her ears, sunset light on her face."},
+    {"time": "10-12s", "camera": "close-up, 85mm", "action": "The small family photo tucked at the edge of the dashboard, vibrating gently with the engine."},
+    {"time": "12-15s", "camera": "close-up on Noor's face, 85mm", "action": "She glances at the photo, smiles softly, then looks ahead through the windshield."}
+  ],
+  "style": "photoreal live-action feature film, shot on ARRI Alexa, natural golden light, 35mm film grain, 24 fps natural motion blur, real-time speed",
+  "physics": "Real flight physics: the plane moves smoothly and steadily, wings level, propeller blur; small natural cockpit vibration.",
+  "sound": "steady propeller engine hum, soft wind, no music",
+  "negative": "no text, no letters, no numbers, no logos, no registration on the plane, no watermark, no cartoon or CGI look, no second person in the plane, no morphing, no reverse motion"
+}
+
+======================================================================
+CLIP 2 - THE STORM AHEAD
+UPLOAD: VEH_plane.jpg, CHAR_Noor.jpg, ENV_storm.jpg
+======================================================================
+{
+  "clip": 2,
+  "title": "THE STORM AHEAD",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 6 short shots with hard cuts",
+  "references": {
+    "use_only_these": ["VEH_plane.jpg", "CHAR_Noor.jpg", "ENV_storm.jpg"],
+    "VEH_plane.jpg": "The plane - copy exactly. Design only.",
+    "CHAR_Noor.jpg": "Noor - keep face, ponytail, white t-shirt, gold coin necklace identical. Design only, ignore printed words on the sheet.",
+    "ENV_storm.jpg": "The strange storm: a huge ring of dark spinning clouds shaped like an eye, green-white lightning inside, over the open ocean at sunset. Copy its look exactly."
+  },
+  "shots": [
+    {"time": "0-3s", "camera": "wide shot from behind the plane, 35mm", "action": "The small plane flies toward the horizon. Ahead, the enormous ring-shaped storm from ENV_storm.jpg fills the sky, slowly spinning, green lightning flickering inside."},
+    {"time": "3-5s", "camera": "close-up on Noor, 85mm", "action": "Her smile fades. She leans forward, staring through the windshield."},
+    {"time": "5-7s", "camera": "extreme close-up, 100mm macro", "action": "The round compass on the dashboard starts spinning in circles."},
+    {"time": "7-9s", "camera": "extreme close-up, 100mm macro", "action": "The fuel gauge needle trembles and jumps."},
+    {"time": "9-12s", "camera": "medium shot, 50mm", "action": "Noor taps the gauge glass with a finger, frowning, then grips the yoke with both hands."},
+    {"time": "12-15s", "camera": "wide exterior, 35mm", "action": "The plane flies into the edge of the storm; the first grey clouds swallow it."}
+  ],
+  "style": "photoreal live-action feature film, ARRI Alexa, sunset light turning dark and green, 35mm grain, 24 fps",
+  "physics": "The storm rotates slowly and heavily like a real weather system; the plane starts to bump in the turbulence.",
+  "sound": "engine hum, rising wind, distant deep thunder, a soft electrical crackle",
+  "negative": "no text, no letters, no numbers on the gauges readable, no watermark, no cartoon or CGI look, no morphing"
+}
+
+======================================================================
+CLIP 3 - INSIDE THE STORM
+UPLOAD: VEH_plane.jpg, CHAR_Noor.jpg, ENV_storm.jpg
+======================================================================
+{
+  "clip": 3,
+  "title": "INSIDE THE STORM",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 6 short shots with hard, fast cuts",
+  "references": {
+    "use_only_these": ["VEH_plane.jpg", "CHAR_Noor.jpg", "ENV_storm.jpg"],
+    "VEH_plane.jpg": "The plane - copy exactly. Design only.",
+    "CHAR_Noor.jpg": "Noor - keep face, ponytail, white t-shirt, gold coin necklace identical. Design only, ignore printed words on the sheet.",
+    "ENV_storm.jpg": "The storm's colours and green-white lightning."
+  },
+  "shots": [
+    {"time": "0-2s", "camera": "POV through the windshield, 24mm", "action": "Heavy rain smashes against the glass, dark clouds racing past, green lightning."},
+    {"time": "2-5s", "camera": "exterior, 35mm, shaky from turbulence", "action": "The small plane shakes violently in the dark clouds, wings flexing, lit by a lightning flash."},
+    {"time": "5-7s", "camera": "close-up, 85mm", "action": "A red warning light blinks on the dashboard; an alarm beeps."},
+    {"time": "7-11s", "camera": "medium close-up, 50mm, cockpit shaking", "action": "Noor fights the yoke with both hands, teeth clenched, her ponytail swinging with the shaking, loose objects rattling."},
+    {"time": "11-13s", "camera": "close-up, 85mm", "action": "The family photo falls from the dashboard."},
+    {"time": "13-15s", "camera": "wide exterior, 35mm", "action": "A huge lightning bolt strikes right next to the plane - the frame flashes pure white."}
+  ],
+  "style": "photoreal live-action disaster film, ARRI Alexa, dark green-grey storm light, lightning flashes, 35mm grain, 24 fps",
+  "physics": "Real turbulence: sudden drops and jolts, her body pushed against the seatbelt, rain streaks sideways on the glass.",
+  "sound": "roaring wind, rain drumming, alarm beeps, thunder cracks, engine straining",
+  "negative": "no text, no letters, no watermark, no cartoon or CGI look, no morphing, no second person"
+}
+
+======================================================================
+CLIP 4 - IMPACT
+UPLOAD: VEH_plane.jpg, CHAR_Noor.jpg
+======================================================================
+{
+  "clip": 4,
+  "title": "IMPACT",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 5 short shots with hard cuts, ending on black",
+  "references": {
+    "use_only_these": ["VEH_plane.jpg", "CHAR_Noor.jpg"],
+    "VEH_plane.jpg": "The plane - copy exactly. Design only.",
+    "CHAR_Noor.jpg": "Noor - keep face, ponytail, white t-shirt, gold coin necklace identical. Design only, ignore printed words on the sheet."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "exterior, 35mm", "action": "The small plane drops out of the bottom of the dark clouds, nose pointing down, the grey stormy sea below."},
+    {"time": "4-7s", "camera": "POV through the windshield, 24mm", "action": "The sea rushes up toward the glass, waves getting bigger fast."},
+    {"time": "7-9s", "camera": "close-up, 50mm", "action": "Noor raises her arm in front of her face and shuts her eyes."},
+    {"time": "9-12s", "camera": "wide exterior, 35mm", "action": "The plane hits the sea - a huge white spray of water explodes around it."},
+    {"time": "12-15s", "camera": "underwater, 24mm", "action": "Bubbles and dark blue water, light fading from above. Cut to black."}
+  ],
+  "style": "photoreal live-action disaster film, ARRI Alexa, grey storm light, 35mm grain, 24 fps",
+  "physics": "Real weight and speed: the plane falls fast, the water impact throws spray upward and outward, the plane jolts to a stop.",
+  "sound": "screaming engine, wind, then a massive water impact, then muffled underwater silence",
+  "negative": "no injuries shown, no blood, no text, no letters, no watermark, no cartoon or CGI look, no explosion of fire"
+}
+
+======================================================================
+CLIP 5 - AWAKE
+UPLOAD: CHAR_Noor.jpg, LOC_island.jpg
+======================================================================
+{
+  "clip": 5,
+  "title": "AWAKE",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 5 short shots with hard cuts",
+  "references": {
+    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - keep face, dark ponytail (now wet and messy), white t-shirt (now torn and dirty), black jeans, gold coin necklace identical. Design only, ignore printed words on the sheet.",
+    "LOC_island.jpg": "The island: white sand beach, turquoise water, dense jungle with huge ancient trees. The beach in this film is this beach."
+  },
+  "shots": [
+    {"time": "0-2s", "camera": "black screen", "action": "Black. Only the sound of waves."},
+    {"time": "2-4s", "camera": "extreme close-up, 100mm", "action": "Noor's eyes open slowly. Wet sand stuck to her cheek and eyelashes."},
+    {"time": "4-7s", "camera": "close-up at sand level, 85mm", "action": "A small crab walks sideways past her face. Her eyes follow it."},
+    {"time": "7-11s", "camera": "top-down drone, 35mm, slowly rising", "action": "She lies on her side on the white sand at the edge of the water, small waves washing over her feet. The empty beach stretches away in both directions."},
+    {"time": "11-15s", "camera": "medium shot, 50mm", "action": "She coughs, pushes herself up on her arms, sea water dripping from her hair."}
+  ],
+  "style": "photoreal live-action survival film, ARRI Alexa, bright soft morning light, 35mm grain, 24 fps",
+  "physics": "Wet hair and clothes cling and drip; waves wash in and pull back naturally; her body moves weakly and heavily.",
+  "sound": "waves, distant seabirds, her coughing and breathing",
+  "negative": "no text, no letters, no watermark, no other people, no cartoon or CGI look, no morphing"
+}
+
+======================================================================
+CLIP 6 - THE WRECK
+UPLOAD: CHAR_Noor.jpg, LOC_island.jpg, VEH_plane.jpg
+======================================================================
+{
+  "clip": 6,
+  "title": "THE WRECK",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 4 short shots with hard cuts",
+  "references": {
+    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg", "VEH_plane.jpg"],
+    "CHAR_Noor.jpg": "Noor - same face, wet messy ponytail, torn dirty white t-shirt, black jeans, gold coin necklace. Design only.",
+    "LOC_island.jpg": "The island's beach and jungle.",
+    "VEH_plane.jpg": "The plane - only its white tail with the dark-red stripe is visible, sticking out of the sea."
+  },
+  "shots": [
+    {"time": "0-3s", "camera": "medium shot, 50mm", "action": "Noor sits up on the sand, hugging her knees, breathing hard, looking out to sea."},
+    {"time": "3-8s", "camera": "wide shot over her shoulder, 35mm", "action": "About 100 metres out in the turquoise water, only the white tail of her plane sticks up out of the waves, slowly sinking. Waves break around it."},
+    {"time": "8-11s", "camera": "close-up, 85mm", "action": "Her face: shock, then tears in her eyes. She touches the gold coin necklace at her throat."},
+    {"time": "11-15s", "camera": "very wide, 24mm, from the waterline", "action": "The tiny figure of Noor alone on the long white beach, the dark jungle behind her, the plane tail in the sea."}
+  ],
+  "style": "photoreal live-action survival film, ARRI Alexa, bright morning light, 35mm grain, 24 fps",
+  "physics": "The tail rocks with each wave and sinks a little; real wave motion.",
+  "sound": "waves, wind, her shaky breathing",
+  "negative": "no text, no letters, no registration letters, no watermark, no other people, no cartoon or CGI look"
+}
+
+======================================================================
+CLIP 7 - THE WONDERS
+UPLOAD: CHAR_Noor.jpg, LOC_island.jpg
+======================================================================
+{
+  "clip": 7,
+  "title": "THE WONDERS",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 5 short shots with hard cuts",
+  "references": {
+    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - same face, messy ponytail, torn white t-shirt, black jeans, gold coin necklace. Design only.",
+    "LOC_island.jpg": "The island: huge ancient trees with giant roots and vines, giant pale trumpet flowers, the jungle edge behind the white beach. Copy exactly."
+  },
+  "shots": [
+    {"time": "0-3s", "camera": "low angle, 24mm, looking up", "action": "Noor stands at the jungle edge; enormous ancient trees rise far above her, taller than any tree on Earth, roots like walls."},
+    {"time": "3-6s", "camera": "close-up, 85mm", "action": "A giant pale trumpet flower, as big as an umbrella, slowly opens its petals."},
+    {"time": "6-9s", "camera": "wide, 35mm, tilt up", "action": "A flock of strange birds with very long ribbon-like tails flies over the treetops."},
+    {"time": "9-12s", "camera": "close-up on Noor, 85mm", "action": "She stares in wonder, mouth slightly open, forgetting her fear for a moment."},
+    {"time": "12-15s", "camera": "wide, 35mm, slow push in", "action": "Sunbeams through the giant trees, floating pollen, deep green shadows inside the jungle."}
+  ],
+  "style": "photoreal live-action film, ARRI Alexa, magical but real natural light, soft haze, 35mm grain, 24 fps",
+  "physics": "Leaves move in a light breeze; petals open slowly and naturally; birds flap with real weight.",
+  "sound": "strange bird calls, insects, leaves rustling, soft wind",
+  "negative": "no text, no letters, no watermark, no other people, no creatures, no cartoon or fantasy-painting look"
+}
+
+======================================================================
+CLIP 8 - SOMEONE IS WATCHING
+UPLOAD: CHAR_Noor.jpg, LOC_island.jpg
+======================================================================
+{
+  "clip": 8,
+  "title": "SOMEONE IS WATCHING",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 4 short shots with hard cuts",
+  "references": {
+    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - same face, messy ponytail, torn white t-shirt, black jeans, gold coin necklace. Design only.",
+    "LOC_island.jpg": "The island's beach and jungle edge."
+  },
+  "shots": [
+    {"time": "0-5s", "camera": "POV from inside dark bushes, 50mm, handheld breathing movement", "action": "Seen through leaves in the dark foreground: Noor walks slowly along the bright beach from left to right, far away. Someone is watching her from the jungle."},
+    {"time": "5-7s", "camera": "medium, 50mm", "action": "Noor stops walking. She feels something."},
+    {"time": "7-10s", "camera": "close-up, 85mm", "action": "She turns her head slowly toward the jungle."},
+    {"time": "10-15s", "camera": "her POV, 35mm, slow push toward the bushes", "action": "The jungle edge: dark leaves, completely still. Nothing there. One leaf is still gently swaying."}
+  ],
+  "style": "photoreal live-action horror-mystery film, ARRI Alexa, bright beach light vs dark jungle shadows, 35mm grain, 24 fps",
+  "physics": "Natural walking weight in the sand, footprints forming; the swaying leaf slows down naturally.",
+  "sound": "waves, then the insects suddenly go quiet; slow heavy breathing heard in the POV shot",
+  "negative": "no creature visible, no eye visible, no text, no letters, no watermark, no cartoon or CGI look"
+}
+
+======================================================================
+CLIP 9 - FOOTPRINTS
+UPLOAD: CHAR_Noor.jpg, LOC_island.jpg
+======================================================================
+{
+  "clip": 9,
+  "title": "FOOTPRINTS",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 4 short shots with hard cuts",
+  "references": {
+    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - same face, messy ponytail, torn white t-shirt, black jeans, black shoes, gold coin necklace. Design only.",
+    "LOC_island.jpg": "The island's white beach."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "wide tracking, 35mm, moving with her", "action": "Noor walks along the wet sand at the waterline, left to right, looking out to sea for any sign of help."},
+    {"time": "4-8s", "camera": "low shot at sand level, 35mm, behind her", "action": "Her shoe prints in the wet sand. As the camera holds, a second line of prints appears next to hers - long, narrow, bare footprints with long toes, far too long to be human - pressed into the sand one by one, by something invisible walking beside her path."},
+    {"time": "8-11s", "camera": "medium, 50mm", "action": "Noor keeps walking, not noticing, shading her eyes from the sun."},
+    {"time": "11-15s", "camera": "top-down, 35mm", "action": "From above: her line of footprints and the second, longer line of bare footprints side by side along the beach. The long prints turn and go into the jungle."}
+  ],
+  "style": "photoreal live-action horror-mystery film, ARRI Alexa, bright midday light, 35mm grain, 24 fps",
+  "physics": "Real footprints: sand pressed down, wet edges, water seeping into the prints.",
+  "sound": "waves, her footsteps in wet sand, a faint second set of footsteps",
+  "negative": "no creature visible, no text, no letters, no watermark, no cartoon or CGI look"
+}
+
+======================================================================
+CLIP 10 - HELLO?
+UPLOAD: CHAR_Noor.jpg, LOC_island.jpg
+======================================================================
+{
+  "clip": 10,
+  "title": "HELLO?",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 4 short shots with hard cuts",
+  "references": {
+    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - same face, messy ponytail, torn white t-shirt, black jeans, gold coin necklace. Design only.",
+    "LOC_island.jpg": "The island's beach and jungle."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "medium, 50mm", "action": "Noor cups her hands around her mouth and shouts toward the jungle: \"Hello?!\""},
+    {"time": "4-7s", "camera": "wide, 24mm", "action": "Her voice echoes across the beach. A flock of birds bursts out of the trees and flies away."},
+    {"time": "7-11s", "camera": "wide, 35mm, static", "action": "Then total stillness: the jungle edge completely silent and motionless, not one bird, not one insect."},
+    {"time": "11-15s", "camera": "close-up, 85mm", "action": "Noor's face. She slowly lowers her hands. She swallows. Fear."}
+  ],
+  "dialogue": "Noor (shouting): \"Hello?!\"",
+  "style": "photoreal live-action horror-mystery film, ARRI Alexa, bright light, 35mm grain, 24 fps",
+  "physics": "Birds take off with real flapping weight; leaves shake as they leave, then stop.",
+  "sound": "her shout and echo, birds flapping away, then dead silence except the waves",
+  "negative": "no creature visible, no text, no letters, no watermark, no cartoon or CGI look"
+}
+
+======================================================================
+CLIP 11 - THE EYE IN THE WATER
+UPLOAD: CHAR_Noor.jpg, LOC_island.jpg, VEH_plane.jpg, CREATURE_Tribe.jpg
+======================================================================
+{
+  "clip": 11,
+  "title": "THE EYE IN THE WATER",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 5 short shots with hard cuts",
+  "references": {
+    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg", "VEH_plane.jpg", "CREATURE_Tribe.jpg"],
+    "CHAR_Noor.jpg": "Noor - same face, messy ponytail, torn white t-shirt, black jeans, gold coin necklace. Design only.",
+    "LOC_island.jpg": "The island's turquoise water.",
+    "VEH_plane.jpg": "Only the white tail of the plane sticking out of the sea.",
+    "CREATURE_Tribe.jpg": "ONLY the creature's single eye is seen, very far away: one large real wet eye, yellowish-white with red veins, grey-green iris. The eye does NOT glow. Do not show the body clearly."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "wide, 35mm", "action": "Noor wades into the turquoise sea up to her waist, walking toward the plane tail far out."},
+    {"time": "4-6s", "camera": "underwater, 24mm, at her legs", "action": "A large dark shape glides quickly past behind her legs in the blue water, a blur."},
+    {"time": "6-8s", "camera": "close-up, 85mm", "action": "Noor freezes, eyes wide, looking down at the water."},
+    {"time": "8-10s", "camera": "top shot of the water surface, 50mm", "action": "Clear water around her waist. Nothing. Only ripples."},
+    {"time": "10-15s", "camera": "underwater, 50mm, far into the blue", "action": "Deep in the blue water, far away and blurry, a dark shape hangs still. One single huge eye in it blinks slowly - sideways, like a lizard. Then the shape turns and sinks into the dark."}
+  ],
+  "style": "photoreal live-action horror film, ARRI Alexa, clear bright tropical water, caustic light underwater, 35mm grain, 24 fps",
+  "physics": "Real water resistance on her legs, bubbles, drifting sand, light rays underwater.",
+  "sound": "splashing, then muffled underwater sound, a deep low hum",
+  "negative": "the eye does not glow, no full creature body, no text, no letters, no watermark, no cartoon or CGI look"
+}
+
+======================================================================
+CLIP 12 - THE EYE IN THE LEAVES
+UPLOAD: CHAR_Noor.jpg, LOC_island.jpg, CREATURE_Tribe.jpg
+======================================================================
+{
+  "clip": 12,
+  "title": "THE EYE IN THE LEAVES",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "format": "one 15-second video made of 4 short shots with hard cuts, ending on black",
+  "references": {
+    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg", "CREATURE_Tribe.jpg"],
+    "CHAR_Noor.jpg": "Noor - same face, messy ponytail, torn white t-shirt, black jeans, gold coin necklace. Design only.",
+    "LOC_island.jpg": "The island's beach and jungle at sunset.",
+    "CREATURE_Tribe.jpg": "ONLY the creature's single eye and a little of the cracked grey skin around it: one large real wet eye in the middle of the forehead, yellowish-white with red veins, muddy grey-green iris, thick wrinkled lid. It does NOT glow."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "wide, 35mm", "action": "Sunset. Noor sits alone on the sand, knees up, looking at the sinking plane tail in the orange sea."},
+    {"time": "4-7s", "camera": "wide from behind her, 35mm", "action": "Behind her, the dark jungle edge. The leaves are still."},
+    {"time": "7-10s", "camera": "slow push in on the bushes, 50mm", "action": "Two big leaves part very slowly."},
+    {"time": "10-15s", "camera": "extreme close-up, 100mm macro", "action": "One huge wet bloodshot eye fills the frame between the leaves, the pupil shrinking as it focuses on her. The thick lid blinks slowly sideways. Cut to black."}
+  ],
+  "style": "photoreal live-action horror film, ARRI Alexa, warm sunset light on the beach, deep shadow in the jungle, 35mm grain, 24 fps",
+  "physics": "Real wet eye surface reflecting the orange sunset; slow, organic lid movement.",
+  "sound": "waves, then silence, a wet slow blink sound, deep low tone",
+  "negative": "the eye does not glow, no full creature body, no text, no letters, no watermark, no cartoon or CGI look"
+}
