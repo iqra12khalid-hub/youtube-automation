@@ -8,9 +8,9 @@ Use these names EXACTLY in every prompt.
 | `CHAR_Teo.jpg` | Teo — new young-adult sheet (mirrored, gauntlet on RIGHT forearm) |
 | `CHAR_Nyra.jpg` | Nyra — new sheet (swords crossed on back) |
 | `CHAR_Kael.jpg` | Kael — sheet |
-| (2nd row, name?) | Dax — sheet |
-| (2nd row, name?) | Oris — sheet |
-| (2nd row, name?) | Rhea — sheet |
+| `GUEST_Dax.jpg` | Dax — sheet (has small text labels under the views) |
+| `GUEST_Oris.jpg` | Oris — sheet |
+| `GUEST_Rhea.jpg` | Rhea — sheet |
 
 ## Enemies
 | File | What it is |
@@ -23,7 +23,7 @@ Use these names EXACTLY in every prompt.
 |---|---|
 | `Enemy_ship.jpg` | Khorr MOTHERSHIP (warship) — vehicle sheet |
 | `Eenmy_responders.jpg` | Khorr STRIKE CRAFT (small enemy fighters) — vehicle sheet |
-| (2nd row, name?) | Solace fighter (small friendly fighter) — vehicle sheet |
+| `Friendly_responders.jp.jpg` | Solace fighter (small friendly fighters) — vehicle sheet |
 | `ENV_09_rust_moth_exterior.jpg` | Kael's ship, the Rust Moth |
 | — | Khorr dropship — not made yet |
 
@@ -35,3 +35,5 @@ Use these names EXACTLY in every prompt.
 | `ENV_06_sky_peaceful.jpg` | Golden sky over Veyra |
 | `ENV_10_dead_expanse.jpg` | Salt flats |
 | — | Other locations are generated scene by scene as the film proceeds |
+
+**Total in folder: 16 files.**
