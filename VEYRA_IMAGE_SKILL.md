@@ -11,7 +11,6 @@ description: kartar image skill — Seedream 5.0 Pro, 4K photoreal still-frame g
 - **Resolution is locked at 4K.** Always request the highest resolution the image tool supports, targeting **3840 × 2160** for 16:9. Never downscale, never deliver a preview/thumbnail as the final result.
 - **Ratio is locked at 16:9** for all VEYRA film frames unless the user explicitly asks for another ratio.
 - **One prompt = one finished image.** Each image is one complete frozen moment of the film.
-- **Framing is locked to wide / medium-wide — never zoomed in.** Every image is framed like a wide cinema shot: characters are shown full body or at least from the knees up, with clear space around them and the environment visible. Never an extreme close-up, never a tight crop on a face or body part, never a zoomed-in or telephoto-compressed look, never a cut-off head, hands or feet at the frame edge. The video continues from this image, so the image must leave room for movement.
 - **Photoreal live-action only.** Every image must look like a still frame from a high-budget 35mm feature film. Never cartoon, anime, 3D render, CGI look, illustration, concept art, digital painting or stylized art.
 - **Autopilot is the default.** Never ask for `go`, `confirm`, `yes`, `start` or any approval before generating an image.
 - **Deliver each image the moment it is done**, then immediately continue with the next prompt. Never hold finished images back to deliver them in a batch at the end.
@@ -80,7 +79,6 @@ Rules for plates:
 Every image prompt describes **one single frozen moment**. Resolve and include:
 
 - **The moment:** exactly what is happening in that instant (mid-leap, claw reaching, blade striking).
-- **Framing:** wide or medium-wide only, as set in the Hard Lock. Even when the prompt focuses on one detail (a hand, a gauntlet, a face), keep the whole character and their surroundings in frame and let the detail sit inside that wide frame.
 - **Camera:** where the camera stands, its height, and what it faces (e.g. "in front of the skycar, low, facing it head-on").
 - **Placement:** who is left, right, foreground, background.
 - **Direction lock:** which way every person, vehicle and ship faces and travels. Vehicles are always nose-first in their direction of travel. Chasers are behind what they chase and face the same way.
@@ -146,7 +144,6 @@ Before delivering, check the image against the prompt. If any of these fail, reg
 - The location matches its plate.
 - Vehicles face and travel the way the direction lock says.
 - No studio background, text, watermark, panel borders or cartoon/CGI look.
-- Framing is wide or medium-wide: nothing zoomed in, nothing tightly cropped, no heads, hands or feet cut off at the frame edge.
 - 16:9, 4K-class resolution.
 - Generated with Seedream 5.0 Pro (not lite).
 
@@ -164,6 +161,5 @@ Location = [ENV file]. Copy this location exactly as it appears in the image; [w
 Single frozen moment: [what happens in this instant, each character with "(follow [FILE] pose sheet)"].
 Camera: [position, height, facing]. [Who is left/right/foreground/background.] [Direction of travel.]
 Lighting: [light sources and colours].
-Framing: wide / medium-wide cinema shot, full bodies visible with space around them, environment clearly visible. Not zoomed in, no close-up, no tight crop, nothing cut off at the frame edges.
 Photoreal live-action feature film still, 16:9, 4K (3840x2160), 35mm film grain, natural atmospheric haze. Only one of each character in the frame. No text, no watermark, no borders.
 ```
