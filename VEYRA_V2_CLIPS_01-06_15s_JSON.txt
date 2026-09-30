@@ -36,6 +36,8 @@ UPLOAD: ENV_06_sky_peaceful.jpg, Enemy_ship.jpg, ENV_01_solace_city.jpg, Friendl
   },
   "style": "photoreal live-action sci-fi feature film, high-budget Hollywood look (Dune, Blade Runner 2049), practical light sources only, soft atmospheric haze, real-time speed, no slow motion, no lag",
   "locks": {
+    "scale_override": "IGNORE the small jet in Enemy_ship.jpg - it is NOT to scale. The mothership is about 3 km wide, ten times wider than the tallest tower of Solace is tall; its underside alone is bigger than the whole city centre.",
+    "realism_cues": "Make the size believable like a real film: (1) atmospheric perspective - the ship is hazier, bluer and lower in contrast than the nearby towers because it is kilometres away; (2) thin clouds drift BELOW and in front of its hull; (3) it moves very slowly, the way huge objects do - never fast; (4) the lights and vents on its hull look tiny, like the windows of a distant city; (5) its shadow covers whole districts at once; (6) no part of it is ever fully in frame - it always runs out of the frame edges; (7) sounds of it arrive late and deep, like distant thunder.",
     "scale": "The mothership is kilometres wide and hangs several kilometres above the city: far bigger than the whole city, partly out of frame, seen through golden haze that makes its far edges pale. The shell towers are 300-metre skyscrapers.",
     "set": "Solace is built ONLY from the pieces in ENV_01_solace_city.jpg: stacked bone-white shell towers with oval amber windows, curved root bridges with amber edge lines, cream stone walkways with amber lamps, ribbed white arches, and the single giant amber Spine Tower in the centre.",
     "screen_direction": "The mothership travels from screen LEFT to screen RIGHT. The fighters fly left to right, then scatter.",
@@ -89,6 +91,8 @@ FIRST FRAME: last frame of clip 1
   },
   "style": "photoreal live-action sci-fi feature film, Dune / Blade Runner 2049 look, practical light only, atmospheric haze, real-time speed",
   "locks": {
+    "scale_override": "IGNORE the small jet in Enemy_ship.jpg - it is NOT to scale. The mothership is about 3 km wide, ten times wider than the tallest tower of Solace is tall; its underside alone is bigger than the whole city centre.",
+    "realism_cues": "Make the size believable like a real film: (1) atmospheric perspective - the ship is hazier, bluer and lower in contrast than the nearby towers because it is kilometres away; (2) thin clouds drift BELOW and in front of its hull; (3) it moves very slowly, the way huge objects do - never fast; (4) the lights and vents on its hull look tiny, like the windows of a distant city; (5) its shadow covers whole districts at once; (6) no part of it is ever fully in frame - it always runs out of the frame edges; (7) sounds of it arrive late and deep, like distant thunder.",
     "scale": "The mothership stays colossal, kilometres wide, high above the small city, seen through haze.",
     "screen_direction": "Solace fighters rise from the city up and to the right toward the ship. Khorr small ships pour out of the ship down and to the left toward them.",
     "light": "Red light from the vents, orange fire, black smoke rising into the golden sky.",
@@ -141,6 +145,8 @@ UPLOAD: CHAR_Teo.jpg, ENV_01_solace_city.jpg, Enemy_ship.jpg
   },
   "style": "photoreal live-action sci-fi feature film, Dune / Blade Runner 2049 look, practical light only, atmospheric haze, real-time speed",
   "locks": {
+    "scale_override": "IGNORE the small jet in Enemy_ship.jpg - it is NOT to scale. The mothership is about 3 km wide, ten times wider than the tallest tower of Solace is tall; its underside alone is bigger than the whole city centre.",
+    "realism_cues": "Make the size believable like a real film: (1) atmospheric perspective - the ship is hazier, bluer and lower in contrast than the nearby towers because it is kilometres away; (2) thin clouds drift BELOW and in front of its hull; (3) it moves very slowly, the way huge objects do - never fast; (4) the lights and vents on its hull look tiny, like the windows of a distant city; (5) its shadow covers whole districts at once; (6) no part of it is ever fully in frame - it always runs out of the frame edges; (7) sounds of it arrive late and deep, like distant thunder.",
     "set": "A quiet walkway at the edge of Solace built from ENV_01_solace_city.jpg pieces, with a curved railing; burning towers far away on screen left.",
     "screen_direction": "Teo walks from screen LEFT to screen RIGHT. The mothership above moves left to right.",
     "light": "Golden dusk, orange fire glow from the left, then deep red shadow; the gauntlet's amber glow is the only warm light at the end.",
@@ -247,6 +253,8 @@ UPLOAD: Enemy_ship.jpg, Eenmy_responders.jpg, ENEMY_Soldier.jpg, ENV_01_solace_c
   },
   "style": "photoreal live-action sci-fi feature film, Dune / Blade Runner 2049 look, practical light only, thick atmospheric haze",
   "locks": {
+    "scale_override": "IGNORE the small jet in Enemy_ship.jpg - it is NOT to scale. The mothership is about 3 km wide, ten times wider than the tallest tower of Solace is tall; its underside alone is bigger than the whole city centre.",
+    "realism_cues": "Make the size believable like a real film: (1) atmospheric perspective - the ship is hazier, bluer and lower in contrast than the nearby towers because it is kilometres away; (2) thin clouds drift BELOW and in front of its hull; (3) it moves very slowly, the way huge objects do - never fast; (4) the lights and vents on its hull look tiny, like the windows of a distant city; (5) its shadow covers whole districts at once; (6) no part of it is ever fully in frame - it always runs out of the frame edges; (7) sounds of it arrive late and deep, like distant thunder.",
     "scale": "The mothership is kilometres wide and several kilometres up: its underside fills the whole sky and runs out of frame on every side; haze between it and the towers.",
     "fleet": "The Khorr fleet is ONLY the mothership and its small ships. Soldiers come down by sliding along straight glowing blood-red beams from the mothership's underside.",
     "screen_direction": "The small ships and the beams go downward and toward screen RIGHT.",
