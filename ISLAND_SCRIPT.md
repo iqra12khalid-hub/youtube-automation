@@ -2,15 +2,15 @@
 
 **Length:** 25 minutes = **100 clips × 15 s** (Seedance on Dola)
 **Genre:** survival horror / mystery
-**Main character:** Noor, a young woman, a solo pilot. **No hero comes to save her — she survives on her own.**
+**Main character:** Noor, a young woman who flies her own small plane for fun (not a commercial pilot). Casual clothes: white t-shirt, black jeans, black shoes, dark ponytail, a small gold coin necklace — exactly as `CHAR_Noor.jpg`. **No hero comes to save her — she survives on her own.**
 **The island:** one strange island. No time travel, no explanation. The mystery stays a mystery.
 
 ---
 
 ## Production rules (from what we learned)
 
-1. **One location:** the whole film happens on ONE island. Location sheet `LOC_island.jpg` (beach, jungle, lagoon, shipwreck camp) is uploaded in almost every clip.
-2. **Consistent elements (sheets):** `CHAR_Noor.jpg`, `CREATURE_Chief.jpg`, `CREATURE_Tribe.jpg`, `VEH_plane.jpg`, `LOC_island.jpg`. Everything else can be random.
+1. **One location:** the whole film happens on ONE island. Location sheets `LOC_island.jpg` (beach, jungle, lagoon, cliff cave) and `LOC_village.jpg` (the tribe's hut village in the jungle) are uploaded in almost every clip.
+2. **Consistent elements (sheets):** `CHAR_Noor.jpg`, `CREATURE_Chief.jpg`, `CREATURE_Tribe.jpg`, `VEH_plane.jpg`, `LOC_island.jpg`, `LOC_village.jpg`, `ENV_storm.jpg`. Everything else can be random.
 3. **Tribe members are random.** They all follow `CREATURE_Tribe.jpg` (one eye, too tall, too thin), small differences are fine.
 4. **Short shots inside every clip:** each 15 s clip = **4–6 cuts of 2–4 s**. Lots of close-ups (eyes, hands, feet, objects).
 5. **The eye never glows.** Real, wet, bloodshot eye that only shines with firelight / moonlight.
@@ -36,7 +36,7 @@ Characters: 🟡 Noor · 👁 Chief · 👁👁 Tribe (random) | Link: **CUT** /
 
 | # | What happens | Link |
 |---|---|---|
-| 5 | Black. Sound of waves. Noor's eyes open. She lies on white sand, wet, the flight jacket torn. Close-up: sand on her cheek, a small crab walks past her face. | CUT |
+| 5 | Black. Sound of waves. Noor's eyes open. She lies on white sand, wet, her white t-shirt torn and dirty. Close-up: sand on her cheek, a small crab walks past her face. | CUT |
 | 6 | She sits up, coughing. Wide: a perfect white beach, turquoise water, the plane's tail sticking out of the waves 100 m away, slowly sinking. She stares. | CUT |
 | 7 | She stands, looks around. Huge ancient trees at the jungle edge, taller than any on Earth. Giant flowers the size of umbrellas, slowly opening. Birds with long strange tails fly over. Wonder on her face. | CUT |
 | 8 | **POV from inside the dark bushes** — someone is watching her walk along the beach. Leaves in the foreground. Breathing sound. She stops, turns. Nothing. | CUT |
@@ -55,7 +55,7 @@ Characters: 🟡 Noor · 👁 Chief · 👁👁 Tribe (random) | Link: **CUT** /
 | 16 | She builds a shelter from a torn wing panel and palm leaves between two rocks. Close-ups: hands tying rope, sweat. | CUT |
 | 17 | She finds a stream at the jungle edge, drinks. In the water's reflection, behind her shoulder, a tall thin shape stands between the trees. She turns — gone. | CUT |
 | 18 | Walking the beach, she finds an **old wooden shipwreck** half buried in sand, centuries old, overgrown with vines. Inside: rusted lanterns, rotten ropes. | CUT |
-| 19 | Deeper in the wreck: a pile of things from other castaways — an old pilot's leather helmet, a sailor's boots, a broken camera, a child's shoe. No people. Noor's face goes pale. | CUT |
+| 19 | Deeper in the wreck: a pile of things from other castaways — an old leather flying helmet, a sailor's boots, a broken camera, a child's shoe. No people. Noor's face goes pale. | CUT |
 | 20 | She steps out of the wreck. Drag marks in the sand lead from the wreck into the jungle. She looks at the dark trees. | CUT |
 | 21 | Sunset. She lights a fire in front of her shelter with the lighter. Firelight on her face. The jungle turns black behind her. | CUT |
 | 22 | Night. Far away in the jungle: slow drums. Noor lifts her head. The drums stop. | CUT |
@@ -85,18 +85,18 @@ Characters: 🟡 Noor · 👁 Chief · 👁👁 Tribe (random) | Link: **CUT** /
 | 41 | Long arms grab her ankle and drag her out. She screams, stabs at the arm with the spear, it hisses and lets go. She runs again. | CUT |
 | 42 | She reaches the beach. Creatures come out of the jungle behind her AND out of the waves in front. Surrounded. | CUT |
 | 43 | A creature knocks the spear from her hands. Two grab her arms. She fights, kicks. Black. | CUT |
-| 44 | She wakes up tied to a post. **Their camp**: a giant old sailing ship beached on its side at the far end of the island, turned into a village — ropes, sails, bones hanging like wind chimes, fires in iron pots. | CUT |
-| 45 | Dozens of creatures around the fires. Some sit very still, some crouch on the ship's ribs. All their eyes turn to her at once. | CUT |
-| 46 | Drums. The tribe goes silent. **The Chief** comes out of the ship's hull: taller than all the others, a necklace of old ship compasses, a cracked brass diving helmet on his shoulder like armour. | CUT |
+| 44 | She wakes up tied to a post. **Their village** deep in the jungle (as `LOC_village.jpg`): thatched huts, cooking fires under iron pots, a carved wooden totem, animal skulls and old sailcloth hanging from the huts. | CUT |
+| 45 | Dozens of creatures around the fires. Some sit very still, some crouch on hut roofs and logs. All their eyes turn to her at once. | CUT |
+| 46 | Drums. The tribe goes silent. **The Chief** comes out of the biggest hut: taller than all the others, a leather strap across his chest and a necklace of old ship compasses and small trinkets from other castaways (as `CREATURE_Chief.jpg`). | CUT |
 | 47 | The Chief walks to her slowly. He bends until his huge eye is right in front of her face. The pupil widens. He breathes on her. | CUT |
-| 48 | He takes her pilot's wings pin from her jacket, looks at it, adds it to his necklace next to others — there are more pilot pins there. Noor sees them. She understands. | CUT |
+| 48 | He rips her small gold coin necklace from her neck, looks at it, and hangs it on his own necklace next to the others — rings, pins, a watch, other people's necklaces. Noor sees them. She understands. | CUT |
 | 49 | The Chief raises his arm. The tribe starts drumming and swaying. They prepare a big fire in the center. Noor pulls at her ropes. | CUT |
 | 50 | Close-up: her hands behind the post. The rope is tied over a sharp shell on the post. She starts rubbing the rope against it. | CUT |
-| 51 | The ceremony: creatures dance around the fire, shadows huge on the old sails. The Chief watches her, not blinking. | CUT |
+| 51 | The ceremony: creatures dance around the fire, shadows huge on the huts. The Chief watches her, not blinking. | CUT |
 | 52 | The rope snaps. She stays still, pretending. A creature comes to untie her. She kicks it into the fire pot — sparks explode. | CUT |
 | 53 | Chaos. She runs to the pile of their stolen things and grabs her survival bag. The flare gun is inside. | CUT |
-| 54 | Creatures surround her. She fires a flare straight at the old sails — the ship's sails catch fire in a red blaze. The tribe screams and scatters. | CUT |
-| 55 | She runs out through the burning camp. The Chief roars behind her. | CUT |
+| 54 | Creatures surround her. She fires a flare straight into the thatched roof of the biggest hut — it catches fire in a red blaze, the fire jumps to the next roofs. The tribe screams and scatters. | CUT |
+| 55 | She runs out through the burning village. The Chief roars behind her. | CUT |
 | 56 | Chase through the jungle, now with fire glow behind. The Chief follows, faster than the others, crashing through the trees. | CUT |
 | 57 | She reaches the cliff edge. Nowhere to go. Below: the dark sea. | CUT |
 | 58 | The Chief bursts out of the jungle. She jumps. | CUT |
@@ -129,7 +129,7 @@ Characters: 🟡 Noor · 👁 Chief · 👁👁 Tribe (random) | Link: **CUT** /
 | 80 | Noor picks up her spear. She walks toward him. The fire wall burns between them. | CUT |
 | 81 | The Chief swings the chain — it smashes her spear in half. She dives aside into the sand. | CUT |
 | 82 | He attacks again and again; she rolls, dodges, the chain hits the sand where she was each time. | CUT |
-| 83 | He grabs her by the jacket, lifts her off the ground, pulls her close to his eye. She stabs the broken spear point into his shoulder. He roars, throws her. | CUT |
+| 83 | He grabs her by the t-shirt, lifts her off the ground, pulls her close to his eye. She stabs the broken spear point into his shoulder. He roars, throws her. | CUT |
 | 84 | She lands near the water. The plane's fuel bottle is next to her. She grabs it. | CUT |
 | 85 | The Chief charges. She throws the fuel over him. He stops, confused, the liquid dripping from his face. | CUT |
 | 86 | She raises the flare gun — the last flare. Their eyes meet. | CUT |
@@ -140,8 +140,8 @@ Characters: 🟡 Noor · 👁 Chief · 👁👁 Tribe (random) | Link: **CUT** /
 
 | # | What happens | Link |
 |---|---|---|
-| 89 | Morning. Noor walks through the burned camp of the old ship. Empty. She finds her water bottle and her family photo, puts the photo in her pocket. | CUT |
-| 90 | On the shore of the camp: a long wooden outrigger canoe the creatures used. She drags it to the water. | CUT |
+| 89 | Morning. Noor walks through the burned village. Empty. She finds her water bottle, her family photo and her gold coin necklace in the ashes; she puts the necklace back on. | CUT |
+| 90 | On the beach below the village: a long wooden outrigger canoe the creatures used. She drags it to the water. | CUT |
 | 91 | She ties the plane's torn wing fabric to a pole as a sail. | CUT |
 | 92 | From the cliff she sees the strange storm on the horizon — and today it is moving, coming toward the island. | CUT |
 | 93 | She pushes the canoe into the waves and paddles out, straight toward the storm. | CUT |
@@ -155,4 +155,4 @@ Characters: 🟡 Noor · 👁 Chief · 👁👁 Tribe (random) | Link: **CUT** /
 
 ---
 
-**Totals:** 100 clips · 25 min · 1 main location (the island) · 5 reference sheets · no hero — Noor survives on her own.
+**Totals:** 100 clips · 25 min · 1 main location (the island + its jungle village) · 7 reference sheets · no hero — Noor survives on her own.
