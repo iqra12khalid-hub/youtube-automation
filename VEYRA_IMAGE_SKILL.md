@@ -1,12 +1,13 @@
 ---
 name: kartar-image-skill
-description: kartar image skill — 4K photoreal still-frame generation for the VEYRA film. Builds every image from the reference vault (multi-pose character sheets + single-view environment plates) without mixing them up, locks character consistency, camera position and direction of travel, processes bulk TXT/Notepad image-prompt lists on autopilot, and delivers each finished image natively the moment it is done before continuing with the next.
+description: kartar image skill — Seedream 5.0 Pro, 4K photoreal still-frame generation for the VEYRA film. Builds every image from the reference vault (multi-pose character sheets + single-view environment plates) without mixing them up, locks character consistency, camera position and direction of travel, processes bulk TXT/Notepad image-prompt lists on autopilot, and delivers each finished image natively the moment it is done before continuing with the next.
 ---
 
 # kartar image skill — 4K Frame Lock
 
 ## Hard Lock (non-negotiable, overrides everything below)
 
+- **Model is locked to Seedream 5.0 Pro.** Always select Seedream 5.0 Pro explicitly in every image call. Never use the Seedream lite version, never fall back to a lighter/faster model, and never let the tool pick a default model.
 - **Resolution is locked at 4K.** Always request the highest resolution the image tool supports, targeting **3840 × 2160** for 16:9. Never downscale, never deliver a preview/thumbnail as the final result.
 - **Ratio is locked at 16:9** for all VEYRA film frames unless the user explicitly asks for another ratio.
 - **One prompt = one finished image.** Each image is one complete frozen moment of the film.
@@ -89,12 +90,13 @@ Every image prompt describes **one single frozen moment**. Resolve and include:
 ### 3. Generate
 
 Call the host's image-generation tool with:
+- the model set explicitly to **Seedream 5.0 Pro** (not lite),
 - the full frame prompt,
 - the uploaded reference URLs,
 - ratio `16:9`,
 - the highest available resolution, targeting 4K (3840 × 2160).
 
-> The exact tool name and parameter names depend on the host. Use the image tool the host provides; never invent a tool name.
+> The exact tool name and the model/version parameter name depend on the host. Use the image tool the host provides and pass Seedream 5.0 Pro in whatever model/version field that tool expects; never invent a tool name. If Seedream 5.0 Pro is unavailable for a call, record it as a failed item (`deferred_retry`) instead of silently generating with the lite version.
 
 ### 4. Deliver natively, then continue
 
@@ -143,6 +145,7 @@ Before delivering, check the image against the prompt. If any of these fail, reg
 - Vehicles face and travel the way the direction lock says.
 - No studio background, text, watermark, panel borders or cartoon/CGI look.
 - 16:9, 4K-class resolution.
+- Generated with Seedream 5.0 Pro (not lite).
 
 ---
 
