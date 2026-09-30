@@ -1,7 +1,7 @@
 # VEYRA — Clean Workflow v2: Story Outline
 
 **Length:** ~20 minutes · **40 clips × 30 s** · Seedance 2.5 on Dola
-**World & characters:** kept from the original VEYRA bible. **Teo is redesigned to look older** (new `CHAR_Teo` sheet, same outfit and gauntlet).
+**World & characters:** kept from the original VEYRA bible. **Teo is redesigned as a young adult** (new `CHAR_Teo` sheet, same outfit and gauntlet). No child characters in the film.
 
 ---
 
