@@ -1,0 +1,78 @@
+VEYRA - IMAGE PROMPTS 23 TO 27 (first / last frames)
+
+HOW TO USE
+Video 23: first frame IMG_23_the_chasm.jpg   | last frame IMG_24_kael.jpg
+Video 24: first frame IMG_24_kael.jpg        | last frame IMG_25_hitchhiker.jpg
+Video 25: first frame IMG_25_hitchhiker.jpg  | last frame IMG_26_the_swarm.jpg
+Video 26: first frame IMG_26_the_swarm.jpg   | last frame IMG_27_market_run.jpg
+Always upload the character / environment reference files too.
+
+
+Save as: IMG_23_the_chasm.jpg
+References: CHAR_Nyra, CHAR_Teo, ENV_03_undercity.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image; here the passage opens onto a vast underground chasm with glowing lanes of flying traffic far below.
+Single frozen moment: Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) skidding to a stop at the broken end of a stone walkway, dust kicking up from their boots, Nyra's arm thrown out across Teo to stop him; the walkway ends in jagged broken stone over a huge drop.
+Camera: wide, from behind and slightly to the right of them, at their shoulder height, looking past them out over the chasm. Nyra on the left, Teo on the right, both facing away from camera toward the drop. Far below, glowing traffic lanes with flying cars all moving in one direction.
+Framing: wide shot, NOT zoomed in. Full bodies visible head to toe with plenty of space around them, the chasm and walkway clearly visible. No close-up, no tight crop, nothing cut off at the frame edges.
+Lighting: amber lamps from the passage behind them, teal glow rising from the chasm below.
+Photoreal live-action feature film still, 16:9, 35mm film grain, natural atmospheric haze. Only one Nyra and one Teo in the frame.
+
+
+Save as: IMG_24_kael.jpg
+References: CHAR_Teo, CHAR_Nyra, ENEMY_Elite, ENV_03_undercity.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image; the broken walkway edge above the underground chasm.
+Single frozen moment: Teo (follow CHAR_Teo pose sheet) at the very edge of the broken walkway, one heel already over the drop, leaning back, arms out for balance; the Hunter (follow ENEMY_Elite pose sheet) lunging at him aggressively, clawed hand stretched out inches from his coat, red glaive ignited in its other hand, cape flaring; Nyra (follow CHAR_Nyra pose sheet) on the ground behind the Hunter, pushing herself up, one lightning sword still in her hand. Behind and below Teo, bright headlights glowing up out of the chasm, lighting him from below.
+Camera: side view at walkway level. The Hunter on the left moving right toward Teo; Teo on the right edge of the walkway with the chasm behind him; Nyra on the ground at far left.
+Framing: wide shot, NOT zoomed in. All three characters fully visible head to toe with space around them, the walkway and chasm clearly visible. No close-up, no tight crop, nothing cut off at the frame edges.
+Lighting: red glow from the glaive, blue-white crackle from Nyra's sword, strong white headlight glow from below.
+Photoreal live-action feature film still, 16:9, 35mm film grain, natural atmospheric haze. Only one of each character in the frame.
+
+
+Save as: IMG_25_hitchhiker.jpg
+References: CHAR_Kael, CHAR_Nyra, CHAR_Teo, ENEMY_Elite, ENV_03_undercity.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image; the glowing traffic lanes deep in the underground chasm.
+Kael's vehicle: a battered rust-orange open-top skycar with two rear engines.
+Single frozen moment: the skycar flying fast, nose-first AWAY from the camera, into the glowing traffic lanes; the Hunter (follow ENEMY_Elite pose sheet) clinging to the tail, claws dug into the metal, already pulling itself forward toward the passengers; Kael (follow CHAR_Kael pose sheet) at the controls in front, Teo (follow CHAR_Teo pose sheet) and Nyra (follow CHAR_Nyra pose sheet) in the back seat turning to look at the Hunter.
+Camera: BEHIND the skycar at a distance, slightly above, looking forward over the tail toward Kael and the traffic ahead. All civilian flying cars ahead travel in the same direction as the skycar, their red tail lights facing the camera.
+Framing: wide shot, NOT zoomed in. The whole skycar, the Hunter and all passengers fully visible with space around them, the traffic lanes and chasm clearly visible. No close-up, no tight crop, nothing cut off at the frame edges.
+Lighting: engine glow on the Hunter, teal and amber lane lights ahead, motion streaks in the lights.
+Photoreal live-action feature film still, 16:9, 35mm film grain, natural atmospheric haze. Only one of each character in the frame.
+
+
+Save as: IMG_26_the_swarm.jpg
+References: CHAR_Kael, CHAR_Nyra, CHAR_Teo, ENEMY_Elite, ENV_03_undercity.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency.
+Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image; the glowing traffic lanes deep in the underground chasm.
+Kael's vehicle: the same battered rust-orange open-top skycar with two rear engines, one engine smoking.
+Single frozen moment: the skycar flying fast, nose-first TOWARD the camera, black smoke trailing from its damaged rear engine; Kael (follow CHAR_Kael pose sheet) at the controls, gripping hard; Nyra (follow CHAR_Nyra pose sheet) in the back seat looking behind; Teo (follow CHAR_Teo pose sheet) leaning over the back of the car, right gauntlet raised and starting to glow amber; behind the car, the Hunter (follow ENEMY_Elite pose sheet) dragged on a taut cable, climbing hand over hand toward the car, glaive clamped on its back.
+Camera: IN FRONT of the skycar at a distance, slightly low, facing it head-on, the car coming straight at the camera, the cable and the Hunter visible behind it.
+Framing: wide shot, NOT zoomed in. The whole skycar, all passengers, the cable and the Hunter fully visible with space around them, the traffic lanes clearly visible. No close-up, no tight crop, nothing cut off at the frame edges.
+Lighting: amber glow from Teo's gauntlet, red glow from the Hunter's eyes, teal and amber lane lights streaking past.
+Photoreal live-action feature film still, 16:9, 35mm film grain, natural atmospheric haze. Only one of each character in the frame.
+
+
+Save as: IMG_27_market_run.jpg
+References: CHAR_Kael, CHAR_Nyra, CHAR_Teo, ENV_03_undercity, ENV_07_sky_battle.
+Kael = CHAR_Kael. Inspect all 4 poses from the CHAR_Kael reference sheet (front view, side profile, back view, and sword-swing pose) to lock 360° character consistency.
+Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency.
+Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image; the crowded underground market with stalls, hanging cloth and lamps.
+Khorr strike craft: copy the small black-and-red enemy fighters exactly from ENV_07_sky_battle.
+Kael's vehicle: the same battered rust-orange open-top skycar with two rear engines, one engine smoking.
+Single frozen moment: the skycar bursting out of a tunnel mouth and flying low over the crowded market, nose-first TOWARD the camera, black smoke trailing from its damaged engine; Kael (follow CHAR_Kael pose sheet) at the controls; Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) in the back seat, Nyra looking back; right behind the skycar, three Khorr strike craft bursting out of the same tunnel nose-first, chasing it, red guns glowing and already firing. Below, shoppers looking up in shock and starting to scatter, a vendor pulling a child behind a stall, cloth and fruit whipping up in the wake.
+Camera: IN FRONT of the skycar at a distance, above the market stalls, facing it head-on; the skycar and the three strike craft all coming toward the camera in the same direction.
+Framing: wide shot, NOT zoomed in. The whole skycar, all three passengers, all three strike craft and the market crowd fully visible with space around them. No close-up, no tight crop, nothing cut off at the frame edges.
+Lighting: teal and amber market lamps, red glow from the strike craft guns, orange glow from the burning engine.
+Photoreal live-action feature film still, 16:9, 35mm film grain, natural atmospheric haze. Only one of each character in the frame.
