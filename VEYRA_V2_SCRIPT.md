@@ -44,22 +44,22 @@ Characters are named only by their reference sheets. No ages anywhere.
 ## 5 · THEY COME DOWN
 **Setting:** under the warship (ENV_05b), then the sky above the burning city (ENV_02b). **Who:** Khorr soldiers. **Link:** CUT.
 - A hatch in the warship's belly slides open; red light spills into the smoke.
-- Black dropships detach from the hatch and dive toward the city in formation.
-- Beside one dropship as it drops between smoke columns and towers, soldiers visible inside its open side door.
+- Soldiers drop out of the hatch and slide down glowing red beams toward the city, escorted by small Khorr ships.
+- Small Khorr ships dive between smoke columns and towers, clearing the way for the red beams.
 - A soldier's faceless helmet in the doorway, red visor slit glowing, the fires rushing up below.
 **Dialogue:** none.
 
 ## 6 · RUN
 **Setting:** a long elevated bridge walkway in the burning city (ENV_02b). **Who:** Teo, Khorr soldiers. **Link:** CUT.
 - Wide side view: Teo runs along the walkway, left to right, past stalled cars.
-- Far behind him, a dropship hovers over the bridge and soldiers jump down in a burst of dust.
+- Far behind him, a red beam from the mothership hits the bridge and soldiers slide down it and land in a burst of dust.
 - The soldiers rise together, carbines up, and start running after him.
 - Teo glances back, sees them, and runs harder toward the far end.
 **Dialogue:** none.
 
 ## 7 · SURROUNDED
 **Setting:** the same bridge (ENV_02b). **Who:** Teo, Khorr soldiers. **Link:** C.
-- A black dropship roars low over the bridge ahead of Teo.
+- Two small Khorr ships roar low over the bridge ahead of Teo; a red beam strikes the walkway in front of him.
 - Soldiers drop from it and land in a line, blocking the end of the bridge, carbines up.
 - Teo stops. He raises the gauntlet; it sputters and dies.
 - The soldiers step forward together, red aiming lights crossing the air in front of them. A shadow flickers across them from above.
@@ -235,7 +235,7 @@ Characters are named only by their reference sheets. No ages anywhere.
 
 ## 28 · THE COMMANDER  🔴
 **Setting:** the salt flat (ENV_10). **Who:** Commander, Nyra, Kael (soldiers in background). **Link:** C.
-- A dropship lands behind the soldiers' line; the Commander steps down, greatsword in hand.
+- The mothership looms over the salt flat; a red beam comes down behind the soldiers' line and the Commander descends in it, greatsword in hand.
 - Nyra charges him; he swings the greatsword into the ground — a red shockwave throws Nyra and Kael back across the salt.
 - They land hard and try to rise; the soldiers close in around them.
 - The Commander turns his vertical red eye toward the wreck.
@@ -251,9 +251,9 @@ Characters are named only by their reference sheets. No ages anywhere.
 
 ## 30 · TAKEN
 **Setting:** the salt flat (ENV_10), the warship far above (ENV_05b). **Who:** Kael, Nyra. **Link:** C.
-- Teo walks up the dropship ramp beside the Commander. He does not look back.
+- Teo steps into the red beam beside the Commander. He does not look back.
 - Nyra gets up and runs toward it; Kael catches her arm and holds her back.
-- The dropship lifts off, blowing salt across them.
+- The beam lifts Teo and the Commander up toward the mothership, blowing salt across them.
 - It climbs toward the distant warship. Nyra and Kael watch it go.
 **Dialogue:** Nyra "Let me go!" Kael "Not like this."
 

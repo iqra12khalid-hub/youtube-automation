@@ -631,7 +631,7 @@ UPLOAD: ENV_05c_mothership_bridge.jpg, ENEMY_Commander.jpg, ENEMY_Soldier.jpg
 
 ======================================================================
 CLIP 5 - THEY COME DOWN
-UPLOAD: Enemy_ship.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg
+UPLOAD: Enemy_ship.jpg, Eenmy_responders.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg
 ======================================================================
 {
   "clip": 5,
@@ -644,17 +644,20 @@ UPLOAD: Enemy_ship.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg
   "first_frame": "none - new scene",
   "references_to_upload": [
     "Enemy_ship.jpg",
+    "Eenmy_responders.jpg",
     "ENEMY_Soldier.jpg",
     "ENV_01_solace_city.jpg"
   ],
   "reference_rules": {
     "use_only_these": [
       "Enemy_ship.jpg",
+      "Eenmy_responders.jpg",
       "ENEMY_Soldier.jpg",
       "ENV_01_solace_city.jpg"
     ],
     "ignore_any_other_image": true,
     "Enemy_ship.jpg": "the Khorr mothership vehicle sheet. Views: top-left FRONT, top-right SIDE, bottom-left TOP (round ring shape), middle-right REAR (twin red engines + exhaust grate), bottom-right UNDERSIDE (large belly hatch open). Inspect all views before filming; the ship must match them exactly from every angle.",
+    "Eenmy_responders.jpg": "the Khorr strike craft vehicle sheet (front, side, top, rear). All Khorr fighters match it exactly.",
     "ENEMY_Soldier.jpg": "Khorr soldiers = ENEMY_Soldier.jpg. Inspect all 4 views from this reference sheet (front view, side profile, back view, aiming pose) to lock 360-degree consistency before filming. Every soldier matches it exactly; completely faceless; carbine exactly as on the sheet.",
     "ENV_01_solace_city.jpg": "Solace city sheet (aerial, street walkway, high bridge walkway, arch plaza). Copy the architecture, materials, colours and light exactly."
   },
@@ -666,13 +669,13 @@ UPLOAD: Enemy_ship.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg
   },
   "locks": {
     "physics": "Every body, vehicle, object, piece of debris, smoke and dust moves with real weight and momentum. Feet push against the ground and stay in contact while running. Impacts push things back in the direction of the hit. Smoke, dust, sparks, cloth and hair trail behind movement. Nothing floats, slides or changes speed without a cause.",
-    "screen_direction": "The dropships dive downward and toward screen RIGHT in every shot.",
+    "screen_direction": "The small Khorr ships and the red beams always go downward and toward screen RIGHT in every shot.",
     "set_lock": "Solace is built ONLY from the pieces in ENV_01_solace_city.jpg: stacked bone-white shell towers with rows of oval amber windows, curved root bridges with amber edge lines connecting the towers at many levels, pale cream stone walkways with low curved railings and round amber lamps, ribbed white arches over plazas, and the single giant amber-glowing Spine Tower in the centre. No other building style exists.",
     "light_lock": "Red light from the open hatch; orange fire and black smoke from the burning city below; golden dusk sky.",
     "state_log": [
       "Three towers burning; smoke columns; one root bridge broken (from clip 2)."
     ],
-    "dropship": "Khorr dropship (no reference image yet - describe consistently): a helicopter-sized angular black armoured transport in the same design language as Enemy_ship.jpg - black spiked plates, gear-like details, thin red light strips - with two large sliding side doors, four red downward thrusters and three landing claws.",
+    "khorr_fleet": "The Khorr fleet is ONLY the mothership (Enemy_ship.jpg) and its small ships (Eenmy_responders.jpg). There are no transport ships. Soldiers travel from the mothership to the ground by sliding down straight glowing blood-red energy beams that shoot down from the mothership's underside.",
     "enemy": "The Khorr act instantly and relentlessly: they move at full speed and never slow down, hesitate or hold back."
   },
   "shots": [
@@ -697,55 +700,55 @@ UPLOAD: Enemy_ship.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg
       "cut_in": "Same view of the hatch.",
       "environment": "Hatch and sky.",
       "action": {
-        "start": "Dropships sit inside the red-lit hatch.",
-        "force": "They release and drop out one after another.",
-        "motion_and_contact": "A line of dropships falls, then their red thrusters ignite and they dive down and to the right.",
-        "weight_and_reaction": "Thruster heat ripples the air.",
-        "end": "Five dropships diving toward the city."
+        "start": "Small Khorr ships (follow Eenmy_responders.jpg) sit in the red-lit hatch.",
+        "force": "Their red engines ignite.",
+        "motion_and_contact": "They drop out one after another and dive down and to the right toward the city.",
+        "weight_and_reaction": "Engine heat ripples the air; smoke parts around them.",
+        "end": "A swarm of small ships diving."
       },
       "background_motion": "Smoke parting.",
       "cut_out": "Cut as they dive."
     },
     {
       "time": "10-15s",
-      "camera": "tracking alongside one dropship",
-      "cut_in": "Beside one dropship as it descends.",
-      "environment": "Between smoke columns and burning shell towers.",
+      "camera": "wide, static",
+      "cut_in": "Under the open hatch.",
+      "environment": "Hatch, smoke, city far below.",
       "action": {
-        "start": "The dropship diving.",
-        "force": "Its thrusters push it down and to the right.",
-        "motion_and_contact": "It weaves between the towers, smoke streaming past.",
-        "weight_and_reaction": "Its hull vibrates; red light strips flicker.",
-        "end": "Still diving."
+        "start": "The hatch glows brighter.",
+        "force": "Straight blood-red energy beams shoot down from the hatch to the city.",
+        "motion_and_contact": "Five beams stretch from the ship to the ground, down and to the right.",
+        "weight_and_reaction": "The beams hum and flicker; smoke is pushed away around them.",
+        "end": "Five red beams connecting ship and city."
       },
-      "background_motion": "Burning towers passing behind.",
-      "cut_out": "Cut on the dive."
+      "background_motion": "Small ships circling.",
+      "cut_out": "Cut on the beams."
     },
     {
       "time": "15-20s",
-      "camera": "medium, inside the open side door",
-      "cut_in": "Inside the same dropship.",
-      "environment": "Red-lit interior, the city rushing past outside the open door.",
+      "camera": "medium, looking up a beam",
+      "cut_in": "At the top of one beam, just under the hatch.",
+      "environment": "Red beam, black hull above.",
       "action": {
-        "start": "Soldiers (follow ENEMY_Soldier.jpg pose sheet) crouched in two rows, carbines ready.",
-        "force": "The dropship lurches as it turns.",
-        "motion_and_contact": "They sway together, one hand on a grab rail.",
-        "weight_and_reaction": "Armour plates rattle; wind blasts through the door.",
-        "end": "Soldiers braced, facing the door."
+        "start": "Soldiers (follow ENEMY_Soldier.jpg pose sheet) step off the hatch edge into the beam.",
+        "force": "The beam carries them.",
+        "motion_and_contact": "They slide straight down the beam in a line, feet first, carbines held across their chests.",
+        "weight_and_reaction": "Their armour glows red in the beam; wind tugs at them.",
+        "end": "A line of soldiers sliding down."
       },
-      "background_motion": "City passing outside.",
-      "cut_out": "Cut on the soldiers."
+      "background_motion": "Other beams with soldiers beside it.",
+      "cut_out": "Cut on the sliding line."
     },
     {
       "time": "20-25s",
       "camera": "close-up, static",
-      "cut_in": "Close on the soldier nearest the door.",
-      "environment": "Door frame, city below.",
+      "cut_in": "Close on one soldier sliding down the beam.",
+      "environment": "Red beam light, city blurred far below.",
       "action": {
-        "start": "The soldier (follow ENEMY_Soldier.jpg pose sheet, front view) at the door.",
+        "start": "The soldier (follow ENEMY_Soldier.jpg pose sheet, front view) sliding down.",
         "force": "He turns his head toward the city.",
         "motion_and_contact": "His red visor slit glows brighter.",
-        "weight_and_reaction": "Wind whips past his helmet.",
+        "weight_and_reaction": "Red light ripples over his armour.",
         "end": "Faceless helmet, red slit, city below."
       },
       "background_motion": "Smoke rushing past.",
@@ -757,19 +760,19 @@ UPLOAD: Enemy_ship.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg
       "cut_in": "Wide over the city.",
       "environment": "ENV_01_solace_city.jpg aerial view with smoke.",
       "action": {
-        "start": "Five dropships spread out over the burning city.",
-        "force": "They keep diving down and to the right.",
-        "motion_and_contact": "They head toward a long root-bridge walkway far below.",
-        "weight_and_reaction": "Their red thruster trails curve through the smoke.",
-        "end": "Dropships approaching the bridge."
+        "start": "Five red beams reach down into the burning city.",
+        "force": "Soldiers keep sliding down them; small Khorr ships circle.",
+        "motion_and_contact": "The beams touch down near a long root-bridge walkway.",
+        "weight_and_reaction": "Dust bursts where the beams hit the ground.",
+        "end": "Red beams on the city, small ships circling."
       },
       "background_motion": "Smoke and fire.",
       "cut_out": "End of clip."
     }
   ],
-  "end_frame": "Five dropships diving over the burning city toward a long root-bridge walkway, red thruster trails in the smoke.",
+  "end_frame": "Five red beams reaching from the mothership down into the burning city near a long root-bridge walkway, small Khorr ships circling.",
   "dialogue": [],
-  "sound": "Hydraulic clunks, hatch grinding, thruster ignitions, rushing wind, armour rattling, distant explosions. No music.",
+  "sound": "Hydraulic clunks, hatch grinding, engine ignitions, deep humming beams, rushing wind, armour rattling, distant explosions. No music.",
   "negative": "no text, no subtitles, no letters or symbols on screen, no watermark, no logos, no cartoon or anime look, no CGI-render look, no duplicate characters, no extra characters that are not in the references, no morphing, no reverse motion"
 }
 
@@ -818,13 +821,13 @@ UPLOAD: CHAR_Teo.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg, civilain_vehicl
     "physics": "Every body, vehicle, object, piece of debris, smoke and dust moves with real weight and momentum. Feet push against the ground and stay in contact while running. Impacts push things back in the direction of the hit. Smoke, dust, sparks, cloth and hair trail behind movement. Nothing floats, slides or changes speed without a cause.",
     "screen_direction": "Teo, the civilians and the soldiers ALL move from screen LEFT to screen RIGHT in every shot. The soldiers are always on the left, behind Teo.",
     "set_lock": "Solace is built ONLY from the pieces in ENV_01_solace_city.jpg: stacked bone-white shell towers with rows of oval amber windows, curved root bridges with amber edge lines connecting the towers at many levels, pale cream stone walkways with low curved railings and round amber lamps, ribbed white arches over plazas, and the single giant amber-glowing Spine Tower in the centre. No other building style exists. Here: a long root-bridge walkway high between shell towers, with stopped cars on it; at its far right end a plaza under ribbed arches.",
-    "light_lock": "Golden dusk through smoke, orange fire glow, red light from the dropship.",
+    "light_lock": "Golden dusk through smoke, orange fire glow, red light from the beam.",
     "state_log": [
       "City burning with smoke columns (from clip 2).",
       "Teo's gauntlet glows faintly (from clip 3)."
     ],
     "people": "Every civilian reacts to danger: they look up, flinch, run, duck behind cars and pull each other along. Nobody stands still or keeps walking calmly during an attack.",
-    "dropship": "Khorr dropship (no reference image yet - describe consistently): a helicopter-sized angular black armoured transport in the same design language as Enemy_ship.jpg - black spiked plates, gear-like details, thin red light strips - with two large sliding side doors, four red downward thrusters and three landing claws.",
+    "khorr_fleet": "The Khorr fleet is ONLY the mothership (Enemy_ship.jpg) and its small ships (Eenmy_responders.jpg). There are no transport ships. Soldiers travel from the mothership to the ground by sliding down straight glowing blood-red energy beams that shoot down from the mothership's underside.",
     "enemy": "The Khorr act instantly and relentlessly: they move at full speed and never slow down, hesitate or hold back. They chase Teo on foot; they do not fire at him."
   },
   "shots": [
@@ -849,13 +852,13 @@ UPLOAD: CHAR_Teo.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg, civilain_vehicl
       "cut_in": "Far behind Teo, on the left end of the bridge.",
       "environment": "Same walkway, smoke.",
       "action": {
-        "start": "A dropship hovers above the walkway.",
-        "force": "Its thrusters hold it in place.",
-        "motion_and_contact": "Soldiers (follow ENEMY_Soldier.jpg pose sheet) jump from its side door onto the walkway.",
+        "start": "A straight blood-red beam shoots down from the sky onto the walkway.",
+        "force": "The beam carries soldiers down.",
+        "motion_and_contact": "Soldiers (follow ENEMY_Soldier.jpg pose sheet) slide down the beam and land on the walkway one after another.",
         "weight_and_reaction": "They land in a crouch; dust bursts from each landing; the bridge shudders.",
-        "end": "Soldiers crouched on the walkway."
+        "end": "Soldiers crouched on the walkway; the beam fades."
       },
-      "background_motion": "Dropship thrusters blasting dust.",
+      "background_motion": "Dust blowing away from the beam.",
       "cut_out": "Cut as the last soldier lands."
     },
     {
@@ -921,6 +924,6 @@ UPLOAD: CHAR_Teo.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg, civilain_vehicl
   ],
   "end_frame": "Teo running under the ribbed arches on the right, the soldiers coming from the left along the bridge.",
   "dialogue": [],
-  "sound": "Running footsteps, heavy armoured boots, clanking armour, dropship thrusters, civilians shouting, distant explosions, wind. No music.",
+  "sound": "Running footsteps, heavy armoured boots, clanking armour, humming beam, civilians shouting, distant explosions, wind. No music.",
   "negative": "no text, no subtitles, no letters or symbols on screen, no watermark, no logos, no cartoon or anime look, no CGI-render look, no duplicate characters, no extra characters that are not in the references, no morphing, no reverse motion"
 }
