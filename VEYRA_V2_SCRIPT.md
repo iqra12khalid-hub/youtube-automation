@@ -34,26 +34,26 @@ Characters are named only by their reference sheets. No ages anywhere.
 **Dialogue:** Teo (whisper) "It's calling me."
 
 ## 4 · THE KEY
-**Setting:** the warship's bridge (ENV_05c). **Who:** Commander, one Hunter (Elite). **Link:** CUT.
+**Setting:** the warship's bridge (ENV_05c). **Who:** Commander, one Soldier. **Link:** CUT.
 - The Commander sits on the high throne, back to us, watching the burning city through the vast window.
 - A red hologram of Solace rises; many small amber dots light up.
 - One dot burns brighter than all the others. Red target rings lock onto it.
-- The Commander raises one armoured hand and points. The kneeling Hunter rises and walks out.
-**Dialogue:** Commander (deep, slow) "There. The key." … "Bring it to me." Hunter (cold whisper) "It will be done."
+- The Commander raises one armoured hand and points. The kneeling soldier rises and marches out.
+**Dialogue:** Commander (deep, slow) "There. The key." … "Bring it to me." Soldier (flat, metallic) "It will be done."
 
-## 5 · THE HUNTERS FALL
-**Setting:** under the warship (ENV_05b), then the sky above the burning city (ENV_02b). **Who:** three Hunters. **Link:** CUT.
+## 5 · THEY COME DOWN
+**Setting:** under the warship (ENV_05b), then the sky above the burning city (ENV_02b). **Who:** Khorr soldiers. **Link:** CUT.
 - A hatch in the warship's belly slides open; red light spills into the smoke.
-- Three Hunters step off and drop, capes whipping, spreading into a wedge.
-- Beside one Hunter as it dives between smoke columns and towers.
-- Its faceless helmet, three red eyes flaring, the fires rushing up below.
+- Black dropships detach from the hatch and dive toward the city in formation.
+- Beside one dropship as it drops between smoke columns and towers, soldiers visible inside its open side door.
+- A soldier's faceless helmet in the doorway, red visor slit glowing, the fires rushing up below.
 **Dialogue:** none.
 
 ## 6 · RUN
-**Setting:** a long elevated bridge walkway in the burning city (ENV_02b). **Who:** Teo, three Hunters. **Link:** CUT.
+**Setting:** a long elevated bridge walkway in the burning city (ENV_02b). **Who:** Teo, Khorr soldiers. **Link:** CUT.
 - Wide side view: Teo runs along the walkway, left to right, past stalled cars.
-- Far behind him, the three Hunters slam down onto the bridge in a burst of dust.
-- The Hunters rise together, glaives igniting, and start running after him.
+- Far behind him, a dropship hovers over the bridge and soldiers jump down in a burst of dust.
+- The soldiers rise together, carbines up, and start running after him.
 - Teo glances back, sees them, and runs harder toward the far end.
 **Dialogue:** none.
 
@@ -74,18 +74,18 @@ Characters are named only by their reference sheets. No ages anywhere.
 **Dialogue:** Nyra (low, calm) "Get behind me."
 
 ## 9 · BLADES  🔴
-**Setting:** the same bridge (ENV_02b). **Who:** Nyra, one Hunter. **Link:** C.
+**Setting:** the same bridge (ENV_02b). **Who:** Nyra, soldiers. **Link:** C.
 - The soldiers fire; Nyra deflects the bolts in bursts of blue sparks and cuts through their carbines. They fall back.
-- A Hunter lands behind her and charges. One-on-one: lightning swords against the red glaive, heavy exchanges.
-- The Hunter drives her back step by step, her boots scraping the road.
-- Blades locked, her face close to its three red eyes. She shoves it back and resets her stance.
-**Dialogue:** Hunter (cold) "You protect what you don't understand." Nyra "I understand enough."
+- The biggest soldier charges her alone. One-on-one: lightning swords against his armoured carbine, which he swings like a club, heavy exchanges.
+- The soldier drives her back step by step, her boots scraping the road.
+- Weapons locked, her face close to his red visor slit. She shoves him back and resets her stance.
+**Dialogue:** Soldier (metallic) "You protect what you don't understand." Nyra "I understand enough."
 
 ## 10 · THE GAUNTLET
-**Setting:** the same bridge (ENV_02b). **Who:** Teo, Nyra, Hunter. **Link:** C.
-- The Hunter raises its glaive over Nyra.
+**Setting:** the same bridge (ENV_02b). **Who:** Teo, Nyra, soldier. **Link:** C.
+- The soldier raises his carbine to strike Nyra.
 - Behind her, Teo thrusts his right arm forward; the gauntlet's core flares blinding amber.
-- An amber shockwave throws the Hunter across the bridge into a wrecked car. The blast cracks the road under Nyra and Teo.
+- An amber shockwave throws the soldier across the bridge into a wrecked car. The blast cracks the road under Nyra and Teo.
 - The section tilts. Nyra grabs Teo's hand and they slide down into the dark opening below.
 **Dialogue:** Teo (shocked) "I didn't mean to—" Nyra "Hold on!"
 
@@ -117,12 +117,12 @@ Characters are named only by their reference sheets. No ages anywhere.
 - Nyra nods; they go. Oris closes the door behind them and stays.
 **Dialogue:** Oris (old, gravelly) "They'll tear the city apart for that." … "Find Kael. Follow the amber lamps."
 
-## 14 · RED EYES
-**Setting:** a steam-filled tunnel (ENV_03). **Who:** one Hunter, Nyra, Teo. **Link:** CUT.
-- A burst pipe fills the tunnel with white steam. Three red eyes glow inside it.
-- The Hunter charges out at Nyra; she blocks and is pushed back against the wall.
-- Nyra shouts; Teo aims the gauntlet at the cracked ceiling above the Hunter.
-- The ceiling comes down between them. Red eyes glow through a gap in the rubble, then fade.
+## 14 · RED VISOR
+**Setting:** a steam-filled tunnel (ENV_03). **Who:** one soldier, Nyra, Teo. **Link:** CUT.
+- A burst pipe fills the tunnel with white steam. A red visor slit glows inside it.
+- The soldier charges out at Nyra; she blocks and is pushed back against the wall.
+- Nyra shouts; Teo aims the gauntlet at the cracked ceiling above the soldier.
+- The ceiling comes down between them. A red visor glows through a gap in the rubble, then fades.
 **Dialogue:** Nyra "Teo — the ceiling!"
 
 ## 15 · THE SILO
@@ -226,18 +226,18 @@ Characters are named only by their reference sheets. No ages anywhere.
 **Dialogue:** Teo "Does it hurt?" Kael "Every day." … "You get used to it."
 
 ## 27 · RED ON THE HORIZON
-**Setting:** the salt flat at dawn (ENV_10). **Who:** Nyra, Hunters. **Link:** CUT.
+**Setting:** the salt flat at dawn (ENV_10). **Who:** Nyra, soldiers. **Link:** CUT.
 - Nyra wakes by the cold fire, hand going to her sword.
 - Far across the salt, a line of red lights moves toward the wreck.
-- Closer: Hunters running in a wide line, red scanner beams sweeping the ground.
+- Closer: soldiers marching fast in a wide line, red scanner beams sweeping the ground.
 - Nyra shakes Kael awake; he is on his feet instantly.
 **Dialogue:** Nyra (whisper) "They found us."
 
 ## 28 · THE COMMANDER  🔴
-**Setting:** the salt flat (ENV_10). **Who:** Commander, Nyra, Kael (Hunters in background). **Link:** C.
-- A dropship lands behind the Hunters' line; the Commander steps down, greatsword in hand.
+**Setting:** the salt flat (ENV_10). **Who:** Commander, Nyra, Kael (soldiers in background). **Link:** C.
+- A dropship lands behind the soldiers' line; the Commander steps down, greatsword in hand.
 - Nyra charges him; he swings the greatsword into the ground — a red shockwave throws Nyra and Kael back across the salt.
-- They land hard and try to rise; the Hunters close in around them.
+- They land hard and try to rise; the soldiers close in around them.
 - The Commander turns his vertical red eye toward the wreck.
 **Dialogue:** Commander "Enough."
 
@@ -302,11 +302,11 @@ Characters are named only by their reference sheets. No ages anywhere.
 **Dialogue:** Commander "It was never yours." Teo "It chose me."
 
 ## 36 · BREAKTHROUGH  🔴
-**Setting:** the bridge (ENV_05c). **Who:** Nyra, one Hunter. **Link:** C.
+**Setting:** the bridge (ENV_05c). **Who:** Nyra, one soldier. **Link:** C.
 - The bridge door blasts open; Nyra runs in, swords igniting.
-- The last Hunter blocks her path. One-on-one duel on the tiered platform.
-- The Hunter drives her to the edge; she spins free.
-- She knocks its glaive away and kicks it off the platform into the dark.
+- The Commander's guard soldier blocks her path. One-on-one duel on the tiered platform.
+- The soldier drives her to the edge; she spins free.
+- She knocks his carbine away and kicks him off the platform into the dark.
 **Dialogue:** Nyra "Out of my way."
 
 ## 37 · TWO LIGHTS

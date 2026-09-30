@@ -112,7 +112,7 @@ Prop sheet of the warship's red energy core in the style of the uploaded ENV_05c
 ======================================================================
 CHECKLIST
 ======================================================================
-Characters: CHAR_Teo (new), CHAR_Nyra, CHAR_Kael, GUEST_Rhea, GUEST_Oris, GUEST_Dax, ENEMY_Soldier, ENEMY_Elite, ENEMY_Commander  (9)
+Characters: CHAR_Teo (new), CHAR_Nyra, CHAR_Kael, GUEST_Rhea, GUEST_Oris, GUEST_Dax, ENEMY_Soldier, ENEMY_Commander  (8; ENEMY_Elite not used in v2)
 Locations: LOC_01, LOC_02, LOC_03a, LOC_03b, LOC_04, LOC_05a, LOC_05c, LOC_08, LOC_10, LOC_06_07  (10)
 Elements: VEH_rust_moth, VEH_khorr_warship, VEH_khorr_dropship, VEH_khorr_strikecraft, VEH_solace_fighter, PROP_gauntlet, PROP_weapons, PROP_red_core  (8)
 Total: 27 sheets. Keep the old ENV_ images too - they stay the "hero" view of each place.
