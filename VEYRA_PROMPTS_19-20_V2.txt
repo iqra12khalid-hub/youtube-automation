@@ -1,8 +1,10 @@
-VEYRA - PROMPTS 19 AND 20 (V2: multi-shot + physics explained per move)
+VEYRA - PROMPTS 19 AND 20 (V2: multi-shot + physics, cuts and environment explained per shot)
 
 What is new in V2:
 - Each 30-second video is ONE video built from 8 short shots (3-4 seconds each) joined by hard cuts. The model only has to hold physics for a few seconds at a time.
 - Every move is explained physically: START position -> FORCE (what drives it) -> MOTION & CONTACT (direction, what stays touching what) -> WEIGHT & REACTION (how bodies, cloth, dust react) -> END position.
+- Every cut is explained: CUT IN (how the shot picks up from the previous one) and CUT OUT (the exact moment it hands over to the next).
+- Every shot has its own ENVIRONMENT (which part of the location, light sources and direction, surfaces, atmosphere) and BACKGROUND MOTION (everything else that moves, and how).
 - One action per shot. Screen direction is locked for the whole video.
 - No frame images are used. The same full set of 21 main reference images (all CHAR_, GUEST_, ENEMY_ and ENV_ files) is uploaded with every prompt. Each prompt names which of them this video uses; the rest are ignored.
 
@@ -15,79 +17,111 @@ Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front vi
 Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
 Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
 Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming. Every soldier matches this sheet.
-Location = ENV_03_undercity. Copy this location exactly as it appears in the image: the curved bone-like tunnel walls, pipes, market stalls, teal and amber lamps, wet stone floor.
+Location = ENV_03_undercity. Copy this location exactly as it appears in the image: the curved bone-like arches, thick pipes and cables overhead, hanging amber lanterns, teal glowing signs with alien glyphs, market stalls with cloth canopies and hanging fabrics, and the wet reflective stone floor with puddles.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, keep framing, no zoom-ins.
-SHOT STRUCTURE: this is ONE single 30-second video made of 8 shots joined by clean hard cuts. Each shot lasts exactly the seconds written for it. Inside each shot the camera is locked off (static) unless the shot says otherwise, and only ONE main action happens.
-SCREEN DIRECTION LOCK: for the whole video, Nyra and Teo always move from screen LEFT to screen RIGHT, and the Khorr always chase them from the left, also moving left to right. Nobody's direction of travel flips inside a shot.
+SHOT STRUCTURE: this is ONE single 30-second video made of 8 shots joined by clean hard cuts. Each shot lasts exactly the seconds written for it. Inside each shot the camera is locked off (static) unless the shot says otherwise, and only ONE main action happens. Every cut continues the action exactly where the previous shot stopped: no skipped moments, no repeated moments, nobody jumps to a different place or side of the frame.
+SCREEN DIRECTION LOCK: for the whole video, Nyra and Teo always move from screen LEFT to screen RIGHT, and the Khorr always chase them from the left, also moving left to right. Nobody's direction of travel flips inside a shot or across a cut.
 PHYSICS LOCK: every body has real weight. Feet push against the ground to move and stay in contact with it while running. Every hit transfers force: the one who is hit is pushed back in the direction of the hit. Cloth, hair, capes, dust, steam and sparks always trail behind the direction of movement or blow away from an impact. Nothing floats, slides without friction, or changes speed without a cause.
-PEOPLE LOCK: every market person in the tunnel reacts to the danger: they scream, duck, drop what they carry and dive under stalls. Nobody stands still or keeps shopping.
+PEOPLE LOCK: every market person in the tunnel reacts to the danger: they scream, duck, drop what they carry and dive under stalls or flee to screen right. Nobody stands still or keeps shopping.
 The Khorr are relentless: they move at full speed, strike hard, flank, grab and fire without pause, and never hold back or slow down.
 
-SHOT 1 (0-4s) - wide, static camera, side view of the market tunnel:
-The Hunter (follow ENEMY_Elite pose sheet) bursts out of the steam wall on the left side of the frame.
+SHOT 1 (0-4s) - wide, static camera, side view of the market street:
+CUT IN: the video opens on the Hunter standing at the edge of the steam wall on screen left, exactly as PROMPT 18 ended.
+ENVIRONMENT: the main market street of ENV_03_undercity. On the left, a dense wall of white steam pours from a burst pipe. In the centre-right stands a thick curved bone-like stone pillar. Market stalls with cloth canopies line both sides; teal glyph signs glow above the stalls on the right; amber lanterns hang on chains from the pipes overhead. The wet stone floor has shallow puddles that reflect the teal and amber light. Light comes mainly from the teal signs above right and the amber lanterns, plus the red glow of the Hunter's glaive.
+MAIN ACTION - the Hunter (follow ENEMY_Elite pose sheet) bursts out of the steam:
 START: the Hunter stands at the edge of the white steam on screen left, weight low, glaive held in both hands across its body.
 FORCE: it drives off its back foot, pushing hard against the wet stone.
-MOTION & CONTACT: it sprints left to right toward the stone pillar in the centre-right of frame; each stride lands heavily, boots splashing the shallow water on the floor.
-WEIGHT & REACTION: steam tears apart around its body and swirls behind it; its tattered cape streams back to the left; the red glaive blade ignites with a flare of light as it runs.
+MOTION & CONTACT: it sprints left to right toward the stone pillar; each stride lands heavily, boots splashing the puddles.
+WEIGHT & REACTION: steam tears apart around its body and swirls behind it to the left; its tattered cape streams back to the left; the red glaive blade ignites with a flare of light as it runs.
 END: the Hunter is two strides from the pillar, glaive lifting for a strike. Behind the pillar, Teo (follow CHAR_Teo pose sheet) is crouched, pressed against the stone.
+BACKGROUND MOTION: hooded market people at the stalls on the right turn toward the noise and start backing away to screen right; the amber lanterns sway on their chains from the steam blast; ripples spread across the puddles from the Hunter's footsteps.
+CUT OUT: cut at the instant the glaive starts its downward swing.
 
 SHOT 2 (4-8s) - medium, static camera:
-Nyra (follow CHAR_Nyra pose sheet) blocks the first strike.
+CUT IN: the same downward swing continues from shot 1; the Hunter is still on screen left, moving right.
+ENVIRONMENT: right in front of the stone pillar. Behind Nyra, a fruit stall with a cloth canopy and woven baskets. A wide puddle under Nyra's boots. Light: the blue-white glow of Nyra's swords and the red glow of the glaive dominate; teal sign light fills from above.
+MAIN ACTION - Nyra (follow CHAR_Nyra pose sheet) blocks the strike:
 START: Nyra steps out from beside the pillar into the Hunter's path, feet planted wide, both lightning swords raised and crossed above her head.
-FORCE: the Hunter (follow ENEMY_Elite pose sheet) swings its glaive down from above with its full body weight behind it.
+FORCE: the Hunter (follow ENEMY_Elite pose sheet) brings its glaive down from above with its full body weight behind it.
 MOTION & CONTACT: the red glaive blade slams into the crossing point of her two blades; the blades stay locked together.
-WEIGHT & REACTION: the impact drives Nyra back one full step to the right, her boots skidding on the wet stone and throwing up water; her knees bend to absorb it; blue-white lightning and red sparks burst from the contact point and scatter outward; her braids swing forward from the jolt. In the background, market people scream and dive under stalls, baskets tipping and fruit rolling across the floor.
+WEIGHT & REACTION: the impact drives Nyra back one full step to the right, her boots skidding through the puddle and throwing up water; her knees bend to absorb it; blue-white lightning and red sparks burst from the contact point and scatter outward; her braids swing forward from the jolt.
 END: Nyra holds the block, knees bent, blades crossed, the Hunter pressing down on her.
+BACKGROUND MOTION: market people scream and dive under the stalls; a basket tips over and fruit rolls across the wet floor to screen right; the fruit stall's canopy flaps from the air pushed out by the impact.
+CUT OUT: cut as the Hunter begins pulling its glaive back off her blades.
 
 SHOT 3 (8-12s) - close-up on the Hunter's helmet and arms, static camera:
-The Hunter keeps attacking without a pause.
-START: the Hunter (follow ENEMY_Elite pose sheet) pulls its glaive back off Nyra's blades.
-FORCE: it snaps its free forearm up and fires its wrist blaster.
-MOTION & CONTACT: a red bolt fires from the wrist toward the right side of the frame, passing just beside Nyra's head (her head and one shoulder visible at frame edge).
-WEIGHT & REACTION: the recoil jolts the Hunter's forearm back; the bolt's red light washes across its three red eyes and armour; behind Nyra the bolt hits a hanging lamp, which bursts and swings on its chain.
+CUT IN: the Hunter is pulling its glaive back, continuing the motion from shot 2; it faces screen right toward Nyra.
+ENVIRONMENT: the background is soft and out of focus: the white steam and a blurred teal glyph sign behind the Hunter, an amber lantern hanging near the right edge of the frame. Light: red from its eyes and glaive on its armour, teal rim light from behind.
+MAIN ACTION - the Hunter (follow ENEMY_Elite pose sheet) fires its wrist blaster:
+START: the Hunter's glaive is drawn back, its free forearm low.
+FORCE: it snaps its free forearm up and fires the wrist blaster.
+MOTION & CONTACT: a red bolt fires toward screen right, passing just beside Nyra's head (her head and one shoulder visible at the right edge of the frame).
+WEIGHT & REACTION: the recoil jolts the Hunter's forearm back toward screen left; the bolt's red light washes across its three red eyes and armour.
 END: the Hunter already drawing the glaive back for the next swing.
+BACKGROUND MOTION: behind Nyra, the bolt hits the hanging amber lantern, which bursts in sparks and swings wildly on its chain; steam swirls behind the Hunter.
+CUT OUT: cut on the lantern still swinging.
 
 SHOT 4 (12-15s) - medium-wide, static camera:
-Two soldiers flank, and Nyra and Teo break away.
-START: two soldiers (follow ENEMY_Soldier pose sheet) burst out of the steam, one high on the left, one low on the left, carbines raised.
+CUT IN: wider view of the same spot a moment later; the Hunter at the left edge of the frame, Nyra and Teo beside the pillar in the centre.
+ENVIRONMENT: the market street with a narrow side tunnel opening on screen right between two stalls; pipes run along the wall above the opening; the broken lantern still swings; steam covers the left third of the frame.
+MAIN ACTION - two soldiers flank, and Nyra and Teo break away:
+START: two soldiers (follow ENEMY_Soldier pose sheet) burst out of the steam on the left, carbines raised.
 FORCE: they fire as they advance; Nyra (follow CHAR_Nyra pose sheet) grabs Teo (follow CHAR_Teo pose sheet) by the arm and pulls.
-MOTION & CONTACT: Nyra and Teo run left to right into a narrow curved side tunnel at the right edge of the frame, Nyra's hand gripping Teo's arm the whole time.
-WEIGHT & REACTION: red bolts hit the pipes along the wall behind them, bursting them open in jets of steam and sparks; Teo stumbles once, Nyra's grip pulls him upright and forward.
+MOTION & CONTACT: Nyra and Teo run left to right into the narrow side tunnel on screen right, Nyra's hand gripping Teo's arm the whole time.
+WEIGHT & REACTION: red bolts hit the pipes above the tunnel opening, bursting them in jets of steam and sparks; Teo stumbles once and Nyra's grip pulls him upright and forward.
 END: Nyra and Teo disappearing into the side tunnel on screen right.
+BACKGROUND MOTION: the last market people flee to screen right; hanging fabrics flutter as people push past them; steam jets from the burst pipes.
+CUT OUT: cut the moment Teo's back disappears into the side tunnel.
 
-SHOT 5 (15-19s) - wide side view of the narrow curved tunnel, static camera:
-The Hunter chases and throws its glaive.
+SHOT 5 (15-19s) - wide side view of the narrow side tunnel, static camera:
+CUT IN: Nyra and Teo enter this shot from screen left, still running left to right, continuing their exit from shot 4.
+ENVIRONMENT: a narrow curved tunnel with bone-like ribbed walls; thick pipes run along the left wall; caged amber work lights are fixed to the wall every few metres; a visible crack runs across the ceiling in the middle of the frame; the floor is wet stone. Light: pools of amber from the caged lights, darkness between them.
+MAIN ACTION - the Hunter chases and throws its glaive:
 START: Nyra and Teo run left to right along the tunnel; the Hunter (follow ENEMY_Elite pose sheet) enters from screen left at full sprint, closing the gap.
 FORCE: the Hunter plants its front foot and whips its arm forward, throwing the glaive.
 MOTION & CONTACT: the glaive spins end over end from left to right through the air, passes just over Teo's head (follow CHAR_Teo pose sheet), and buries itself in the curved wall ahead of him with a burst of stone chips.
-WEIGHT & REACTION: the Hunter's throwing arm follows through; the glaive's shaft vibrates where it sticks in the wall; Teo flinches and ducks, his coat swinging.
-END: Teo stopping and turning back toward the ceiling; the Hunter still running, unarmed now but not slowing.
+WEIGHT & REACTION: the Hunter's throwing arm follows through; the glaive shaft vibrates where it sticks in the wall; Teo flinches and ducks, his coat swinging.
+END: Teo stopping and starting to turn back; the Hunter still running, unarmed now but not slowing.
+BACKGROUND MOTION: water drips from the ceiling crack; cables along the ceiling sway from the running; dust puffs from the wall where the glaive hit.
+CUT OUT: cut as Teo finishes turning to face screen left.
 
 SHOT 6 (19-23s) - medium, static camera, low angle:
-Teo charges the gauntlet.
-START: Teo (follow CHAR_Teo pose sheet) stands with feet apart, facing back toward screen left, the cracked ceiling above the gap between him and the Hunter.
+CUT IN: Teo now faces screen left, in the same spot where he stopped, the glaive stuck in the wall just behind him on the right.
+ENVIRONMENT: the same narrow tunnel from a low angle; the cracked ceiling fills the top of the frame directly above the gap between Teo and the approaching Hunter; one caged amber light on the wall beside him.
+MAIN ACTION - Teo (follow CHAR_Teo pose sheet) charges the gauntlet:
+START: Teo stands with feet apart, facing screen left.
 FORCE: he raises his right forearm, the one with the gauntlet, and aims it at the cracked ceiling.
 MOTION & CONTACT: amber light builds inside the gauntlet, growing brighter; his left hand grips his right wrist to steady it.
-WEIGHT & REACTION: the building energy pushes his arm back slightly, his back foot sliding a few centimetres on the stone as he braces; amber light flickers across his face and the tunnel walls; dust starts to trickle from the ceiling crack. Nyra (follow CHAR_Nyra pose sheet) stands beside him, swords raised toward the approaching Hunter.
+WEIGHT & REACTION: the building energy pushes his arm back slightly and his back foot slides a few centimetres on the wet stone as he braces; amber light flickers across his face and the tunnel walls. Nyra (follow CHAR_Nyra pose sheet) stands beside him, swords raised toward screen left.
 END: the gauntlet at full blinding brightness.
+BACKGROUND MOTION: dust starts to trickle from the ceiling crack; the ceiling cables vibrate; the caged light flickers from the energy.
+CUT OUT: cut at the instant the gauntlet is brightest, just before it fires.
 
 SHOT 7 (23-27s) - wide side view, static camera:
-The ceiling comes down.
+CUT IN: the blast fires at the very first frame of this shot.
+ENVIRONMENT: the same tunnel, wide: Teo and Nyra on the right, the Hunter charging from the left, the cracked section of ceiling between them.
+MAIN ACTION - the ceiling comes down:
 START: the Hunter (follow ENEMY_Elite pose sheet) is three strides away on screen left, running at full speed.
 FORCE: an amber blast fires from Teo's gauntlet into the ceiling.
 MOTION & CONTACT: the ceiling cracks and huge slabs of stone fall straight down with gravity into the gap between the Hunter and the heroes; the Hunter dives forward under the falling rock and its claw grabs Teo's ankle (follow CHAR_Teo pose sheet).
-WEIGHT & REACTION: Teo is yanked off balance and falls onto his back; Nyra (follow CHAR_Nyra pose sheet) slashes down at the Hunter's forearm; the claw lets go and the arm snaps back into the rubble; the falling slabs hit the floor and bounce, sending dust rolling outward along the floor in both directions.
+WEIGHT & REACTION: Teo is yanked off balance and falls onto his back; Nyra (follow CHAR_Nyra pose sheet) slashes down at the Hunter's forearm; the claw lets go and the arm snaps back into the rubble; the slabs hit the floor and bounce, sending dust rolling outward along the floor in both directions.
 END: rubble piling up, filling the tunnel, dust thick in the air.
+BACKGROUND MOTION: the caged lights flicker, one breaks off the wall and falls; a pipe bends under the falling stone and hisses steam.
+CUT OUT: cut as the last big slab settles.
 
 SHOT 8 (27-30s) - medium, static camera:
-The tunnel is sealed.
-START: the rubble wall now fills the tunnel from floor to ceiling on screen left.
+CUT IN: the rubble now fills the tunnel from floor to ceiling on screen left; Teo still on the floor on the right, Nyra beside him.
+ENVIRONMENT: the dim tunnel beside the new rubble wall; one remaining caged amber light swings on a loose cable; dust hangs thick in its light.
+MAIN ACTION - the tunnel is sealed:
+START: Teo lies on the floor, Nyra standing over him.
 FORCE: Nyra (follow CHAR_Nyra pose sheet) hauls Teo (follow CHAR_Teo pose sheet) up off the floor by his arm.
 MOTION & CONTACT: they back away to screen right, facing the rubble, Nyra's swords still raised.
-WEIGHT & REACTION: dust settles slowly downward through the amber-lit air; small stones trickle off the top of the pile; through a gap in the rocks, three red eyes still glow, and the rocks shift as something pushes against them from the other side.
-END: the sealed rubble wall in settling dust, three red eyes glowing through a gap, Nyra and Teo backing away down the dim tunnel.
+WEIGHT & REACTION: dust settles slowly downward through the amber light; small stones trickle off the top of the pile.
+END: through a gap in the rocks, three red eyes still glow, and the rocks shift as something pushes against them from the other side.
+BACKGROUND MOTION: the loose light swings, its shadows sliding across the walls; small stones keep trickling.
+CUT OUT: the video ends on the sealed rubble wall, three red eyes glowing through a gap, Nyra and Teo backing away to screen right.
 Dialogue (Nyra, shouting, clear) at 16s: "Teo - the ceiling! Now!" (Teo, straining, clear) at 19.5s: "Okay... okay!"
-Sound: boots splashing, glaive ignition, blade clash with electric crackle, market screams, wrist-blaster shriek, lamp bursting, carbine fire, pipes bursting with steam, glaive whirring through the air and thudding into stone, rising charge hum, amber blast, roaring collapse, rocks settling and grinding. No music.
+Sound: boots splashing, glaive ignition, blade clash with electric crackle, market screams, wrist-blaster shriek, lantern bursting, carbine fire, pipes bursting with steam, glaive whirring through the air and thudding into stone, rising charge hum, amber blast, roaring collapse, rocks settling and grinding. No music.
 
 
 PROMPT 20 - EVERYONE WANTS YOU
@@ -98,75 +132,107 @@ Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front vi
 Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
 Khorr soldiers = ENEMY_Soldier. Inspect all 4 poses from the ENEMY_Soldier reference sheet (front view, side profile, back view, and aiming pose) to lock 360° character consistency before filming. Every soldier matches this sheet.
 Khorr Hunter = ENEMY_Elite. Inspect all 4 poses from the ENEMY_Elite reference sheet (front view, side profile, back view, and glaive attack pose) to lock 360° character consistency before filming.
-Location = ENV_03_undercity. Copy this location exactly as it appears in the image; here a dark tunnel and a small stone chamber beneath the market, lit by one flickering teal lamp.
+Location = ENV_03_undercity. Copy the materials, colours and lighting of this location exactly as they appear in the image (bone-like stone, pipes, teal and amber light, wet stone); here we are in a dark tunnel and a small stone chamber beneath the market.
 30-second sequence, 16:9, photoreal live-action feature film, 24 fps, film grain, real-time speed, smooth motion, no slow motion, no lag, keep framing, no zoom-ins.
-SHOT STRUCTURE: this is ONE single 30-second video made of 8 shots joined by clean hard cuts. Each shot lasts exactly the seconds written for it. Inside each shot the camera is locked off (static), and only ONE main action happens.
-SCREEN DIRECTION LOCK: Nyra and Teo always move from screen LEFT to screen RIGHT when they travel. The soldiers above always walk from screen LEFT to screen RIGHT across the grate. Nobody's direction of travel flips inside a shot.
+SHOT STRUCTURE: this is ONE single 30-second video made of 8 shots joined by clean hard cuts. Each shot lasts exactly the seconds written for it. Inside each shot the camera is locked off (static), and only ONE main action happens. Every cut continues the action exactly where the previous shot stopped: no skipped moments, no repeated moments, nobody jumps to a different place or side of the frame.
+SCREEN DIRECTION LOCK: Nyra and Teo always move from screen LEFT to screen RIGHT when they travel. In the chamber, Nyra always sits on the LEFT and Teo on the RIGHT. The soldiers above always walk from screen LEFT to screen RIGHT across the grate. Nobody's direction or side flips inside a shot or across a cut.
 PHYSICS LOCK: every body has real weight. Feet push against the ground to move. Tired bodies are heavy: they lean on walls, slide down slowly, chests rise and fall with breathing. Metal bends and bolts pop under real force. Dust hangs in the air and drifts slowly downward. Nothing floats or moves without a cause.
 The Khorr are relentless: they search, grab, tear and fire without pause, and never hold back or slow down.
 
 SHOT 1 (0-4s) - medium, static camera, side view of the tunnel:
-They run from the rubble.
-START: Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) stand a few steps right of the rubble wall, facing it.
+CUT IN: the video opens on the rubble wall on screen left and Nyra and Teo a few steps to its right, exactly as PROMPT 19 ended.
+ENVIRONMENT: the dim narrow tunnel with bone-like ribbed walls; the rubble wall fills the left of the frame; one caged amber light swings on a loose cable; dust hangs in the air.
+MAIN ACTION - they run from the rubble:
+START: Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) stand facing the rubble.
 FORCE: a red glaive blade punches through the rubble from the other side with a crack, stones bursting outward.
-MOTION & CONTACT: they turn and run left to right along the dim tunnel, Nyra's hand on Teo's back pushing him ahead of her.
-WEIGHT & REACTION: loose stones tumble down the rubble pile around the glaive blade, which grinds and twists as it is wrenched from the other side; dust puffs out from the gap.
-END: Nyra and Teo running out of frame on the right, the glaive blade still grinding through the rocks on the left.
+MOTION & CONTACT: they turn and run left to right along the tunnel, Nyra's hand on Teo's back pushing him ahead of her.
+WEIGHT & REACTION: loose stones tumble down the rubble pile around the blade, which grinds and twists as it is wrenched from the other side; dust puffs out from the gap.
+END: Nyra and Teo running out of frame on the right.
+BACKGROUND MOTION: the loose light keeps swinging; dust drifts down; small stones roll across the floor.
+CUT OUT: cut as Nyra's back leaves the right edge of the frame.
 
-SHOT 2 (4-8s) - wide, static camera, inside a small dark stone chamber:
-They collapse against the wall.
-START: Nyra and Teo stumble in through a low opening on screen left.
+SHOT 2 (4-8s) - wide, static camera, inside a small stone chamber:
+CUT IN: Nyra and Teo enter this shot from screen left through a low opening, still moving left to right.
+ENVIRONMENT: a small square stone chamber beneath the market: rough bone-like stone walls; one flickering teal lamp mounted high on the right wall is the only light; a square metal grate in the centre of the ceiling with darkness above it; a round drain opening with an iron rim in the floor at the right corner; pipes run along the top of the walls; a small puddle in one corner.
+MAIN ACTION - they collapse against the wall:
+START: Nyra and Teo stumble in through the opening.
 FORCE: exhaustion; their legs give out.
-MOTION & CONTACT: Nyra (follow CHAR_Nyra pose sheet) presses her back against the right-hand wall and slides down it to the floor; Teo (follow CHAR_Teo pose sheet) drops to sit beside her, his back against the same wall.
-WEIGHT & REACTION: both cough, chests heaving; dust from their clothes drifts in the beam of the single flickering teal lamp; Nyra's swords clink against the stone as she lays them across her knees.
+MOTION & CONTACT: Nyra (follow CHAR_Nyra pose sheet) presses her back against the back wall and slides down it to the floor, on the left; Teo (follow CHAR_Teo pose sheet) drops to sit beside her, on the right, his back against the same wall.
+WEIGHT & REACTION: both cough, chests heaving; dust from their clothes drifts up into the teal lamplight; Nyra's swords clink against the stone as she lays them across her knees.
 END: both sitting against the wall, breathing hard.
+BACKGROUND MOTION: the teal lamp flickers; dust hangs in its beam.
+CUT OUT: cut as they both lean their heads back against the wall.
 
 SHOT 3 (8-12s) - close two-shot, static camera:
-They look at each other for the first time.
-START: Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) side by side, heads leaning back against the wall.
-FORCE: Nyra turns her head toward Teo.
-MOTION & CONTACT: Teo turns his head to meet her look; their shoulders almost touching.
-WEIGHT & REACTION: their breathing slows; the teal lamp flickers across their dusty faces; a drop of water falls from the ceiling between them.
+CUT IN: closer on the same two, seated against the wall, heads leaning back; Nyra on the left, Teo on the right.
+ENVIRONMENT: the rough stone wall behind their heads; teal lamplight from the upper right across their dusty faces; a drop of water hangs from the ceiling above them.
+MAIN ACTION - they look at each other for the first time:
+START: Nyra (follow CHAR_Nyra pose sheet) and Teo (follow CHAR_Teo pose sheet) side by side, heads back.
+FORCE: Nyra turns her head toward Teo, to screen right.
+MOTION & CONTACT: Teo turns his head to screen left to meet her look; their shoulders almost touching.
+WEIGHT & REACTION: their breathing slows; the teal light flickers across their faces.
 END: holding eye contact.
+BACKGROUND MOTION: the drop of water falls between them and splashes on the floor.
+CUT OUT: cut on the eye contact.
 
 SHOT 4 (12-15s) - close-up on Nyra, static camera:
-A tired half-smile.
+CUT IN: Nyra's face, still looking to screen right at Teo, continuing the eye contact.
+ENVIRONMENT: teal light on the right side of her face, shadow on the left; the stone wall soft behind her.
+MAIN ACTION - a tired half-smile:
 START: Nyra (follow CHAR_Nyra pose sheet) looking at Teo.
 FORCE: a short breath out through her nose, almost a laugh.
 MOTION & CONTACT: the corner of her mouth lifts into a tired half-smile; she tilts her head back against the stone.
-WEIGHT & REACTION: dust falls from her braids as she moves; the lamp buzzes and dims for a moment.
-END: Nyra's half-smile fading as she glances up at the ceiling.
+WEIGHT & REACTION: dust falls from her braids as she moves.
+END: her half-smile fading as her eyes lift up toward the ceiling.
+BACKGROUND MOTION: the lamp buzzes and dims for a moment.
+CUT OUT: cut on her eyes looking up.
 
-SHOT 5 (15-19s) - low angle looking straight up at a metal ceiling grate, static camera:
-Soldiers pass above.
-START: a square metal grate in the chamber ceiling, dark space above it.
+SHOT 5 (15-19s) - low angle looking straight up at the ceiling grate, static camera:
+CUT IN: we see what Nyra is looking at: the square metal grate in the centre of the ceiling.
+ENVIRONMENT: the rough stone ceiling around the grate; darkness above the bars; faint teal lamplight catching the bottom of the metal.
+MAIN ACTION - soldiers pass above:
+START: the grate, dark space above it.
 FORCE: heavy armoured boots of soldiers (follow ENEMY_Soldier pose sheet) walk across the grate from screen left to screen right.
 MOTION & CONTACT: each boot lands on the grate with weight, the metal flexing slightly under it; a red scanning beam sweeps down through the bars from left to right.
 WEIGHT & REACTION: dust shakes loose from the grate with each step and falls straight down, glowing red where it crosses the beam.
 END: one pair of boots stops directly on the grate.
+BACKGROUND MOTION: falling dust only.
+CUT OUT: cut the instant the boots stop.
 
-SHOT 6 (19-23s) - medium, static camera, from the chamber floor looking up at the grate:
-A soldier tears at the grate.
+SHOT 6 (19-23s) - medium, static camera, from the chamber floor looking up:
+CUT IN: the grate in the top of the frame with the stopped boots on it; Nyra and Teo in the lower part of the frame, starting to move.
+ENVIRONMENT: the chamber from below; red light pouring through the grate; the teal lamp on the wall.
+MAIN ACTION - a soldier tears at the grate:
 START: the soldier (follow ENEMY_Soldier pose sheet) above drops to one knee on the grate.
 FORCE: he grips two bars with both gloved hands and pulls upward with his whole body.
 MOTION & CONTACT: the bars bend upward; bolts at the corners pop out one after another and fall into the chamber.
-WEIGHT & REACTION: each popping bolt bounces on the stone floor; the grate frame screeches; dust and grit rain down. Below, Nyra (follow CHAR_Nyra pose sheet) is already on her feet, swords in hand, pulling Teo (follow CHAR_Teo pose sheet) up.
+WEIGHT & REACTION: each popping bolt bounces on the stone floor; the grate frame screeches; grit rains down. Below, Nyra (follow CHAR_Nyra pose sheet) is already on her feet, swords in hand, pulling Teo (follow CHAR_Teo pose sheet) up.
 END: the grate half torn open, red light pouring in.
+BACKGROUND MOTION: the teal lamp swings from the vibration; grit bounces on the floor.
+CUT OUT: cut as Nyra pulls Teo toward the drain in the right corner.
 
 SHOT 7 (23-27s) - wide, static camera, inside the chamber:
-They drop into the drain.
-START: Nyra and Teo at a round drainage opening in the chamber floor, screen right.
+CUT IN: Nyra and Teo reaching the drain opening at screen right, continuing their move to the right.
+ENVIRONMENT: the whole chamber: the round drain opening with its iron rim in the right corner; the half-torn grate above; red light and teal light mixing in the dust.
+MAIN ACTION - they drop into the drain:
+START: Nyra and Teo at the edge of the drain.
 FORCE: Nyra (follow CHAR_Nyra pose sheet) pushes Teo (follow CHAR_Teo pose sheet) down into the opening and drops in after him.
-MOTION & CONTACT: both drop straight down through the opening feet first; above, the grate tears free and falls into the chamber with a clang; a soldier's carbine barrel thrusts down through the hole in the ceiling and fires.
+MOTION & CONTACT: both drop straight down through the opening, feet first; above, the grate tears free and falls into the chamber with a clang; a soldier's carbine barrel thrusts down through the hole in the ceiling and fires.
 WEIGHT & REACTION: red bolts hit the floor exactly where they stood, blasting chips of stone into the air; the fallen grate bounces once and settles.
 END: the empty chamber, red light and smoke, the drain opening dark.
+BACKGROUND MOTION: smoke curls up from the bolt marks; the teal lamp swings.
+CUT OUT: cut on the empty chamber.
 
 SHOT 8 (27-30s) - close-up inside the dark drain, static camera:
-Only Teo's eyes.
-START: total darkness inside the drain; only Teo's (follow CHAR_Teo pose sheet) two eyes glowing amber.
+CUT IN: total darkness inside the drain shaft; Teo is hiding just below the opening.
+ENVIRONMENT: the rough curved stone of the drain shaft, barely visible; the only light is the red beam coming down through the opening above.
+MAIN ACTION - only Teo's eyes:
+START: only Teo's (follow CHAR_Teo pose sheet) two eyes glowing amber in the darkness.
 FORCE: the red scanning beam sweeps down through the drain opening above.
 MOTION & CONTACT: the thin red line of light crosses Teo's face from left to right; he does not move, holding his breath.
 WEIGHT & REACTION: a few grains of dust fall through the red light; his glowing eyes stay fixed upward.
 END: the red line passes, the amber eyes stay, then cut to black.
+BACKGROUND MOTION: falling dust only.
+CUT OUT: cut to pure black at 30s.
 Dialogue (Nyra, breathless, clear) at 9s: "Who are you?" (Teo, quiet, clear) at 11s: "...Teo." (Nyra, tired half-smile) at 12.5s: "Well, Teo - everyone up there wants you." (Khorr Hunter, muffled metallic radio from above) at 16s: "The key has a protector. Send every hunter below."
 Sound: stones cracking, glaive grinding through rock, running footsteps, coughing, swords clinking on stone, lamp buzz, water drip, heavy boots on metal, scanner hum, bars bending, bolts popping and bouncing, grate screech and clang, carbine shrieks, then silence. No music.
