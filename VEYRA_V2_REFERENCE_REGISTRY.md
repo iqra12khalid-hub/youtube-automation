@@ -8,7 +8,7 @@ Use these names EXACTLY in every prompt.
 | `CHAR_Teo.jpg` | Teo — new young-adult sheet (mirrored, gauntlet on RIGHT forearm) |
 | `CHAR_Nyra.jpg` | Nyra — new sheet (swords crossed on back) |
 | `CHAR_Kael.jpg` | Kael — sheet |
-| `GUEST_Dax.jpg` | Dax — sheet (has small text labels under the views) |
+| `GUEST_Dax.jpg` | Dax — sheet (text labels removed) |
 | `GUEST_Oris.jpg` | Oris — sheet |
 | `GUEST_Rhea.jpg` | Rhea — sheet |
 
@@ -21,7 +21,7 @@ Use these names EXACTLY in every prompt.
 ## Vehicles
 | File | What it is |
 |---|---|
-| `Enemy_ship.jpg` | Khorr MOTHERSHIP (warship) — vehicle sheet |
+| `Enemy_ship.jpg` | Khorr MOTHERSHIP (warship) — vehicle sheet (text labels removed). Views: top-left FRONT, top-right SIDE, bottom-left TOP, middle-right REAR with exhaust grate, bottom-right UNDERSIDE with open hatch |
 | `Eenmy_responders.jpg` | Khorr STRIKE CRAFT (small enemy fighters) — vehicle sheet |
 | `Friendly_responders.jp.jpg` | Solace fighter (small friendly fighters) — vehicle sheet |
 | `ENV_09_rust_moth_exterior.jpg` | Kael's ship, the Rust Moth |
