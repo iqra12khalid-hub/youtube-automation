@@ -23,7 +23,7 @@ Use these names EXACTLY in every prompt.
 |---|---|
 | `Enemy_ship.jpg` | Khorr MOTHERSHIP (warship) — vehicle sheet (text labels removed). Views: top-left FRONT, top-right SIDE, bottom-left TOP, middle-right REAR with exhaust grate, bottom-right UNDERSIDE with open hatch |
 | `Eenmy_responders.jpg` | Khorr STRIKE CRAFT (small enemy fighters) — vehicle sheet |
-| `Friendly_responders.jp.jpg` | Solace fighter (small friendly fighters) — vehicle sheet |
+| `Friendly_responders.jpg` | Solace fighter (small friendly fighters) — vehicle sheet |
 | `ENV_09_rust_moth_exterior.jpg` | Kael's ship, the Rust Moth |
 | — | Khorr dropship — not made yet |
 
