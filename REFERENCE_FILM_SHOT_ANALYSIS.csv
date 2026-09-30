@@ -1,0 +1,274 @@
+shot,start,dur,type,size,people,vehicles,camera,motion,direction,flips,dir_consistency,complexity
+1,0.0,2.42,action,medium,3,0,tilt up,0.616,right->left,0,0.79,4
+2,2.42,1.96,action,close-up,2,0,pan/track right,0.824,left->right,0,0.96,3
+3,4.38,0.38,action,wide,1,0,push-in,0.921,left->right,0,0.75,3
+4,4.75,1.25,effects/creature motion,medium,0,0,push-in,0.87,left->right,1,0.52,3
+5,6.0,3.04,vehicle/chase,wide,3,1,push-in,0.786,right->left,1,0.53,4
+6,9.04,1.96,crowd,medium,6,0,push-in,0.764,right->left,0,0.8,4
+7,11.0,6.88,vehicle/chase,no people,0,1,pull-out,0.638,right->left,1,0.69,4
+8,17.88,3.42,vehicle/chase,close-up,1,1,static,0.117,right->left,0,0.72,2
+9,21.29,1.33,landscape/establishing,no people,0,0,static,0.121,right->left,1,0.52,2
+10,22.62,0.92,landscape/establishing,no people,0,0,static,0.135,left->right,0,0.71,1
+11,23.54,0.58,effects/creature motion,no people,0,0,push-in,0.359,right->left,0,0.62,3
+12,24.12,0.42,effects/creature motion,no people,0,0,push-in,0.513,left->right,0,1.0,3
+13,24.54,1.21,vehicle/chase,wide,0,1,push-in,0.396,left->right,0,0.61,3
+14,25.75,5.04,action,close-up,1,0,static,0.227,right->left,2,0.55,3
+15,30.79,4.67,vehicle/chase,no people,0,1,push-in,0.286,right->left,0,0.75,3
+16,35.46,1.08,effects/creature motion,no people,0,0,static,0.157,right->left,0,0.53,2
+17,36.54,16.12,vehicle/chase,medium,0,1,handheld/shake,0.33,right->left,3,0.72,4
+18,52.67,4.62,character/dialogue,wide,1,1,static,0.0,none,0,1.0,1
+19,57.29,1.88,character/dialogue,close-up,1,0,static,0.116,right->left,0,0.84,1
+20,59.17,1.42,vehicle/chase,close-up,2,1,static,0.144,left->right,0,0.73,3
+21,60.58,1.79,action,close-up,1,0,pull-out,0.435,left->right,0,0.55,3
+22,62.38,5.54,vehicle/chase,close-up,1,2,pan/track left,0.246,right->left,1,0.65,4
+23,67.92,3.67,character/dialogue,medium,1,2,static,0.001,none,0,1.0,2
+24,71.58,1.96,vehicle/chase,close-up,2,1,static,0.086,left->right,0,0.66,3
+25,73.54,3.12,character/dialogue,wide,1,1,static,0.063,left->right,0,1.0,2
+26,76.67,5.21,character/dialogue,close-up,1,0,static,0.035,right->left,0,0.82,1
+27,81.88,5.83,action,close-up,1,0,static,0.168,right->left,1,0.58,3
+28,87.71,8.04,effects/creature motion,medium,0,0,push-in,0.574,toward camera,0,0.98,3
+29,95.75,8.46,action,medium,3,0,push-in,0.324,right->left,1,0.55,5
+30,104.21,4.54,character/dialogue,close-up,2,0,static,0.0,none,0,1.0,1
+31,108.75,2.33,character/dialogue,close-up,2,0,static,0.0,none,0,1.0,1
+32,111.08,10.67,character/dialogue,close-up,1,0,static,0.001,none,0,1.0,1
+33,121.75,0.5,effects/creature motion,no people,0,0,static,0.39,right->left,0,0.73,2
+34,122.25,0.83,effects/creature motion,no people,0,0,handheld/shake,0.603,right->left,0,0.68,3
+35,123.08,0.71,effects/creature motion,medium,0,0,static,0.391,left->right,0,0.56,2
+36,123.79,0.46,effects/creature motion,no people,0,0,pull-out,0.576,left->right,0,0.5,3
+37,124.25,0.71,action,close-up,1,0,tilt up,0.852,right->left,0,0.69,3
+38,124.96,0.58,action,close-up,2,0,pull-out,0.498,right->left,0,0.77,3
+39,125.54,3.08,action,wide,4,0,push-in,0.319,right->left,0,0.92,4
+40,128.62,3.17,effects/creature motion,no people,0,0,static,0.591,right->left,0,1.0,2
+41,131.79,3.12,crowd,medium,5,0,push-in,0.659,right->left,0,0.88,4
+42,134.92,2.83,character/dialogue,close-up,1,0,static,0.036,left->right,0,0.83,1
+43,137.75,4.46,vehicle/chase,no people,0,1,pan/track right,0.293,right->left,0,1.0,3
+44,142.21,1.79,action,close-up,1,0,pan/track left,0.721,left->right,0,0.83,3
+45,144.0,1.54,action,close-up,2,0,static,0.213,right->left,0,1.0,3
+46,145.54,2.58,vehicle/chase,wide,3,1,pull-out,0.196,left->right,0,0.61,4
+47,148.12,2.29,crowd,medium,5,1,static,0.007,none,0,1.0,3
+48,150.42,9.29,crowd,close-up,5,1,static,0.051,left->right,2,0.93,4
+49,159.71,3.54,group character,close-up,4,0,static,0.063,left->right,1,0.73,3
+50,163.25,8.71,group character,medium,4,1,push-in,0.046,toward camera,2,0.97,4
+51,171.96,6.75,action,close-up,3,0,static,0.216,left->right,1,0.68,4
+52,178.71,2.0,vehicle/chase,close-up,1,1,static,0.11,right->left,0,0.95,2
+53,180.71,2.21,group character,medium,4,1,static,0.06,left->right,0,0.96,3
+54,182.92,1.58,crowd,close-up,5,0,static,0.039,left->right,0,1.0,3
+55,184.5,2.25,character/dialogue,close-up,1,1,static,0.002,none,0,1.0,1
+56,186.75,5.96,vehicle/chase,medium,2,1,static,0.107,away from camera,2,0.93,3
+57,192.71,4.04,vehicle/chase,medium,4,1,pull-out,0.769,right->left,0,1.0,4
+58,196.75,5.17,crowd,medium,6,1,pull-out,0.079,away from camera,0,1.0,4
+59,201.92,4.67,action,close-up,1,0,static,0.142,right->left,0,1.0,1
+60,206.58,1.75,vehicle/chase,close-up,1,1,pan/track right,0.706,left->right,0,1.0,3
+61,208.33,3.21,group character,close-up,3,0,static,0.082,right->left,0,0.68,3
+62,211.54,1.25,vehicle/chase,close-up,3,1,push-in,0.364,left->right,0,1.0,4
+63,212.79,3.0,vehicle/chase,close-up,9,1,pan/track right,0.492,right->left,1,0.65,5
+64,215.79,3.83,character/dialogue,close-up,1,0,static,0.038,left->right,1,0.52,1
+65,219.62,3.71,crowd,close-up,6,0,pan/track left + shake,0.421,left->right,2,0.64,5
+66,223.33,2.58,group character,close-up,4,1,static,0.042,left->right,0,0.7,3
+67,225.92,2.54,vehicle/chase,medium,0,1,pan/track right,0.744,right->left,0,0.88,3
+68,228.46,1.29,vehicle/chase,wide,2,1,push-in,0.759,right->left,0,1.0,4
+69,229.75,1.88,action,close-up,1,0,push-in,0.258,left->right,1,0.55,3
+70,231.62,1.5,action,close-up,3,0,pan/track right,0.325,right->left,0,0.97,4
+71,233.12,4.46,crowd,wide,7,1,push-in,0.02,right->left,0,1.0,3
+72,237.58,4.67,group character,wide,4,1,static,0.0,none,0,1.0,3
+73,242.25,6.38,vehicle/chase,close-up,3,1,static,0.084,left->right,0,0.99,3
+74,248.62,7.96,crowd,close-up,9,1,static,0.047,right->left,0,0.52,3
+75,256.58,4.38,crowd,close-up,11,0,static,0.494,left->right,1,0.52,4
+76,260.96,4.46,crowd,medium,10,1,static,0.031,left->right,0,1.0,3
+77,265.42,12.58,crowd,close-up,8,0,static,0.046,left->right,4,0.51,3
+78,278.0,2.12,action,close-up,1,0,pan/track left,0.165,right->left,0,0.81,3
+79,280.12,7.54,action,wide,1,0,static,0.187,right->left,0,1.0,3
+80,287.67,4.67,character/dialogue,close-up,1,0,tilt up,0.063,toward camera,0,1.0,2
+81,292.33,7.0,vehicle/chase,close-up,8,1,pan/track left,0.086,right->left,2,0.55,4
+82,299.33,7.71,vehicle/chase,close-up,5,1,static,0.21,left->right,1,0.91,5
+83,307.04,10.71,action,close-up,4,0,handheld/shake,0.394,left->right,4,0.71,5
+84,317.75,4.92,character/dialogue,close-up,2,0,static,0.002,none,0,1.0,1
+85,322.67,3.46,action,close-up,2,0,pan/track left + shake,0.202,right->left,0,0.84,4
+86,326.12,4.96,action,close-up,3,0,static,0.265,left->right,0,0.93,3
+87,331.08,2.5,effects/creature motion,wide,0,0,static,0.151,left->right,0,1.0,2
+88,333.58,2.0,effects/creature motion,close-up,0,0,push-in,0.632,left->right,0,0.51,3
+89,335.58,1.83,landscape/establishing,wide,0,0,tilt up,0.145,right->left,0,1.0,2
+90,337.42,2.04,effects/creature motion,wide,0,0,push-in,0.165,toward camera,0,0.98,3
+91,339.46,1.83,landscape/establishing,no people,0,0,static,0.001,none,0,1.0,1
+92,341.29,4.58,action,close-up,1,0,pull-out,0.231,right->left,1,0.5,3
+93,345.88,21.33,effects/creature motion,close-up,0,0,push-in,0.528,right->left,5,0.57,4
+94,367.21,4.04,character/dialogue,close-up,2,0,pan/track left,0.083,right->left,1,0.94,3
+95,371.25,3.33,character/dialogue,close-up,2,0,static,0.014,left->right,0,1.0,1
+96,374.58,4.08,character/dialogue,close-up,2,0,static,0.024,right->left,0,0.65,1
+97,378.67,9.29,character/dialogue,close-up,1,0,static,0.019,right->left,0,0.62,1
+98,387.96,3.29,character/dialogue,close-up,1,0,static,0.012,right->left,0,0.75,1
+99,391.25,6.04,character/dialogue,close-up,2,0,static,0.107,left->right,0,0.92,2
+100,397.29,8.54,action,close-up,2,0,pan/track left,0.464,left->right,2,0.59,4
+101,405.83,2.79,character/dialogue,close-up,2,0,static,0.015,left->right,1,0.73,2
+102,408.62,16.67,character/dialogue,close-up,2,0,static,0.069,right->left,2,0.56,3
+103,425.29,2.21,character/dialogue,close-up,2,0,pan/track left,0.041,toward camera,0,0.53,2
+104,427.5,4.21,character/dialogue,close-up,2,0,static,0.001,none,0,1.0,1
+105,431.71,4.5,character/dialogue,close-up,2,0,static,0.0,none,0,1.0,1
+106,436.21,9.79,character/dialogue,close-up,2,0,pull-out,0.045,toward camera,1,0.89,3
+107,446.0,4.12,character/dialogue,close-up,2,0,static,0.104,left->right,1,0.51,3
+108,450.12,5.54,character/dialogue,close-up,2,0,static,0.003,none,0,1.0,1
+109,455.67,5.04,landscape/establishing,no people,0,0,static,0.001,none,0,1.0,1
+110,460.71,5.54,action,wide,2,0,pull-out,0.128,left->right,1,0.75,3
+111,466.25,11.5,action,close-up,2,0,pan/track left,0.577,left->right,3,0.66,4
+112,477.75,3.79,character/dialogue,no people,0,1,static,0.0,none,0,1.0,1
+113,481.54,3.75,crowd,close-up,6,0,pull-out,0.451,left->right,1,0.65,5
+114,485.29,3.0,action,close-up,3,0,pan/track right,0.562,left->right,0,0.87,4
+115,488.29,3.58,crowd,close-up,5,0,pan/track right,0.616,right->left,0,0.79,4
+116,491.88,2.79,crowd,close-up,6,0,pan/track right + shake,0.762,right->left,1,0.71,5
+117,494.67,3.67,crowd,close-up,6,0,static,0.212,right->left,2,0.59,4
+118,498.33,3.75,action,close-up,1,0,static,0.121,left->right,0,0.86,1
+119,502.08,5.12,crowd,close-up,6,0,static,0.175,right->left,1,0.82,4
+120,507.21,9.92,action,close-up,2,0,pan/track left,0.565,left->right,2,0.5,4
+121,517.12,5.12,action,close-up,3,0,static,0.194,left->right,1,0.75,4
+122,522.25,6.04,action,close-up,1,0,static,0.391,right->left,2,0.53,3
+123,528.29,4.0,effects/creature motion,no people,0,0,static,0.154,toward camera,1,0.84,3
+124,532.29,4.71,character/dialogue,wide,2,0,static,0.002,none,0,1.0,1
+125,537.0,1.83,crowd,wide,5,0,static,0.002,none,0,1.0,3
+126,538.83,1.92,action,close-up,1,0,push-in,0.338,left->right,0,0.76,3
+127,540.75,7.42,landscape/establishing,no people,0,0,static,0.0,none,0,1.0,1
+128,548.17,6.54,character/dialogue,close-up,1,0,static,0.087,right->left,1,0.54,2
+129,554.71,6.62,character/dialogue,wide,1,0,static,0.001,none,0,1.0,1
+130,561.33,5.71,character/dialogue,medium,1,0,static,0.001,none,0,1.0,1
+131,567.04,4.04,landscape/establishing,no people,0,0,static,0.001,none,0,1.0,1
+132,571.08,2.08,action,close-up,1,0,static,0.166,left->right,1,0.53,3
+133,573.17,1.75,vehicle/chase,wide,1,1,tilt up,0.689,right->left,0,0.95,3
+134,574.92,4.04,effects/creature motion,close-up,0,0,tilt up,0.501,left->right,0,0.55,3
+135,578.96,2.79,landscape/establishing,no people,0,0,static,0.001,none,0,1.0,1
+136,581.75,3.79,landscape/establishing,wide,0,0,static,0.0,none,0,1.0,1
+137,585.54,4.21,landscape/establishing,wide,0,0,static,0.001,none,0,1.0,1
+138,589.75,4.04,action,close-up,1,0,pull-out,0.387,right->left,0,0.86,3
+139,593.79,4.29,character/dialogue,medium,0,2,pan/track right,0.07,left->right,0,1.0,3
+140,598.08,4.08,character/dialogue,close-up,2,0,static,0.006,none,0,1.0,1
+141,602.17,3.75,character/dialogue,close-up,2,0,static,0.016,right->left,0,1.0,1
+142,605.92,4.67,character/dialogue,close-up,2,0,static,0.109,right->left,0,1.0,2
+143,610.58,1.88,character/dialogue,close-up,1,0,static,0.018,right->left,0,0.57,1
+144,612.46,1.33,character/dialogue,close-up,1,0,static,0.012,none,0,1.0,1
+145,613.79,2.62,character/dialogue,close-up,1,0,static,0.0,none,0,1.0,1
+146,616.42,2.67,character/dialogue,close-up,2,0,static,0.0,none,0,1.0,1
+147,619.08,4.62,character/dialogue,wide,2,1,static,0.0,none,0,1.0,2
+148,623.71,4.42,vehicle/chase,medium,3,1,static,0.407,right->left,2,0.55,4
+149,628.12,4.96,character/dialogue,close-up,2,0,static,0.041,left->right,1,0.71,2
+150,633.08,4.04,group character,close-up,3,0,static,0.015,left->right,0,0.57,2
+151,637.12,4.71,vehicle/chase,wide,3,1,push-in,0.452,right->left,0,1.0,4
+152,641.83,5.75,group character,close-up,3,0,static,0.064,left->right,0,0.56,3
+153,647.58,3.96,vehicle/chase,close-up,0,1,pan/track right,0.725,right->left,1,0.73,3
+154,651.54,6.17,character/dialogue,close-up,2,1,static,0.046,right->left,2,0.58,3
+155,657.71,4.21,character/dialogue,close-up,2,0,static,0.07,right->left,0,0.95,2
+156,661.92,1.25,character/dialogue,wide,2,1,static,0.0,none,0,1.0,2
+157,663.17,3.46,character/dialogue,close-up,2,0,static,0.039,left->right,0,0.72,1
+158,666.62,6.5,action,close-up,2,0,static,0.29,left->right,1,0.85,4
+159,673.12,6.79,character/dialogue,close-up,2,0,static,0.013,right->left,2,1.0,2
+160,679.92,14.42,character/dialogue,close-up,2,0,static,0.09,right->left,3,0.69,3
+161,694.33,7.46,action,close-up,2,0,static,0.318,right->left,1,0.74,4
+162,701.79,3.08,character/dialogue,close-up,2,0,static,0.007,none,0,1.0,1
+163,704.88,7.42,character/dialogue,close-up,2,0,static,0.025,right->left,0,1.0,1
+164,712.29,4.0,action,medium,2,0,push-in,0.393,right->left,0,0.72,3
+165,716.29,2.0,action,medium,2,0,pull-out,0.796,right->left,0,1.0,3
+166,718.29,2.5,action,close-up,1,0,pan/track right,0.589,left->right,0,0.81,3
+167,720.79,2.12,action,close-up,2,0,tilt up + shake,0.798,right->left,1,0.58,4
+168,722.92,2.96,action,close-up,4,0,tilt up,0.337,left->right,0,0.71,4
+169,725.88,1.38,effects/creature motion,no people,0,0,push-in,0.771,right->left,1,0.81,3
+170,727.25,1.38,effects/creature motion,no people,0,0,pan/track right,0.784,left->right,0,1.0,3
+171,728.62,1.71,crowd,close-up,5,0,static,0.218,right->left,0,0.6,4
+172,730.33,11.92,character/dialogue,close-up,2,0,handheld/shake,0.119,left->right,0,0.63,3
+173,742.25,20.04,action,medium,1,0,push-in,0.639,right->left,7,0.5,4
+174,762.29,12.96,action,close-up,3,0,pan/track right + shake,0.627,right->left,5,0.6,5
+175,775.25,1.29,action,close-up,1,0,pan/track left,0.881,left->right,0,1.0,3
+176,776.54,1.88,effects/creature motion,close-up,0,0,push-in,0.753,right->left,0,0.8,3
+177,778.42,1.58,effects/creature motion,no people,0,0,handheld/shake,0.867,left->right,0,0.86,3
+178,780.0,3.75,action,medium,2,0,pan/track right + shake,0.826,right->left,1,0.72,4
+179,783.75,1.12,crowd,close-up,6,0,pull-out,0.66,left->right,0,0.81,4
+180,784.88,2.58,action,close-up,1,0,push-in,0.561,left->right,0,0.75,3
+181,787.46,1.58,action,medium,4,0,pan/track left,0.682,left->right,0,0.76,4
+182,789.04,24.04,action,close-up,4,0,pan/track left + shake,0.402,right->left,5,0.77,5
+183,813.08,9.92,action,wide,4,0,tilt up,0.369,left->right,1,0.57,5
+184,823.0,5.62,action,close-up,2,0,pan/track right,0.848,left->right,1,0.81,4
+185,828.62,2.42,effects/creature motion,close-up,0,0,pan/track right + shake,0.772,left->right,0,0.88,3
+186,831.04,0.29,effects/creature motion,no people,0,0,static,0.335,none,0,1.0,2
+187,831.33,0.38,landscape/establishing,no people,0,0,static,0.01,none,0,1.0,1
+188,831.71,1.5,effects/creature motion,wide,0,0,pan/track right,0.601,right->left,0,0.79,3
+189,833.21,0.79,action,medium,2,0,push-in,0.908,left->right,0,0.83,3
+190,834.0,2.17,effects/creature motion,medium,0,0,push-in,0.71,left->right,2,0.61,3
+191,836.17,9.38,action,close-up,2,0,pan/track left,0.236,right->left,1,0.68,4
+192,845.54,2.83,crowd,close-up,6,0,pull-out,0.737,right->left,0,0.76,4
+193,848.38,2.83,action,close-up,4,0,push-in,0.816,right->left,0,0.88,4
+194,851.21,11.12,action,close-up,2,0,pan/track left + shake,0.766,right->left,3,0.66,5
+195,862.33,4.5,action,wide,1,0,handheld/shake,0.319,right->left,1,0.63,4
+196,866.83,2.42,vehicle/chase,close-up,1,1,static,0.576,left->right,0,0.96,3
+197,869.25,1.08,vehicle/chase,close-up,3,1,static,0.103,right->left,0,0.94,3
+198,870.33,12.71,character/dialogue,close-up,2,0,static,0.113,right->left,8,0.56,3
+199,883.04,4.0,vehicle/chase,close-up,6,1,pan/track left,0.548,right->left,0,1.0,4
+200,887.04,10.33,vehicle/chase,medium,5,1,push-in,0.785,right->left,2,0.6,5
+201,897.38,3.25,character/dialogue,close-up,1,0,static,0.094,right->left,1,0.85,2
+202,900.62,2.62,action,close-up,1,0,pan/track left,0.702,right->left,1,0.56,3
+203,903.25,4.5,action,medium,1,0,push-in,0.934,right->left,0,0.94,3
+204,907.75,3.46,vehicle/chase,medium,0,1,handheld/shake,0.73,right->left,1,0.52,4
+205,911.21,2.33,vehicle/chase,no people,0,2,pull-out,0.102,away from camera,0,1.0,3
+206,913.54,1.96,character/dialogue,close-up,1,1,static,0.064,left->right,0,0.54,2
+207,915.5,2.88,action,medium,1,0,push-in,0.88,left->right,0,0.57,3
+208,918.38,2.0,action,close-up,1,0,pan/track left + shake,0.821,right->left,1,0.58,4
+209,920.38,1.08,effects/creature motion,no people,0,0,pan/track right,0.846,right->left,0,0.68,3
+210,921.46,2.17,vehicle/chase,wide,1,1,push-in,0.282,left->right,0,1.0,3
+211,923.62,1.62,vehicle/chase,medium,1,1,push-in,0.675,right->left,0,0.72,3
+212,925.25,4.96,action,close-up,3,0,static,0.412,right->left,1,0.53,4
+213,930.21,3.25,vehicle/chase,close-up,2,1,static,0.086,right->left,1,0.54,3
+214,933.46,2.04,character/dialogue,close-up,2,0,static,0.067,right->left,0,0.9,2
+215,935.5,3.21,vehicle/chase,wide,1,1,pan/track right,0.454,left->right,0,1.0,3
+216,938.71,1.21,vehicle/chase,wide,1,1,pull-out,0.445,left->right,0,1.0,3
+217,939.92,1.75,vehicle/chase,no people,0,1,push-in,0.566,right->left,0,0.63,3
+218,941.67,1.17,vehicle/chase,medium,1,1,static,0.473,left->right,0,0.81,3
+219,942.83,1.5,action,wide,1,0,push-in,0.317,left->right,0,1.0,3
+220,944.33,7.88,action,medium,1,0,handheld/shake,0.518,right->left,0,0.96,4
+221,952.21,2.17,character/dialogue,wide,1,0,static,0.01,left->right,0,0.57,1
+222,954.38,3.04,character/dialogue,close-up,1,0,static,0.006,none,0,1.0,1
+223,957.42,7.54,vehicle/chase,close-up,0,1,push-in,0.452,right->left,0,0.86,3
+224,964.96,1.96,effects/creature motion,no people,0,0,push-in,0.766,right->left,1,0.59,3
+225,966.92,0.33,effects/creature motion,no people,0,0,push-in,0.856,left->right,0,0.71,3
+226,967.25,2.25,effects/creature motion,no people,0,0,push-in,0.403,right->left,0,0.85,3
+227,969.5,0.42,effects/creature motion,no people,0,0,push-in,0.339,toward camera,0,0.89,3
+228,969.92,0.46,landscape/establishing,no people,0,0,static,0.071,right->left,0,0.62,1
+229,970.38,0.25,effects/creature motion,no people,0,0,static,0.189,none,0,1.0,2
+230,970.62,3.21,landscape/establishing,no people,0,0,static,0.008,toward camera,0,1.0,1
+231,973.83,5.38,effects/creature motion,no people,0,0,push-in,0.288,toward camera,0,0.97,3
+232,979.21,3.62,character/dialogue,medium,1,0,static,0.003,none,0,1.0,1
+233,982.83,4.67,character/dialogue,close-up,1,0,static,0.006,none,0,1.0,1
+234,987.5,4.96,action,close-up,1,0,tilt up,0.571,right->left,0,0.72,3
+235,992.46,2.04,landscape/establishing,no people,0,0,push-in,0.012,none,0,1.0,1
+236,994.5,3.04,character/dialogue,close-up,1,0,tilt up,0.046,toward camera,0,1.0,1
+237,997.54,3.17,effects/creature motion,no people,0,0,tilt down,0.175,away from camera,0,0.95,3
+238,1000.71,3.83,action,medium,2,0,pan/track right,0.709,right->left,0,1.0,3
+239,1004.54,3.25,landscape/establishing,no people,0,0,static,0.0,none,0,1.0,1
+240,1007.79,6.88,action,close-up,4,0,pan/track left,0.329,left->right,1,0.56,5
+241,1014.67,11.79,action,close-up,1,0,pan/track left + shake,0.367,left->right,1,0.54,4
+242,1026.46,5.0,action,close-up,1,0,push-in,0.48,left->right,0,0.92,3
+243,1031.46,11.46,action,close-up,1,0,pan/track right,0.385,left->right,1,0.72,4
+244,1042.92,2.88,action,close-up,1,0,static,0.165,left->right,0,0.84,2
+245,1045.79,1.96,action,close-up,1,0,static,0.451,left->right,0,0.65,2
+246,1047.75,1.29,action,medium,1,0,pan/track right,0.358,left->right,0,0.57,3
+247,1049.04,7.88,action,close-up,1,0,pan/track right,0.13,right->left,2,0.55,3
+248,1056.92,3.58,character/dialogue,medium,1,0,static,0.003,none,0,1.0,1
+249,1060.5,2.58,character/dialogue,close-up,1,0,static,0.04,left->right,0,0.7,1
+250,1063.08,3.75,character/dialogue,close-up,1,0,static,0.0,none,0,1.0,1
+251,1066.83,12.62,character/dialogue,close-up,1,0,static,0.035,right->left,2,0.57,1
+252,1079.46,1.58,crowd,close-up,7,0,tilt up,0.649,right->left,1,0.51,5
+253,1081.04,2.25,character/dialogue,close-up,2,0,static,0.017,left->right,1,0.8,2
+254,1083.29,2.88,character/dialogue,close-up,2,0,static,0.07,left->right,1,0.57,3
+255,1086.17,1.5,character/dialogue,close-up,2,0,pan/track left,0.01,toward camera,0,1.0,2
+256,1087.67,2.92,group character,close-up,3,0,static,0.001,none,0,1.0,2
+257,1090.58,4.17,action,medium,1,0,pan/track left,0.473,right->left,0,1.0,3
+258,1094.75,1.04,action,medium,2,0,push-in,0.683,left->right,0,0.67,3
+259,1095.79,1.62,action,close-up,2,0,pan/track left + shake,0.828,left->right,1,0.68,4
+260,1097.42,0.79,action,close-up,3,0,static,0.188,right->left,0,0.72,3
+261,1098.21,1.71,crowd,close-up,5,0,static,0.218,right->left,0,0.62,4
+262,1099.92,1.67,group character,close-up,3,0,static,0.022,right->left,0,0.7,2
+263,1101.58,1.62,character/dialogue,close-up,2,0,tilt up,0.03,right->left,0,0.69,2
+264,1103.21,4.67,action,medium,3,0,push-in,0.831,left->right,1,0.68,4
+265,1107.88,2.88,action,close-up,2,0,static,0.229,left->right,0,0.65,3
+266,1110.75,3.71,action,close-up,1,0,tilt up,0.162,right->left,0,0.64,3
+267,1114.46,2.33,landscape/establishing,close-up,0,0,static,0.071,right->left,0,0.96,1
+268,1116.79,7.0,action,close-up,1,0,pull-out,0.449,left->right,1,0.55,4
+269,1123.79,7.04,landscape/establishing,medium,0,0,push-in,0.034,left->right,1,0.51,2
+270,1130.83,4.17,landscape/establishing,no people,0,0,static,0.12,away from camera,1,0.73,2
+271,1135.0,3.83,effects/creature motion,wide,0,0,handheld/shake,0.348,right->left,1,0.62,4
+272,1138.83,1.46,action,close-up,1,0,pan/track right + shake,0.707,right->left,0,0.77,3
+273,1140.29,1.5,action,close-up,1,0,push-in,0.182,right->left,0,1.0,3
