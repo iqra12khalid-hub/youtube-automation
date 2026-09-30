@@ -11,5 +11,6 @@ Layout: ONE character shown 5 times side by side on a plain neutral grey studio 
 3. side profile (facing left)
 4. back view (backpack clearly visible)
 5. head-and-shoulders face close-up, front, neutral expression (for facial detail)
+ITEMS RULE: the gauntlet and the backpack are shown in EVERY view, always in the same place, seen correctly from that view's angle: gauntlet on the RIGHT forearm (clearly visible in front and 3/4 views, on the far arm in the left-facing side profile, visible from behind on the right arm in the back view); backpack on his back (straps visible from the front, full backpack visible from the side and back).
 Lighting: soft even studio light, no dramatic shadows, true colours.
 Photoreal live-action costume reference photo, 35mm, sharp focus. No text, no labels, no watermark, no borders. Exactly one character, five views.

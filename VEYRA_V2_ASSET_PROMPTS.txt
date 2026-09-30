@@ -9,34 +9,35 @@ PART A - CHARACTER SHEETS  (5 views: front, 3/4, side, back, face close-up)
 Standard layout for every character (used in all prompts below):
 ONE character shown 5 times side by side on a plain neutral grey studio background, soft even studio light, same scale in every view, full body with feet visible in views 1-4:
 1 front view, neutral stance  2 three-quarter view  3 side profile facing left  4 back view  5 head-and-shoulders face close-up, front, neutral expression.
+WEAPON RULE: every weapon and carried item is shown in EVERY view, always in the same carry position (same side, same place on the body), seen correctly from that view's angle: from the front you see it from the front, from the side you see its side, from the back you see it from behind. It is never missing, never moved to another place, never swapped to the other side. In the close-up (view 5), show the part of the weapon that is visible near the head and shoulders (for example sword hilts over the shoulders).
 Exactly one character, five views.
 
 A1 · Save as: CHAR_Teo.jpg
 Use the separate file VEYRA_IMAGE_PROMPT_CHAR_Teo_v2.txt (new young-adult design).
 
 A2 · Save as: CHAR_Nyra.jpg   | Upload: old CHAR_Nyra.jpg
-Rebuild this character sheet from the uploaded CHAR_Nyra reference, keeping her design 100% identical: same face, golden-blonde braids, pearl-white antlers, white-and-gold armour with wolf-head pauldron, white fur mantle, twin curved swords (shown sheathed crossed on her back in views 1-4). Use the standard 5-view layout.
+Rebuild this character sheet from the uploaded CHAR_Nyra reference, keeping her design 100% identical: same face, golden-blonde braids, pearl-white antlers, white-and-gold armour with wolf-head pauldron, white fur mantle, twin curved swords. WEAPONS: both swords sheathed and crossed in an X on her back, hilts sticking up above both shoulders - hilts visible in front, 3/4, side and close-up views, the full crossed swords visible in the back view. Use the standard 5-view layout.
 
 A3 · Save as: CHAR_Kael.jpg   | Upload: old CHAR_Kael.jpg
-Rebuild this character sheet from the uploaded CHAR_Kael reference, keeping his design 100% identical: same face, stubble, scar, amber left eye, brown leather jacket with one sleeve torn off, bone-white alien arm with glowing amber fissures on the same side as in the reference, revolver holster, amber broadsword on his back. Use the standard 5-view layout.
+Rebuild this character sheet from the uploaded CHAR_Kael reference, keeping his design 100% identical: same face, stubble, scar, amber left eye, brown leather jacket with one sleeve torn off, bone-white alien arm with glowing amber fissures on the same side as in the reference, revolver holster, amber broadsword on his back. WEAPONS: the revolver sits in its holster on the same hip as in the reference; the amber broadsword hangs diagonally across his back, hilt above the same shoulder as in the reference - hilt visible in front, 3/4, side and close-up views, the full sword visible in the back view, the holstered revolver visible in every full-body view. Use the standard 5-view layout.
 
 A4 · Save as: GUEST_Rhea.jpg  | Upload: old GUEST_Rhea.jpg
-Rebuild this character sheet from the uploaded GUEST_Rhea reference, keeping her design 100% identical: same face and shaved head, grey-and-white Solace pilot armour with amber accents, rifle on her back. Use the standard 5-view layout.
+Rebuild this character sheet from the uploaded GUEST_Rhea reference, keeping her design 100% identical: same face and shaved head, grey-and-white Solace pilot armour with amber accents, rifle on her back. WEAPONS: the rifle slung diagonally across her back, the pistol in its thigh holster and the short amber blade on her hip, all on the same sides as in the reference - visible in every full-body view, the rifle stock visible over her shoulder in the close-up. Use the standard 5-view layout.
 
 A5 · Save as: GUEST_Oris.jpg  | Upload: old GUEST_Oris.jpg
-Rebuild this character sheet from the uploaded GUEST_Oris reference, keeping his design 100% identical: same face, long white beard and hair, patterned brown-and-grey robes, belt with pouches, bone staff with a crystal. Use the standard 5-view layout.
+Rebuild this character sheet from the uploaded GUEST_Oris reference, keeping his design 100% identical: same face, long white beard and hair, patterned brown-and-grey robes, belt with pouches, bone staff with a crystal. PROP: he holds the bone staff upright in his right hand in every view (as in the reference), the crystal top visible beside his head in the close-up. Use the standard 5-view layout.
 
 A6 · Save as: GUEST_Dax.jpg   | Upload: old GUEST_Dax.jpg
-Rebuild this character sheet from the uploaded GUEST_Dax reference, keeping his design 100% identical: same face and beard, olive-green long coat, black shirt, amber ammo bandolier, glowing axes, shotgun on his back. Use the standard 5-view layout.
+Rebuild this character sheet from the uploaded GUEST_Dax reference, keeping his design 100% identical: same face and beard, olive-green long coat, black shirt, amber ammo bandolier, glowing axes, shotgun on his back. WEAPONS: the shotgun slung diagonally across his back, one glowing axe hanging from each side of his belt, all as in the reference - visible in every full-body view, the shotgun stock visible over his shoulder in the close-up. Use the standard 5-view layout.
 
 A7 · Save as: ENEMY_Soldier.jpg | Upload: old ENEMY_Soldier.jpg
-Rebuild this enemy sheet from the uploaded ENEMY_Soldier reference, 100% identical design: matte-black armour with red light lines, sealed helmet with one horizontal red visor slit, spiked shoulders, red chest core, plasma carbine. Completely faceless. Use the standard layout, but view 5 is a helmet close-up (front) instead of a face.
+Rebuild this enemy sheet from the uploaded ENEMY_Soldier reference, 100% identical design: matte-black armour with red light lines, sealed helmet with one horizontal red visor slit, spiked shoulders, red chest core, plasma carbine. WEAPON: the carbine held across his chest in both hands, muzzle pointing down to his left, in views 1-4; in the helmet close-up the top of the carbine is visible at the bottom of the frame. Completely faceless. Use the standard layout, but view 5 is a helmet close-up (front) instead of a face.
 
 A8 · Save as: ENEMY_Elite.jpg | Upload: old ENEMY_Elite.jpg
-Rebuild this enemy sheet from the uploaded ENEMY_Elite reference, 100% identical design: sleek obsidian armour with red light lines, helmet with three red eyes in a triangle, tattered black cape, long red energy glaive (blade on a long pole), wrist blasters, clawed feet. Completely faceless. Standard layout; view 5 is a helmet close-up (front).
+Rebuild this enemy sheet from the uploaded ENEMY_Elite reference, 100% identical design: sleek obsidian armour with red light lines, helmet with three red eyes in a triangle, tattered black cape, long red energy glaive (blade on a long pole), wrist blasters, clawed feet. WEAPONS: the glaive strapped diagonally across its back, blade end above one shoulder as in the reference; a wrist blaster on each forearm - all visible in every full-body view, the glaive blade visible above the shoulder in the close-up. Completely faceless. Standard layout; view 5 is a helmet close-up (front).
 
 A9 · Save as: ENEMY_Commander.jpg | Upload: old ENEMY_Commander.jpg
-Rebuild this enemy sheet from the uploaded ENEMY_Commander reference, 100% identical design: massive black-and-red armour, crown of black spikes, one vertical red eye slit, broken-ring red chest core, long red cape, huge red energy greatsword. Completely faceless. Standard layout; view 5 is a helmet close-up (front).
+Rebuild this enemy sheet from the uploaded ENEMY_Commander reference, 100% identical design: massive black-and-red armour, crown of black spikes, one vertical red eye slit, broken-ring red chest core, long red cape, huge red energy greatsword. WEAPON: the greatsword sheathed diagonally across his back, hilt above one shoulder as in the reference - visible in every full-body view and the hilt visible in the helmet close-up. Completely faceless. Standard layout; view 5 is a helmet close-up (front).
 
 ======================================================================
 PART B - LOCATION SHEETS  (4 views of the same place in a 2x2 grid)
