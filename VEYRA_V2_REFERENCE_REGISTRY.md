@@ -12,6 +12,11 @@ Use these names EXACTLY in every prompt.
 | `GUEST_Oris.jpg` | Oris — sheet |
 | `GUEST_Rhea.jpg` | Rhea — sheet |
 
+## Civilians
+| File | What it is |
+|---|---|
+| `public people .jpg` | Civilian population (note the SPACE before .jpg): top row Solace citizens in cream robes, bottom row Undercity folk in dark hooded cloaks — alien species |
+
 ## Enemies
 | File | What it is |
 |---|---|
@@ -25,15 +30,17 @@ Use these names EXACTLY in every prompt.
 | `Eenmy_responders.jpg` | Khorr STRIKE CRAFT (small enemy fighters) — vehicle sheet |
 | `Friendly_responders.jpg` | Solace fighter (small friendly fighters) — vehicle sheet |
 | `ENV_09_rust_moth_exterior.jpg` | Kael's ship, the Rust Moth |
+| `civilain_vehicles.jpg` | Solace civilian traffic: pod car, family car, cargo hauler (front/side/rear each) |
 | — | Khorr dropship — not made yet |
 
 ## Environments
 | File | What it is |
 |---|---|
+| `ENV_01_solace_city.jpg` | Solace city sheet (4 views: aerial, street, bridge walkway, arch plaza) — built from repeating shell towers, root bridges, walkways, arches + Spine Tower |
 | `ENV_05a_mothership_hall.jpg` | Inside the warship — great hall |
 | `ENV_05c_mothership_bridge.jpg` | Inside the warship — bridge |
 | `ENV_06_sky_peaceful.jpg` | Golden sky over Veyra |
 | `ENV_10_dead_expanse.jpg` | Salt flats |
 | — | Other locations are generated scene by scene as the film proceeds |
 
-**Total in folder: 16 files.**
+**Total in folder: 19 files.**
