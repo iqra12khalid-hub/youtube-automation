@@ -1,0 +1,926 @@
+VEYRA v2 - CLIPS 1 TO 6 (JSON prompts, 30 s each, one generation per clip)
+
+======================================================================
+CLIP 1 - IT COMES
+UPLOAD: ENV_06_sky_peaceful.jpg, Enemy_ship.jpg, ENV_01_solace_city.jpg, Friendly_responders.jpg, civilain_vehicles.jpg, public people .jpg
+======================================================================
+{
+  "clip": 1,
+  "title": "IT COMES",
+  "duration_seconds": 30,
+  "aspect_ratio": "16:9",
+  "model": "seedance_2.5",
+  "generation": "ONE single continuous 30-second video in one generation. Do not split it into parts. The shots below are camera cuts inside this one video.",
+  "link_to_previous_clip": "CUT - opening shot of the film",
+  "first_frame": "none - new scene",
+  "references_to_upload": [
+    "ENV_06_sky_peaceful.jpg",
+    "Enemy_ship.jpg",
+    "ENV_01_solace_city.jpg",
+    "Friendly_responders.jpg",
+    "civilain_vehicles.jpg",
+    "public people .jpg"
+  ],
+  "reference_rules": {
+    "use_only_these": [
+      "ENV_06_sky_peaceful.jpg",
+      "Enemy_ship.jpg",
+      "ENV_01_solace_city.jpg",
+      "Friendly_responders.jpg",
+      "civilain_vehicles.jpg",
+      "public people .jpg"
+    ],
+    "ignore_any_other_image": true,
+    "ENV_06_sky_peaceful.jpg": "the golden sky above Veyra: cloud layers, two suns, ringed gas giant. Copy exactly.",
+    "Enemy_ship.jpg": "the Khorr mothership vehicle sheet. Views: top-left FRONT, top-right SIDE, bottom-left TOP (round ring shape), middle-right REAR (twin red engines + exhaust grate), bottom-right UNDERSIDE (large belly hatch open). Inspect all views before filming; the ship must match them exactly from every angle.",
+    "ENV_01_solace_city.jpg": "Solace city sheet (aerial, street walkway, high bridge walkway, arch plaza). Copy the architecture, materials, colours and light exactly.",
+    "Friendly_responders.jpg": "the Solace fighter vehicle sheet (front, side, top, rear, canopy open). All Solace fighters match it exactly.",
+    "civilain_vehicles.jpg": "Solace civilian traffic: pod car, family car, cargo hauler (front, side, rear each). These are the ONLY civilian vehicles; small wheels with a soft amber glow underneath.",
+    "public people .jpg": "Solace civilians: top row = Solace citizens in cream and white robes; bottom row = Undercity folk in dark hooded cloaks. All bystanders match these designs."
+  },
+  "film_settings": {
+    "style": "photoreal live-action sci-fi feature film, high-budget Hollywood look, shot on ARRI Alexa 65 with anamorphic lenses, 35mm film grain, natural motion blur, 24 fps, real-time speed, no slow motion, no lag",
+    "camera": "locked-off tripod shots and slow controlled camera moves only; no handheld shake; no zoom-ins",
+    "color_palette": "Solace: bone-white, cream, pale stone, warm amber light. Khorr: matte black and blood-red. Sky: golden dusk, two suns, huge pale cream ringed gas giant.",
+    "lighting": "practical light sources only (sun, lamps, windows, fire, red vents, amber glow); strong contrast; soft atmospheric haze"
+  },
+  "locks": {
+    "physics": "Every body, vehicle, object, piece of debris, smoke and dust moves with real weight and momentum. Feet push against the ground and stay in contact while running. Impacts push things back in the direction of the hit. Smoke, dust, sparks, cloth and hair trail behind movement. Nothing floats, slides or changes speed without a cause.",
+    "screen_direction": "The Khorr mothership always travels from screen LEFT to screen RIGHT in every shot. The Solace fighters fly left to right before they scatter.",
+    "set_lock": "Solace is built ONLY from the pieces in ENV_01_solace_city.jpg: stacked bone-white shell towers with rows of oval amber windows, curved root bridges with amber edge lines connecting the towers at many levels, pale cream stone walkways with low curved railings and round amber lamps, ribbed white arches over plazas, and the single giant amber-glowing Spine Tower in the centre. No other building style exists.",
+    "light_lock": "Golden dusk. Two suns low on the right. Warm amber everywhere until the mothership's shadow turns it deep red.",
+    "state_log": [
+      "City peaceful and undamaged.",
+      "Mothership arrives in this clip; its red vents open at the end."
+    ],
+    "people": "Civilians only appear in shot 4 and shot 5: they stop, look up and step back in fear."
+  },
+  "shots": [
+    {
+      "time": "0-5s",
+      "camera": "static, black frame",
+      "cut_in": "Film opens on pure black.",
+      "environment": "Darkness.",
+      "action": {
+        "start": "Pure black screen.",
+        "force": "A single warm amber light pulses in the centre like a heartbeat.",
+        "motion_and_contact": "The pulse beats three times, each brighter.",
+        "weight_and_reaction": "The third pulse blooms outward and fills the frame with golden light.",
+        "end": "Frame fully golden."
+      },
+      "background_motion": "None.",
+      "cut_out": "Cut as the gold fills the frame."
+    },
+    {
+      "time": "5-10s",
+      "camera": "wide aerial, slow forward drift",
+      "cut_in": "Continues out of the golden light into the sky.",
+      "environment": "ENV_06_sky_peaceful.jpg: golden cloud layers, two suns low on the right, the huge ringed gas giant filling the upper left.",
+      "action": {
+        "start": "Three Solace fighters (follow Friendly_responders.jpg) enter from screen left in a V formation.",
+        "force": "Their amber engines push them forward.",
+        "motion_and_contact": "They glide left to right past the camera, amber trails behind them.",
+        "weight_and_reaction": "Clouds swirl in their wake; sunlight flashes on their pearl-white hulls.",
+        "end": "Fighters in the right half of the frame."
+      },
+      "background_motion": "Cloud layers drift slowly.",
+      "cut_out": "Cut as the lead fighter passes the centre."
+    },
+    {
+      "time": "10-15s",
+      "camera": "wide, static",
+      "cut_in": "Same sky, the fighters ahead on the right.",
+      "environment": "The cloud bank on the left side of the frame.",
+      "action": {
+        "start": "The clouds on screen left bulge and darken.",
+        "force": "The Khorr mothership (follow Enemy_ship.jpg, FRONT then SIDE view) pushes out of the clouds, prow first.",
+        "motion_and_contact": "It slides out of the clouds moving left to right, enormous, filling half the sky.",
+        "weight_and_reaction": "Clouds tear around its spiked hull in a ring; a pressure wave ripples through the cloud layer; the three fighters break apart and scatter.",
+        "end": "The mothership fully out of the clouds, still moving right."
+      },
+      "background_motion": "Cloud fragments swirl around the hull.",
+      "cut_out": "Cut when the ship's full side is visible."
+    },
+    {
+      "time": "15-20s",
+      "camera": "street level, static, looking up",
+      "cut_in": "New angle: on the ground in Solace.",
+      "environment": "ENV_01_solace_city.jpg street-walkway view: shell towers on both sides, cream walkway, amber lamps, Spine Tower in the distance.",
+      "action": {
+        "start": "Civilians (follow 'public people .jpg', Solace citizens) walk along the walkway; pod cars and family cars (follow civilain_vehicles.jpg) move slowly left to right.",
+        "force": "The mothership's shadow sweeps over the city from left to right.",
+        "motion_and_contact": "The shadow crosses the towers and the walkway; people stop and look up; cars brake and stop.",
+        "weight_and_reaction": "The warm light turns dark red; robes and coats stir in a sudden gust.",
+        "end": "Everyone frozen, staring up."
+      },
+      "background_motion": "Amber lamps flicker.",
+      "cut_out": "Cut on the frozen crowd."
+    },
+    {
+      "time": "20-25s",
+      "camera": "low angle, static, looking straight up between towers",
+      "cut_in": "Looking up from the same street.",
+      "environment": "Shell towers framing a strip of sky.",
+      "action": {
+        "start": "The mothership's belly (follow Enemy_ship.jpg, UNDERSIDE view) slides into view above the towers.",
+        "force": "It keeps moving left to right.",
+        "motion_and_contact": "Its spiked underside passes slowly overhead, blocking the sky.",
+        "weight_and_reaction": "The Spine Tower's amber glow in the distance dims and flickers.",
+        "end": "The belly directly overhead."
+      },
+      "background_motion": "Birds scatter from the towers.",
+      "cut_out": "Cut as the ship's centre is overhead."
+    },
+    {
+      "time": "25-30s",
+      "camera": "wide, static, from a high bridge walkway",
+      "cut_in": "Wide view of the city under the ship.",
+      "environment": "ENV_01_solace_city.jpg high bridge-walkway view, the whole city below the mothership.",
+      "action": {
+        "start": "The mothership hangs over the centre of Solace.",
+        "force": "Rows of vents on its underside open one by one.",
+        "motion_and_contact": "The openings run in a line from left to right.",
+        "weight_and_reaction": "Each vent glows blinding blood-red; red light spills down onto the white towers.",
+        "end": "All vents open and glowing above the city."
+      },
+      "background_motion": "Tiny civilians below run for cover.",
+      "cut_out": "End of clip."
+    }
+  ],
+  "end_frame": "The mothership hanging over Solace, every red vent on its underside glowing, red light falling onto the white towers.",
+  "dialogue": [],
+  "sound": "Heartbeat thumps, soft wind, fighter engine whooshes, deep sub-bass rumble, clouds tearing, metal groaning, a low rising hum as the vents open. No music.",
+  "negative": "no text, no subtitles, no letters or symbols on screen, no watermark, no logos, no cartoon or anime look, no CGI-render look, no duplicate characters, no extra characters that are not in the references, no morphing, no reverse motion"
+}
+
+======================================================================
+CLIP 2 - FIRST STRIKE
+UPLOAD: Enemy_ship.jpg, ENV_01_solace_city.jpg, Friendly_responders.jpg, Eenmy_responders.jpg, civilain_vehicles.jpg, public people .jpg
+======================================================================
+{
+  "clip": 2,
+  "title": "FIRST STRIKE",
+  "duration_seconds": 30,
+  "aspect_ratio": "16:9",
+  "model": "seedance_2.5",
+  "generation": "ONE single continuous 30-second video in one generation. Do not split it into parts. The shots below are camera cuts inside this one video.",
+  "link_to_previous_clip": "CONTINUOUS from clip 1",
+  "first_frame": "Use the last frame of clip 1 as the first frame: the mothership over Solace with all red vents glowing.",
+  "references_to_upload": [
+    "Enemy_ship.jpg",
+    "ENV_01_solace_city.jpg",
+    "Friendly_responders.jpg",
+    "Eenmy_responders.jpg",
+    "civilain_vehicles.jpg",
+    "public people .jpg"
+  ],
+  "reference_rules": {
+    "use_only_these": [
+      "Enemy_ship.jpg",
+      "ENV_01_solace_city.jpg",
+      "Friendly_responders.jpg",
+      "Eenmy_responders.jpg",
+      "civilain_vehicles.jpg",
+      "public people .jpg"
+    ],
+    "ignore_any_other_image": true,
+    "Enemy_ship.jpg": "the Khorr mothership vehicle sheet. Views: top-left FRONT, top-right SIDE, bottom-left TOP (round ring shape), middle-right REAR (twin red engines + exhaust grate), bottom-right UNDERSIDE (large belly hatch open). Inspect all views before filming; the ship must match them exactly from every angle.",
+    "ENV_01_solace_city.jpg": "Solace city sheet (aerial, street walkway, high bridge walkway, arch plaza). Copy the architecture, materials, colours and light exactly.",
+    "Friendly_responders.jpg": "the Solace fighter vehicle sheet (front, side, top, rear, canopy open). All Solace fighters match it exactly.",
+    "Eenmy_responders.jpg": "the Khorr strike craft vehicle sheet (front, side, top, rear). All Khorr fighters match it exactly.",
+    "civilain_vehicles.jpg": "Solace civilian traffic: pod car, family car, cargo hauler (front, side, rear each). These are the ONLY civilian vehicles; small wheels with a soft amber glow underneath.",
+    "public people .jpg": "Solace civilians: top row = Solace citizens in cream and white robes; bottom row = Undercity folk in dark hooded cloaks. All bystanders match these designs."
+  },
+  "film_settings": {
+    "style": "photoreal live-action sci-fi feature film, high-budget Hollywood look, shot on ARRI Alexa 65 with anamorphic lenses, 35mm film grain, natural motion blur, 24 fps, real-time speed, no slow motion, no lag",
+    "camera": "locked-off tripod shots and slow controlled camera moves only; no handheld shake; no zoom-ins",
+    "color_palette": "Solace: bone-white, cream, pale stone, warm amber light. Khorr: matte black and blood-red. Sky: golden dusk, two suns, huge pale cream ringed gas giant.",
+    "lighting": "practical light sources only (sun, lamps, windows, fire, red vents, amber glow); strong contrast; soft atmospheric haze"
+  },
+  "locks": {
+    "physics": "Every body, vehicle, object, piece of debris, smoke and dust moves with real weight and momentum. Feet push against the ground and stay in contact while running. Impacts push things back in the direction of the hit. Smoke, dust, sparks, cloth and hair trail behind movement. Nothing floats, slides or changes speed without a cause.",
+    "screen_direction": "Civilians and cars always flee toward screen RIGHT. Solace fighters fly left to right. Khorr strike craft pour out of the mothership and fly right to left toward the Solace fighters.",
+    "set_lock": "Solace is built ONLY from the pieces in ENV_01_solace_city.jpg: stacked bone-white shell towers with rows of oval amber windows, curved root bridges with amber edge lines connecting the towers at many levels, pale cream stone walkways with low curved railings and round amber lamps, ribbed white arches over plazas, and the single giant amber-glowing Spine Tower in the centre. No other building style exists.",
+    "light_lock": "Golden dusk turning orange and red from fire. Black smoke rising. Red light from the vents.",
+    "state_log": [
+      "Start: city undamaged, vents glowing.",
+      "After shot 1: three shell towers on the right are burning at the top.",
+      "After shot 3: one root bridge is cut in two.",
+      "Smoke columns stay for the rest of the film."
+    ],
+    "people": "Every civilian reacts to danger: they look up, flinch, run, duck behind cars and pull each other along. Nobody stands still or keeps walking calmly during an attack.",
+    "enemy": "The Khorr act instantly and relentlessly: they move at full speed and never slow down, hesitate or hold back."
+  },
+  "shots": [
+    {
+      "time": "0-5s",
+      "camera": "wide, static",
+      "cut_in": "Continues from the glowing vents of clip 1.",
+      "environment": "The mothership above, shell towers below on the right.",
+      "action": {
+        "start": "The vents glow at full brightness.",
+        "force": "Thick red beams fire straight down from three vents.",
+        "motion_and_contact": "The beams hit the tops of three shell towers on the right.",
+        "weight_and_reaction": "The tower tops burst into fire; burning chunks fall with gravity; smoke rolls up.",
+        "end": "Three towers burning."
+      },
+      "background_motion": "Debris falling.",
+      "cut_out": "Cut on the falling debris."
+    },
+    {
+      "time": "5-10s",
+      "camera": "street level, static",
+      "cut_in": "On the walkway below the burning towers.",
+      "environment": "ENV_01_solace_city.jpg street walkway, smoke above.",
+      "action": {
+        "start": "Civilians (follow 'public people .jpg') on the walkway, cars (follow civilain_vehicles.jpg) stopped.",
+        "force": "Burning debris crashes onto the walkway behind them.",
+        "motion_and_contact": "People run toward screen right, pulling each other; drivers leave their cars and run right too.",
+        "weight_and_reaction": "Dust and sparks burst from the impacts; lamps swing.",
+        "end": "The walkway emptying to the right."
+      },
+      "background_motion": "Ash drifting down.",
+      "cut_out": "Cut as the last people leave frame right."
+    },
+    {
+      "time": "10-15s",
+      "camera": "wide side view, static",
+      "cut_in": "New angle: a root bridge between two towers.",
+      "environment": "ENV_01_solace_city.jpg root bridge with cars on it.",
+      "action": {
+        "start": "A red beam sweeps down toward the bridge.",
+        "force": "The beam cuts through the middle of the bridge.",
+        "motion_and_contact": "The bridge splits in two; each half sags downward on its tower.",
+        "weight_and_reaction": "Cars on it brake and stop at the broken edge; stones and dust fall into the gap.",
+        "end": "The bridge broken, two halves hanging."
+      },
+      "background_motion": "Smoke drifting across.",
+      "cut_out": "Cut on the broken bridge."
+    },
+    {
+      "time": "15-20s",
+      "camera": "medium-wide, static",
+      "cut_in": "New angle: a launch platform on top of a tall shell tower.",
+      "environment": "Round pale platform with amber landing lights.",
+      "action": {
+        "start": "Five Solace fighters (follow Friendly_responders.jpg) rest on the platform.",
+        "force": "Their amber engines ignite.",
+        "motion_and_contact": "They lift off vertically, then fly off left to right in formation.",
+        "weight_and_reaction": "Heat haze and dust blast across the platform.",
+        "end": "Platform empty, fighters leaving frame right."
+      },
+      "background_motion": "Warning lights blinking.",
+      "cut_out": "Cut as the last fighter leaves."
+    },
+    {
+      "time": "20-25s",
+      "camera": "wide aerial, static",
+      "cut_in": "The sky between the city and the mothership.",
+      "environment": "Golden sky with smoke columns rising from the city.",
+      "action": {
+        "start": "Khorr strike craft (follow Eenmy_responders.jpg) pour out of the mothership's underside.",
+        "force": "They dive toward the Solace fighters, flying right to left.",
+        "motion_and_contact": "The two groups meet in the middle; red and amber laser bolts cross.",
+        "weight_and_reaction": "The first strike craft bursts in a small fireball; smoke trails curve through the sky.",
+        "end": "Dogfight under the mothership."
+      },
+      "background_motion": "Flak and smoke drifting.",
+      "cut_out": "Cut on the crossing fire."
+    },
+    {
+      "time": "25-30s",
+      "camera": "very wide, static",
+      "cut_in": "The whole city.",
+      "environment": "ENV_01_solace_city.jpg aerial view, now damaged.",
+      "action": {
+        "start": "Solace burning under the mothership.",
+        "force": "Fire and smoke keep rising.",
+        "motion_and_contact": "Smoke columns climb into the golden sky; tiny fighters swirl around the ship.",
+        "weight_and_reaction": "The Spine Tower still glows faintly amber through the smoke.",
+        "end": "Wide view of Solace under attack."
+      },
+      "background_motion": "Smoke and small explosions.",
+      "cut_out": "End of clip."
+    }
+  ],
+  "end_frame": "Wide view of Solace burning under the mothership, smoke columns rising into the golden sky, fighters swirling around the ship.",
+  "dialogue": [
+    {
+      "time": "16.5s",
+      "who": "female commander, over radio",
+      "tone": "calm, urgent, clear",
+      "line": "All Solace wings - scramble. Hostile over the Spine."
+    }
+  ],
+  "sound": "Beam blasts, explosions, collapsing stone, screams echoing, engine roars, laser fire, radio crackle. No music.",
+  "negative": "no text, no subtitles, no letters or symbols on screen, no watermark, no logos, no cartoon or anime look, no CGI-render look, no duplicate characters, no extra characters that are not in the references, no morphing, no reverse motion"
+}
+
+======================================================================
+CLIP 3 - THE CALL
+UPLOAD: CHAR_Teo.jpg, ENV_01_solace_city.jpg, Enemy_ship.jpg
+======================================================================
+{
+  "clip": 3,
+  "title": "THE CALL",
+  "duration_seconds": 30,
+  "aspect_ratio": "16:9",
+  "model": "seedance_2.5",
+  "generation": "ONE single continuous 30-second video in one generation. Do not split it into parts. The shots below are camera cuts inside this one video.",
+  "link_to_previous_clip": "CUT - new scene",
+  "first_frame": "none - new scene",
+  "references_to_upload": [
+    "CHAR_Teo.jpg",
+    "ENV_01_solace_city.jpg",
+    "Enemy_ship.jpg"
+  ],
+  "reference_rules": {
+    "use_only_these": [
+      "CHAR_Teo.jpg",
+      "ENV_01_solace_city.jpg",
+      "Enemy_ship.jpg"
+    ],
+    "ignore_any_other_image": true,
+    "CHAR_Teo.jpg": "Teo = CHAR_Teo.jpg. Inspect all 5 views from this reference sheet (front view, 3/4 view, side profile, back view, face close-up) to lock 360-degree character consistency before filming. Gauntlet and backpack exactly as on the sheet in every shot.",
+    "ENV_01_solace_city.jpg": "Solace city sheet (aerial, street walkway, high bridge walkway, arch plaza). Copy the architecture, materials, colours and light exactly.",
+    "Enemy_ship.jpg": "the Khorr mothership vehicle sheet. Views: top-left FRONT, top-right SIDE, bottom-left TOP (round ring shape), middle-right REAR (twin red engines + exhaust grate), bottom-right UNDERSIDE (large belly hatch open). Inspect all views before filming; the ship must match them exactly from every angle."
+  },
+  "film_settings": {
+    "style": "photoreal live-action sci-fi feature film, high-budget Hollywood look, shot on ARRI Alexa 65 with anamorphic lenses, 35mm film grain, natural motion blur, 24 fps, real-time speed, no slow motion, no lag",
+    "camera": "locked-off tripod shots and slow controlled camera moves only; no handheld shake; no zoom-ins",
+    "color_palette": "Solace: bone-white, cream, pale stone, warm amber light. Khorr: matte black and blood-red. Sky: golden dusk, two suns, huge pale cream ringed gas giant.",
+    "lighting": "practical light sources only (sun, lamps, windows, fire, red vents, amber glow); strong contrast; soft atmospheric haze"
+  },
+  "locks": {
+    "physics": "Every body, vehicle, object, piece of debris, smoke and dust moves with real weight and momentum. Feet push against the ground and stay in contact while running. Impacts push things back in the direction of the hit. Smoke, dust, sparks, cloth and hair trail behind movement. Nothing floats, slides or changes speed without a cause.",
+    "screen_direction": "Teo walks from screen LEFT to screen RIGHT. The mothership moves from screen LEFT to screen RIGHT overhead.",
+    "set_lock": "Solace is built ONLY from the pieces in ENV_01_solace_city.jpg: stacked bone-white shell towers with rows of oval amber windows, curved root bridges with amber edge lines connecting the towers at many levels, pale cream stone walkways with low curved railings and round amber lamps, ribbed white arches over plazas, and the single giant amber-glowing Spine Tower in the centre. No other building style exists. Here: a quiet walkway at the edge of the city with a curved railing, the burning towers far away on screen left.",
+    "light_lock": "Golden dusk, orange fire glow from the left, then deep red when the mothership's shadow arrives.",
+    "state_log": [
+      "Three towers burning in the distance (from clip 2).",
+      "Smoke columns in the sky.",
+      "Teo's gauntlet is off at the start; it glows by the end."
+    ]
+  },
+  "shots": [
+    {
+      "time": "0-5s",
+      "camera": "wide side view, static",
+      "cut_in": "Teo already walking.",
+      "environment": "Edge walkway of Solace; ash falling; burning towers far away on the left.",
+      "action": {
+        "start": "Teo (follow CHAR_Teo.jpg pose sheet, side profile) walks quickly left to right.",
+        "force": "He stops and turns his head.",
+        "motion_and_contact": "He looks back over his left shoulder at the fires.",
+        "weight_and_reaction": "Ash settles on his coat; his breath is fast.",
+        "end": "Teo standing, looking back left."
+      },
+      "background_motion": "Ash drifting down.",
+      "cut_out": "Cut on his look back."
+    },
+    {
+      "time": "5-10s",
+      "camera": "medium, static",
+      "cut_in": "Teo still standing on the same spot.",
+      "environment": "Railing behind him, smoke in the sky.",
+      "action": {
+        "start": "Teo (follow CHAR_Teo.jpg pose sheet, front view) faces the camera, catching his breath.",
+        "force": "The gauntlet on his right forearm lights up by itself.",
+        "motion_and_contact": "A soft amber glow grows inside it.",
+        "weight_and_reaction": "He looks down at it, surprised; amber light reflects on his coat.",
+        "end": "Teo staring at his glowing gauntlet."
+      },
+      "background_motion": "Ash drifting.",
+      "cut_out": "Cut on his surprised look."
+    },
+    {
+      "time": "10-15s",
+      "camera": "close-up, static",
+      "cut_in": "Close on his right forearm and gauntlet.",
+      "environment": "Blurred city behind.",
+      "action": {
+        "start": "The gauntlet (follow CHAR_Teo.jpg pose sheet) glowing.",
+        "force": "Thin amber light lines run from the gauntlet up his forearm under the sleeve.",
+        "motion_and_contact": "He grips his right wrist with his left hand.",
+        "weight_and_reaction": "His hand trembles slightly; the glow pulses like a heartbeat.",
+        "end": "Both hands on the gauntlet, amber pulsing."
+      },
+      "background_motion": "Ash.",
+      "cut_out": "Cut on the pulse."
+    },
+    {
+      "time": "15-20s",
+      "camera": "close-up on face, static",
+      "cut_in": "Close on Teo's face.",
+      "environment": "Soft focus background.",
+      "action": {
+        "start": "Teo (follow CHAR_Teo.jpg pose sheet, face close-up) looking at his arm.",
+        "force": "The amber glow lights his face from below.",
+        "motion_and_contact": "He lifts his eyes slowly.",
+        "weight_and_reaction": "His expression goes from confusion to fear.",
+        "end": "Teo looking up toward the sky."
+      },
+      "background_motion": "Ash passing in front of him.",
+      "cut_out": "Cut as his eyes rise."
+    },
+    {
+      "time": "20-25s",
+      "camera": "low angle from behind Teo, static",
+      "cut_in": "Behind him, looking up where he looks.",
+      "environment": "Sky above the walkway, smoke.",
+      "action": {
+        "start": "Teo (follow CHAR_Teo.jpg pose sheet, back view) in the lower part of the frame.",
+        "force": "The mothership (follow Enemy_ship.jpg, FRONT then UNDERSIDE view) slides into the sky from screen left.",
+        "motion_and_contact": "It moves left to right, huge, directly overhead.",
+        "weight_and_reaction": "Its shadow starts sweeping over the walkway.",
+        "end": "The ship's belly above Teo."
+      },
+      "background_motion": "Clouds tearing around the hull.",
+      "cut_out": "Cut as the shadow reaches him."
+    },
+    {
+      "time": "25-30s",
+      "camera": "wide, static",
+      "cut_in": "Wide on the walkway.",
+      "environment": "Edge walkway now in deep red shadow.",
+      "action": {
+        "start": "Teo standing alone, tiny, under the huge ship.",
+        "force": "The shadow covers everything.",
+        "motion_and_contact": "The warm light turns deep red; the gauntlet's amber glow is the only warm light.",
+        "weight_and_reaction": "His coat stirs in the wind of the passing ship.",
+        "end": "Teo small and alone in red shadow, gauntlet glowing."
+      },
+      "background_motion": "Ash and smoke.",
+      "cut_out": "End of clip."
+    }
+  ],
+  "end_frame": "Wide: Teo alone on the walkway in deep red shadow under the mothership, his gauntlet the only amber light.",
+  "dialogue": [
+    {
+      "time": "17.5s",
+      "who": "Teo",
+      "tone": "quiet whisper, clear",
+      "line": "It's calling me."
+    }
+  ],
+  "sound": "Distant explosions, wind, ash hiss, rising amber hum, heartbeat pulse, deep sub-bass rumble of the passing ship. No music.",
+  "negative": "no text, no subtitles, no letters or symbols on screen, no watermark, no logos, no cartoon or anime look, no CGI-render look, no duplicate characters, no extra characters that are not in the references, no morphing, no reverse motion"
+}
+
+======================================================================
+CLIP 4 - THE KEY
+UPLOAD: ENV_05c_mothership_bridge.jpg, ENEMY_Commander.jpg, ENEMY_Soldier.jpg
+======================================================================
+{
+  "clip": 4,
+  "title": "THE KEY",
+  "duration_seconds": 30,
+  "aspect_ratio": "16:9",
+  "model": "seedance_2.5",
+  "generation": "ONE single continuous 30-second video in one generation. Do not split it into parts. The shots below are camera cuts inside this one video.",
+  "link_to_previous_clip": "CUT - new scene",
+  "first_frame": "none - new scene",
+  "references_to_upload": [
+    "ENV_05c_mothership_bridge.jpg",
+    "ENEMY_Commander.jpg",
+    "ENEMY_Soldier.jpg"
+  ],
+  "reference_rules": {
+    "use_only_these": [
+      "ENV_05c_mothership_bridge.jpg",
+      "ENEMY_Commander.jpg",
+      "ENEMY_Soldier.jpg"
+    ],
+    "ignore_any_other_image": true,
+    "ENV_05c_mothership_bridge.jpg": "the bridge inside the Khorr mothership. Copy the tiered black platforms, red holograms, throne and giant window exactly.",
+    "ENEMY_Commander.jpg": "Khorr Commander = ENEMY_Commander.jpg. Inspect all views from this reference sheet (front view, left side view, back view, commanding pose, helmet close-up) to lock 360-degree consistency before filming. Completely faceless; greatsword exactly as on the sheet.",
+    "ENEMY_Soldier.jpg": "Khorr soldiers = ENEMY_Soldier.jpg. Inspect all 4 views from this reference sheet (front view, side profile, back view, aiming pose) to lock 360-degree consistency before filming. Every soldier matches it exactly; completely faceless; carbine exactly as on the sheet."
+  },
+  "film_settings": {
+    "style": "photoreal live-action sci-fi feature film, high-budget Hollywood look, shot on ARRI Alexa 65 with anamorphic lenses, 35mm film grain, natural motion blur, 24 fps, real-time speed, no slow motion, no lag",
+    "camera": "locked-off tripod shots and slow controlled camera moves only; no handheld shake; no zoom-ins",
+    "color_palette": "Solace: bone-white, cream, pale stone, warm amber light. Khorr: matte black and blood-red. Sky: golden dusk, two suns, huge pale cream ringed gas giant.",
+    "lighting": "practical light sources only (sun, lamps, windows, fire, red vents, amber glow); strong contrast; soft atmospheric haze"
+  },
+  "locks": {
+    "physics": "Every body, vehicle, object, piece of debris, smoke and dust moves with real weight and momentum. Feet push against the ground and stay in contact while running. Impacts push things back in the direction of the hit. Smoke, dust, sparks, cloth and hair trail behind movement. Nothing floats, slides or changes speed without a cause.",
+    "screen_direction": "The soldier walks from screen LEFT to screen RIGHT when he leaves.",
+    "set_lock": "The bridge exactly as in ENV_05c_mothership_bridge.jpg: tiered black platforms, the throne on the highest tier facing a giant window, red holographic consoles in front of the throne. The burning city of Solace is visible through the window.",
+    "light_lock": "Dark bridge lit by red holograms and red floor channels; orange fire glow from the city through the window.",
+    "state_log": [
+      "Solace burning outside the window (from clip 2)."
+    ],
+    "enemy": "The Khorr act instantly and relentlessly: they move at full speed and never slow down, hesitate or hold back."
+  },
+  "shots": [
+    {
+      "time": "0-5s",
+      "camera": "wide, static, from behind the throne",
+      "cut_in": "Opens behind the throne.",
+      "environment": "The bridge; the giant window showing burning Solace.",
+      "action": {
+        "start": "The Commander (follow ENEMY_Commander.jpg pose sheet, back view) sits on the throne, back to the camera.",
+        "force": "None - he is still.",
+        "motion_and_contact": "He watches the city through the window.",
+        "weight_and_reaction": "His cape hangs heavy; red light pulses along the floor.",
+        "end": "Commander silhouetted against the burning city."
+      },
+      "background_motion": "Holograms flicker.",
+      "cut_out": "Cut on the silhouette."
+    },
+    {
+      "time": "5-10s",
+      "camera": "medium, static",
+      "cut_in": "The consoles in front of the throne.",
+      "environment": "Red holographic console.",
+      "action": {
+        "start": "A red hologram of Solace rises from the console.",
+        "force": "It builds up layer by layer.",
+        "motion_and_contact": "Towers and bridges form in red light; many small amber dots appear across it.",
+        "weight_and_reaction": "The dots flicker like heartbeats.",
+        "end": "Full hologram of the city."
+      },
+      "background_motion": "Floor channels glowing.",
+      "cut_out": "Cut on the full hologram."
+    },
+    {
+      "time": "10-15s",
+      "camera": "close-up, static",
+      "cut_in": "Close on the hologram.",
+      "environment": "Hologram only.",
+      "action": {
+        "start": "Many amber dots.",
+        "force": "One dot grows far brighter than the rest.",
+        "motion_and_contact": "Red target rings form around it and lock onto it.",
+        "weight_and_reaction": "The rings tighten and pulse.",
+        "end": "One bright amber dot locked in red rings."
+      },
+      "background_motion": "None.",
+      "cut_out": "Cut on the lock."
+    },
+    {
+      "time": "15-20s",
+      "camera": "side view, static",
+      "cut_in": "Side view of the throne.",
+      "environment": "Throne and hologram.",
+      "action": {
+        "start": "The Commander (follow ENEMY_Commander.jpg pose sheet, left side view) seated.",
+        "force": "He lifts one armoured arm.",
+        "motion_and_contact": "He points at the bright dot; his arm moves slowly and heavily.",
+        "weight_and_reaction": "Armour plates shift with a low grinding sound; the red eye slit brightens.",
+        "end": "Commander pointing at the dot."
+      },
+      "background_motion": "Hologram glowing.",
+      "cut_out": "Cut on the point."
+    },
+    {
+      "time": "20-25s",
+      "camera": "medium, static, looking down the throne steps",
+      "cut_in": "The foot of the throne steps.",
+      "environment": "Lower tier of the bridge.",
+      "action": {
+        "start": "A soldier (follow ENEMY_Soldier.jpg pose sheet, front view) kneels at the foot of the steps, carbine across his knee.",
+        "force": "He hears the order.",
+        "motion_and_contact": "He rises to his feet in one sharp movement.",
+        "weight_and_reaction": "Armour clanks; his red visor slit glows.",
+        "end": "Soldier standing at attention."
+      },
+      "background_motion": "Red light.",
+      "cut_out": "Cut as he stands."
+    },
+    {
+      "time": "25-30s",
+      "camera": "wide side view, static",
+      "cut_in": "The soldier on the lower tier.",
+      "environment": "Bridge walkway toward a doorway on screen right.",
+      "action": {
+        "start": "The soldier (follow ENEMY_Soldier.jpg pose sheet, side profile) turns.",
+        "force": "He marches.",
+        "motion_and_contact": "He walks fast from screen left to screen right toward the doorway, carbine held across his chest.",
+        "weight_and_reaction": "Heavy boots echo on the metal floor.",
+        "end": "The soldier reaching the red-lit doorway; the Commander still pointing in the background."
+      },
+      "background_motion": "Holograms flicker.",
+      "cut_out": "End of clip."
+    }
+  ],
+  "end_frame": "The soldier reaching the red-lit doorway on the right, the Commander on his throne in the background still pointing at the hologram.",
+  "dialogue": [
+    {
+      "time": "16.5s",
+      "who": "Commander",
+      "tone": "very deep, slow, metallic and distorted",
+      "line": "There. The key."
+    },
+    {
+      "time": "21.5s",
+      "who": "Commander",
+      "tone": "very deep, slow, metallic",
+      "line": "Bring it to me."
+    },
+    {
+      "time": "27s",
+      "who": "Soldier",
+      "tone": "flat, metallic",
+      "line": "It will be done."
+    }
+  ],
+  "sound": "Ship hum, mechanical breathing, hologram chimes, armour grinding, heavy boots on metal. No music.",
+  "negative": "no text, no subtitles, no letters or symbols on screen, no watermark, no logos, no cartoon or anime look, no CGI-render look, no duplicate characters, no extra characters that are not in the references, no morphing, no reverse motion"
+}
+
+======================================================================
+CLIP 5 - THEY COME DOWN
+UPLOAD: Enemy_ship.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg
+======================================================================
+{
+  "clip": 5,
+  "title": "THEY COME DOWN",
+  "duration_seconds": 30,
+  "aspect_ratio": "16:9",
+  "model": "seedance_2.5",
+  "generation": "ONE single continuous 30-second video in one generation. Do not split it into parts. The shots below are camera cuts inside this one video.",
+  "link_to_previous_clip": "CUT - new scene",
+  "first_frame": "none - new scene",
+  "references_to_upload": [
+    "Enemy_ship.jpg",
+    "ENEMY_Soldier.jpg",
+    "ENV_01_solace_city.jpg"
+  ],
+  "reference_rules": {
+    "use_only_these": [
+      "Enemy_ship.jpg",
+      "ENEMY_Soldier.jpg",
+      "ENV_01_solace_city.jpg"
+    ],
+    "ignore_any_other_image": true,
+    "Enemy_ship.jpg": "the Khorr mothership vehicle sheet. Views: top-left FRONT, top-right SIDE, bottom-left TOP (round ring shape), middle-right REAR (twin red engines + exhaust grate), bottom-right UNDERSIDE (large belly hatch open). Inspect all views before filming; the ship must match them exactly from every angle.",
+    "ENEMY_Soldier.jpg": "Khorr soldiers = ENEMY_Soldier.jpg. Inspect all 4 views from this reference sheet (front view, side profile, back view, aiming pose) to lock 360-degree consistency before filming. Every soldier matches it exactly; completely faceless; carbine exactly as on the sheet.",
+    "ENV_01_solace_city.jpg": "Solace city sheet (aerial, street walkway, high bridge walkway, arch plaza). Copy the architecture, materials, colours and light exactly."
+  },
+  "film_settings": {
+    "style": "photoreal live-action sci-fi feature film, high-budget Hollywood look, shot on ARRI Alexa 65 with anamorphic lenses, 35mm film grain, natural motion blur, 24 fps, real-time speed, no slow motion, no lag",
+    "camera": "locked-off tripod shots and slow controlled camera moves only; no handheld shake; no zoom-ins",
+    "color_palette": "Solace: bone-white, cream, pale stone, warm amber light. Khorr: matte black and blood-red. Sky: golden dusk, two suns, huge pale cream ringed gas giant.",
+    "lighting": "practical light sources only (sun, lamps, windows, fire, red vents, amber glow); strong contrast; soft atmospheric haze"
+  },
+  "locks": {
+    "physics": "Every body, vehicle, object, piece of debris, smoke and dust moves with real weight and momentum. Feet push against the ground and stay in contact while running. Impacts push things back in the direction of the hit. Smoke, dust, sparks, cloth and hair trail behind movement. Nothing floats, slides or changes speed without a cause.",
+    "screen_direction": "The dropships dive downward and toward screen RIGHT in every shot.",
+    "set_lock": "Solace is built ONLY from the pieces in ENV_01_solace_city.jpg: stacked bone-white shell towers with rows of oval amber windows, curved root bridges with amber edge lines connecting the towers at many levels, pale cream stone walkways with low curved railings and round amber lamps, ribbed white arches over plazas, and the single giant amber-glowing Spine Tower in the centre. No other building style exists.",
+    "light_lock": "Red light from the open hatch; orange fire and black smoke from the burning city below; golden dusk sky.",
+    "state_log": [
+      "Three towers burning; smoke columns; one root bridge broken (from clip 2)."
+    ],
+    "dropship": "Khorr dropship (no reference image yet - describe consistently): a helicopter-sized angular black armoured transport in the same design language as Enemy_ship.jpg - black spiked plates, gear-like details, thin red light strips - with two large sliding side doors, four red downward thrusters and three landing claws.",
+    "enemy": "The Khorr act instantly and relentlessly: they move at full speed and never slow down, hesitate or hold back."
+  },
+  "shots": [
+    {
+      "time": "0-5s",
+      "camera": "low angle looking up, static",
+      "cut_in": "Opens under the mothership.",
+      "environment": "The mothership's underside filling the sky.",
+      "action": {
+        "start": "The large belly hatch (follow Enemy_ship.jpg, UNDERSIDE view) is closed.",
+        "force": "It unlocks and slides open.",
+        "motion_and_contact": "The hatch doors part slowly.",
+        "weight_and_reaction": "Blood-red light spills out into the smoke.",
+        "end": "Hatch fully open, red interior visible."
+      },
+      "background_motion": "Smoke drifting under the hull.",
+      "cut_out": "Cut on the open hatch."
+    },
+    {
+      "time": "5-10s",
+      "camera": "wide, static",
+      "cut_in": "Same view of the hatch.",
+      "environment": "Hatch and sky.",
+      "action": {
+        "start": "Dropships sit inside the red-lit hatch.",
+        "force": "They release and drop out one after another.",
+        "motion_and_contact": "A line of dropships falls, then their red thrusters ignite and they dive down and to the right.",
+        "weight_and_reaction": "Thruster heat ripples the air.",
+        "end": "Five dropships diving toward the city."
+      },
+      "background_motion": "Smoke parting.",
+      "cut_out": "Cut as they dive."
+    },
+    {
+      "time": "10-15s",
+      "camera": "tracking alongside one dropship",
+      "cut_in": "Beside one dropship as it descends.",
+      "environment": "Between smoke columns and burning shell towers.",
+      "action": {
+        "start": "The dropship diving.",
+        "force": "Its thrusters push it down and to the right.",
+        "motion_and_contact": "It weaves between the towers, smoke streaming past.",
+        "weight_and_reaction": "Its hull vibrates; red light strips flicker.",
+        "end": "Still diving."
+      },
+      "background_motion": "Burning towers passing behind.",
+      "cut_out": "Cut on the dive."
+    },
+    {
+      "time": "15-20s",
+      "camera": "medium, inside the open side door",
+      "cut_in": "Inside the same dropship.",
+      "environment": "Red-lit interior, the city rushing past outside the open door.",
+      "action": {
+        "start": "Soldiers (follow ENEMY_Soldier.jpg pose sheet) crouched in two rows, carbines ready.",
+        "force": "The dropship lurches as it turns.",
+        "motion_and_contact": "They sway together, one hand on a grab rail.",
+        "weight_and_reaction": "Armour plates rattle; wind blasts through the door.",
+        "end": "Soldiers braced, facing the door."
+      },
+      "background_motion": "City passing outside.",
+      "cut_out": "Cut on the soldiers."
+    },
+    {
+      "time": "20-25s",
+      "camera": "close-up, static",
+      "cut_in": "Close on the soldier nearest the door.",
+      "environment": "Door frame, city below.",
+      "action": {
+        "start": "The soldier (follow ENEMY_Soldier.jpg pose sheet, front view) at the door.",
+        "force": "He turns his head toward the city.",
+        "motion_and_contact": "His red visor slit glows brighter.",
+        "weight_and_reaction": "Wind whips past his helmet.",
+        "end": "Faceless helmet, red slit, city below."
+      },
+      "background_motion": "Smoke rushing past.",
+      "cut_out": "Cut on the red slit."
+    },
+    {
+      "time": "25-30s",
+      "camera": "wide, static",
+      "cut_in": "Wide over the city.",
+      "environment": "ENV_01_solace_city.jpg aerial view with smoke.",
+      "action": {
+        "start": "Five dropships spread out over the burning city.",
+        "force": "They keep diving down and to the right.",
+        "motion_and_contact": "They head toward a long root-bridge walkway far below.",
+        "weight_and_reaction": "Their red thruster trails curve through the smoke.",
+        "end": "Dropships approaching the bridge."
+      },
+      "background_motion": "Smoke and fire.",
+      "cut_out": "End of clip."
+    }
+  ],
+  "end_frame": "Five dropships diving over the burning city toward a long root-bridge walkway, red thruster trails in the smoke.",
+  "dialogue": [],
+  "sound": "Hydraulic clunks, hatch grinding, thruster ignitions, rushing wind, armour rattling, distant explosions. No music.",
+  "negative": "no text, no subtitles, no letters or symbols on screen, no watermark, no logos, no cartoon or anime look, no CGI-render look, no duplicate characters, no extra characters that are not in the references, no morphing, no reverse motion"
+}
+
+======================================================================
+CLIP 6 - RUN
+UPLOAD: CHAR_Teo.jpg, ENEMY_Soldier.jpg, ENV_01_solace_city.jpg, civilain_vehicles.jpg, public people .jpg
+======================================================================
+{
+  "clip": 6,
+  "title": "RUN",
+  "duration_seconds": 30,
+  "aspect_ratio": "16:9",
+  "model": "seedance_2.5",
+  "generation": "ONE single continuous 30-second video in one generation. Do not split it into parts. The shots below are camera cuts inside this one video.",
+  "link_to_previous_clip": "CUT - new scene",
+  "first_frame": "none - new scene",
+  "references_to_upload": [
+    "CHAR_Teo.jpg",
+    "ENEMY_Soldier.jpg",
+    "ENV_01_solace_city.jpg",
+    "civilain_vehicles.jpg",
+    "public people .jpg"
+  ],
+  "reference_rules": {
+    "use_only_these": [
+      "CHAR_Teo.jpg",
+      "ENEMY_Soldier.jpg",
+      "ENV_01_solace_city.jpg",
+      "civilain_vehicles.jpg",
+      "public people .jpg"
+    ],
+    "ignore_any_other_image": true,
+    "CHAR_Teo.jpg": "Teo = CHAR_Teo.jpg. Inspect all 5 views from this reference sheet (front view, 3/4 view, side profile, back view, face close-up) to lock 360-degree character consistency before filming. Gauntlet and backpack exactly as on the sheet in every shot.",
+    "ENEMY_Soldier.jpg": "Khorr soldiers = ENEMY_Soldier.jpg. Inspect all 4 views from this reference sheet (front view, side profile, back view, aiming pose) to lock 360-degree consistency before filming. Every soldier matches it exactly; completely faceless; carbine exactly as on the sheet.",
+    "ENV_01_solace_city.jpg": "Solace city sheet (aerial, street walkway, high bridge walkway, arch plaza). Copy the architecture, materials, colours and light exactly.",
+    "civilain_vehicles.jpg": "Solace civilian traffic: pod car, family car, cargo hauler (front, side, rear each). These are the ONLY civilian vehicles; small wheels with a soft amber glow underneath.",
+    "public people .jpg": "Solace civilians: top row = Solace citizens in cream and white robes; bottom row = Undercity folk in dark hooded cloaks. All bystanders match these designs."
+  },
+  "film_settings": {
+    "style": "photoreal live-action sci-fi feature film, high-budget Hollywood look, shot on ARRI Alexa 65 with anamorphic lenses, 35mm film grain, natural motion blur, 24 fps, real-time speed, no slow motion, no lag",
+    "camera": "locked-off tripod shots and slow controlled camera moves only; no handheld shake; no zoom-ins",
+    "color_palette": "Solace: bone-white, cream, pale stone, warm amber light. Khorr: matte black and blood-red. Sky: golden dusk, two suns, huge pale cream ringed gas giant.",
+    "lighting": "practical light sources only (sun, lamps, windows, fire, red vents, amber glow); strong contrast; soft atmospheric haze"
+  },
+  "locks": {
+    "physics": "Every body, vehicle, object, piece of debris, smoke and dust moves with real weight and momentum. Feet push against the ground and stay in contact while running. Impacts push things back in the direction of the hit. Smoke, dust, sparks, cloth and hair trail behind movement. Nothing floats, slides or changes speed without a cause.",
+    "screen_direction": "Teo, the civilians and the soldiers ALL move from screen LEFT to screen RIGHT in every shot. The soldiers are always on the left, behind Teo.",
+    "set_lock": "Solace is built ONLY from the pieces in ENV_01_solace_city.jpg: stacked bone-white shell towers with rows of oval amber windows, curved root bridges with amber edge lines connecting the towers at many levels, pale cream stone walkways with low curved railings and round amber lamps, ribbed white arches over plazas, and the single giant amber-glowing Spine Tower in the centre. No other building style exists. Here: a long root-bridge walkway high between shell towers, with stopped cars on it; at its far right end a plaza under ribbed arches.",
+    "light_lock": "Golden dusk through smoke, orange fire glow, red light from the dropship.",
+    "state_log": [
+      "City burning with smoke columns (from clip 2).",
+      "Teo's gauntlet glows faintly (from clip 3)."
+    ],
+    "people": "Every civilian reacts to danger: they look up, flinch, run, duck behind cars and pull each other along. Nobody stands still or keeps walking calmly during an attack.",
+    "dropship": "Khorr dropship (no reference image yet - describe consistently): a helicopter-sized angular black armoured transport in the same design language as Enemy_ship.jpg - black spiked plates, gear-like details, thin red light strips - with two large sliding side doors, four red downward thrusters and three landing claws.",
+    "enemy": "The Khorr act instantly and relentlessly: they move at full speed and never slow down, hesitate or hold back. They chase Teo on foot; they do not fire at him."
+  },
+  "shots": [
+    {
+      "time": "0-5s",
+      "camera": "wide side view, static",
+      "cut_in": "Teo already running.",
+      "environment": "ENV_01_solace_city.jpg high bridge walkway, stopped pod cars and family cars (follow civilain_vehicles.jpg).",
+      "action": {
+        "start": "Teo (follow CHAR_Teo.jpg pose sheet, side profile) runs left to right along the walkway.",
+        "force": "His feet push hard against the stone.",
+        "motion_and_contact": "He weaves between the stopped cars; civilians (follow 'public people .jpg') run the same way.",
+        "weight_and_reaction": "His coat and backpack bounce with each stride.",
+        "end": "Teo in the centre-right, still running."
+      },
+      "background_motion": "Smoke drifting across.",
+      "cut_out": "Cut on his stride."
+    },
+    {
+      "time": "5-10s",
+      "camera": "wide, static, looking back along the bridge",
+      "cut_in": "Far behind Teo, on the left end of the bridge.",
+      "environment": "Same walkway, smoke.",
+      "action": {
+        "start": "A dropship hovers above the walkway.",
+        "force": "Its thrusters hold it in place.",
+        "motion_and_contact": "Soldiers (follow ENEMY_Soldier.jpg pose sheet) jump from its side door onto the walkway.",
+        "weight_and_reaction": "They land in a crouch; dust bursts from each landing; the bridge shudders.",
+        "end": "Soldiers crouched on the walkway."
+      },
+      "background_motion": "Dropship thrusters blasting dust.",
+      "cut_out": "Cut as the last soldier lands."
+    },
+    {
+      "time": "10-15s",
+      "camera": "wide side view, static",
+      "cut_in": "The soldiers on the walkway.",
+      "environment": "Walkway with stopped cars.",
+      "action": {
+        "start": "The soldiers rise together.",
+        "force": "They push off.",
+        "motion_and_contact": "They run left to right after Teo, carbines held across their chests.",
+        "weight_and_reaction": "Armour clanks; their heavy boots crack the stone.",
+        "end": "Soldiers running in a line."
+      },
+      "background_motion": "Civilians ducking behind cars.",
+      "cut_out": "Cut on the running line."
+    },
+    {
+      "time": "15-20s",
+      "camera": "medium, side-tracking at Teo's speed",
+      "cut_in": "Beside Teo.",
+      "environment": "Walkway railings and towers passing behind.",
+      "action": {
+        "start": "Teo (follow CHAR_Teo.jpg pose sheet, 3/4 view) running.",
+        "force": "He glances back over his left shoulder.",
+        "motion_and_contact": "He sees the soldiers and runs harder, still left to right.",
+        "weight_and_reaction": "His breath is fast; his coat flies behind him.",
+        "end": "Teo sprinting."
+      },
+      "background_motion": "Towers passing.",
+      "cut_out": "Cut on his look back."
+    },
+    {
+      "time": "20-25s",
+      "camera": "wide side view, static",
+      "cut_in": "The whole bridge.",
+      "environment": "Bridge walkway, cars, smoke.",
+      "action": {
+        "start": "The soldiers (follow ENEMY_Soldier.jpg pose sheet) are gaining on Teo.",
+        "force": "They spread out across the walkway.",
+        "motion_and_contact": "They run left to right, closing the distance.",
+        "weight_and_reaction": "Civilians duck behind cars as they pass; a car rocks when a soldier brushes it.",
+        "end": "Soldiers ten metres behind Teo."
+      },
+      "background_motion": "Smoke and ash.",
+      "cut_out": "Cut as they close in."
+    },
+    {
+      "time": "25-30s",
+      "camera": "wide side view, static",
+      "cut_in": "The far right end of the bridge.",
+      "environment": "The walkway leading into a plaza under ribbed white arches.",
+      "action": {
+        "start": "Teo runs toward the arches.",
+        "force": "He keeps pushing forward.",
+        "motion_and_contact": "He runs left to right under the first arch.",
+        "weight_and_reaction": "His footsteps echo; ash swirls behind him.",
+        "end": "Teo under the arches on the right, the soldiers coming from the left."
+      },
+      "background_motion": "Smoke and a distant explosion.",
+      "cut_out": "End of clip."
+    }
+  ],
+  "end_frame": "Teo running under the ribbed arches on the right, the soldiers coming from the left along the bridge.",
+  "dialogue": [],
+  "sound": "Running footsteps, heavy armoured boots, clanking armour, dropship thrusters, civilians shouting, distant explosions, wind. No music.",
+  "negative": "no text, no subtitles, no letters or symbols on screen, no watermark, no logos, no cartoon or anime look, no CGI-render look, no duplicate characters, no extra characters that are not in the references, no morphing, no reverse motion"
+}
