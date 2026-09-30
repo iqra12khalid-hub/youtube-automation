@@ -180,6 +180,11 @@ pre{margin:0;padding:12px;font-family:var(--f-mono);font-size:12px;line-height:1
         <ol class="upload" id="upload"></ol>
         <div class="warn" id="nosheetWarn" hidden></div>
       </div>
+      <div class="actions">
+        <button class="btn" id="copy">Copy prompt</button>
+        <button class="btn ghost" id="reset">Reset this clip</button>
+        <span class="status" id="status" role="status"></span>
+      </div>
       <div class="screen">
         <div class="screen-bar">
           <span class="rec" id="recLbl">PROMPT · CLIP 01</span>
@@ -189,11 +194,6 @@ pre{margin:0;padding:12px;font-family:var(--f-mono);font-size:12px;line-height:1
           </div>
         </div>
         <pre id="out" tabindex="0"></pre>
-      </div>
-      <div class="actions">
-        <button class="btn" id="copy">Copy prompt</button>
-        <button class="btn ghost" id="reset">Reset this clip</button>
-        <span class="status" id="status" role="status"></span>
       </div>
     </aside>
   </div>
