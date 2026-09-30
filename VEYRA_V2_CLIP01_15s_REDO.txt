@@ -1,0 +1,52 @@
+VEYRA v2 - CLIP 1 - IT COMES - 15 SECONDS - REDO (ship smaller, how it appears, what it does)
+
+UPLOAD (in this order):
+1. Clip01_key.png            (layout guide only - NOT the first frame)
+2. Enemy_ship.jpg
+3. ENV_01_solace_city.jpg
+4. ENV_06_sky_peaceful.jpg
+5. Friendly_responders.jpg
+
+PASTE THIS:
+
+{
+  "clip": 1,
+  "title": "IT COMES",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "model": "seedance_2.5",
+  "generation": "ONE single continuous 15-second shot. No cuts, no splits, no scene changes.",
+  "first_frame": "none - new scene. Clip01_key.png is a LAYOUT GUIDE: copy its camera position, city layout and sky. The ship is NOT in the sky at the start.",
+  "references": {
+    "use_only_these": ["Clip01_key.png", "Enemy_ship.jpg", "ENV_01_solace_city.jpg", "ENV_06_sky_peaceful.jpg", "Friendly_responders.jpg"],
+    "ignore_any_other_image": true,
+    "Clip01_key.png": "Layout guide: camera position, city, sky, where the ship ends up.",
+    "Enemy_ship.jpg": "Khorr mothership design only: matte black armoured hull, sharp black spikes, thin blood-red light lines, red vents underneath. IGNORE the small jet on the sheet, it is not to scale.",
+    "ENV_01_solace_city.jpg": "Solace city: stacked bone-white shell towers, amber roads in rings, the tall Spine Tower in the centre. Copy exactly.",
+    "ENV_06_sky_peaceful.jpg": "Golden sky: ringed gas giant upper left, two low suns, golden clouds.",
+    "Friendly_responders.jpg": "Solace fighter design."
+  },
+  "camera": {
+    "camera_body": "ARRI Alexa 65",
+    "lens": "Panavision E-Series anamorphic 75mm",
+    "aperture": "T5.6",
+    "position": "on a rocky ridge outside the city, eye level, the city fills the lower half of the frame",
+    "movement": "locked-off, completely static for all 15 seconds. Never zoom, never move closer.",
+    "look": "anamorphic flares, soft golden haze, 35mm grain, 24 fps natural motion blur"
+  },
+  "ship_size_and_place": "The mothership is SMALLER in frame than before: at its biggest it covers only the upper-right third of the frame. It stays HIGH above the FAR side of the city, kilometres away, pale and hazy like the far towers, never dark or sharp. It NEVER comes closer, NEVER grows bigger, NEVER turns toward the camera. Only its side and underside are seen. Never show its front face with the two red lights.",
+  "timeline": [
+    {"time": "0-3s", "action": "Peaceful Solace at golden dusk. The Spine Tower glows amber. Two tiny Solace fighters glide left to right far above the city. A thick bank of golden clouds sits high on the right, above the far edge of the city."},
+    {"time": "3-7s", "action": "HOW IT APPEARS: the cloud bank darkens and bulges. The rear of the Khorr mothership slowly pushes out of the clouds, sideways, moving left to right. Clouds tear and roll off its spiked black hull. It is silent. Thin cloud keeps passing UNDER it."},
+    {"time": "7-11s", "action": "The whole side of the ship is now out of the clouds, high above the far city, still hazy with distance, its right end running out of the frame. It keeps drifting very slowly left to right. Its long shadow starts to slide across the far towers, turning them dim red-brown."},
+    {"time": "11-15s", "action": "WHAT IT DOES: rows of vents on the ship's underside open one after another and glow blood red. The Spine Tower's amber light flickers and dims. The two Solace fighters break away and turn back toward the city. The ship holds its place above the city. End on this frame, ship still, vents glowing red."}
+  ],
+  "locks": {
+    "physics": "Real weight and momentum: the huge ship moves very slowly and steadily; clouds tear and swirl realistically; nothing floats or jumps.",
+    "screen_direction": "Ship and fighters move left to right. Nothing reverses.",
+    "set": "The city never changes: same towers, same roads, same Spine Tower for all 15 seconds.",
+    "scale": "The ship is kilometres away: hazy, lower contrast, its lights look tiny like distant city windows. Clouds pass below it."
+  },
+  "sound": "Soft wind, distant birds, then a deep low rumble arriving late like far thunder as the ship appears; a low electrical hum when the vents glow. No music.",
+  "negative": "no text, no letters, no watermark, no cartoon or CGI look, no ship close to the camera, no ship turning, no front face, no zoom, no camera movement, no cuts, no black screen"
+}
