@@ -4,12 +4,12 @@ What is new in V2:
 - Each 30-second video is ONE video built from 8 short shots (3-4 seconds each) joined by hard cuts. The model only has to hold physics for a few seconds at a time.
 - Every move is explained physically: START position -> FORCE (what drives it) -> MOTION & CONTACT (direction, what stays touching what) -> WEIGHT & REACTION (how bodies, cloth, dust react) -> END position.
 - One action per shot. Screen direction is locked for the whole video.
-- Character consistency comes only from the reference sheets, exactly as before.
+- No frame images are used. The only image inputs are the main reference images (CHAR_, ENEMY_, ENV_ files). Character and location consistency comes only from them.
 
 
 PROMPT 19 - COLLAPSE
 Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
-FIRST FRAME: must be the exact last frame of PROMPT 18 - the Khorr Hunter standing in the white steam wall of the underground market, three red eyes glowing, glaive drawn.
+OPENING (no image input - references only): the story continues straight on from PROMPT 18. The video opens on the Khorr Hunter standing in the white steam wall of the underground market, three red eyes glowing, glaive drawn.
 References: ENV_03_undercity, ENEMY_Elite, ENEMY_Soldier, CHAR_Nyra, CHAR_Teo.
 Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
 Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
@@ -86,14 +86,13 @@ FORCE: Nyra (follow CHAR_Nyra pose sheet) hauls Teo (follow CHAR_Teo pose sheet)
 MOTION & CONTACT: they back away to screen right, facing the rubble, Nyra's swords still raised.
 WEIGHT & REACTION: dust settles slowly downward through the amber-lit air; small stones trickle off the top of the pile; through a gap in the rocks, three red eyes still glow, and the rocks shift as something pushes against them from the other side.
 END: the sealed rubble wall in settling dust, three red eyes glowing through a gap, Nyra and Teo backing away down the dim tunnel.
-LAST FRAME: the sealed rubble wall in settling dust, three red eyes glowing through a gap in the rocks, Nyra and Teo backing away to screen right down the dim tunnel.
 Dialogue (Nyra, shouting, clear) at 16s: "Teo - the ceiling! Now!" (Teo, straining, clear) at 19.5s: "Okay... okay!"
 Sound: boots splashing, glaive ignition, blade clash with electric crackle, market screams, wrist-blaster shriek, lamp bursting, carbine fire, pipes bursting with steam, glaive whirring through the air and thudding into stone, rising charge hum, amber blast, roaring collapse, rocks settling and grinding. No music.
 
 
 PROMPT 20 - EVERYONE WANTS YOU
 Duration: exactly 30 seconds (0s to 30s). Not shorter, not longer.
-FIRST FRAME: must be the exact last frame of PROMPT 19 - the sealed rubble wall in settling dust, three red eyes glowing through a gap, Nyra and Teo backing away to screen right down the dim tunnel.
+OPENING (no image input - references only): the story continues straight on from PROMPT 19. The video opens on the sealed rubble wall in settling dust, three red eyes glowing through a gap, Nyra and Teo backing away to screen right down the dim tunnel.
 References: CHAR_Nyra, CHAR_Teo, ENEMY_Soldier, ENEMY_Elite, ENV_03_undercity.
 Teo = CHAR_Teo. Inspect all 4 angles from the CHAR_Teo reference sheet (front view, 3/4 view, side profile, and back view) to lock 360° character consistency before filming.
 Nyra = CHAR_Nyra. Inspect all 4 poses from the CHAR_Nyra reference sheet (front view, side profile, back view, and battle pose) to lock 360° character consistency before filming.
@@ -169,6 +168,5 @@ FORCE: the red scanning beam sweeps down through the drain opening above.
 MOTION & CONTACT: the thin red line of light crosses Teo's face from left to right; he does not move, holding his breath.
 WEIGHT & REACTION: a few grains of dust fall through the red light; his glowing eyes stay fixed upward.
 END: the red line passes, the amber eyes stay, then cut to black.
-LAST FRAME: pure black.
 Dialogue (Nyra, breathless, clear) at 9s: "Who are you?" (Teo, quiet, clear) at 11s: "...Teo." (Nyra, tired half-smile) at 12.5s: "Well, Teo - everyone up there wants you." (Khorr Hunter, muffled metallic radio from above) at 16s: "The key has a protector. Send every hunter below."
 Sound: stones cracking, glaive grinding through rock, running footsteps, coughing, swords clinking on stone, lamp buzz, water drip, heavy boots on metal, scanner hum, bars bending, bolts popping and bouncing, grate screech and clang, carbine shrieks, then silence. No music.
