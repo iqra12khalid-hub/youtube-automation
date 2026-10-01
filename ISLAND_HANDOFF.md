@@ -86,6 +86,10 @@ Character consistency has been solved and works across different Dola accounts. 
 4. **One line per sheet telling the model what it is and what to copy**, e.g.
    `"CHAR_Noor.jpg": "Noor - her face must match CHAR_Noor.jpg exactly: same young face, soft features, fair skin, same age. Dark brown hair, white t-shirt, black jeans, black shoes, small gold coin necklace. Design only, ignore any printed words on the sheet."`
    (The original long form used in VEYRA: "Inspect all views on this sheet before filming; keep face, outfit, weapons and markings identical.")
+4A. **THE USER'S CORE RULE — "study her in 3D, then pose her":** the model must first study the multi-pose sheet from every direction (front, right, left, back, from above, from below) to understand exactly how she looks as a real 3D person; THEN put her into the pose of this shot (sitting, lying, turning, looking up…); THEN work out how she must look from this camera angle by using the matching views on the sheet. Never invent a new look for an angle — derive it from the sheet. Add this sentence to every prompt (in references, after the sheet line):
+   `"pose_rule": "Before filming, study CHAR_Noor.jpg from every direction - front, right side, left side, back, from above and from below - and understand exactly how she looks as one real person in 3D. Then place her in the pose of each shot, and show her from that shot's camera angle exactly as the matching views on the sheet show her: same face shape, same eyes, nose and lips, same hair, same body, same clothes and necklace. Do not invent anything the sheet does not show."`
+   Use the same rule for any creature or the plane when they appear (replace the file name).
+
 4B. **Make the model look at EVERY view on the sheet (front, side right, side left, back, close-up)** — this was one of the user's key rules. Put it in the sheet line:
    `"CHAR_Noor.jpg": "Noor. Inspect ALL views on this sheet before filming - FRONT, SIDE RIGHT, SIDE LEFT, BACK and the face close-up - and keep her face, hair, clothes and necklace identical from every angle."`
    And in each shot, remind it which view matches the camera angle, e.g.
