@@ -86,6 +86,13 @@ Character consistency has been solved and works across different Dola accounts. 
 4. **One line per sheet telling the model what it is and what to copy**, e.g.
    `"CHAR_Noor.jpg": "Noor - her face must match CHAR_Noor.jpg exactly: same young face, soft features, fair skin, same age. Dark brown hair, white t-shirt, black jeans, black shoes, small gold coin necklace. Design only, ignore any printed words on the sheet."`
    (The original long form used in VEYRA: "Inspect all views on this sheet before filming; keep face, outfit, weapons and markings identical.")
+4B. **Make the model look at EVERY view on the sheet (front, side right, side left, back, close-up)** — this was one of the user's key rules. Put it in the sheet line:
+   `"CHAR_Noor.jpg": "Noor. Inspect ALL views on this sheet before filming - FRONT, SIDE RIGHT, SIDE LEFT, BACK and the face close-up - and keep her face, hair, clothes and necklace identical from every angle."`
+   And in each shot, remind it which view matches the camera angle, e.g.
+   - "seen from the side - match the SIDE LEFT view on CHAR_Noor.jpg"
+   - "from behind her shoulder - match the BACK view (ponytail, t-shirt)"
+   - "close-up - match the face close-up on CHAR_Noor.jpg"
+   This keeps her the same when she turns, and stops the model inventing what her back or profile looks like. Same for the Chief/tribe sheets (FULL BODY FRONT / 3/4 / SIDE / BACK) and the plane sheet (front / side / top / rear / cockpit).
 5. **"Design only"** — the sheet is for looks; never copy its grey background, its straight camera angles or its printed labels.
 6. **Describe the current state of the outfit every time** (wet, sandy, messy hair, no headset…) so the model changes only that, not the person.
 7. **Face lock in the negative:** "Noor's face must not change or look older".
