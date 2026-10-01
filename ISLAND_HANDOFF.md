@@ -1,239 +1,253 @@
-# THE ONE-EYED ISLAND — FULL HANDOFF (read this first)
+# THE ONE-EYED ISLAND — FULL HANDOFF (read this first, all of it)
 
 This file lets any AI take over the project **exactly where it stopped**. Read it fully before answering the user.
 
-**Status at handoff (1 Oct 2026):** clips 1, 2, 3, 4, 4B and 5 are DONE (edited). The user has just sent **clip 6 ("SHE WAKES")** to Dola with the first frame `Clip005_lastface.png`. Waiting for that result. **Next: 6B → 6C → clip 7.**
+**Status at handoff (1 Oct 2026, evening):**
+- **Done and edited:** clips 1, 2, 3, 4, 4B, 5, 6, 6B, 7 (`planeinwater` clip, made with the Kartar skill).
+- **Now in progress:** the **BRIDGE clip** (Noor sitting → gets up → walks → creature watching from behind → she ends standing at the water = first frame of clip 7). It is being made in **Adobe Firefly → Kling 3.0** with **first frame + last frame**. Prompt in section 8.1.
+- **Next:** the human-tribe reference sheet, then the next story clips (section 8.4).
 
 ---
 
 ## 1. Who the user is and how to work with them
 
-- Makes AI films for YouTube. Writes in quick, informal English with typos — read for meaning.
-- Wants **simple words, short answers**, and **full copy-paste prompt texts** (never "use the one from before" — always paste the complete prompt again when asked).
-- Wants the AI to **wait** when they are still explaining an idea. Don't write prompts until they ask / say go.
-- Cares a lot about **not wasting credits**: prefer trimming / zoom-cropping / editing over regenerating.
-- Checks every result: they send the video file; the AI analyses it frame by frame (contact sheet + cuts + audio transcription) and gives an honest verdict: what's good, what's wrong, keep / trim / redo.
-- Edits in **CapCut** (trims, zoom-crops, mixes clips from different tools, reverses clips).
-- Uses several Dola accounts — that is their choice; don't discuss it. Results are the same on any account as long as the same skill, reference files and prompt format are used.
-- Planning to use **ElevenLabs** later for one consistent Noor voice (Voice Changer speech-to-speech on Dola's audio keeps lip sync) and for sound effects.
+- Makes AI films for YouTube. Writes fast, informal English with many typos — read for meaning, never comment on it.
+- Wants **simple words, short answers**, and **full copy-paste prompts** (never "use the one from before" — always paste the complete prompt again).
+- When they are still explaining an idea, **wait**. Don't write prompts until they say go / ask for it.
+- Very careful with **credits**: prefer trim / zoom-crop / reverse / mixing takes in CapCut over regenerating.
+- Sends every result (video file or screenshot). The AI must **analyse the video frame by frame** (contact sheet + find cuts + listen to audio) and give an honest verdict: what's good, what's wrong, keep / trim / redo, with exact seconds.
+- **Use the user's exact file names** (section 4). Once the AI used a wrong name (`REF_beach_plane.jpg`) and the user had to correct it.
+- When the user corrects you, accept it directly ("You're right…") and fix it — don't argue.
+- Edits in **CapCut**. Plans **ElevenLabs** for Noor's voice (one consistent voice) and sound effects.
+- The user uses several accounts on some tools — their choice, don't discuss it. **Don't help** with getting phone numbers from virtual/temporary SMS sites or evading sign-up limits (this was declined once; stay polite and move on).
 
-## 2. Tools
+## 2. Tools (what each is good for — learned the hard way)
 
-| Tool | Use | Notes |
+| Tool | Use it for | Facts / limits |
 |---|---|---|
-| **Dola** (Seedance 2.x video) | main video generator | **max 15 s** per video (asking 30 s gives 15 s), 720p, 24 fps. Has a content filter. |
-| **Kartar skill (original)** | loaded in the Dola chat | file `KARTAR_ORIGINAL_SKILL.md` in this repo. It forces 30 s, so **every prompt starts with the line `Make this video 15 seconds, one generation.`** |
-| ~~VEYRA Kartar Cinema Studio skill~~ | **NEVER use for this film** | it injects VEYRA enemy/attack text into prompts and caused clip 1 to be blocked. |
-| **Omni** | image-to-video, 10 s, 1080p | great for keeping a start frame, but it changed Noor's face to a different woman. Used only for storm shots. |
-| Dola image mode (Seedream) / Google Flow (Nano Banana) | reference sheets and still images | never make images inside the Kartar video chat (it turns everything into video). |
-| CapCut | editing | flashbacks, trims, zoom-crop, reverse, sound. |
-| ElevenLabs | voice + SFX (planned) | Voice Design "Noor", Voice Changer for lip-synced lines. |
+| **Dola** (ByteDance, Seedance 2.x) | main video tool, Noor's face close-ups, dialogue, acting | **max 15 s** per video (a 30 s prompt gets squeezed into 15 s → looks fake). 720p, 24 fps, has sound. Dola is a **chat assistant with an extra safety layer** in front of Seedance — stricter than the model. Load the **original Kartar skill** (`KARTAR_ORIGINAL_SKILL.md`) in the chat. |
+| ~~VEYRA Kartar Cinema Studio skill~~ | **NEVER for this film** | injects sci-fi attack text → clip 1 got blocked. |
+| **Adobe Firefly → Kling 3.0** | blocked scenes, **first + last frame bridges**, creature shots, Noor from behind/far | **free daily generations**, 15 s, 16:9, **Multi-shot** toggle, **@ Elements** (saved reference images you tag in the prompt), **prompt limit 2,500 characters**, **no sound** (Audio OFF; add sound in CapCut). Face can drift → use the face-only element. |
+| **Kling website (klingai.com)** | backup | user has **66 trial credits**. "3 trials left" next to 1080p = 3 allowed uses of the VIP 1080p mode, **each still costs credits**. Turn Native Audio OFF to save credits. Check the cost on the Generate button before clicking. Use Firefly first (free). |
+| **Google Flow (Veo)** | frames-to-video | ~8–10 s clips; **x4 = 4 videos = 4× credits → set x1**. It refused the bridge clip (very strict with a real woman photo + hidden creature). |
+| **Omni** | image-to-video with camera moves (/fullshot, /360, /selfie…) | changed Noor's face into another woman → only use it when her face is hidden (from behind / far / storm shots). For creature stills use push-in or parallax, **never /360** (it would orbit and show the creature's face). |
+| **Muse** | — | failed. Don't use. |
+| Dola image mode (Seedream) / Flow (Nano Banana) / Firefly Image | reference sheets, still images, image edits | never make images inside the Kartar video chat. |
+| **CapCut** | editing | trims, zoom-crop, reverse, mixing takes, flashbacks, sound. |
+| **ElevenLabs** | voice + SFX (planned) | Voice Design "Noor"; Voice Changer on Dola audio keeps lip sync. |
 
-## 3. The film
+**Which tool for which shot (rule of thumb):**
+- Noor's **face close-up / talking / acting** → **Dola**.
+- Noor **from behind, far away, hands, feet**; **creature** shots; anything **Dola blocks**; **bridges between two frames** → **Firefly/Kling**.
+- **Hard filter moments** → a **still image + slow camera move** (Omni/Kling), or wide/dark/far shots.
 
-**Title (working):** THE ONE-EYED ISLAND · survival horror / mystery · **~25 min = ~100 clips × 15 s**.
-**Full script:** `ISLAND_SCRIPT.md` (100 clips, 6 acts). Image prompts: `ISLAND_ASSET_PROMPTS.txt`. Clip 1–12 prompts (original versions): `ISLAND_CLIPS_01-12.txt` / `.xlsx`.
+## 3. The film and the STORY (revised — this is the current version)
 
-**Story in short:** Noor, a young woman who flies her own small plane **for fun (NOT a commercial pilot)**, flies alone over the ocean, enters a strange eye-shaped green-lightning storm, crashes into the sea, escapes the sinking plane and washes up on a strange island. The island is watched by a tribe of **one-eyed humanoid creatures**. She is hunted, captured in their jungle hut village, escapes, fights back with parts of her plane (fuel, flares, wires), defeats the Chief, escapes in a canoe through the storm and is rescued; final shot: one eye opens under the rescue boat. **No hero — she survives on her own. Just a strange island (no time travel, no explanation).** First ~3 minutes = wonders + "something watching her".
+**Title:** THE ONE-EYED ISLAND · survival horror / mystery · ~25 min ≈ 100 clips × 15 s.
+`ISLAND_SCRIPT.md` = the original 100-clip script (written before the story change — use it for structure and the first act, but follow the revised story below).
 
-**Creatures:** too tall, too thin, long arms, grey-brown cracked mud-like skin, **one large real wet bloodshot eye in the forehead that NEVER glows**, no nose (slits), sharp small teeth, rags of sailcloth, shells/bones. The Chief: taller, necklace of ship compasses and trinkets of other castaways. In the story the Chief later rips off Noor's **gold coin necklace** and hangs it on his own (she finds it again in the burned village at the end).
+**Noor:** a young woman who flies her own small plane **for fun — NOT a commercial pilot**. Flies alone over the ocean, enters a strange eye-shaped green-lightning storm, crashes in the sea, escapes the sinking plane, washes up on a strange island.
 
-## 4. Reference files (the user has them in `ISLAND_REFERENCES.zip`)
+**REVISED STORY (user's decision, 1 Oct):**
+- **ONLY ONE creature in the whole film:** a giant **one-eyed monster** that lives in the **cave in the cliff** (the cliff/cave in `LOC_island.jpg`). It **secretly watches her from the start and protects her**. Its design = `CREATURE_Chief.jpg` (in Firefly the element is named **monsterchartofdifposes**).
+- **The enemy is a HUMAN man-eating tribe** (masks, face paint, bones, spears) in the jungle village (`LOC_village.jpg`), led by a **human chief** (needs his own sheet — not made yet). `CREATURE_Tribe.jpg` (one-eyed beings) is **no longer used**.
+- Rough plan:
+  1. She survives on the beach; the eye/creature keeps watching (never clearly shown early on).
+  2. The tribe captures her (implied / shown wide, see filter rules).
+  3. The monster crashes into the village and rescues her but is wounded by spears/arrows.
+  4. It collapses near its cave. She **dives to the plane wreck** (it rests on a reef, nose dipped, tail up) for the **first-aid box** and bandages it. Trust/friendship.
+  5. The tribe comes for both → final fight together → her escape → goodbye with the monster.
+- **No gore, the cannibalism is NEVER shown** — only signs: big iron pot on a fire, bones far in the background, other castaways' belongings on poles (shoes, a watch, a necklace), drums, faces in firelight.
+- Old idea still usable: the chief takes Noor's gold coin necklace.
 
-Use these exact names in every prompt. Upload **only** the files a clip needs.
+## 4. Reference files — EXACT names (user's folder)
 
 | File | What it is | Notes |
 |---|---|---|
-| `CHAR_Noor.jpg` | Noor: white t-shirt, black jeans, black shoes, dark brown hair in a ponytail, small gold coin necklace, fair skin | sheet has printed labels (FRONT, BUST SHOT…) → prompts always say "ignore any printed words on the sheet" |
-| `CREATURE_Chief.jpg` | the Chief | has printed labels too |
-| `CREATURE_Tribe.jpg` | 4 tribe variations + head close-up + crouch | random tribe members follow it |
-| `VEH_plane.jpg` | small white high-wing plane, dark-red stripes, red prop tips, family photo on dashboard | always say "plain white, no letters, no numbers, no registration" |
-| `LOC_island.jpg` | ONE aerial photo of the island: long curved white beach at the front, rocky points, palm trees + giant ancient trees, green lagoon with giant lily pads, grey cliff with a big cave | the beach in every beach scene is this one |
-| `LOC_village.jpg` | the tribe's thatched-hut village in the jungle | the tribe's camp (replaces the old "beached ship camp" idea) |
-| `ENV_storm.jpg` | huge dark spinning ring-shaped storm (looks like an eye) with green lightning over the sea at sunset | used in clips 2–3 |
+| `CHAR_Noor.jpg` | Noor multi-pose sheet | **Fair skin**, soft features, brown eyes, long dark brown hair (ponytail), **white t-shirt, black jeans, black shoes, small gold coin necklace**. Sheet has printed labels → always "ignore any printed words on the sheet". Firefly element: **Noora** |
+| `CHAR_Noor_face.jpg` | face-only crop of her sheet (in `ISLAND_FRAMES/`) | Firefly element: **nooraface** |
+| `CREATURE_Chief.jpg` | **the one-eyed monster** sheet (FULL BODY FRONT / 3/4 / SIDE / **BACK**, head, eye) | Firefly element: **monsterchartofdifposes**. **Back view:** bald head, small ears, wet glossy grey-brown cracked skin, torn faded yellow-tan sailcloth over the **left** shoulder hanging to the knees (right shoulder bare), brown leather strap from **upper left shoulder to lower right hip**, thick twisted rope belt with hanging ends, from behind only a thin cord + small pendant at the nape (the **compass necklace is on the FRONT only**). |
+| `CREATURE_Tribe.jpg` | old one-eyed tribe | **not used anymore** |
+| `VEH_plane.jpg` | small white high-wing plane, dark-red stripes, red prop tips | always "no letters, no numbers, no registration". Firefly element: **plane**. Cut-out version: `ISLAND_FRAMES/VEH_plane_side_nobg.png` |
+| `LOC_island.jpg` | aerial of the island: curved white beach, palms + giant ancient trees, green lily lagoon, grey cliff with cave | Firefly element: **island** |
+| `LOC_village.jpg` | the tribe's thatched-hut village in the jungle | |
+| `ENV_storm.jpg` | eye-shaped ring storm with green lightning | clips 2–3 |
+| `planeinwater.jpg` | **the user's own composed still**: Noor from behind at the water's edge shading her eyes, golden light, footprints, opaque t-shirt; plane tail small far out at sea (~500 m) on the right | first frame of clip 7, **last frame of the bridge**. Weak point: the plane looks pasted on (no splash/reflection). |
+| `Noor_sitting.png` | close-up of Noor sitting on the sand, wet hair (end of her waking-up clip) | **first frame of the bridge** (in `ISLAND_FRAMES/`) |
+| creature still (user's image, no fixed name yet) | from BEHIND the creature in the woods, hand gripping a tree, Noor small on the beach, plane far out | optional insert shot; compass necklace wrongly on its back + strap mirrored (edit prompt in 8.3) |
 
-Rules: island/beach/jungle/lagoon scenes → `LOC_island.jpg`; village scenes → `LOC_village.jpg`; sky/stormy-sea scenes (1–4B) → neither.
+**Upload only the files a clip needs.** Island/beach/jungle → `LOC_island.jpg`; village → `LOC_village.jpg`; sky/sea storm → neither.
 
-## 5. Production status (what exists, how it was made)
+## 5. Production status
 
-| Clip | Content | Status |
+| # | Content | Status / how it was made |
 |---|---|---|
-| 1 Flying Alone | plane over sunset ocean, Noor relaxed in cockpit, family photo | ✅ done (Dola). Small "8HL" letters on plane — ignored. |
-| 2 The Storm Ahead | eye-storm ahead, Noor worried, compass spinning, fuel gauge, plane enters storm | ✅ done (Dola). Gauge had nonsense text; face slightly drifted — accepted. |
-| 3 Inside the Storm | **mixed edit**: Omni shot (plane enters green eye storm, starts from clip 2 last frame) + Dola cockpit Mayday shot + Omni lightning ending | ✅ done. Dialogue used: "Mayday! Mayday! This is Noor! I'm inside the storm, losing altitude! Mayday! Can anyone hear me?!" |
-| 4 Impact | started from `Clip003_last.png`; plane falls out of the clouds, hands on yoke, altimeter, sea rushing up, she screams (side view), impact spray, underwater, black | ✅ done (made on a new Dola account — worked identically). No thunder sound in prompt (forgot) — add in edit. |
-| 4B Escape | started from `Clip004_start4B.png` (plane half-sunk, frame at 12.3 s of clip 4); plane sinks, Noor underwater in cockpit, eyes snap open, unbuckles, swims out the door, plane settles on a reef (tail up), she swims up and breaks the surface, eye-closing effect, black | ✅ done. A second plane appeared at 8.5–10 s → user fixed it by **zoom-cropping** that shot. |
-| 5A The Lonely Beach | empty-beach establishing prompt (no person) | prompt given; optional — user's current edit goes straight from black to clip 5 |
-| 5 Washed Ashore | first Dola version: black → face on sand → hand in foam with necklace → crab → camera rising → (then flew off to a floating plane = rejected part) | ✅ done as a **CapCut edit (16 s)**: user **reversed** the good part so it descends from aerial to her face; ends on her sleeping face, fades to black at 14.7 s. Remakes of this scene were **blocked 3× by Dola's filter**. |
-| **6 She Wakes** | starts on `Clip005_lastface.png` (14.6 s of the edit, full brightness): gasp, eyes open, pushes up on hands and knees, coughs up seawater, wipes mouth, sits up, looks around confused | ⏳ **SENT TO DOLA — waiting for result** |
-| 6B Alone | one continuous drone shot rising from behind her (sitting) to the whole island | not made yet |
-| 6C She Remembers | sitting; face freezes, eyes squeeze shut, hands on temples, tears, touches necklace, whispers "Where am I...?" | not made yet; crash flashbacks are inserted in editing |
-| 7+ | continue from `ISLAND_SCRIPT.md` clip 7 (The Wonders) onward | not made yet |
+| 1 Flying Alone | plane over sunset ocean, Noor relaxed, family photo | ✅ Dola |
+| 2 The Storm Ahead | eye storm ahead, compass spinning, enters storm | ✅ Dola |
+| 3 Inside the Storm | Omni storm shots + Dola cockpit "Mayday!" | ✅ mixed edit |
+| 4 Impact | from `Clip003_last.png`: fall, scream, impact, underwater | ✅ Dola |
+| 4B Escape | from `Clip004_start4B.png`: unbuckles, swims out, plane settles on reef tail-up, surfaces | ✅ Dola; second plane zoom-cropped out |
+| 5 Washed Ashore | aerial descending to her sleeping face | ✅ CapCut **reversed** edit (remakes were blocked 3×) |
+| 6 She Wakes | from `Clip005_lastface.png`: gasp, coughs seawater, sits up | ✅ Dola. Last frame: `Clip006_last.png` |
+| 6B Alone | from clip 6 last frame: glide in, circle her, rise to the whole island | ✅ Dola. Save name `Clip006B.mp4`. Small "Dola AI" watermark top right → crop/blur |
+| 6C She Remembers | breakdown + "HELP!" scream, flashbacks | prompt written (dramatic version), **not on the timeline** — user skipped it for now |
+| **BRIDGE** | `Noor_sitting.png` → gets up → walks tired → **creature from behind** in the woods → ends on `planeinwater.jpg` | ⏳ **in progress in Firefly/Kling 3.0** (section 8.1). Flow refused it. |
+| 7 The Tail in the Sea | first frame `planeinwater.jpg`, 3 slow shots: push-in on her back / profile close-up "That's my plane..." / from dark jungle leaves, she is small on the beach | ✅ **Kartar_Skill_1.mp4** (Dola, Kartar skill) — looks real. Issues: plane looks pasted, hair fairly dry, odd hand ~9.5–10.5 s (trim), whisper unclear (add in ElevenLabs). A "redo" prompt adding the creature from behind was written (8.2) but not confirmed as made. |
 
-**Agreed edit order now:** 4B (ends black) → clip 5 edit (aerial descends to her face) → 6 (wakes + coughs + sits) → 6B (aerial reveal of her alone) → 6C (memories with flashbacks) → 7…
+**Rejected:** the first Kartar 30-s exploring prompt (came out 15 s, 11 fast cuts, dry fresh hair — "doesn't look real"). `ISLAND_FRAMES/Clip007_last.png` is from that rejected clip. First Firefly test (face changed into another woman, wrong trees). Second Firefly test (good, but see-through wet shirt + plane too close) — optional parts only.
 
-**Numbering note:** production now has extra clips (4B, 5A, 6B, 6C), so production numbers no longer match the script numbers exactly. Script clip 6 ("she sees the plane tail") was changed: **the user does NOT want the plane shown when she wakes**; she remembers instead. The plane still rests on a shallow reef with its tail up (established in 4B) — the script needs it later (she swims to it for flare gun, knife, radio, fuel).
+**Timeline order now:** 1 → 2 → 3 → 4 → 4B → 5 → 6 → 6B → **BRIDGE** → (optional creature-still push-in) → 7 → next.
+(The user's CapCut timeline ends at ~1:57 on the 6B aerial.)
 
-**Flashback method (no new clips needed):** in 6C, when her face freezes / eyes shut / hands on temples, cut in 0.3–0.7 s flashes from existing footage: green eye storm (clip 2), "Mayday!" (clip 3), sea rushing at windshield + impact (clip 4), eyes snapping open underwater (4B). White flash / glitch between them, slightly desaturated, ringing tone + heartbeat underneath.
+## 6. HOW WE FORCE CHARACTER CONSISTENCY (the user's proven method — always do all of it)
 
-## 5B. How we force the AI to keep characters consistent (the user's proven method)
-
-Character consistency has been solved and works across different Dola accounts. Always do all of this:
-
-1. **Multi-pose reference sheet per character** (front, 3/4, side, back, face close-up) made once in an image tool, then **never changed**. The sheet is the character's identity. Same for creatures, the plane and locations.
-2. **Upload the sheet in EVERY clip the character appears in** — no exceptions, even for tiny appearances (hands only, side view, far away).
-3. **Exact file names** in the prompt, and only the files that clip needs: `"use_only_these": [...]` + "ignore any other image".
-4. **One line per sheet telling the model what it is and what to copy**, e.g.
+1. **One multi-pose reference sheet per character** (front, 3/4, side, back, face close-up), made once, **never changed**. Same for the monster, plane, locations.
+2. **Upload the sheet in EVERY clip the character appears in**, even tiny appearances (hands only, far away, from behind).
+3. **Exact file names** in the prompt + only the files the clip needs: `"use_only_these": [...]`.
+4. **One line per sheet** saying what it is and what to copy, e.g.
    `"CHAR_Noor.jpg": "Noor - her face must match CHAR_Noor.jpg exactly: same young face, soft features, fair skin, same age. Dark brown hair, white t-shirt, black jeans, black shoes, small gold coin necklace. Design only, ignore any printed words on the sheet."`
-   (The original long form used in VEYRA: "Inspect all views on this sheet before filming; keep face, outfit, weapons and markings identical.")
-4A. **THE USER'S CORE RULE — "study her in 3D, then pose her":** the model must first study the multi-pose sheet from every direction (front, right, left, back, from above, from below) to understand exactly how she looks as a real 3D person; THEN put her into the pose of this shot (sitting, lying, turning, looking up…); THEN work out how she must look from this camera angle by using the matching views on the sheet. Never invent a new look for an angle — derive it from the sheet. Add this sentence to every prompt (in references, after the sheet line):
+5. **THE USER'S CORE RULE — "study her in 3D, then pose her"** (put it in every Dola prompt, in references):
    `"pose_rule": "Before filming, study CHAR_Noor.jpg from every direction - front, right side, left side, back, from above and from below - and understand exactly how she looks as one real person in 3D. Then place her in the pose of each shot, and show her from that shot's camera angle exactly as the matching views on the sheet show her: same face shape, same eyes, nose and lips, same hair, same body, same clothes and necklace. Do not invent anything the sheet does not show."`
-   Use the same rule for any creature or the plane when they appear (replace the file name).
+   Same rule for the monster (replace the file name).
+6. **Inspect ALL views** and name the matching view per shot: "seen from the side - match the SIDE view of CHAR_Noor.jpg", "from behind - match the BACK view", "close-up - match the face close-up". For the monster from behind: "exactly like the FULL BODY BACK view of CREATURE_Chief.jpg".
+7. **"Design only"** — never copy the sheet's grey background, straight poses or printed labels.
+8. **Describe her current state every time** (wet, sandy, tired) so the model changes only that, not the person.
+9. **Face lock in the negative:** "Noor's face must not change or look older".
+10. **Firefly/Kling elements:** add **Noora** (full sheet) + **nooraface** (face-only crop — Kling copies a face far better from one clear face picture) + **island** (+ **plane**, + **monsterchartofdifposes** when needed). In the prompt: "face exactly @nooraface in every shot, same fair skin, same age". Put each element tag (chip) **only in the part of the prompt where that thing appears** (picked from the @ list — typed text is not a link).
+11. **Wetness / state is held by a START IMAGE, not by text.** Text alone ("soaking wet hair") gets ignored and she turns dry and fresh. Use a first frame that already shows her wet. Add: "hair always soaking wet and messy, never dry, never clean, never styled".
+12. **Clothes:** always "thick opaque white cotton t-shirt, NOT see-through" (a Kling result had a see-through wet shirt → bad for YouTube) and "wearing black shoes".
+13. **When the face still drifts:** show her from behind / side / far / hands; keep front close-ups for Dola; or trim and replace that shot from another take.
+14. Same sheets + same prompt format on any account → same character. Tools remember nothing between chats.
 
-4B. **Make the model look at EVERY view on the sheet (front, side right, side left, back, close-up)** — this was one of the user's key rules. Put it in the sheet line:
-   `"CHAR_Noor.jpg": "Noor. Inspect ALL views on this sheet before filming - FRONT, SIDE RIGHT, SIDE LEFT, BACK and the face close-up - and keep her face, hair, clothes and necklace identical from every angle."`
-   And in each shot, remind it which view matches the camera angle, e.g.
-   - "seen from the side - match the SIDE LEFT view on CHAR_Noor.jpg"
-   - "from behind her shoulder - match the BACK view (ponytail, t-shirt)"
-   - "close-up - match the face close-up on CHAR_Noor.jpg"
-   This keeps her the same when she turns, and stops the model inventing what her back or profile looks like. Same for the Chief/tribe sheets (FULL BODY FRONT / 3/4 / SIDE / BACK) and the plane sheet (front / side / top / rear / cockpit).
-5. **"Design only"** — the sheet is for looks; never copy its grey background, its straight camera angles or its printed labels.
-6. **Describe the current state of the outfit every time** (wet, sandy, messy hair, no headset…) so the model changes only that, not the person.
-7. **Face lock in the negative:** "Noor's face must not change or look older".
-8. **Same sheets + same prompt format on every account** → same character. Dola remembers nothing between chats, so consistency comes only from the files and the prompt.
-9. **When the face still drifts:** show her from the side / in shadow / hands only in action shots; keep front close-ups for calm moments; or trim/replace the drifted shot with a shot from another take (clip 3 was fixed this way). Omni (other tool) ignored the sheet and changed her into a different woman — don't use it for her face.
-10. **Random side characters** (tribe members) all follow one group sheet (`CREATURE_Tribe.jpg`); small differences are fine and realistic.
+## 7. Hard rules learned (follow every time)
 
-## 6. Hard rules learned (follow every time)
+**Prompt format (Dola):** first line `Make this video 15 seconds, one generation.` then JSON: clip, title, duration_seconds 15, aspect_ratio 16:9, (first_frame), format, references (use_only_these + one line per file + pose_rule), shots (time / camera with lens mm / action), dialogue, acting, style, physics, sound, negative.
 
-1. **First line of every Dola prompt:** `Make this video 15 seconds, one generation.`
-2. **Format:** JSON with: clip, title, duration_seconds 15, aspect_ratio 16:9, format, references (use_only_these + one line per file), shots (time / camera with lens mm / action), dialogue if any, style, physics, sound, negative. Clips are **4–7 short shots with hard cuts** (like the reference turtle film, avg shot 2.8 s).
-3. **First frame (when continuing an action):** put this ABOVE the JSON and upload the image FIRST:
-   `FIRST FRAME: Use the uploaded image <name>.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.` and add `"first_frame": "<name>.png - <what it shows>. This video STARTS EXACTLY on this image."`
-   - Use a last frame only when the next clip continues the **same action in the same place** (storm→fall→impact→escape). New scene/time → no frame.
-   - If the last frame is black or pure white, pick the **last clear frame before it** (the AI extracts it from the video; check brightness — fades start before the end).
-   - Asking Dola to extract the last frame itself is unreliable — the user uploads the frame.
-4. **Face lock for Noor:** "her face must match CHAR_Noor.jpg exactly: same young face, soft features, fair skin, same age" + negative "Noor's face must not change or look older". Fewer front close-ups in action scenes (side/shadow/hands) reduce drift.
-5. **Never use age words / girl / kid.** Always "young woman".
-6. **No text:** "no text, no letters, no numbers, no registration on the plane, no watermark"; gauges = "only needles and tick marks, no numbers".
-7. **Sound line must list every sound source in the picture** (lightning → thunder crack, waves → surf/foam, fire → crackle, etc.).
-8. **Screen direction:** the plane flies **left to right** in every shot; say "always forward, never backwards".
-9. **No gore, no injuries, no blood, no fire explosions**; creatures are aggressive but hits only knock down.
-10. **Dola content filter:** it BLOCKS close-ups of Noor **lying still with eyes closed** on the beach ("vulnerable/incapacitated woman"), even worded as "sleeping/resting", and blocked the wake-up when she was lying + coughing in the remakes. What passes: her awake and moving; distant aerial figures; environment-only shots. Avoid words: unconscious, lifeless, motionless, torn, exhausted, alone. If blocked: don't keep retrying — use footage that already passed, change the beat, or move the risky part (e.g. cough only as sound).
-11. **If something is wrong in a small part:** trim it, or zoom-crop it (user's trick), or mix shots from Dola/Omni versions. Regenerate only when the error is central and can't be cut.
-12. Dola often shows **two "Generating video" lines** = a retry or two versions; let both finish.
-13. Plane in the sea: say "ONLY the small tail fin far away… the rest is under water"; Dola otherwise draws a whole floating plane.
-14. Camera that must stay on her: "Noor ALWAYS stays in the exact centre of the frame; the camera never turns away, never flies sideways, never leaves her" + negative "the camera does not fly away over the jungle or sea".
+**Prompt format (Firefly/Kling):** plain text, **under 2,500 characters**, timed shots (0-4s…), element tags, then a short physics/negative line. Settings: Kling 3.0, 16:9, 15 s, Multi-shot ON (one shot box with the whole prompt is fine; the user prefers ONE prompt, not separate shot boxes), Audio OFF.
 
-## 7. Frames in this repo (`ISLAND_FRAMES/`)
+**Realism (very important):** few, **long, slow shots** (2–4 per 15 s) + a **real-looking start image** = looks real. Many fast cuts (11 in 15 s) + no start image = looks fake/advert. Never ask for 30 s in Dola.
 
-| File | From | Used for |
+**Frames / joins:**
+- Continue the same action → use the real last frame of the previous clip as the first frame. Put above the JSON: `FIRST FRAME: Use the uploaded image <name> as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.` and upload that image FIRST.
+- If the last frame is black/white (fade), take the **last clear frame before the fade**.
+- A jump between two different poses (sitting close-up → standing at the water) → make a **bridge clip with first + last frame** (Firefly/Kling or Flow).
+- Dola cannot reliably extract a last frame itself — the user uploads the frame.
+
+**Content filters (Dola is the strictest):**
+- Blocks **Noor lying still with eyes closed** ("vulnerable/incapacitated woman").
+- Blocks **a hidden watcher + Noor alone in the same shot** ("stalking / threat").
+- After a few blocks the **whole chat is poisoned** — even harmless prompts get blocked → **open a brand-new chat**.
+- Passes: Noor awake and active; environment-only shots; distant aerials.
+- Fixes: put the creature/watcher in **shots without Noor** (or with Noor tiny and far, from behind the creature), make them in Firefly/Kling, or use a **still + slow push-in**. Avoid words: unconscious, lifeless, motionless, victim, stalking.
+- **Tribe scenes plan:** tribe-only shots and Noor-only shots, joined in editing; Noor always **active** (hiding, sneaking, cutting ropes, running, fighting back) — never tied/held/lying while men stand over her; capture implied or very wide; neutral words (avoid captured/tied/prisoner/kill/eat/cannibal/blood → use "the tribe gathers", "ceremony", "the feast fire", "drums", "spears raised"); masks help (costume, no face consistency needed).
+
+**Other rules:**
+- Never use age words, "girl" or "kid" for Noor → "young woman".
+- No text anywhere: "no text, no letters, no numbers, no watermark"; plane "no registration"; gauges "only needles and tick marks".
+- Sound line lists every sound source in the picture. (Kling/Firefly are silent → sound in CapCut/ElevenLabs.)
+- Plane flies **left to right**, always forward.
+- No gore, no blood, no injuries shown in detail.
+- Plane in the sea: "only the small tail fin far away… the rest is under water", "small, smaller than her hand in the frame, near the horizon", "the camera does not move closer". Otherwise models draw a whole floating plane, or bring it close.
+- Monster: **never show its face or eye** until the story reveals it; from behind only. In camera-move tools never orbit/360.
+- Small errors → trim, zoom-crop, reverse, or mix takes. Regenerate only when the error is central.
+
+## 8. Exact prompts in progress / next
+
+### 8.1 BRIDGE clip — Firefly → Kling 3.0 (IN PROGRESS)
+Setup: **First frame** `Noor_sitting.png` · **Last frame** `planeinwater.jpg` · Kling 3.0 · Widescreen 16:9 · 15 s · Multi-shot ON (one shot box) · Auto ON (if it makes one continuous shot with no jungle cut, retry with Auto OFF) · Audio OFF.
+Elements: **monsterchartofdifposes** (= `CREATURE_Chief.jpg`) placed as a chip at **[CHIP]**; add **Noora / nooraface** if Firefly allows them too. Clear any old text in the box first (there was leftover "missile" text from another project).
+
+```
+15-second photoreal survival film, golden late-afternoon light, soft haze, 35mm grain, slow steady camera. Start exactly on the first frame, end exactly on the last frame.
+
+Noor: young woman, fair skin, soft features, brown eyes, same face in every shot. Long dark brown hair soaking wet, stuck to her face and neck, sand on her arms. Thick opaque white t-shirt, never see-through. Black jeans wet with sand, black shoes, small gold coin necklace. Exhausted but alive.
+
+0-4s: Medium close-up, same place as the first frame. Noor slowly pushes the wet hair off her face, breathes heavily, presses one hand into the sand and gets up slowly, unsteady and tired.
+
+4-7s: Wide shot. She walks slowly along the white sand beach toward the water, tired heavy steps, arms loose, feet sinking into wet sand. Dark jungle edge with huge ancient trees behind her.
+
+7-11s: Camera deep inside the dark jungle, BEHIND the tall thin creature [CHIP]. Only its back, head and shoulders are seen, dark and out of focus in the foreground. Its face and eye are NEVER shown. Back exactly as the back view on the reference sheet: torn yellowed sailcloth over its left shoulder, one strap from the left shoulder to the right hip, rope belt, nothing on its back. Its long grey-brown bony fingers slowly tighten on a tree trunk. Through the leaves, Noor is small and far away on the bright beach, in sharp focus.
+
+11-15s: On the beach behind Noor. She reaches the shallow water, stops, raises one hand to shade her eyes and looks out to sea. Far out, about 500 metres away, the white tail of her small plane sticks up from the waves. Hold still and end exactly on the last frame.
+
+Physics: real weight, slow natural movement, heavy wet hair, sand and water react realistically.
+
+Negative: no creature face, no eye, no glowing eye, no second creature, no other people, no dry hair, no see-through shirt, no second plane, no plane near the shore, no text, no watermark, no cartoon or CGI look, no fast cuts.
+```
+(⚠️ An earlier version given in chat said "olive skin" and "khaki trousers" — that was WRONG. Noor = fair skin, black jeans, black shoes. Use the version above.)
+If the creature's face shows → trim it in CapCut. If the end doesn't land on the last frame → cut at the last good frame and use the creature-still push-in (8.3) as a filler.
+
+### 8.2 Clip 7 redo with the creature (optional — paste in the SAME Dola chat that made Kartar_Skill_1; upload `CREATURE_Chief.jpg` too)
+```
+Make this video 15 seconds, one generation.
+
+REDO the last video (clip 7 "THE TAIL IN THE SEA"). Keep EVERYTHING the same - same first frame planeinwater.jpg, same 3 slow shots, same camera, same light, same beach, same Noor (CHAR_Noor.jpg) - and change ONLY these things:
+
+1. THE PLANE: it must look like a real wreck sitting IN the water, not pasted on - nose dipped under the surface, white tail fin with the dark-red stripe at an angle, small waves breaking white against it with spray, its reflection shimmering on the water. Still small and far, about 500 metres away.
+
+2. HER HAIR: soaking wet and heavy in every shot - wet strands stuck to her neck and cheek, drops of water falling from the ends. Not dry, not neat.
+
+3. HER HAND (shot 2): she lowers her open hand slowly and naturally to her side - no fist, no strange hand.
+
+4. HER WHISPER (shot 2): clear and audible: "That's my plane..."
+
+5. SHOT 3 - THE CREATURE: film it from deep inside the dark woods, from BEHIND a large creature hiding there. In the dark blurred foreground we see only the edge of its huge grey-brown cracked shoulder and its giant hand with very long thin bony fingers (skin and fingers like CREATURE_Chief.jpg) slowly gripping a tree trunk. Through the leaves beyond it, Noor is a small figure far away on the bright beach looking at the sea. The creature stays still and watches her; its fingers tighten slowly on the bark. NEVER show its face, head or eye - only shoulder and hand from behind, out of focus.
+
+Sound for shot 3: a deep slow breath close to the camera, bark creaking under its fingers, then silence.
+```
+(Since the bridge now carries the creature, this redo may not be needed — ask the user.)
+
+### 8.3 Creature still (from behind) — edit + animate (optional insert, goes right before clip 7)
+**Edit its back clothing** (upload the still first, then `CREATURE_Chief.jpg`):
+```
+Edit image 1. Keep everything exactly the same - the scene, the light, the creature's body, skin, head, pose and hand on the tree. Change ONLY the creature's clothing on its back so it is an exact copy of the clothing in the "FULL BODY BACK" view of image 2 (CREATURE_Chief.jpg):
+
+- Tunic: the same torn, faded yellow-tan sailcloth tunic as the sheet's back view - it covers the left shoulder only and hangs down the back to the knees with ragged, uneven, torn edges; the right shoulder is bare.
+- Strap: the same brown leather strap as the sheet's back view - running diagonally from the top of the left shoulder down across the back to the right hip.
+- Belt: the same thick twisted rope belt as the sheet's back view - wrapped twice around the waist, with a knot and loose rope ends hanging down at the back.
+- Necklace: from behind only a thin cord around the neck with a small pendant at the back of the neck - remove the compasses and coins from the back.
+
+Same colours, fabric texture and wear as the sheet. Photoreal, same light as image 1. No text, no watermark.
+```
+**Animate it** (5–8 s, push-in, never orbit/360):
+```
+Start exactly from the uploaded image and keep it exactly the same: the same jungle, the same creature seen from behind, the same woman small on the bright beach far away, the same plane tail far out at sea, the same light.
+
+One continuous shot, very slow and quiet. The camera slowly pushes forward past the creature's shoulder toward the gap in the leaves, so the distant beach and the woman become a little bigger.
+
+The creature stays completely still and seen only from behind - it never turns its head, its face and eye are never shown. Only small movements: its back and shoulders rise and fall slowly with a deep breath, and its long bony fingers slowly tighten on the tree bark, pressing into it.
+
+Far away on the beach the woman stands at the water's edge, one hand shading her eyes, looking at the sea; small waves wash up the sand. The big palm leaves in the foreground move slightly in the wind.
+
+Photoreal live-action survival film, warm golden light on the beach, deep green darkness in the jungle, 35mm film grain, slow natural motion. Sound: a deep slow breath close to the camera, bark creaking under its fingers, distant waves, then the insects go silent. No text, no watermark.
+```
+
+### 8.4 What comes next (not written yet — wait for the user's go)
+1. **Human tribe sheet** (`CHAR_Tribe.jpg` suggested name): 4–6 human tribe members, masks, white/ochre face paint, bone and shell necklaces, spears, grass/bark clothing, plain grey background, no text. Plus a **human chief sheet** (multi-pose, taller, feathered/bone headdress, necklace of castaways' trinkets).
+2. Possibly a bigger "monster" sheet if the user wants it ~3 m tall (currently `CREATURE_Chief.jpg` is used as-is).
+3. Story clips after 7: she wades/swims out toward the plane for supplies OR explores the jungle; more "something watching" moments (giant footprints, leaves parting, the eye far away); the tribe's first signs (drums at night, the pot, belongings on poles); then capture → rescue by the monster → wounded monster → dive for the first-aid box → bandaging in the cave.
+4. Sound pass: ElevenLabs voice for "That's my plane...", waves/wind/footsteps for all silent Kling clips.
+
+## 9. Frames in this repo (`ISLAND_FRAMES/`)
+
+| File | What | Used for |
 |---|---|---|
-| `Clip002_last.png` | last frame of clip 2 (plane entering the eye storm) | start of clip 3 (Omni) |
-| `Clip003_last.png` | last frame of final clip 3 (plane in lightning storm) | start of clip 4 |
-| `Clip004_start4B.png` | clip 4 at 12.3 s (plane half-sunk) | start of 4B |
-| `Clip005_9.5s.png` | first clip 5 at 9.5 s (aerial, Noor small at waterline) | spare / still image |
-| `Clip005_lastface.png` | user's clip 5 edit at 14.6 s (her sleeping face, golden light) | **start of clip 6 (sent now)** |
+| `Clip002_last.png` | end of clip 2 | start of clip 3 |
+| `Clip003_last.png` | end of clip 3 | start of clip 4 |
+| `Clip004_start4B.png` | clip 4 at 12.3 s | start of 4B |
+| `Clip005_9.5s.png` | aerial, Noor small at waterline | spare |
+| `Clip005_lastface.png` | clip 5 edit at 14.6 s | start of clip 6 |
+| `Clip006_last.png` | end of clip 6: low wide from the water, Noor sitting | start of 6B |
+| `Clip006B_last.png` | end of 6B aerial | spare |
+| `Clip007_start_omni.png` | 6B at 8.0 s, Noor sitting from behind | used for Omni/Firefly tests |
+| `Clip007_last.png` | end of the REJECTED fast Kartar clip | don't use |
+| `Noor_sitting.png` | Noor sitting close-up, wet hair | **first frame of the BRIDGE** |
+| `CHAR_Noor_face.jpg` | face crop of CHAR_Noor.jpg | Firefly element **nooraface** |
+| `VEH_plane_side_nobg.png` | plane cut-out, transparent (BiRefNet) | plane compositing |
 
-## 8. Exact prompts that are next
-
-### CLIP 6 — SHE WAKES (already sent to Dola)
-Upload: `Clip005_lastface.png` (first), `CHAR_Noor.jpg`, `LOC_island.jpg`
-```
-Make this video 15 seconds, one generation.
-
-FIRST FRAME: Use the uploaded image Clip005_lastface.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
-
-{
-  "clip": 6,
-  "title": "SHE WAKES",
-  "duration_seconds": 15,
-  "aspect_ratio": "16:9",
-  "first_frame": "Clip005_lastface.png - close-up of Noor's face on the wet white sand in warm golden morning light. This video STARTS EXACTLY on this image and she starts waking up immediately.",
-  "format": "one 15-second video made of 5 short shots with hard cuts",
-  "references": {
-    "use_only_these": ["Clip005_lastface.png", "CHAR_Noor.jpg", "LOC_island.jpg"],
-    "CHAR_Noor.jpg": "Noor - her face must match CHAR_Noor.jpg exactly: same young face, soft features, fair skin, same age. Dark brown hair (wet), white t-shirt (wet and sandy), black jeans, black shoes, small gold coin necklace. Design only, ignore any printed words on the sheet.",
-    "LOC_island.jpg": "The island - this exact beach: white sand, palm trees and giant ancient trees behind, turquoise water. Copy exactly."
-  },
-  "shots": [
-    {"time": "0-2s", "camera": "same close-up as the first frame, 85mm", "action": "Continue exactly from the first frame: at once she takes a deep sharp gasp of air, her eyes fly open, and she lifts her head from the sand."},
-    {"time": "2-6s", "camera": "medium shot from the side, 50mm, at sand level", "action": "She pushes herself up onto her hands and knees and coughs hard, again and again, bringing up seawater that splashes onto the sand, her back shaking with each cough, wet hair hanging over her face, water dripping from her hair and chin."},
-    {"time": "6-9s", "camera": "close-up, 85mm", "action": "Still on her hands and knees, she gasps for air between coughs, eyes watering, then wipes her mouth with the back of her hand."},
-    {"time": "9-12s", "camera": "medium shot, 50mm", "action": "She sits back on the sand, knees bent, breathing heavily, and pushes the wet hair back from her face with both hands."},
-    {"time": "12-15s", "camera": "medium wide, 35mm, low angle from the waterline", "action": "She sits on the white sand catching her breath, looking around at the empty beach and the dark jungle of giant trees, confused."}
-  ],
-  "acting": "Natural, realistic film acting: someone waking up after nearly drowning - the shock of the first breath, hard coughing, exhaustion, then confusion. Not exaggerated.",
-  "style": "photoreal live-action survival drama, shot on ARRI Alexa, warm soft golden morning sunlight, 35mm film grain, 24 fps natural motion blur",
-  "physics": "Real body: her arms shake as she pushes up; her back and shoulders jerk with each cough; real seawater comes out and splashes on the sand; sand sticks to her skin and clothes and falls off; water drips from her hair.",
-  "sound": "gentle waves and foam hissing on the sand, soft wind in the palms, distant seabirds; her sharp deep gasp as she wakes, hard wet coughing again and again, heavy rasping breaths. No music.",
-  "negative": "no plane, no wreck, no boat; Noor's face must not change or look older; no blood, no injuries; no other people; no creatures; no storm, no rain; no text, no letters, no numbers, no watermark; no cartoon or CGI look; no morphing"
-}
-```
-If blocked → reply to Dola: "Keep everything, but she coughs only once while pushing up, and no water comes from her mouth." (add coughs as sound in edit).
-
-### CLIP 6B — ALONE (next)
-Upload: `CHAR_Noor.jpg`, `LOC_island.jpg`
-```
-Make this video 15 seconds, one generation.
-
-{
-  "clip": "6B",
-  "title": "ALONE",
-  "duration_seconds": 15,
-  "aspect_ratio": "16:9",
-  "format": "ONE continuous 15-second shot, no cuts",
-  "references": {
-    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg"],
-    "CHAR_Noor.jpg": "Noor - same young face, dark brown wet hair, white sandy t-shirt, black jeans, black shoes, small gold coin necklace. Design only, ignore any printed words on the sheet.",
-    "LOC_island.jpg": "The island - use EXACTLY this island and beach: the long curved white sand beach, palm trees and giant ancient trees behind, dark rocks, turquoise water with dark coral patches, the green lily-pad lagoon and the grey cliff with the big cave. Copy exactly."
-  },
-  "shots": [
-    {"time": "0-15s", "camera": "one continuous drone shot: starts 2 metres behind Noor at head height, then slowly rises up and back into a very high wide aerial view, 24mm, smooth, Noor always in the centre of the frame", "action": "Noor sits awake on the white sand, hugging her knees, looking out at the sea. The camera rises slowly behind her: first her back and messy wet hair, then the long empty white beach around her with foam lines and driftwood, then the dark jungle of giant trees behind her, and finally the whole island exactly as LOC_island.jpg - the curved beach, the lagoon, the cliff with the cave - with endless turquoise ocean all around and no other land anywhere. She is a tiny figure on the beach."}
-  ],
-  "style": "photoreal live-action film, shot on ARRI Alexa, warm soft morning light, clear sky, calm sea, lonely mood, 35mm film grain, 24 fps",
-  "physics": "Real ocean: waves roll in and slide up the sand leaving foam lines; palm fronds sway gently; the camera rises smoothly without shaking or spinning.",
-  "sound": "gentle waves, soft wind, palm fronds rustling, distant seabirds, the sound slowly fading into quiet as the camera rises. No music.",
-  "negative": "no plane, no wreck, no boat, no other land; no other people; no creatures; no storm, no rain; no text, no letters, no numbers, no watermark; no cartoon or CGI look; no morphing; no cuts"
-}
-```
-
-### CLIP 6C — SHE REMEMBERS (after 6B)
-Upload: `CHAR_Noor.jpg`, `LOC_island.jpg`
-```
-Make this video 15 seconds, one generation.
-
-{
-  "clip": "6C",
-  "title": "SHE REMEMBERS",
-  "duration_seconds": 15,
-  "aspect_ratio": "16:9",
-  "format": "one 15-second video made of 6 short shots with hard cuts, focused on her face and acting",
-  "references": {
-    "use_only_these": ["CHAR_Noor.jpg", "LOC_island.jpg"],
-    "CHAR_Noor.jpg": "Noor - her face must match CHAR_Noor.jpg exactly: same young face, soft features, fair skin, same age. Dark brown hair (damp and messy), white t-shirt (damp and sandy), black jeans, black shoes, small gold coin necklace. Design only, ignore any printed words on the sheet.",
-    "LOC_island.jpg": "The island - use EXACTLY this beach: the long curved white sand beach of LOC_island.jpg, with palm trees and giant ancient trees right behind the sand, turquoise water. Copy exactly."
-  },
-  "shots": [
-    {"time": "0-3s", "camera": "medium shot, 50mm, at sand level", "action": "Noor sits awake on the white sand in the warm morning sun, knees bent. She pushes her damp messy hair back from her face with both hands and looks around, confused, blinking."},
-    {"time": "3-5s", "camera": "close-up, 85mm, very slow push in", "action": "REMEMBERING: suddenly her face freezes. Her eyes widen and stare at nothing, her breath stops, her lips part - as if she is seeing something terrible in her mind."},
-    {"time": "5-7s", "camera": "extreme close-up on her eyes, 100mm", "action": "Her eyes flinch and squeeze shut hard, her eyebrows pull together in pain, she shakes her head slightly as if a loud sound hit her - reliving a frightening memory."},
-    {"time": "7-10s", "camera": "medium close-up, 50mm", "action": "She presses both hands against her temples, breathing fast and shaky, rocking slightly forward, eyes still shut, fighting the memories."},
-    {"time": "10-12s", "camera": "close-up, 85mm", "action": "Her eyes snap open again, wet with tears, staring at nothing, her chest heaving. She swallows hard."},
-    {"time": "12-15s", "camera": "close-up, 85mm", "action": "Tears roll down her cheeks. She slowly touches the small gold coin necklace at her throat, looks up at the jungle and whispers: \"Where am I...?\""}
-  ],
-  "dialogue": "Noor (whispering, shaken, tearful): \"Where am I...?\"",
-  "acting": "Natural, realistic film acting: a young woman remembering a plane crash - shock, fear, pain, then sadness. Real micro-expressions, trembling lips, wet eyes, fast breathing. Not exaggerated.",
-  "style": "photoreal live-action survival drama, shot on ARRI Alexa, warm soft morning sunlight, shallow depth of field on her face, 35mm film grain, 24 fps natural motion blur",
-  "physics": "Real body: her shoulders rise and fall with fast breathing, her hands tremble, real tears run down her cheeks, sand on her arms, her hair moves in the soft wind.",
-  "sound": "gentle waves washing in and out, soft wind in the palm trees, distant seabirds; at 3s all sound fades into a high thin ringing tone and a slow heartbeat; at 10s the ringing stops and the waves return; her fast shaky breathing, her whisper \"Where am I...?\". No music.",
-  "negative": "no plane, no wreck, no boat; she stays sitting up the whole time, never lying down; Noor's face must not change or look older; no blood, no injuries; no other people; no creatures; no storm, no rain; no text, no letters, no numbers, no watermark; no cartoon or CGI look; no morphing"
-}
-```
-Flashback insert points: after 3–5 s (storm eye + "Mayday"), after 5–7 s (sea rushing + impact), after 7–10 s (eyes snapping open underwater).
-
-### After 6C
-Continue with `ISLAND_SCRIPT.md` from **clip 7 (The Wonders)**: giant ancient trees, umbrella-sized pale flowers opening, strange long-tailed birds, her wonder — then 8 (POV someone watching her from the bushes), 9 (second set of long bare footprints appearing next to hers), 10 ("Hello?!" — birds go silent), 11 (the eye blinking far away under water), 12 (the eye in the leaves at sunset). Write each prompt fresh in the format above (the old versions in `ISLAND_CLIPS_01-12.txt` predate the rules in section 6 — update them: 15-second first line, face lock, no plane unless needed, full sound sources). Note clip 11 in the old file includes the plane tail and wading to it — check with the user whether they want the plane seen there.
-
-## 9. Other files in the repo (older project — on hold)
-`VEYRA_*` files belong to an earlier sci-fi film (VEYRA) that was paused because it was too hard for AI (invented world, giant mothership scale problems). Not needed for the island film. `VEYRA_CINEMA_STUDIO.html` is a prompt-builder page for VEYRA only.
+## 10. Other files
+- `ISLAND_SCRIPT.md` — original 100-clip script (pre-story-change).
+- `ISLAND_ASSET_PROMPTS.txt` — original sheet prompts (note: the Noor text there is outdated; the real `CHAR_Noor.jpg` is fair skin / white t-shirt / black jeans).
+- `ISLAND_CLIPS_01-12.txt/.xlsx` — first prompt versions (older rules).
+- `KARTAR_ORIGINAL_SKILL.md` — the skill to load in Dola.
+- `VEYRA_*` — an earlier paused sci-fi project, not needed.
