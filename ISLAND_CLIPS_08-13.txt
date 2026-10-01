@@ -1,0 +1,279 @@
+THE ONE-EYED ISLAND - CLIPS 8 to 13 - "TOO FAR" to "FIRST FIRE" (6 x 15 s = 90 s)
+Made in Dola with the ORIGINAL Kartar skill, in ONE fresh chat, one clip at a time.
+
+=====================================================================
+FOLDER: ISLAND_REFERENCES  (images used by these 6 clips)
+=====================================================================
+plane in water 2.png  -> FIRST FRAME of clip 8 only
+CHAR_Noor.jpg         -> EVERY clip (Noor's multi-pose sheet)
+LOC_island.jpg        -> clips 9-13 (beach, jungle edge, giant trees)
+Clip08_last.png ... Clip12_last.png -> the real last frame of each clip, FIRST FRAME of the next clip
+(not needed: CREATURE_Chief.jpg, CREATURE_Tribe.jpg, LOC_village.jpg, VEH_plane.jpg, ENV_storm.jpg, planeinwater.jpg, Noor_sitting.png)
+
+=====================================================================
+THE CHAIN RULE (how the 6 clips look like ONE video)
+=====================================================================
+- Clip 8 starts on plane in water 2.png.
+- Every next clip starts on the REAL LAST FRAME of the clip before it.
+- Never make the next clip before the previous one is finished and its last frame is taken.
+- If a clip ends in a fade or a blurry frame, use the last CLEAR frame.
+- Dola is NOT reliable at taking the last frame itself. Safest: send the video to Claude (or take a screenshot of the
+  last frame in CapCut), save it as ClipXX_last.png, and upload it FIRST with the next prompt.
+- Light goes down ONE step per clip (written in each prompt): golden -> low orange -> sunset -> dusk -> blue hour -> night.
+
+FIRST MESSAGE IN THE NEW DOLA CHAT (paste once, before clip 8, upload nothing):
+---------------------------------------------------------------------
+I am making one continuous 90-second scene as 6 videos of 15 seconds (clips 8 to 13). Rules for this whole chat:
+1. Make ONLY the one clip I send in each message. Never make the next clip on your own.
+2. Every clip starts EXACTLY on the first-frame image I upload with it - that image is the real last frame of the previous clip. Do not draw a new picture.
+3. Wait for my next message after each clip. I will send the last frame and the next prompt.
+4. Same young woman (CHAR_Noor.jpg), same clothes, same beach, same light continuing in every clip.
+Reply only "Ready".
+---------------------------------------------------------------------
+
+NOOR'S LOOK IN ALL 6 CLIPS (already inside every prompt): ponytail, damp and messy with wet strands on her neck;
+opaque white t-shirt with sand on it; black jeans with wet sand stains; black belt; small gold coin necklace;
+black leather lace-up shoes with chunky soles. Tired. She gets more dirty, sweaty and tired clip by clip.
+
+THE FIRE SPOT (same in clips 10-13): on the sand at the top of the beach, next to a giant tree root at the jungle
+edge, with the sea and the far plane tail visible behind her.
+
+SOUND + EFFECTS: every prompt has a full "sound" line and an "effects" line. Dola makes the sound with the video.
+In CapCut you can strengthen: waves, wind, crackling fire, insects/frogs at night, her breathing.
+
+=====================================================================
+CLIP 8 - TOO FAR   (golden afternoon)
+UPLOAD: 1. plane in water 2.png (FIRST)   2. CHAR_Noor.jpg
+=====================================================================
+Make this video 15 seconds, one generation.
+
+FIRST FRAME: Use the uploaded image plane in water 2.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image and keeps its exact look, light, beach and plane position. Do not draw a new picture.
+
+{
+  "clip": 8,
+  "title": "TOO FAR",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "first_frame": "plane in water 2.png - Noor from behind at the water's edge, ponytail, one hand shading her eyes, the small white plane tail far out in the sea on the right, golden afternoon light. This video STARTS EXACTLY on this image.",
+  "format": "only 4 slow, realistic shots - like one continuous real survival film, no fast cuts",
+  "references": {
+    "use_only_these": ["plane in water 2.png", "CHAR_Noor.jpg"],
+    "CHAR_Noor.jpg": "Noor - inspect ALL views on this sheet (FRONT, SIDE RIGHT, SIDE LEFT, BACK, BUST SHOT). Face exactly as the sheet: same young face, soft features, fair skin, same age. Opaque white t-shirt (never see-through) with sand on it, black jeans with wet sand stains, black belt, small gold coin necklace, black leather lace-up shoes with chunky soles. Dark brown hair in a damp, messy ponytail with wet strands on her neck. Very tired. Design only, ignore any printed words on the sheet.",
+    "pose_rule": "Before filming, study CHAR_Noor.jpg from every direction - front, right side, left side, back, from above and from below - and understand exactly how she looks as one real person in 3D. Then place her in the pose of each shot and show her from that camera angle exactly as the matching views on the sheet show her. Do not invent anything the sheet does not show."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "same camera as the first frame, very slow push in toward her", "action": "Continue exactly from the first frame: she stares at the far plane tail, then slowly lowers her hand. Her shoulders sink."},
+    {"time": "4-7s", "camera": "close-up of her face in profile, 85mm, steady - match the SIDE view of CHAR_Noor.jpg", "action": "Golden light on her face, wet strands on her cheek. Her hope fades and she says quietly: \"Oh no... it's still too far.\""},
+    {"time": "7-11s", "camera": "medium shot from the side, 50mm", "action": "Exhausted, she bends forward and puts both hands on her knees, head down, breathing heavily, her ponytail falling forward. A wave washes over her shoes and pulls back."},
+    {"time": "11-15s", "camera": "wide shot from the sea side looking up the beach toward the jungle, 35mm, slow", "action": "She straightens up slowly, wipes her face with her arm, turns away from the sea and looks up the beach at the dark jungle edge and the giant trees. She takes a first tired step toward them. Her shadow is long on the sand."}
+  ],
+  "dialogue": "Noor (quiet, tired, disappointed): \"Oh no... it's still too far.\"",
+  "acting": "Natural and real: hope turning into disappointment, then quiet decision. Small tired movements, heavy breathing. Not exaggerated.",
+  "light": "golden afternoon exactly as the first frame; by 15s the sun is a little lower and the shadows a little longer",
+  "style": "realistic live-action survival film, shot on ARRI Alexa, real skin texture, subtle 35mm film grain, natural colours, 24 fps, real-time speed",
+  "physics": "Real weight: her shoulders rise and fall with heavy breathing; waves slide up the sand with foam and pull back; the far plane tail rocks slightly in the surf with small waves breaking white at its base; palm leaves move in the wind; wet sand sticks to her shoes.",
+  "effects": "soft sun flare from the low sun, sparkle on the water, light sea haze on the horizon, gentle wind moving her hair strands",
+  "sound": "gentle waves rolling and hissing on the sand, soft sea wind, distant seabirds, faint surf breaking on the far reef, her quiet line, her heavy tired breathing, water splashing over her shoes, footsteps in wet sand as she turns. No music.",
+  "negative": "the plane stays small and far exactly as in the first frame, never closer; no other people; no creatures; no see-through shirt; Noor's face must not change or look older; no text, no letters, no numbers, no watermark; no cartoon or advert look; no fast cuts; no morphing"
+}
+
+>>> When clip 8 is done: take its last clear frame -> save as Clip08_last.png. Only then make clip 9.
+
+=====================================================================
+CLIP 9 - BACK TO THE JUNGLE   (sun lower, warm orange)
+UPLOAD: 1. Clip08_last.png (FIRST)   2. CHAR_Noor.jpg   3. LOC_island.jpg
+=====================================================================
+Make this video 15 seconds, one generation.
+
+FIRST FRAME: Use the uploaded image Clip08_last.png as the FIRST FRAME of this video (image_to_video). It is the real last frame of clip 8. The video starts exactly on this image. Do not draw a new picture.
+
+{
+  "clip": 9,
+  "title": "BACK TO THE JUNGLE",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "first_frame": "Clip08_last.png - the real last frame of clip 8: Noor on the beach turning toward the jungle edge. Continue exactly from it - same place, same light, same clothes.",
+  "format": "only 4 slow, realistic shots - continuing the same scene, no fast cuts",
+  "references": {
+    "use_only_these": ["Clip08_last.png", "CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - inspect ALL views on this sheet (FRONT, SIDE RIGHT, SIDE LEFT, BACK, BUST SHOT). Face exactly as the sheet: same young face, soft features, fair skin, same age. Opaque white t-shirt (never see-through) with sand on it, black jeans with wet sand stains, black belt, small gold coin necklace, black leather lace-up shoes with chunky soles. Damp messy ponytail with strands on her neck. Very tired. Design only, ignore any printed words on the sheet.",
+    "pose_rule": "Before filming, study CHAR_Noor.jpg from every direction - front, right side, left side, back, from above and from below - and understand exactly how she looks as one real person in 3D. Then place her in the pose of each shot and show her from that camera angle exactly as the matching views on the sheet show her. Do not invent anything the sheet does not show.",
+    "LOC_island.jpg": "The same island: white sand beach, palm trees and huge ancient trees with giant roots at the dark jungle edge. Copy exactly."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "continue exactly from the first frame, then a slow wide tracking shot from the side, 35mm", "action": "She walks slowly and heavily up the beach from the water toward the jungle edge, arms loose, feet dragging in the dry sand, leaving deep footprints."},
+    {"time": "4-7s", "camera": "medium shot from the front, 50mm, at the jungle edge", "action": "She stops under the huge ancient trees at the edge of the jungle, catches her breath, looks around at the ground covered in fallen palm leaves and dry branches. She has an idea."},
+    {"time": "7-11s", "camera": "close shot of her hands and the ground, 50mm", "action": "She bends down and picks up dry sticks one by one, breaking a long one over her knee with effort, and tucks a dry coconut husk under her arm."},
+    {"time": "11-15s", "camera": "medium wide, 35mm, from the beach side", "action": "Holding a small bundle of sticks against her chest, she grabs the end of a big dry palm leaf lying half inside the bushes and starts pulling it out, leaning back with effort."}
+  ],
+  "acting": "Tired but determined: she has a plan now. Slow, heavy, real movements.",
+  "light": "continuing from the first frame: the sun is lower now, warm orange light, long shadows on the sand, the jungle edge already in deep shadow",
+  "style": "realistic live-action survival film, shot on ARRI Alexa, real skin texture, subtle 35mm film grain, natural colours, 24 fps, real-time speed",
+  "physics": "Real weight: dry sand slides under her shoes; the stick cracks and splinters when she breaks it over her knee; dry leaves crunch and scatter; the big palm leaf drags heavily on the sand.",
+  "effects": "warm orange sun rays through the tree trunks, dust and tiny bits of dry leaf floating in the sunbeams, long shadows",
+  "sound": "waves behind her getting softer, wind in the palm leaves, her heavy breathing, footsteps in dry sand, dry leaves crunching, a sharp crack as the stick breaks, the scraping drag of the palm leaf on the sand, a few birds calling in the jungle. No music.",
+  "negative": "no other people; no creatures; no plane close to the camera; no see-through shirt; her hair must not become dry or neat; Noor's face must not change or look older; no text, no letters, no numbers, no watermark; no cartoon or advert look; no fast cuts; no morphing"
+}
+
+>>> When clip 9 is done: last clear frame -> Clip09_last.png. Only then make clip 10.
+
+=====================================================================
+CLIP 10 - GATHERING   (sunset, orange-pink sky)
+UPLOAD: 1. Clip09_last.png (FIRST)   2. CHAR_Noor.jpg   3. LOC_island.jpg
+=====================================================================
+Make this video 15 seconds, one generation.
+
+FIRST FRAME: Use the uploaded image Clip09_last.png as the FIRST FRAME of this video (image_to_video). It is the real last frame of clip 9. The video starts exactly on this image. Do not draw a new picture.
+
+{
+  "clip": 10,
+  "title": "GATHERING",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "first_frame": "Clip09_last.png - the real last frame of clip 9: Noor at the jungle edge pulling a big dry palm leaf, holding sticks. Continue exactly from it.",
+  "format": "only 4 slow, realistic shots - continuing the same scene, no fast cuts",
+  "references": {
+    "use_only_these": ["Clip09_last.png", "CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - inspect ALL views on this sheet (FRONT, SIDE RIGHT, SIDE LEFT, BACK, BUST SHOT). Face exactly as the sheet: same young face, soft features, fair skin, same age. Opaque white t-shirt (never see-through), now dirtier with sand and bits of leaves, black jeans with sand stains, black belt, small gold coin necklace, black leather lace-up shoes with chunky soles. Messy ponytail, loose strands on her sweaty face. Very tired. Design only, ignore any printed words on the sheet.",
+    "pose_rule": "Before filming, study CHAR_Noor.jpg from every direction - front, right side, left side, back, from above and from below - and understand exactly how she looks as one real person in 3D. Then place her in the pose of each shot and show her from that camera angle exactly as the matching views on the sheet show her. Do not invent anything the sheet does not show.",
+    "LOC_island.jpg": "The same island beach and jungle edge with huge ancient trees and giant roots. Copy exactly."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "continue exactly from the first frame, 35mm", "action": "With one last hard pull she drags the big dry palm leaf out of the bushes, almost falling back, then catches her balance."},
+    {"time": "4-8s", "camera": "wide tracking shot from the side, 35mm, slow", "action": "She drags the palm leaf behind her with one hand and holds an armful of sticks and the coconut husk with the other, walking slowly to a flat spot on the sand next to a giant tree root at the top of the beach. The sea and the sunset are behind her."},
+    {"time": "8-11s", "camera": "medium shot, 50mm", "action": "She drops everything on the sand with a tired breath. Sticks fall and roll. She straightens her back, one hand on her lower back, and wipes the sweat off her forehead with her wrist."},
+    {"time": "11-15s", "camera": "wide shot from the sea side, 24mm, slow push in", "action": "Noor at the fire spot under the giant tree, the pile of wood at her feet. She looks up at the sky - the sun is touching the sea, the sky turning orange and pink. She knows the night is coming. She kneels down next to the wood."}
+  ],
+  "acting": "Exhausted, sweaty, but she keeps going. Real, small gestures.",
+  "light": "continuing from the first frame: SUNSET - the sun touching the horizon, orange and pink sky, very long shadows, the jungle behind her getting dark",
+  "style": "realistic live-action survival film, shot on ARRI Alexa, real skin texture, subtle 35mm film grain, natural colours, 24 fps, real-time speed",
+  "physics": "Real weight: the big palm leaf drags and leaves a trail in the sand; sticks bounce and roll when dropped; sand puffs up; her breathing makes her shoulders rise and fall.",
+  "effects": "warm sunset rim light on her hair and shoulders, sun glow on the sea, sweat shining on her face, small dust puff when the wood drops",
+  "sound": "branches and leaves rustling as the palm leaf comes free, the scrape of the leaf dragging on sand, sticks clattering when dropped, her heavy breathing and a tired sigh, waves on the beach, wind, the last seabirds of the day, the first crickets starting in the jungle. No music.",
+  "negative": "no fire yet; no other people; no creatures; no see-through shirt; Noor's face must not change or look older; the light must not jump - it continues from the first frame; no text, no letters, no numbers, no watermark; no cartoon or advert look; no fast cuts; no morphing"
+}
+
+>>> When clip 10 is done: last clear frame -> Clip10_last.png. Only then make clip 11.
+
+=====================================================================
+CLIP 11 - BUILDING THE FIRE   (sun gone, dusk, purple-blue sky)
+UPLOAD: 1. Clip10_last.png (FIRST)   2. CHAR_Noor.jpg   3. LOC_island.jpg
+=====================================================================
+Make this video 15 seconds, one generation.
+
+FIRST FRAME: Use the uploaded image Clip10_last.png as the FIRST FRAME of this video (image_to_video). It is the real last frame of clip 10. The video starts exactly on this image. Do not draw a new picture.
+
+{
+  "clip": 11,
+  "title": "BUILDING THE FIRE",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "first_frame": "Clip10_last.png - the real last frame of clip 10: Noor kneeling next to the pile of wood under the giant tree at sunset. Continue exactly from it.",
+  "format": "only 4 slow, realistic shots - continuing the same scene, no fast cuts",
+  "references": {
+    "use_only_these": ["Clip10_last.png", "CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - inspect ALL views on this sheet (FRONT, SIDE RIGHT, SIDE LEFT, BACK, BUST SHOT). Face exactly as the sheet: same young face, soft features, fair skin, same age. Opaque white t-shirt (never see-through), dirty with sand and leaves, black jeans with sand stains, black belt, small gold coin necklace, black leather lace-up shoes with chunky soles. Messy ponytail, loose strands stuck to her sweaty face. Very tired. Design only, ignore any printed words on the sheet.",
+    "pose_rule": "Before filming, study CHAR_Noor.jpg from every direction - front, right side, left side, back, from above and from below - and understand exactly how she looks as one real person in 3D. Then place her in the pose of each shot and show her from that camera angle exactly as the matching views on the sheet show her. Do not invent anything the sheet does not show.",
+    "LOC_island.jpg": "The same beach and jungle edge with the giant tree root. Copy exactly."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "continue exactly from the first frame, then close on her hands, 50mm", "action": "Kneeling, she scrapes a small hollow in the sand with her hands, then pulls the coconut husk apart into soft brown fibres and pushes dry leaves and grass into the hollow."},
+    {"time": "4-7s", "camera": "close-up, 85mm", "action": "She leans small sticks together in a little cone over the dry leaves, carefully, one by one. One falls; she patiently puts it back."},
+    {"time": "7-11s", "camera": "medium shot from the side, 50mm", "action": "She takes a flat piece of dry wood, holds it down with her shoe, puts a straight stick upright on it and starts spinning the stick fast between her flat palms, rubbing her hands up and down it, pressing hard. Her arms shake with effort."},
+    {"time": "11-15s", "camera": "close-up of her face, 85mm - match the BUST SHOT of CHAR_Noor.jpg", "action": "She keeps spinning, jaw clenched, sweat running down her face, breathing hard through her teeth. Nothing happens yet. She stops for a second, shakes her aching hands, and starts again."}
+  ],
+  "acting": "Hard physical work: real effort, real frustration held in, real determination.",
+  "light": "continuing from the first frame: the sun has just gone below the sea - DUSK, purple and deep-blue sky with an orange line on the horizon, the beach getting grey-blue, the jungle behind her almost black",
+  "style": "realistic live-action survival film, shot on ARRI Alexa, real skin texture, subtle 35mm film grain, natural colours, 24 fps, real-time speed",
+  "physics": "Real friction work: the stick wobbles and slips; her palms rub up and down it; fine brown wood dust gathers in the notch; her arms tremble; dry leaves crackle under her fingers.",
+  "effects": "fading dusk light, the last orange glow on the horizon, sweat shining on her face, fine wood dust",
+  "sound": "soft waves, evening wind, crickets and frogs starting in the jungle, dry leaves and husk crackling as she tears them, the fast rasping 'shhk-shhk' of the stick spinning against the wood, her hard breathing through clenched teeth, a frustrated short exhale. No music.",
+  "negative": "no fire, no flame, no smoke yet; no matches, no lighter; no other people; no creatures; no see-through shirt; no blood, no injuries; Noor's face must not change or look older; the light must not jump - it continues from the first frame; no text, no letters, no numbers, no watermark; no cartoon or advert look; no fast cuts; no morphing"
+}
+
+>>> When clip 11 is done: last clear frame -> Clip11_last.png. Only then make clip 12.
+
+=====================================================================
+CLIP 12 - IT WON'T LIGHT   (blue hour, nearly dark)
+UPLOAD: 1. Clip11_last.png (FIRST)   2. CHAR_Noor.jpg   3. LOC_island.jpg
+=====================================================================
+Make this video 15 seconds, one generation.
+
+FIRST FRAME: Use the uploaded image Clip11_last.png as the FIRST FRAME of this video (image_to_video). It is the real last frame of clip 11. The video starts exactly on this image. Do not draw a new picture.
+
+{
+  "clip": 12,
+  "title": "IT WON'T LIGHT",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "first_frame": "Clip11_last.png - the real last frame of clip 11: Noor at dusk, spinning a stick on a piece of wood to make fire. Continue exactly from it.",
+  "format": "only 4 slow, realistic shots - continuing the same scene, no fast cuts",
+  "references": {
+    "use_only_these": ["Clip11_last.png", "CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - inspect ALL views on this sheet (FRONT, SIDE RIGHT, SIDE LEFT, BACK, BUST SHOT). Face exactly as the sheet: same young face, soft features, fair skin, same age. Opaque white t-shirt (never see-through), dirty, black jeans with sand stains, black belt, small gold coin necklace, black leather lace-up shoes with chunky soles. Messy ponytail, strands stuck to her sweaty face. Exhausted. Design only, ignore any printed words on the sheet.",
+    "pose_rule": "Before filming, study CHAR_Noor.jpg from every direction - front, right side, left side, back, from above and from below - and understand exactly how she looks as one real person in 3D. Then place her in the pose of each shot and show her from that camera angle exactly as the matching views on the sheet show her. Do not invent anything the sheet does not show.",
+    "LOC_island.jpg": "The same beach and jungle edge with the giant tree root. Copy exactly."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "continue exactly from the first frame, close on the stick and the wood, 85mm", "action": "She spins the stick hard. A thin wisp of grey smoke rises from the black wood dust. Hope - she leans in and blows gently. The smoke thins out and disappears."},
+    {"time": "4-7s", "camera": "medium shot, 50mm", "action": "She sits back on her heels, drops the stick, presses her red, sore palms together and breathes out in frustration. She looks at the dark sky, almost giving up."},
+    {"time": "7-11s", "camera": "close-up of her face, 85mm - match the BUST SHOT of CHAR_Noor.jpg", "action": "She shuts her eyes for a second, then opens them, determined. She picks up the stick again and whispers to herself: \"Come on...\" She spins faster and harder than before, her whole body working."},
+    {"time": "11-15s", "camera": "extreme close-up on the notch in the wood, 100mm macro", "action": "Thick smoke curls up. In the black wood dust a tiny orange ember starts to glow and pulse. Her fingers carefully lift the glowing dust on a leaf."}
+  ],
+  "dialogue": "Noor (whispering to herself, determined): \"Come on...\"",
+  "acting": "Frustration, near defeat, then stubborn strength. Real effort, real breathing.",
+  "light": "continuing from the first frame: BLUE HOUR - deep blue sky, the first two or three stars, the sea dark blue-grey, the beach dim; the only warm light is the tiny orange ember at the end",
+  "style": "realistic live-action survival film, shot on ARRI Alexa, real skin texture, low light with real film grain, natural colours, 24 fps, real-time speed",
+  "physics": "Real smoke: thin, curling, blown sideways by the light wind; the black wood dust smoulders; the ember glows brighter when she breathes on it and darker when she stops.",
+  "effects": "thin curling smoke, a tiny glowing orange ember pulsing in the dark, the first stars appearing, cool blue night tones",
+  "sound": "quiet waves, night wind, loud crickets and frogs from the jungle, the rasping spin of the stick, her soft blowing, a disappointed sigh, her whisper \"Come on...\", the faster harder spinning, a tiny crackle when the ember forms. No music.",
+  "negative": "no big flame yet - only smoke and one tiny ember at the end; no matches, no lighter; no other people; no creatures; no see-through shirt; no blood, no injuries; Noor's face must not change or look older; the light must not jump - it continues from the first frame; no text, no letters, no numbers, no watermark; no cartoon or advert look; no fast cuts; no morphing"
+}
+
+>>> When clip 12 is done: last clear frame -> Clip12_last.png. Only then make clip 13.
+
+=====================================================================
+CLIP 13 - FIRST FIRE   (night)
+UPLOAD: 1. Clip12_last.png (FIRST)   2. CHAR_Noor.jpg   3. LOC_island.jpg
+=====================================================================
+Make this video 15 seconds, one generation.
+
+FIRST FRAME: Use the uploaded image Clip12_last.png as the FIRST FRAME of this video (image_to_video). It is the real last frame of clip 12. The video starts exactly on this image. Do not draw a new picture.
+
+{
+  "clip": 13,
+  "title": "FIRST FIRE",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "first_frame": "Clip12_last.png - the real last frame of clip 12: a tiny glowing ember on a leaf in Noor's fingers at blue hour. Continue exactly from it.",
+  "format": "only 4 slow, realistic shots - continuing the same scene, no fast cuts",
+  "references": {
+    "use_only_these": ["Clip12_last.png", "CHAR_Noor.jpg", "LOC_island.jpg"],
+    "CHAR_Noor.jpg": "Noor - inspect ALL views on this sheet (FRONT, SIDE RIGHT, SIDE LEFT, BACK, BUST SHOT). Face exactly as the sheet: same young face, soft features, fair skin, same age. Opaque white t-shirt (never see-through), dirty, black jeans with sand stains, black belt, small gold coin necklace, black leather lace-up shoes with chunky soles. Messy ponytail. Exhausted. Design only, ignore any printed words on the sheet.",
+    "pose_rule": "Before filming, study CHAR_Noor.jpg from every direction - front, right side, left side, back, from above and from below - and understand exactly how she looks as one real person in 3D. Then place her in the pose of each shot and show her from that camera angle exactly as the matching views on the sheet show her. Do not invent anything the sheet does not show.",
+    "LOC_island.jpg": "The same beach and jungle edge with the giant tree root. Copy exactly."
+  },
+  "shots": [
+    {"time": "0-4s", "camera": "continue exactly from the first frame, extreme close-up, 100mm", "action": "She places the glowing ember inside the ball of dry coconut fibre, lifts it to her lips and blows slowly and gently. The ember glows brighter, smoke pours out, and suddenly a small flame bursts up inside the fibre."},
+    {"time": "4-8s", "camera": "close-up, 50mm, low", "action": "She quickly pushes the burning ball under the little cone of sticks and dry leaves. The leaves catch, the flames climb the sticks, and the fire grows. She adds more sticks carefully."},
+    {"time": "8-11s", "camera": "close-up of her face, 85mm - match the BUST SHOT of CHAR_Noor.jpg", "action": "Her face lit warm orange by the fire, sweat and sand on her skin. She lets out a breath of relief, a small exhausted smile, and whispers: \"Yes...\""},
+    {"time": "11-15s", "camera": "very wide shot from the sea side, 24mm, static", "action": "Night. A small warm fire glows at the top of the dark beach under the giant tree. Noor sits next to it hugging her knees, tiny and alone. Above, a sky full of stars. Behind her, the black wall of the jungle. Far out on the dark sea, the faint pale shape of the plane tail under the starlight."}
+  ],
+  "dialogue": "Noor (whispering, relieved): \"Yes...\"",
+  "acting": "Relief and quiet pride after a hard fight. Exhausted, small smile, real breathing.",
+  "light": "continuing from the first frame: NIGHT has come - dark blue-black sky full of stars, the beach dark, the fire is now the main light, warm orange flickering on her face, the sand and the tree trunk",
+  "style": "realistic live-action survival film, shot on ARRI Alexa, real skin texture, real night photography with film grain, natural colours, 24 fps, real-time speed",
+  "physics": "Real fire: the ember brightens when blown, smoke pours from the fibre, the flame catches with a soft whoosh, flames climb the dry sticks, sparks rise and float up, flickering light dances on her face and on the tree trunk.",
+  "effects": "glowing ember, smoke, real flickering firelight, orange sparks rising into the night sky, stars, soft moonlight on the far sea",
+  "sound": "her slow careful blowing, the soft whoosh as the flame catches, crackling and popping of burning sticks and leaves growing louder, her relieved breath and whisper \"Yes...\", quiet waves, night wind, crickets and frogs loud from the jungle. No music.",
+  "negative": "no matches, no lighter; the fire stays small and natural, no explosion; no other people; no creatures; no see-through shirt; no blood, no injuries; Noor's face must not change or look older; the plane stays small and far; no text, no letters, no numbers, no watermark; no cartoon or advert look; no fast cuts; no morphing"
+}
+
+=====================================================================
+IF DOLA BLOCKS OR GOES WRONG
+=====================================================================
+- Blocked: don't retry in the same chat. Open a new chat, paste the first message again, then the clip with its first frame.
+- Light jumped (e.g. night too early): trim the jump, or remake that clip only - the next clip uses the trimmed last frame.
+- Face changed in one shot: trim that shot; the close-ups can be remade later.
+- Plane comes too close: cut that part.
+- After all 6: in CapCut add a soft fire crackle bed under clip 13 and night insects under clips 12-13 if Dola's sound is weak.
