@@ -76,6 +76,23 @@ Rules: island/beach/jungle/lagoon scenes → `LOC_island.jpg`; village scenes �
 
 **Flashback method (no new clips needed):** in 6C, when her face freezes / eyes shut / hands on temples, cut in 0.3–0.7 s flashes from existing footage: green eye storm (clip 2), "Mayday!" (clip 3), sea rushing at windshield + impact (clip 4), eyes snapping open underwater (4B). White flash / glitch between them, slightly desaturated, ringing tone + heartbeat underneath.
 
+## 5B. How we force the AI to keep characters consistent (the user's proven method)
+
+Character consistency has been solved and works across different Dola accounts. Always do all of this:
+
+1. **Multi-pose reference sheet per character** (front, 3/4, side, back, face close-up) made once in an image tool, then **never changed**. The sheet is the character's identity. Same for creatures, the plane and locations.
+2. **Upload the sheet in EVERY clip the character appears in** — no exceptions, even for tiny appearances (hands only, side view, far away).
+3. **Exact file names** in the prompt, and only the files that clip needs: `"use_only_these": [...]` + "ignore any other image".
+4. **One line per sheet telling the model what it is and what to copy**, e.g.
+   `"CHAR_Noor.jpg": "Noor - her face must match CHAR_Noor.jpg exactly: same young face, soft features, fair skin, same age. Dark brown hair, white t-shirt, black jeans, black shoes, small gold coin necklace. Design only, ignore any printed words on the sheet."`
+   (The original long form used in VEYRA: "Inspect all views on this sheet before filming; keep face, outfit, weapons and markings identical.")
+5. **"Design only"** — the sheet is for looks; never copy its grey background, its straight camera angles or its printed labels.
+6. **Describe the current state of the outfit every time** (wet, sandy, messy hair, no headset…) so the model changes only that, not the person.
+7. **Face lock in the negative:** "Noor's face must not change or look older".
+8. **Same sheets + same prompt format on every account** → same character. Dola remembers nothing between chats, so consistency comes only from the files and the prompt.
+9. **When the face still drifts:** show her from the side / in shadow / hands only in action shots; keep front close-ups for calm moments; or trim/replace the drifted shot with a shot from another take (clip 3 was fixed this way). Omni (other tool) ignored the sheet and changed her into a different woman — don't use it for her face.
+10. **Random side characters** (tribe members) all follow one group sheet (`CREATURE_Tribe.jpg`); small differences are fine and realistic.
+
 ## 6. Hard rules learned (follow every time)
 
 1. **First line of every Dola prompt:** `Make this video 15 seconds, one generation.`
