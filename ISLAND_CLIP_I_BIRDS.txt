@@ -22,13 +22,13 @@ SHOT 1 (4s) start = ClipI_last.png (leaves POV frame)
 @Noora @forestinside
 Camera stays still behind the out-of-focus leaves in the foreground, looking through the gap at her. She stands in the misty sunbeam among the huge buttress roots and slowly turns her head left, then right, looking around, worried. She says softly: "Is someone there...?" Foreground leaves sway very slightly. Dust floating in the light rays. Real rainforest, natural, not fantasy. She never smiles.
 
-SHOT 2 (5s) start = B1, end = B2
+SHOT 2 (4s) start = B1, NO end frame  (fall is NOT shown - we cut)
 @Noora @forestinside
-She is looking up at the canopy when suddenly a big flock of black drongo birds bursts out of the leaves right above her with loud flapping wings and sharp cries. Startled, she jerks back, stumbles backward over a root and falls down onto the forest floor, landing sitting and catching herself on both hands. The birds stream fast and low over her head, through the misty sunbeam, and are gone out of frame. A few leaves drift down. She stays on the ground, breathing hard, staring up. Fast, sudden, real-time speed, natural body weight, smooth motion. Real rainforest, not fantasy.
+She is looking up at the canopy when suddenly a flock of black drongo birds bursts down out of the leaves right above her with loud flapping wings and sharp cries. The birds sweep low over her head from left to right and away. She flinches hard, ducks, throws one arm up over her head and stumbles one step backward, gasping. Leaves fall through the light rays. Fast, sudden, real-time speed, natural motion. Real rainforest, not fantasy.
 
-SHOT 3 (4s) start = B2
+SHOT 3 (5s) start = B2 (fixed: real fear face, 2-3 blurred birds top right flying RIGHT)
 @Noora @forestinside
-She scrambles up from the forest floor, pushing off a root with one hand, glances up at the canopy once, then turns and runs back the way she came, toward the bright light at the forest edge, pushing big leaves out of her way, breathing hard. Camera follows chest-up from behind. Same forest, same misty daylight. Real-time speed, natural motion.
+She is sitting on the forest floor among the roots, breathing hard. The last few birds fly away out of frame to the right. She looks up once more, then quickly pushes herself up off the ground with her hands, turns and runs away through the forest toward the bright light, pushing leaves out of her way. Real-time speed, natural body weight, smooth motion. Not fantasy.
 
 SHOT 4 (4s) start = B3
 @Noora @Island
