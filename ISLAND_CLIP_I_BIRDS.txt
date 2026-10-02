@@ -1,0 +1,40 @@
+CLIP I - THE BIRDS (Kling, start/end frames)
+Elements already exist: Noora, forestinside, Island. No new element.
+Elements = select as chips on first line only.
+
+=== STEP 1: MAKE 3 FRAMES (Firefly image) ===
+
+B1 - close on her, looking up
+@Noora @forestinside
+Photoreal medium close-up, head and shoulders, the same woman standing in a soft beam of misty sunlight in a real rainforest. Dark hair in a high ponytail, fair skin, white t-shirt, gold coin necklace. Behind her: huge tree trunks with giant buttress roots, hanging vines, palm fronds, light rays through mist. She is looking up into the dark canopy above her, worried, lips slightly parted. Canopy leaves visible at the top of the frame. Cinematic, natural light, not fantasy. She is not smiling. No text.
+
+B2 - fallen, birds streaming over
+@Noora @forestinside
+Photoreal medium shot, the same woman has just fallen backward onto the forest floor among the huge buttress roots, sitting on the ground and leaning back on both hands, one knee bent. Dark high ponytail, fair skin, white t-shirt, black jeans, gold coin necklace. She looks up in shock, eyes wide, mouth open in a gasp. A fast stream of black drongo birds flies low over her head and away through the misty sunbeam, wings spread, motion blur, a few leaves falling through the light rays. Hanging vines and palm fronds behind her. Real rainforest, natural light, not fantasy. No text.
+
+B3 - exit, drone view
+@Noora @Island
+Photoreal low drone view about 15 m high looking down at where the rainforest edge meets the white sand beach. The woman in a white t-shirt, black jeans and a dark high ponytail is just bursting out of the tree line onto the sand, running toward the sea, small in frame. Tall trees 15-30 m behind her, calm sea ahead, bright natural daylight. No text.
+
+=== STEP 2: ANIMATE IN KLING (Audio ON, one generation per shot) ===
+
+SHOT 1 (4s) start = ClipI_last.png (leaves POV frame)
+@Noora @forestinside
+Camera stays still behind the out-of-focus leaves in the foreground, looking through the gap at her. She stands in the misty sunbeam among the huge buttress roots and slowly turns her head left, then right, looking around, worried. She says softly: "Is someone there...?" Foreground leaves sway very slightly. Dust floating in the light rays. Real rainforest, natural, not fantasy. She never smiles.
+
+SHOT 2 (5s) start = B1, end = B2
+@Noora @forestinside
+She is looking up at the canopy when suddenly a big flock of black drongo birds bursts out of the leaves right above her with loud flapping wings and sharp cries. Startled, she jerks back, stumbles backward over a root and falls down onto the forest floor, landing sitting and catching herself on both hands. The birds stream fast and low over her head, through the misty sunbeam, and are gone out of frame. A few leaves drift down. She stays on the ground, breathing hard, staring up. Fast, sudden, real-time speed, natural body weight, smooth motion. Real rainforest, not fantasy.
+
+SHOT 3 (4s) start = B2
+@Noora @forestinside
+She scrambles up from the forest floor, pushing off a root with one hand, glances up at the canopy once, then turns and runs back the way she came, toward the bright light at the forest edge, pushing big leaves out of her way, breathing hard. Camera follows chest-up from behind. Same forest, same misty daylight. Real-time speed, natural motion.
+
+SHOT 4 (4s) start = B3
+@Noora @Island
+Low drone shot about 15 m high, camera slowly following her. She bursts out of the tree line onto the white sand and keeps running toward the sea, then slows down and stops near the water, out of breath, looking back at the forest. Tall rainforest trees behind her, calm sea ahead. Waves and her fast footsteps. Natural daylight.
+
+NEGATIVE (all shots)
+slow motion, lag, jerky motion, morphing, floating, cartoon birds, bats, birds touching her, extra people, face change, outfit change, smiling, fantasy glow, path, tunnel, text, watermark
+
+EDIT: add wing-flap whoosh at the burst. Total ~17s, trim to 15s.
