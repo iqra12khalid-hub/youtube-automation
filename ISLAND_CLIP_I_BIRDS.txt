@@ -30,9 +30,9 @@ SHOT 3 (5s) start = B2 (fixed: real fear face, 2-3 blurred birds top right flyin
 @Noora @forestinside
 She is sitting on the forest floor among the roots, breathing hard. The last few birds fly away out of frame to the right. She looks up once more, then quickly pushes herself up off the ground with her hands, turns and runs away through the forest toward the bright light, pushing leaves out of her way. Real-time speed, natural body weight, smooth motion. Not fantasy.
 
-SHOT 4 (4s) start = B3
+SHOT 4 (4s) start = B3 (she is already a few steps onto the sand)
 @Noora @Island
-Low drone shot about 15 m high, camera slowly following her. She bursts out of the tree line onto the white sand and keeps running toward the sea, then slows down and stops near the water, out of breath, looking back at the forest. Tall rainforest trees behind her, calm sea ahead. Waves and her fast footsteps. Natural daylight.
+Low drone shot about 15 m high, camera slowly drifting down toward her. She runs across the white sand toward the sea, breathing hard, slows down near the waterline and stops, then turns and looks back at the forest, chest heaving. Gentle waves wash in. Sound of waves and her heavy breathing. Real-time speed, natural motion, natural daylight.
 
 NEGATIVE (all shots)
 slow motion, lag, jerky motion, morphing, floating, cartoon birds, bats, birds touching her, extra people, face change, outfit change, smiling, fantasy glow, path, tunnel, text, watermark
