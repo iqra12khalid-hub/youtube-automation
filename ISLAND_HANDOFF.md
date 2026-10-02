@@ -142,6 +142,7 @@ This file lets any AI take over the project **exactly where it stopped**. Read i
 - **Tribe scenes plan:** tribe-only shots and Noor-only shots, joined in editing; Noor always **active** (hiding, sneaking, cutting ropes, running, fighting back) — never tied/held/lying while men stand over her; capture implied or very wide; neutral words (avoid captured/tied/prisoner/kill/eat/cannibal/blood → use "the tribe gathers", "ceremony", "the feast fire", "drums", "spears raised"); masks help (costume, no face consistency needed).
 
 **Other rules:**
+- **Show every move between places on screen (user's rule).** Never cut from the beach straight to inside the jungle. She must be seen walking from the beach to the tree line and stepping in, with the camera following behind her and the light changing from bright sand to green shade. Keep the direction clear: when she goes into the jungle, she faces the jungle and the sea is behind her.
 - Never use age words, "girl" or "kid" for Noor → "young woman".
 - No text anywhere: "no text, no letters, no numbers, no watermark"; plane "no registration"; gauges "only needles and tick marks".
 - Sound line lists every sound source in the picture. (Kling/Firefly are silent → sound in CapCut/ElevenLabs.)
