@@ -260,3 +260,9 @@ Photoreal live-action survival film, warm golden light on the beach, deep green 
 - Check **Audio ON** every time; one take came out silent.
 - **Kling element rule (user's, ALWAYS):** every Kling prompt must include the element chips, each written ONCE inline exactly where it is first needed (no tag line at the top): **@Noora** where she first appears, **@shoes** where she stands/walks, **@Island** where the beach/sand appears (with the dry-sand lock so no water comes in). Never leave them out, even if the start frame already shows them. Do NOT use forestinside when the start frame shows the forest.
 - **User's workflow (works best):** run the SAME prompt in 3–4 browser tabs at once; some get rejected, but 3–4 start, and one of them usually comes out right. Send all takes together → compare them, pick the best, give cut points (and mix the best parts of different takes).
+
+## STORY UPDATE (3 Oct, user's decision)
+- The tribe is **no longer man-eating**. The **chief wants to marry Noor** (forced wedding ceremony). Keep it PG: no romance or touching shown, the "wedding" = ceremony, flower crown, drums, the chief's necklace gift; she resists and plans escape. The monster rescues her before/at the ceremony.
+- Night order: she lights the fire → the monster's eye watches from the jungle (it is protecting her) → torches appear in the jungle → the tribe comes, capture implied (fire kicked out, her scream, black) → END PART 1.
+- Tribe = a FICTIONAL island people (own masks, paint, costume), not copied from any real ethnic group.
+- Filter-safe capture: never show her held/tied; show torches, shadows, her running, the fire kicked out, a cut to black; in Part 2 she wakes in the village hut (active: looking for a way out).
