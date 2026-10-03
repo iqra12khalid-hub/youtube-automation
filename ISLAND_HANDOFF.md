@@ -252,3 +252,9 @@ Photoreal live-action survival film, warm golden light on the beach, deep green 
 - `ISLAND_CLIPS_01-12.txt/.xlsx` — first prompt versions (older rules).
 - `KARTAR_ORIGINAL_SKILL.md` — the skill to load in Dola.
 - `VEYRA_*` — an earlier paused sci-fi project, not needed.
+
+## Lessons from Kling (3 Oct)
+- **Give clips time.** Never squeeze several actions into 5 s: Kling rushes, blurs and scrambles. Use a **timeline (0-2s, 2-4s…) and 7–10 s minimum** for any clip with more than one action, so she can breathe, pause and move naturally.
+- **Don't add the forestinside element when the start frame already shows the forest:** it swapped in a different forest mid-clip.
+- **Falls:** one continuous take with a timeline + "does NOT jump/spin/roll, legs never in the air" worked. End frames for falls made her dance.
+- Check **Audio ON** every time; one take came out silent.
