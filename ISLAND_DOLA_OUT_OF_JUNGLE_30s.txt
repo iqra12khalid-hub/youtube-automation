@@ -12,9 +12,9 @@ FIRST FRAME: Use the uploaded image GetUp_start.png as the FIRST FRAME of this v
  "duration_seconds": 15,
  "aspect_ratio": "16:9",
  "references": {
-  "use_only_these": ["GetUp_start.png", "CHAR_Noor.jpg", "CHAR_Noor_face.jpg", "LOC_beach.jpg"],
+  "use_only_these": ["GetUp_start.png", "CHAR_Noor.jpg", "CHAR_Noor_face.jpg", "islandroung view.png"],
   "CHAR_Noor.jpg": "Noor - same face as CHAR_Noor_face.jpg in every shot: fair skin, dark high ponytail, thick opaque loose white cotton t-shirt, black jeans, black chunky lace-up shoes, small gold coin necklace. Design only, ignore any printed words.",
-  "LOC_beach.jpg": "the white sand beach and turquoise sea outside the jungle",
+  "islandroung view.png": "the white sand beach and turquoise sea outside the jungle",
   "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her; match the matching view in each shot."
  },
  "shots": [
@@ -39,9 +39,9 @@ FIRST FRAME: Use the exact LAST FRAME of CLIP 1 as the FIRST FRAME of this video
  "duration_seconds": 15,
  "aspect_ratio": "16:9",
  "references": {
-  "use_only_these": ["last frame of CLIP 1", "CHAR_Noor.jpg", "CHAR_Noor_face.jpg", "LOC_beach.jpg"],
+  "use_only_these": ["last frame of CLIP 1", "CHAR_Noor.jpg", "CHAR_Noor_face.jpg", "islandroung view.png"],
   "CHAR_Noor.jpg": "Noor - same face as CHAR_Noor_face.jpg in every shot: fair skin, dark high ponytail, thick opaque loose white cotton t-shirt, black jeans, black chunky lace-up shoes, small gold coin necklace. Design only, ignore any printed words.",
-  "LOC_beach.jpg": "the same white sand beach and turquoise sea as in CLIP 1",
+  "islandroung view.png": "the same white sand beach and turquoise sea as in CLIP 1",
   "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her; match the matching view in each shot."
  },
  "shots": [
