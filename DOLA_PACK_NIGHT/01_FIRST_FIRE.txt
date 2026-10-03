@@ -1,8 +1,8 @@
-UPLOAD (in this order): Fibre_start.png, CHAR_Noor_face.jpg, CHAR_Noor.jpg, PILE_ref.png, STONES_ref.png
+UPLOAD (in this order): Stones_kneel.png, CHAR_Noor_face.jpg, CHAR_Noor.jpg, PILE_ref.png, STONES_ref.png
 --------------------------------------------------------------------------------------------------------
 
 Make this video 15 seconds, one generation.
-FIRST FRAME: Use the uploaded image Fibre_start.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image (close-up of Noor's hands placing a ball of coconut fibres on the sand next to the wood pile). Do not draw a new picture.
+FIRST FRAME: Use the uploaded image Stones_kneel.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image (Noor kneeling by the wood pile, bent over the coconut fibre ball, a black stone in each hand). Do not draw a new picture.
 FACE LOCK: Noor's face must be EXACTLY the face in CHAR_Noor_face.jpg in every frame: same soft oval face (not wider, not rounder), same eyes, eyebrows, nose and lips, same fair skin, same age. Prefer three-quarter and side views.
 REFERENCE LOCK: Everything must match the uploaded reference images exactly. Noor = CHAR_Noor_face.jpg (face) + CHAR_Noor.jpg (body, clothes, shoes, necklace). The wood pile = PILE_ref.png. The stones = STONES_ref.png. The place = the beach in the first frame. Do not invent new designs, new objects or new places.
 {
@@ -10,7 +10,7 @@ REFERENCE LOCK: Everything must match the uploaded reference images exactly. Noo
  "duration_seconds": 15,
  "aspect_ratio": "16:9",
  "references": {
-  "use_only_these": ["Fibre_start.png", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg", "PILE_ref.png", "STONES_ref.png"],
+  "use_only_these": ["Stones_kneel.png", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg", "PILE_ref.png", "STONES_ref.png"],
   "CHAR_Noor_face.jpg": "THE FACE. Copy it exactly in every frame.",
   "CHAR_Noor.jpg": "her body and clothes: thick opaque white t-shirt, black jeans, black chunky lace-up shoes, small gold coin necklace, dark high ponytail. Design only, ignore printed words.",
   "PILE_ref.png": "the wood pile: small cone of dry grey logs, ring of round brown coconut husks at the base, one long dry palm leaf across the top. It never changes shape.",
@@ -18,11 +18,10 @@ REFERENCE LOCK: Everything must match the uploaded reference images exactly. Noo
   "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her."
  },
  "shots": [
-  {"time": "0-2s", "camera": "same camera as the first frame, close-up", "action": "Continue exactly from the first frame: her hands quickly set the coconut fibre ball down on the sand next to the pile. The fibre ball stays in this exact spot for the whole video."},
-  {"time": "2-5s", "camera": "smooth pull back to a wide still shot of the pile on the beach at sunset, no cut", "action": "She stands up at once and walks out of the frame to the right, toward the jungle edge. The pile and the fibre ball stay alone on the empty beach."},
-  {"time": "5-8s", "camera": "same wide still shot", "action": "She walks back in from the right with two black stones, one in each hand, both clearly visible, and kneels in front of the fibre ball, hands low just above it. She knocks the stones together twice: dull clicks, nothing happens. She breathes out, frustrated."},
-  {"time": "8-11s", "camera": "close-up of her hands and the fibre ball, 85mm", "action": "A third hard strike, hands still low over the fibres: three tiny sparks drop into the fibres. A thin line of smoke rises and a tiny orange glow appears inside the fibres."},
-  {"time": "11-15s", "camera": "close-up, three-quarter view of her face", "action": "She drops the stones, lifts the smoking fibre ball gently in both hands to her lips and blows softly. The glow grows and one small flame appears in the fibres. Her eyes widen with hope."}
+  {"time": "0-4s", "camera": "same camera as the first frame, steady", "action": "Continue exactly from the first frame: kneeling and bent over the coconut fibre ball, a black stone in each hand, hands low just above the fibres, she knocks the stones together twice: dull clicks, nothing happens. She breathes out, frustrated."},
+  {"time": "4-8s", "camera": "close-up of her hands and the fibre ball, 85mm", "action": "A third hard strike, hands still low over the fibres: three tiny sparks drop into the fibres. A thin line of smoke rises and a tiny orange glow appears inside the fibres."},
+  {"time": "8-12s", "camera": "close-up, three-quarter view of her face", "action": "She drops the stones, lifts the smoking fibre ball gently in both hands to her lips and blows softly. The glow grows and one small flame appears in the fibres. Her eyes widen with hope."},
+  {"time": "12-15s", "camera": "low medium shot", "action": "She pushes the small burning fibre ball under the dry leaves at the base of the pile. The leaves begin to catch with small flames."}
  ],
  "acting": "focused, frustrated, then hopeful; never smiles",
  "style": "photoreal, cinematic, same beach and same pile as the first frame, warm sunset light that stays the same the whole video, not fantasy",
