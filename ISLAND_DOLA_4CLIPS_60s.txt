@@ -1,0 +1,94 @@
+FOUR CLIPS, 15 SECONDS EACH. MAKE THEM ONE AFTER THE OTHER, NEVER AT THE SAME TIME.
+Make CLIP 1 only and wait until it is completely finished. Then take the exact LAST FRAME of CLIP 1 and use it as the FIRST FRAME of CLIP 2. Same for CLIP 3 (first frame = last frame of CLIP 2) and CLIP 4 (first frame = last frame of CLIP 3).
+Do NOT start the next clip before the previous one is done. Use only the reference files named below.
+
+RULES FOR ALL FOUR CLIPS (most important):
+FACE LOCK: Noor's face must be EXACTLY the face in CHAR_Noor_face.jpg in every single frame of every clip: same soft oval face shape (not wider, not rounder), same eyes and eyebrows, same nose, same lips, same fair skin, same age. Do not beautify, do not change, do not age her, do not make the face wider. Before each shot, compare her face with CHAR_Noor_face.jpg and copy it exactly. In wide shots she is still the same woman with the same face. Avoid big frontal close-ups of her face; prefer three-quarter and side views that match the sheet.
+OUTFIT LOCK: thick opaque loose white cotton t-shirt (never see-through), black jeans, black chunky lace-up shoes, small gold coin necklace, dark high ponytail. Never changes.
+LOCATION LOCK: her pile of wood and her fire spot are on DRY white sand at the TOP of the beach, right under the giant leaning tree at the jungle edge, about 30 meters away from the water. The sea is only far in the background. NO water in the foreground, no wet sand, no puddles, no reflections, no waves near her. The camera always stands on dry sand.
+
+==================== CLIP 1 ====================
+Make this video 15 seconds, one generation.
+FIRST FRAME: Use the uploaded image Birds_line_start.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+{
+ "clip": 1, "title": "OUT OF THE JUNGLE", "duration_seconds": 15, "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["Birds_line_start.png", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg", "islandroung view.png"],
+  "CHAR_Noor_face.jpg": "THE FACE. Copy this exact face in every frame (see FACE LOCK).",
+  "CHAR_Noor.jpg": "her body, clothes and every view (front, side, back). Design only, ignore printed words.",
+  "islandroung view.png": "the beach and sea, seen from the top of the beach",
+  "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her; match the matching view in each shot."
+ },
+ "shots": [
+  {"time": "0-5s", "camera": "same camera as the first frame, steady, slow push in", "action": "Continue exactly from the first frame: she sits on the forest floor, still smiling, shakes her head at herself, gives a small soft laugh and says quietly: \"Just birds...\" then takes a calm breath."},
+  {"time": "5-8.5s", "camera": "medium shot, then from behind her following at walking pace, 35mm", "action": "She calmly stands up, brushes the leaves off her jeans, walks past the camera and through the last big trees. Ahead of her the bright beach and the sea are visible far away. She steps out onto the dry sand at the top of the beach; the jungle behind her, the sea far in front of her."},
+  {"time": "8.5-11.5s", "camera": "medium shot from the side, 50mm, three-quarter view", "action": "At the jungle edge on dry sand she picks up big dry brown palm leaves and dry branches one by one, gathering an armful."},
+  {"time": "11.5-15s", "camera": "wide shot from lower on the dry beach looking up toward the jungle, 28mm, slow", "action": "She drops the bundle in a pile on dry sand right under the giant leaning tree at the top of the beach, wipes her forehead with her wrist and stands still next to the pile, seen in full, three-quarter view. The sea is behind the camera."}
+ ],
+ "dialogue": "Noor, quiet, with a small laugh, at about 3s: \"Just birds...\"",
+ "acting": "relieved, then calm and focused, a little tired, natural",
+ "style": "photoreal, cinematic, real rainforest and real beach, warm afternoon daylight, not fantasy",
+ "physics": "real-time speed, natural body weight, calm walking, no running, no slow motion",
+ "sound": "soft laugh and whisper, leaves crunching, footsteps on dry leaves, jungle birds fading, waves far away, footsteps on dry sand, dry leaves rustling, branches dropped on sand, soft wind",
+ "negative": "different face, wider face, older face, no text, no watermark, no extra people, no outfit change, no see-through shirt, no water in the foreground, no wet sand, no reflections, no running, no fantasy glow"
+}
+
+==================== CLIP 2 (ONLY AFTER CLIP 1 IS FINISHED) ====================
+Make this video 15 seconds, one generation.
+FIRST FRAME: Use the exact LAST FRAME of CLIP 1 as the FIRST FRAME of this video. Same place, same light, same pose. Do not draw a new picture.
+{
+ "clip": 2, "title": "BEFORE DARK", "duration_seconds": 15, "aspect_ratio": "16:9",
+ "references": {"use_only_these": ["last frame of CLIP 1", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg", "islandroung view.png"], "CHAR_Noor_face.jpg": "THE FACE. Copy it exactly in every frame.", "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her."},
+ "shots": [
+  {"time": "0-4s", "camera": "continue exactly from the first frame, then a slow tracking shot from behind her, 35mm", "action": "She walks the few steps from her pile back to the jungle edge; she faces the jungle, the beach behind her."},
+  {"time": "4-8s", "camera": "medium wide, 35mm, three-quarter view", "action": "She grabs the end of a big dry palm leaf lying half inside the bushes and pulls it out with effort, leaning back, then tucks a few dry sticks under her arm."},
+  {"time": "8-11.5s", "camera": "wide side tracking shot on dry sand, 35mm", "action": "She drags the big palm leaf across the dry sand back to her pile under the giant leaning tree, leaving a trail. The sunlight turns golden."},
+  {"time": "11.5-15s", "camera": "wide shot on dry sand, 28mm, slow push in, three-quarter view", "action": "She kneels next to the pile on dry sand under the giant tree and places stones in a small circle for a fire. She looks up: the sky is orange, the sun low over the far sea. She says quietly: \"Before it gets dark...\""}
+ ],
+ "dialogue": "Noor, quiet, to herself, at about 13s: \"Before it gets dark...\"",
+ "acting": "focused, tired, determined, a little worried, never smiles",
+ "style": "photoreal, same beach and same giant leaning tree as CLIP 1, golden light turning to sunset, not fantasy",
+ "physics": "real-time speed, real effort when pulling, no running, no slow motion",
+ "sound": "far waves, soft wind, footsteps on dry sand, palm leaf scraping on sand, heavy breathing, stones clicking, her quiet voice, distant seabirds",
+ "negative": "different face, wider face, older face, no text, no watermark, no extra people, no outfit change, no see-through shirt, no water in the foreground, no wet sand, no reflections, no new location, no running"
+}
+
+==================== CLIP 3 (ONLY AFTER CLIP 2 IS FINISHED) ====================
+Make this video 15 seconds, one generation.
+FIRST FRAME: Use the exact LAST FRAME of CLIP 2 as the FIRST FRAME of this video. Same place, same light, same pose. Do not draw a new picture.
+{
+ "clip": 3, "title": "IT WON'T LIGHT", "duration_seconds": 15, "aspect_ratio": "16:9",
+ "references": {"use_only_these": ["last frame of CLIP 2", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg"], "CHAR_Noor_face.jpg": "THE FACE. Copy it exactly in every frame.", "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her."},
+ "shots": [
+  {"time": "0-4s", "camera": "continue exactly from the first frame, then close on her hands, 50mm", "action": "Kneeling inside the stone circle on dry sand, she pulls a dry coconut husk apart into soft brown fibres and pushes dry leaves into the middle."},
+  {"time": "4-7s", "camera": "close shot of her hands, 85mm", "action": "She leans small dry sticks together in a little cone over the fibres, one by one. One falls; she patiently puts it back."},
+  {"time": "7-11s", "camera": "medium side shot, 50mm, three-quarter view", "action": "She holds a flat piece of dry wood down with her shoe, puts a straight stick upright in a notch and spins it fast between her flat palms. Dusk, purple-blue sky."},
+  {"time": "11-15s", "camera": "side close-up of her face, 85mm, three-quarter view", "action": "She keeps spinning, sweat on her forehead, breathing hard. A thin wisp of smoke rises and dies. She stops, closes her eyes for a second, opens them determined and whispers: \"Come on...\""}
+ ],
+ "dialogue": "Noor, whispering, at about 14s: \"Come on...\"",
+ "acting": "focused, frustrated, exhausted, determined, never smiles",
+ "style": "photoreal, same spot under the giant leaning tree on dry sand, dusk turning to blue hour, not fantasy",
+ "physics": "real-time speed, real friction effort, no slow motion",
+ "sound": "far waves, wood rubbing fast, heavy breathing, a soft hiss of smoke, her whisper, evening insects starting",
+ "negative": "different face, wider face, older face, no text, no watermark, no extra people, no outfit change, no water in the foreground, no wet sand, no flames yet, no lighter, no matches"
+}
+
+==================== CLIP 4 (ONLY AFTER CLIP 3 IS FINISHED) ====================
+Make this video 15 seconds, one generation.
+FIRST FRAME: Use the exact LAST FRAME of CLIP 3 as the FIRST FRAME of this video. Same place, same light, same pose. Do not draw a new picture.
+{
+ "clip": 4, "title": "FIRST FIRE", "duration_seconds": 15, "aspect_ratio": "16:9",
+ "references": {"use_only_these": ["last frame of CLIP 3", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg"], "CHAR_Noor_face.jpg": "THE FACE. Copy it exactly in every frame.", "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her."},
+ "shots": [
+  {"time": "0-4s", "camera": "continue exactly from the first frame, then extreme close-up on the notch in the wood, 100mm", "action": "She spins hard again. In the black wood dust a tiny orange ember starts to glow. She carefully drops it into the ball of coconut fibre and blows gently; smoke thickens."},
+  {"time": "4-8s", "camera": "low close shot, 50mm", "action": "The fibre bursts into a small flame. She pushes it under the cone of sticks; the dry leaves catch, flames climb the sticks and the fire grows. She adds more sticks carefully."},
+  {"time": "8-11s", "camera": "side close-up of her face lit by the fire, 85mm, three-quarter view", "action": "Warm orange firelight on her face, sweat and sand on her skin. She lets out a long breath of relief, a small tired smile, and whispers: \"Yes...\""},
+  {"time": "11-15s", "camera": "very wide static shot from lower on the dry beach, 24mm", "action": "Night. A small warm fire glows on dry sand under the giant leaning tree at the top of the dark beach, the black jungle behind it. She sits next to the fire hugging her knees, small and alone. A sky full of stars above."}
+ ],
+ "dialogue": "Noor, whispering, at about 10s: \"Yes...\"",
+ "acting": "exhausted, then deep relief, a small tired smile only in shot 3",
+ "style": "photoreal, same spot under the giant leaning tree on dry sand, night, firelight only, not fantasy",
+ "physics": "real fire behaviour, real-time speed, no slow motion",
+ "sound": "wood rubbing, a soft crackle, her gentle blowing, the fire catching and crackling, her whisper, far waves, night insects",
+ "negative": "different face, wider face, older face, no text, no watermark, no extra people, no outfit change, no water in the foreground, no wet sand, no lighter, no matches, no big bonfire, no fantasy glow"
+}
