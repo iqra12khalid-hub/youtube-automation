@@ -6,6 +6,8 @@ Make this video 15 seconds, one generation.
 FIRST FRAME: Use the uploaded image Trying_start.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image: Noor kneeling next to the wood pile on the beach at sunset, a black stone in each hand, the coconut fibre ball on the sand in front of the pile. Do not draw a new picture.
 FACE LOCK: Noor's face must be EXACTLY the face in CHAR_Noor_face.jpg in every frame: same soft oval face, same eyes, eyebrows, nose and lips, same fair skin, same age.
 REFERENCE LOCK: Noor = CHAR_Noor_face.jpg + CHAR_Noor.jpg (white t-shirt, black jeans, black shoes, gold coin necklace, dark high ponytail). The wood pile = PILE_ref.png. The two black stones = STONES_ref.png. The close-up must look exactly like Strike_closeup.png. Do not invent anything new.
+EXPRESSION LOCK: Noor is FRUSTRATED, angry and in pain the whole video. Frowning, eyebrows pulled down and together, jaw clenched, lips pressed tight or teeth gritted. She NEVER smiles, never grins, never looks happy, not even slightly.
+NOTHING HAPPENS: the coconut fibres stay exactly as they are. Nothing appears between the stones or in the fibres at any moment, no light, no smoke, no glow.
 LIGHT LOCK: The light stays EXACTLY the same warm golden sunset light as in Trying_start.png for the whole video. It does not get darker. It is NOT night.
 {
  "title": "SHE KEEPS TRYING",
@@ -19,12 +21,12 @@ LIGHT LOCK: The light stays EXACTLY the same warm golden sunset light as in Tryi
   {"time": "0-2s", "camera": "same camera as the first frame, steady, no movement", "action": "Continue exactly from the first frame: she leans down over the coconut fibre ball and raises the two black stones."},
   {"time": "2-8s", "camera": "CUT to the close-up exactly like Strike_closeup.png, camera completely still", "action": "Her hands, a black stone in each, just above the coconut fibre ball. She smashes the stone in her right hand down hard against the stone in her left hand, again and again, very hard and fast, five or six strikes. Grains of sand jump. The coconut fibres stay exactly the same. Nothing happens."},
   {"time": "8-10s", "camera": "same close-up, camera still", "action": "On one hard strike she misses and the stone hits her own knuckles. Her left hand jerks back, she shakes it in pain, then grips the stone again."},
-  {"time": "10-15s", "camera": "medium close-up of her face and hands, three-quarter view, camera still", "action": "She clenches her jaw, breathing hard, sweat on her forehead, her knuckles red. She whispers through her teeth: \"Come on...\" and smashes the stones together again, harder than ever. Still nothing. She keeps going, exhausted but refusing to stop."}
+  {"time": "10-15s", "camera": "medium close-up of her face and hands, three-quarter view, camera still", "action": "Her face is angry and desperate: frowning hard, eyebrows pulled down, jaw clenched, teeth gritted, breathing hard through her nose, sweat on her forehead, her knuckles red. She growls through gritted teeth: \"Come on...\" and smashes the stones together again, harder than ever. Still nothing. She is furious with herself but refuses to stop."}
  ],
  "dialogue": "Noor, whisper through clenched teeth, at about 12s: \"Come on...\"",
- "acting": "stubborn, determined, in pain, exhausted, angry at herself, never smiles, never gives up",
+ "acting": "frustrated, angry, desperate, in pain, exhausted; frowning and jaw clenched the whole time; NEVER smiles, never grins, never looks happy",
  "style": "photoreal, cinematic, same beach, same pile, same coconut fibre ball, same warm golden sunset light as the first frame, not fantasy",
  "physics": "hard, heavy, real stone-on-stone impacts, real effort, the hands shake from the force, real-time, no slow motion",
  "sound": "loud sharp clack of stone on stone on every strike, a dull thud and her sharp gasp when she hits her knuckles, her heavy breathing, her whisper, soft waves, breeze",
- "negative": "different face, older face, darker light, night, extra objects, bag, extra people, changes to the coconut fibre ball, text, watermark"
+ "negative": "smiling, smile, grin, happy face, laughing, relaxed face, sparks, smoke, glow, flame, light between the stones, different face, older face, darker light, night, extra objects, bag, extra people, changes to the coconut fibre ball, text, watermark"
 }
