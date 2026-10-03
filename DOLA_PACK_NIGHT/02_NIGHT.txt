@@ -4,6 +4,7 @@ UPLOAD (in this order): Clip1_last.png (the clean last frame of CLIP 1 that Clau
 Make this video 15 seconds, one generation.
 FIRST FRAME: Use the uploaded image Clip1_last.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
 FACE LOCK: Noor's face must be EXACTLY the face in CHAR_Noor_face.jpg in every frame: same soft oval face, same eyes, nose and lips, same fair skin, same age. Prefer three-quarter and side views.
+REFERENCE LOCK: Everything must match the uploaded reference images exactly. Noor = CHAR_Noor_face.jpg (face) + CHAR_Noor.jpg (body, clothes, shoes, necklace). The pile/campfire = PILE_ref.png. The place = the beach in the first frame. Do not invent new designs, new objects or new places.
 {
  "title": "NIGHT",
  "duration_seconds": 15,

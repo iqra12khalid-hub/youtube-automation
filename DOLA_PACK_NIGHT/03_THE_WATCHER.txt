@@ -2,6 +2,7 @@ NEW CHAT. UPLOAD ONLY: Monster_FACE.jpg   (no Noor files in this chat!)
 --------------------------------------------------------------------------------------------------------
 
 Make this video 15 seconds, one generation.
+REFERENCE LOCK: The eye must match Monster_FACE.jpg exactly (same eye shape, colour and skin). Do not invent a different creature.
 {
  "title": "THE WATCHER",
  "duration_seconds": 15,

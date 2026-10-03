@@ -4,6 +4,7 @@ NEW CHAT. UPLOAD (in this order): Clip2_last.png (clean last frame of CLIP 2 fro
 Make this video 15 seconds, one generation.
 FIRST FRAME: Use the uploaded image Clip2_last.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
 FACE LOCK: Noor's face must be EXACTLY the face in CHAR_Noor_face.jpg in every frame: same soft oval face, same eyes, nose and lips, same fair skin, same age.
+REFERENCE LOCK: Everything must match the uploaded reference images exactly. Noor = CHAR_Noor_face.jpg (face) + CHAR_Noor.jpg (body, clothes, shoes, necklace). The place and the campfire = the first frame. Do not change her design.
 {
  "title": "THEY COME",
  "duration_seconds": 15,
