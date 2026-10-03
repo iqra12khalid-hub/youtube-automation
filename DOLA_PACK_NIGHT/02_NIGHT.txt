@@ -1,0 +1,29 @@
+UPLOAD (in this order): Clip1_last.png (the clean last frame of CLIP 1 that Claude gives you), CHAR_Noor_face.jpg, CHAR_Noor.jpg, PILE_ref.png
+--------------------------------------------------------------------------------------------------------
+
+Make this video 15 seconds, one generation.
+FIRST FRAME: Use the uploaded image Clip1_last.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+FACE LOCK: Noor's face must be EXACTLY the face in CHAR_Noor_face.jpg in every frame: same soft oval face, same eyes, nose and lips, same fair skin, same age. Prefer three-quarter and side views.
+{
+ "title": "NIGHT",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["Clip1_last.png", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg", "PILE_ref.png"],
+  "CHAR_Noor_face.jpg": "THE FACE. Copy it exactly in every frame.",
+  "CHAR_Noor.jpg": "her body and clothes: thick opaque white t-shirt, black jeans, black shoes, small gold coin necklace, dark high ponytail. Design only.",
+  "PILE_ref.png": "the same wood pile, now a small burning campfire.",
+  "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her."
+ },
+ "shots": [
+  {"time": "0-4s", "camera": "continue from the first frame, slow push in", "action": "Darkness falls. She adds two more dry sticks to the small campfire, sparks drift up into the air."},
+  {"time": "4-8s", "camera": "very wide static shot from lower on the dry beach, 24mm", "action": "Night. A small warm campfire glows on the empty dark beach, the black jungle behind it, the calm sea on the left, a sky full of stars. She sits next to the fire hugging her knees, small and alone."},
+  {"time": "8-12s", "camera": "close-up, three-quarter view, firelight on her face", "action": "She stares into the flames, eyes heavy and tired, the gold coin necklace glinting. She looks up at the stars for a moment, then back at the fire."},
+  {"time": "12-15s", "camera": "medium shot, side view", "action": "Still sitting up, she rests her chin on her knees, her eyes slowly closing, dozing while sitting by the fire. The fire crackles."}
+ ],
+ "acting": "exhausted, calm, a little lonely, never smiles",
+ "style": "photoreal, cinematic night, firelight is the only warm light, cool blue moonlight, stars, same beach and pile, not fantasy",
+ "physics": "real-time, gentle flickering fire, no slow motion",
+ "sound": "fire crackling, soft waves, night insects, a gentle breeze",
+ "negative": "different face, older face, lying down, big bonfire, extra people, text, watermark, water in the foreground, fantasy glow"
+}

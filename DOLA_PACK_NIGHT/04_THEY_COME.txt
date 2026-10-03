@@ -1,0 +1,35 @@
+NEW CHAT. UPLOAD (in this order): Clip2_last.png (clean last frame of CLIP 2 from Claude), CHAR_Noor_face.jpg, CHAR_Noor.jpg
+--------------------------------------------------------------------------------------------------------
+
+Make this video 15 seconds, one generation.
+FIRST FRAME: Use the uploaded image Clip2_last.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+FACE LOCK: Noor's face must be EXACTLY the face in CHAR_Noor_face.jpg in every frame: same soft oval face, same eyes, nose and lips, same fair skin, same age.
+{
+ "title": "THEY COME",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["Clip2_last.png", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg"],
+  "CHAR_Noor_face.jpg": "THE FACE. Copy it exactly in every frame.",
+  "CHAR_Noor.jpg": "her body and clothes: thick opaque white t-shirt, black jeans, black shoes, small gold coin necklace, dark high ponytail. Design only."
+ },
+ "shots": [
+  {"time": "0-3s", "camera": "continue from the first frame", "action": "She is dozing, sitting by the fire. A slow drum beat begins far away. Her eyes open."},
+  {"time": "3-6s", "camera": "close-up, three-quarter view, firelight on her face", "action": "She lifts her head and listens, eyes wide, holding her breath. The drums get closer."},
+  {"time": "6-10s", "camera": "wide shot from behind her toward the jungle", "action": "She stands up slowly. At the black jungle edge, many orange torches appear between the trees. Tall dark silhouettes with carved wooden masks and palm-fibre capes step out onto the sand, holding torches high, walking slowly toward the fire. The island tribe gathers."},
+  {"time": "10-13s", "camera": "medium shot from the front, torchlight behind her", "action": "She steps back, then turns and runs toward the dark sea, her white t-shirt bright in the torchlight."},
+  {"time": "13-15s", "camera": "wide static shot of the campfire", "action": "Shadows sweep past the camera. Sand is kicked over the campfire and it goes out. Total darkness. A short scream far away, then silence."}
+ ],
+ "acting": "frozen fear, then flight",
+ "style": "photoreal, cinematic night, torchlight and firelight only, the tribe is a fictional island people with their own carved masks and body paint, not any real ethnic group, not fantasy",
+ "physics": "real-time, natural running, no slow motion",
+ "sound": "far drums getting louder, fire crackle, her sharp breath, running footsteps on sand, torches whooshing, the fire hissing out, a short scream, silence",
+ "negative": "different face, blood, weapons hitting, violence, grabbing, tied up, extra close contact, text, watermark, fantasy creatures"
+}
+
+-------------------- SAFE VERSION (use if Dola refuses the one above) --------------------
+Same upload, same FIRST FRAME and FACE LOCK lines, then replace shots 3-5 with:
+  {"time": "6-10s", "camera": "wide shot from behind her toward the jungle", "action": "She stands up slowly. Many orange torches appear between the trees at the jungle edge, coming closer. Drums grow louder."},
+  {"time": "10-13s", "camera": "medium shot from the front", "action": "She grabs a burning stick from the fire, holds it out in front of her and backs away toward the sea, staring at the lights."},
+  {"time": "13-15s", "camera": "wide static shot", "action": "A strong gust of wind blows sand over the campfire and it goes out. Total darkness. Only the torches remain, very close now. Silence."}
+(The capture itself is then never shown: Part 2 starts with her waking inside a hut in the village.)
