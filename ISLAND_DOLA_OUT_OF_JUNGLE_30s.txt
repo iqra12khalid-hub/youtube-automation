@@ -1,0 +1,59 @@
+TWO CLIPS, 15 SECONDS EACH. MAKE THEM ONE AFTER THE OTHER, NOT AT THE SAME TIME.
+STEP 1: Make CLIP 1 only. Wait until CLIP 1 is completely finished.
+STEP 2: Only after CLIP 1 is finished, take the exact LAST FRAME of CLIP 1 and use it as the FIRST FRAME of CLIP 2. Then make CLIP 2.
+Do NOT start CLIP 2 before CLIP 1 is done. Do NOT make them in parallel. Use only the reference files named in each clip, ignore the other files in the folder.
+
+==================== CLIP 1 ====================
+Make this video 15 seconds, one generation.
+FIRST FRAME: Use the uploaded image GetUp_start.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+{
+ "clip": 1,
+ "title": "OUT OF THE JUNGLE",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["GetUp_start.png", "CHAR_Noor.jpg", "CHAR_Noor_face.jpg", "LOC_beach.jpg"],
+  "CHAR_Noor.jpg": "Noor - same face as CHAR_Noor_face.jpg in every shot: fair skin, dark high ponytail, thick opaque loose white cotton t-shirt, black jeans, black chunky lace-up shoes, small gold coin necklace. Design only, ignore any printed words.",
+  "LOC_beach.jpg": "the white sand beach and turquoise sea outside the jungle",
+  "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her; match the matching view in each shot."
+ },
+ "shots": [
+  {"time": "0-4s", "camera": "same camera as the first frame, steady, 35mm", "action": "Continue exactly from the first frame: still smiling softly at herself, she pushes up with her hands and calmly stands up, brushes the dry leaves off her jeans, then walks toward the camera and past it."},
+  {"time": "4-8s", "camera": "from behind her, following at walking pace, 35mm", "action": "She walks through the last big trees. Ahead of her, through the gap in the trees, the bright white sand beach and the turquoise sea are clearly visible. She steps out of the jungle onto the sand into the sunshine; the jungle is behind her, the sea in front of her."},
+  {"time": "8-11.5s", "camera": "medium shot from the side, 50mm", "action": "At the jungle edge on the sand she bends down and picks up big dry brown palm leaves and dry fallen branches one by one, gathering an armful."},
+  {"time": "11.5-15s", "camera": "wide shot from the sea side, 24mm, slow", "action": "She carries the bundle down onto the open beach and drops it in a pile on the sand next to a giant tree at the top of the beach, wipes her forehead with her wrist and looks out at the sea, calm and determined. She ends standing still next to the pile, seen in full."}
+ ],
+ "acting": "relieved at first, then calm and focused, a little tired, natural, no big expressions",
+ "style": "photoreal, cinematic, real tropical rainforest and real beach, warm afternoon daylight, not fantasy",
+ "physics": "real-time speed, natural body weight, calm walking, no running, no slow motion",
+ "sound": "calm breath, leaves crunching as she stands, footsteps on dry leaves, jungle birds fading, then waves getting louder, footsteps on soft sand, dry leaves rustling and snapping, branches dropped on sand, soft wind",
+ "negative": "no text, no watermark, no extra people, no face change, no outfit change, no see-through shirt, no crawling, no running, no jumping, no fantasy glow"
+}
+
+==================== CLIP 2 (ONLY AFTER CLIP 1 IS FINISHED) ====================
+Make this video 15 seconds, one generation.
+FIRST FRAME: Use the exact LAST FRAME of CLIP 1 as the FIRST FRAME of this video (image_to_video). The video starts exactly on that frame: same place, same light, same pose. Do not draw a new picture.
+{
+ "clip": 2,
+ "title": "BEFORE DARK",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["last frame of CLIP 1", "CHAR_Noor.jpg", "CHAR_Noor_face.jpg", "LOC_beach.jpg"],
+  "CHAR_Noor.jpg": "Noor - same face as CHAR_Noor_face.jpg in every shot: fair skin, dark high ponytail, thick opaque loose white cotton t-shirt, black jeans, black chunky lace-up shoes, small gold coin necklace. Design only, ignore any printed words.",
+  "LOC_beach.jpg": "the same white sand beach and turquoise sea as in CLIP 1",
+  "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her; match the matching view in each shot."
+ },
+ "shots": [
+  {"time": "0-4s", "camera": "continue exactly from the first frame, then a slow tracking shot from behind her, 35mm", "action": "She turns away from the sea and walks back up the beach to the jungle edge; she faces the jungle and the sea is behind her."},
+  {"time": "4-8s", "camera": "medium wide, 35mm, at the jungle edge", "action": "She grabs the end of a big dry palm leaf lying half inside the bushes and pulls it out with effort, leaning back, then tucks a few dry sticks under her arm."},
+  {"time": "8-11.5s", "camera": "wide side tracking shot, 35mm, slow", "action": "She drags the big palm leaf behind her across the sand back to her pile next to the giant tree, leaving a trail in the sand. The sunlight is turning golden."},
+  {"time": "11.5-15s", "camera": "wide shot from the sea side, 24mm, slow push in", "action": "She kneels next to the pile and places a few stones in a small circle on the sand for a fire. She looks up at the sky: the sun is low over the sea, the sky turning orange. She says quietly to herself: \"Before it gets dark...\""}
+ ],
+ "dialogue": "Noor, quiet, to herself, at 13s: \"Before it gets dark...\"",
+ "acting": "focused, tired, determined, a little worried about the night, never smiles",
+ "style": "photoreal, cinematic, same beach and same giant tree as CLIP 1, light changing from golden afternoon to early sunset, not fantasy",
+ "physics": "real-time speed, natural body weight, real effort when pulling, no running, no slow motion",
+ "sound": "waves, soft wind, footsteps on sand, dry leaves rustling, the palm leaf scraping on sand, heavy breathing, stones clicking, her quiet voice, distant seabirds",
+ "negative": "no text, no watermark, no extra people, no face change, no outfit change, no see-through shirt, no new location, no running, no fantasy glow"
+}
