@@ -1,9 +1,11 @@
 KLING 3.0 OMNI - "ANGRY STRIKES" (15 s, 16:9, Audio ON)
-Frames tab: Angry_start.png   |   Chips: @Noora, @Flint (only 2)
+Frames tab: Trying_start.png (same first frame as the previous video)   |   Chips: @Noora, @Flint (only 2)
 ----------------------------------------------------------------
-Continue exactly from the start frame. One single shot, no cuts. Static camera locked at her chest height, medium shot from the waist up, the bottom of the frame cuts off at her waist so the ground is never visible. Same warm golden sunset light the whole video.
+Start exactly from the start frame. Same warm golden sunset light the whole video, it never gets darker.
 
-0-3s: @Noora is kneeling, frustrated, frowning hard, eyebrows pulled down. She lifts two black stones like @Flint into the frame in front of her chest, one in each hand.
+0-2s: Same camera as the start frame. @Noora kneels next to the wood pile holding two black stones like @Flint, one in each hand. She straightens up and lifts both stones up in front of her chest.
+
+2-3s: CUT to a medium shot from the front, camera locked at her chest height, from the waist up: her face, chest and both hands with the stones in frame. The bottom of the frame cuts off at her waist, the ground is never visible again. Camera completely still until the end. She is frustrated, frowning hard, eyebrows pulled down.
 
 3-8s: She smashes the stones together hard in front of her chest, again and again, fast and heavy, her arms and shoulders jerking with every hit. Her face stays in frame the whole time: jaw clenched, teeth gritted, breathing hard through her nose.
 
