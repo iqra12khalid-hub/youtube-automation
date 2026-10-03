@@ -2,8 +2,8 @@ DOLA - NIGHT PACK (4 clips, 15 s each = 60 s)  -  END OF PART 1
 ==================================================================
 
 BEFORE YOU START
-1. Put the LAST FRAME of your chosen stones clip into this folder and name it:  Stones_last.png
-   (the frame where she kneels by the pile, frustrated, a stone in each hand)
+1. First frame is already in the folder: Fibre_start.png
+   (already included - close-up of her hands with the coconut fibres)
 2. Open a FRESH Dola chat for every clip. Send ONE clip per message. Never paste all 4 at once.
 3. Upload only the files listed at the top of each clip file, in that order (first frame first).
 4. When a clip is done, send it to Claude. Claude checks it, crops the "Dola AI" watermark and gives you
@@ -18,7 +18,7 @@ FILES IN THIS FOLDER
 - Monster_FACE.jpg     = the one-eyed monster's eye/face (CLIP 3 ONLY - never upload it with Noor's files)
 
 THE 4 CLIPS
-- 01_FIRST_FIRE.txt     sparks finally catch, she blows, fire grows, "Yes..."     (first frame: Stones_last.png)
+- 01_FIRST_FIRE.txt     fibres down, fetches stones, 2 fails, 3rd sparks, she blows, small flame (first frame: Fibre_start.png)
 - 02_NIGHT.txt          night, stars, she sits by the fire alone, dozes sitting   (first frame: last frame of clip 1)
 - 03_THE_WATCHER.txt    NO Noor: the jungle edge, one huge eye opens, then torches far away (no first frame, text + Monster_FACE.jpg)
 - 04_THEY_COME.txt      drums, torches between the trees, she wakes, runs, fire goes out, black. END PART 1 (first frame: last frame of clip 2)
@@ -29,4 +29,4 @@ DOLA FILTER TIPS
 - Clip 4 is the most sensitive. If refused, use the "SAFE VERSION" at the bottom of 04_THEY_COME.txt.
 
 EDIT ORDER
-stones clip -> CLIP 1 -> CLIP 2 -> CLIP 3 -> CLIP 4 -> black screen, silence 2 s -> END OF PART 1
+F1 take 1 (cut at 7.5 s) -> CLIP 1 -> CLIP 2 -> CLIP 3 -> CLIP 4 -> black screen, silence 2 s -> END OF PART 1

@@ -1,32 +1,31 @@
-UPLOAD (in this order): Stones_last.png, CHAR_Noor_face.jpg, CHAR_Noor.jpg, PILE_ref.png, STONES_ref.png
+UPLOAD (in this order): Fibre_start.png, CHAR_Noor_face.jpg, CHAR_Noor.jpg, PILE_ref.png, STONES_ref.png
 --------------------------------------------------------------------------------------------------------
 
 Make this video 15 seconds, one generation.
-FIRST FRAME: Use the uploaded image Stones_last.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+FIRST FRAME: Use the uploaded image Fibre_start.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image (close-up of Noor's hands placing a ball of coconut fibres on the sand next to the wood pile). Do not draw a new picture.
 FACE LOCK: Noor's face must be EXACTLY the face in CHAR_Noor_face.jpg in every frame: same soft oval face (not wider, not rounder), same eyes, eyebrows, nose and lips, same fair skin, same age. Prefer three-quarter and side views.
 {
  "title": "FIRST FIRE",
  "duration_seconds": 15,
  "aspect_ratio": "16:9",
  "references": {
-  "use_only_these": ["Stones_last.png", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg", "PILE_ref.png", "STONES_ref.png"],
+  "use_only_these": ["Fibre_start.png", "CHAR_Noor_face.jpg", "CHAR_Noor.jpg", "PILE_ref.png", "STONES_ref.png"],
   "CHAR_Noor_face.jpg": "THE FACE. Copy it exactly in every frame.",
   "CHAR_Noor.jpg": "her body and clothes: thick opaque white t-shirt, black jeans, black chunky lace-up shoes, small gold coin necklace, dark high ponytail. Design only, ignore printed words.",
   "PILE_ref.png": "the wood pile: small cone of dry grey logs, ring of round brown coconut husks at the base, one long dry palm leaf across the top. It never changes shape.",
-  "STONES_ref.png": "the black stones she holds, one in each hand.",
+  "STONES_ref.png": "the black stone; she holds two of these, one in each hand.",
   "pose_rule": "Study Noor in 3D from every view on CHAR_Noor.jpg, then pose her."
  },
  "shots": [
-  {"time": "0-4s", "camera": "same camera as the first frame, steady", "action": "Continue exactly from the first frame: she kneels by the pile, a black stone in each hand, takes a deep breath and tries once more, hands low just above the small ball of coconut fibres on the sand."},
-  {"time": "4-7s", "camera": "close-up of her hands and the fibre ball, 85mm", "action": "She strikes the stones together: three tiny sparks drop into the fibres. A thin line of smoke rises and a tiny orange glow appears inside the fibres."},
-  {"time": "7-10s", "camera": "close-up, three-quarter view of her face", "action": "She drops the stones, gently lifts the smoking fibre ball in both hands to her lips and blows softly. The glow grows, then a small flame appears in the fibres."},
-  {"time": "10-13s", "camera": "low medium shot", "action": "She quickly pushes the burning fibre ball under the dry leaves at the base of the pile. The leaves catch, small flames climb into the dry sticks. A modest campfire starts, not a huge blaze."},
-  {"time": "13-15s", "camera": "medium shot, three-quarter view, warm firelight on her face", "action": "She sits back on her heels, exhausted, firelight on her face, a long breath of relief and a small tired smile, and whispers: \"Yes...\""}
+  {"time": "0-2s", "camera": "same camera as the first frame, close-up", "action": "Continue exactly from the first frame: her hands quickly set the coconut fibre ball down on the sand next to the pile. The fibre ball stays in this exact spot for the whole video."},
+  {"time": "2-5s", "camera": "smooth pull back to a wide still shot of the pile on the beach at sunset, no cut", "action": "She stands up at once and walks out of the frame to the right, toward the jungle edge. The pile and the fibre ball stay alone on the empty beach."},
+  {"time": "5-8s", "camera": "same wide still shot", "action": "She walks back in from the right with two black stones, one in each hand, both clearly visible, and kneels in front of the fibre ball, hands low just above it. She knocks the stones together twice: dull clicks, nothing happens. She breathes out, frustrated."},
+  {"time": "8-11s", "camera": "close-up of her hands and the fibre ball, 85mm", "action": "A third hard strike, hands still low over the fibres: three tiny sparks drop into the fibres. A thin line of smoke rises and a tiny orange glow appears inside the fibres."},
+  {"time": "11-15s", "camera": "close-up, three-quarter view of her face", "action": "She drops the stones, lifts the smoking fibre ball gently in both hands to her lips and blows softly. The glow grows and one small flame appears in the fibres. Her eyes widen with hope."}
  ],
- "dialogue": "Noor, whisper, at about 14s: \"Yes...\"",
- "acting": "determined, then hopeful, then deep relief; small tired smile only at the very end",
- "style": "photoreal, cinematic, same beach and same pile as the first frame, the sun has just set, dusk, the fire becomes the main warm light",
- "physics": "real fire behaviour: tiny sparks, slow glow, small flame, then a modest campfire. Real-time, no slow motion",
- "sound": "dull stone clicks, tiny spark crackle, soft hiss, her gentle blowing, fire catching and crackling, far waves, evening insects, her whisper",
- "negative": "different face, wider face, older face, huge flames, explosion, big bonfire, lighter, matches, extra people, bag, extra objects, text, watermark, water in the foreground, fantasy glow"
+ "acting": "focused, frustrated, then hopeful; never smiles",
+ "style": "photoreal, cinematic, same beach and same pile as the first frame, warm sunset light that stays the same the whole video, not fantasy",
+ "physics": "one continuous shot, no cuts except the two close-ups. Tiny sparks only, slow glow, one small flame. Real-time, no slow motion",
+ "sound": "fibres rustling, footsteps on sand going away and coming back, dull stone clicks, tiny spark crackle, soft hiss, her gentle blowing, far waves, breeze",
+ "negative": "different face, wider face, older face, big sparks, huge flames, big fire, explosion, lighter, matches, bag, backpack, extra objects, extra people, fibre ball moving, pile changing, darkening sky, text, watermark, water in the foreground, fantasy glow"
 }
