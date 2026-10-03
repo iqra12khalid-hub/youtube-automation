@@ -266,3 +266,13 @@ Photoreal live-action survival film, warm golden light on the beach, deep green 
 - Night order: she lights the fire → the monster's eye watches from the jungle (it is protecting her) → torches appear in the jungle → the tribe comes, capture implied (fire kicked out, her scream, black) → END PART 1.
 - Tribe = a FICTIONAL island people (own masks, paint, costume), not copied from any real ethnic group.
 - Filter-safe capture: never show her held/tied; show torches, shadows, her running, the fire kicked out, a cut to black; in Part 2 she wakes in the village hut (active: looking for a way out).
+
+## PLAN UPDATE (3 Oct) - end of Part 1 / start of capture (NOT generated yet, user will say when)
+1. Her fire ignites on the beach (sunset -> dusk).
+2. Deep in the jungle a tribesman (fictional tribe, own masks/paint) is working (cutting vines / gathering) - he sees the thin smoke rising above the trees.
+3. He runs through the jungle back to the village and alerts the others (drums start).
+4. Night: torches move through the jungle toward the beach.
+5. She is dozing by the fire. Capture kept off-screen / filter-safe: shadows, a cloth bag comes down over the camera = her POV goes dark.
+6. Carried through the jungle: POV from INSIDE the dark bag - near black, faint orange torch light flickering through the woven cloth, muffled drums, footsteps, her breathing. Nothing clearly visible.
+7. Arrives at the village (Part 2: the chief wants to marry her).
+Filter notes: never show grabbing/tying; use POV + sound. Dola may refuse "bag over head" -> describe as "the screen goes dark, rough woven cloth", separate chat, no Noor face ref in POV clips.
