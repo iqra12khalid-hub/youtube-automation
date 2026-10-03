@@ -258,3 +258,4 @@ Photoreal live-action survival film, warm golden light on the beach, deep green 
 - **Don't add the forestinside element when the start frame already shows the forest:** it swapped in a different forest mid-clip.
 - **Falls:** one continuous take with a timeline + "does NOT jump/spin/roll, legs never in the air" worked. End frames for falls made her dance.
 - Check **Audio ON** every time; one take came out silent.
+- **Kling element rule (user's, ALWAYS):** every Kling prompt must include the element chips, each written ONCE inline exactly where it is first needed (no tag line at the top): **@Noora** where she first appears, **@shoes** where she stands/walks, **@Island** where the beach/sand appears (with the dry-sand lock so no water comes in). Never leave them out, even if the start frame already shows them. Do NOT use forestinside when the start frame shows the forest.
