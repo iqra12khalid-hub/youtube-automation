@@ -282,7 +282,10 @@ From Awake_last.png onward (rest of Part 1 and all of Part 2): always worried, s
 
 ## TRIBE ELEMENTS (4 Oct)
 - warriorwithspear = masked warrior (ISLAND_ELEMENTS/TRIBE_Warrior_FRONT/SIDE/BACK/mask_closeup.png): spear in right hand, other hand free, woven sack + rope coil at belt, NO torch. One element = the whole group (masks hide faces).
-- jungle tribe chief = the chief (unmasked, feather crown, big shell-disc necklace, carved staff).
+- Tribechief = the chief (unmasked, feather crown, big shell-disc necklace, carved staff). Firefly element name: Tribechief
 - Scout dropped: one masked warrior sees the smoke.
-- Elder woman: optional, for the wedding preparation (not made yet).
+- tribeoldwomen = the elder shaman woman (grey locks, bark-cloth dress, shell necklaces, paint bowl). Prepares Noor for the wedding / leads the ceremony.
 - 3-element workaround: shoot in separate shots; background warriors as text only; crowded wides via a still start frame.
+
+## FIREFLY ELEMENT NAMES (exact, use these chips)
+Noora, Monster, drywoods, Flint, Pyriteelement, firstadbox, Island, shoes, forestinside, frontview, warriorwithspear, Tribechief, tribeoldwomen
