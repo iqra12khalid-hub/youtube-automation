@@ -307,3 +307,4 @@ A different, real BEAST lives in the tunnel behind the temple door and eats ever
 - Noor's ritual -> she sees the goat skull -> pushed in -> stone slab closes -> darkness, growl, something huge moving toward her.
 - One eye opens: the one-eyed MONSTER pulls her away and fights the beast in the dark -> monster is WOUNDED -> leads her through the tunnel to its cave (caveinside).
 - Then: wreck dive for the first-aid box, bandaging, finale.
+- (4 Oct) More elements: prison (location, bamboo cage where Noor wakes, replaces hutinside), ceremonysquare (location), village (CHECK: saved as character type - recreate as location), villageprison (saved as object type, duplicate of prison - do not use). Two elements named "goat": the white goat (use) + one with a temple thumbnail (rename to sacrificeplace or delete).
