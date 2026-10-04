@@ -1,0 +1,15 @@
+GOOGLE FLOW - IMAGE "THE WATCHER" (16:9)
+Add as ingredients (in this order): MONSTER_BACK.png, PILE_ref.png, JUNGLE_view.jpg
+(MONSTER_ALL_VIEWS.png = backup if Flow needs more of the creature)
+----------------------------------------------------------------
+Photoreal cinematic film still, 16:9. View from inside a dark, dense tropical jungle looking out through a natural gap in the trees onto a white sand beach and a calm sea, composition like JUNGLE_view.jpg: big rough tree trunks with hanging vines on both sides, ferns and broad leaves in the foreground.
+
+Time: golden sunset. Warm orange and pink sky, the sun low over the sea, golden light on the sand and the water, the jungle around the camera in deep shadow.
+
+THE CREATURE (copy MONSTER_BACK.png exactly): foreground left, close to the camera, beside a big trunk, a tall, THIN, GAUNT, bony humanoid creature, seen ONLY from behind, crouching low among the ferns. Long skinny arms and legs, narrow bony shoulders, visible spine and shoulder blades, NOT muscular, NOT bulky. Bald head with small ears. Wet, glossy, grey-brown cracked skin. A torn, faded yellow-tan sailcloth tunic over its left shoulder, hanging in ragged strips to its knees, the right shoulder bare. A brown leather strap across its back from the left shoulder down to the right hip. A thick twisted rope belt with hanging ends. A thin cord with a small pendant at the back of its neck. One long bony hand rests on a fern leaf. It is watching the beach. Its face is not visible.
+
+THE PILE (copy PILE_ref.png exactly): out on the sand in the gap, about fifteen meters away: a small, low, knee-high round pile of short dry grey logs standing close together, a ring of pale round coconut husks around its base, and one long dry brown palm leaf lying across the top and sticking out to one side. NOT a tall teepee or cone.
+
+THE WOMAN: kneeling right behind the pile with her back to the camera, facing the sea, bent forward over the pile: white t-shirt, dark brown high ponytail, black jeans, black shoes. Her face is not visible.
+
+No text, no fire, no smoke, no sparks.
