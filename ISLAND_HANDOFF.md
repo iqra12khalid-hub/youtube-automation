@@ -290,3 +290,13 @@ From Awake_last.png onward (rest of Part 1 and all of Part 2): always worried, s
 ## FIREFLY ELEMENT NAMES (exact, use these chips)
 Noora, Monster, drywoods, Flint, Pyriteelement, firstadbox, Island, shoes, forestinside, frontview, warriorwithspear, Tribechief, tribeoldwomen, caveenterance (location: monster cave entrance in the jungle), caveinside (location: monster lair, firelit)
 Still missing: tribevillage (location) - prompts given 4 Oct
+
+## STORY UPDATE 2 (4 Oct) - replaces the forced-wedding plan
+Kidnap -> rituals -> "sacrifice": the tribe pushes her through the dark temple doorway (ISLAND_ELEMENTS/LOC_sacrifice_temple.png, eye carvings = they worship a ONE-EYED GOD).
+The doorway is the offering gate to the god. Behind it: a dark tunnel that leads into the monster's cave (caveinside). The "god" is the monster - and it does not harm her, it saves her.
+PG rules stay: no gore, no violence shown, she is never hurt on screen; ritual = paint, flower crown, chanting, drums, walking her up the steps.
+Planned beats:
+1 Kidnap (tribe comes, sack POV, black)            5 Pushed through the door, stone slab closes, tribe leaves
+2 Wakes tied in hut; elder paints her face          6 Total darkness, one eye opens: the monster. It leads her through the tunnel to its cave
+3 Night ritual at the temple: drums, dance, chief   7 Tribe learns she escaped -> hunt; monster protects her, gets wounded
+4 Walked up the temple steps, terrified             8 Wreck dive for first-aid box, bandaging in caveinside, finale
