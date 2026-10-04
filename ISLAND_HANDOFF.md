@@ -288,4 +288,5 @@ From Awake_last.png onward (rest of Part 1 and all of Part 2): always worried, s
 - 3-element workaround: shoot in separate shots; background warriors as text only; crowded wides via a still start frame.
 
 ## FIREFLY ELEMENT NAMES (exact, use these chips)
-Noora, Monster, drywoods, Flint, Pyriteelement, firstadbox, Island, shoes, forestinside, frontview, warriorwithspear, Tribechief, tribeoldwomen
+Noora, Monster, drywoods, Flint, Pyriteelement, firstadbox, Island, shoes, forestinside, frontview, warriorwithspear, Tribechief, tribeoldwomen, caveenterance (location: monster cave entrance in the jungle), caveinside (location: monster lair, firelit)
+Still missing: tribevillage (location) - prompts given 4 Oct
