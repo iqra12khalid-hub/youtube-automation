@@ -276,3 +276,6 @@ Photoreal live-action survival film, warm golden light on the beach, deep green 
 6. Carried through the jungle: POV from INSIDE the dark bag - near black, faint orange torch light flickering through the woven cloth, muffled drums, footsteps, her breathing. Nothing clearly visible.
 7. Arrives at the village (Part 2: the chief wants to marry her).
 Filter notes: never show grabbing/tying; use POV + sound. Dola may refuse "bag over head" -> describe as "the screen goes dark, rough woven cloth", separate chat, no Noor face ref in POV clips.
+
+## RULE (4 Oct): from the night/stalk scene onward Noor NEVER smiles
+From Awake_last.png onward (rest of Part 1 and all of Part 2): always worried, scared, tense. Every prompt must say "She never smiles, always worried and scared" and add smiling/relaxed to the negative.
