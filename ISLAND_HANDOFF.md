@@ -308,3 +308,6 @@ A different, real BEAST lives in the tunnel behind the temple door and eats ever
 - One eye opens: the one-eyed MONSTER pulls her away and fights the beast in the dark -> monster is WOUNDED -> leads her through the tunnel to its cave (caveinside).
 - Then: wreck dive for the first-aid box, bandaging, finale.
 - (4 Oct) More elements: prison (location, bamboo cage where Noor wakes, replaces hutinside), ceremonysquare (location), village (CHECK: saved as character type - recreate as location), villageprison (saved as object type, duplicate of prison - do not use). Two elements named "goat": the white goat (use) + one with a temple thumbnail (rename to sacrificeplace or delete).
+
+## DIALOGUE RULE (4 Oct)
+From the capture onward every Noor line must be CLEAR so it can be fixed/re-voiced in ElevenLabs: short lines in quotes, spoken slowly and clearly, a short pause before/after, no music in the generation, background sound kept low under her voice. Write tricky words in caps with hyphens (e.g. "MAY-DAY").
