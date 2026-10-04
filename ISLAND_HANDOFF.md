@@ -279,3 +279,10 @@ Filter notes: never show grabbing/tying; use POV + sound. Dola may refuse "bag o
 
 ## RULE (4 Oct): from the night/stalk scene onward Noor NEVER smiles
 From Awake_last.png onward (rest of Part 1 and all of Part 2): always worried, scared, tense. Every prompt must say "She never smiles, always worried and scared" and add smiling/relaxed to the negative.
+
+## TRIBE ELEMENTS (4 Oct)
+- warriorwithspear = masked warrior (ISLAND_ELEMENTS/TRIBE_Warrior_FRONT/SIDE/BACK/mask_closeup.png): spear in right hand, other hand free, woven sack + rope coil at belt, NO torch. One element = the whole group (masks hide faces).
+- jungle tribe chief = the chief (unmasked, feather crown, big shell-disc necklace, carved staff).
+- Scout dropped: one masked warrior sees the smoke.
+- Elder woman: optional, for the wedding preparation (not made yet).
+- 3-element workaround: shoot in separate shots; background warriors as text only; crowded wides via a still start frame.
