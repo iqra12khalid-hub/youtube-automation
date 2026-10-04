@@ -312,3 +312,4 @@ A different, real BEAST lives in the tunnel behind the temple door and eats ever
 ## DIALOGUE RULE (4 Oct)
 From the capture onward every Noor line must be CLEAR so it can be fixed/re-voiced in ElevenLabs: short lines in quotes, spoken slowly and clearly, a short pause before/after, no music in the generation, background sound kept low under her voice. Write tricky words in caps with hyphens (e.g. "MAY-DAY").
 - (4 Oct) RULE: every prompt is a full 15 s clip from now on; workarounds (ninja techniques) only when stuck.
+- (4 Oct) RULE: give each prompt COMPLETE the first time (actions, counts, all characters' sounds/voices, chips, frame). The user runs all tabs at once - no follow-up additions.
