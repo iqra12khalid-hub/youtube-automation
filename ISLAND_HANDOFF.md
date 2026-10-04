@@ -300,3 +300,10 @@ Planned beats:
 2 Wakes tied in hut; elder paints her face          6 Total darkness, one eye opens: the monster. It leads her through the tunnel to its cave
 3 Night ritual at the temple: drums, dance, chief   7 Tribe learns she escaped -> hunt; monster protects her, gets wounded
 4 Walked up the temple steps, terrified             8 Wreck dive for first-aid box, bandaging in caveinside, finale
+
+## STORY UPDATE 3 (4 Oct) - the thing in the temple (option B chosen)
+A different, real BEAST lives in the tunnel behind the temple door and eats everything thrown in (never shown clearly: only growls, crunching, a huge shape in the dark). Bones come back out.
+- Goat scene first: goat pushed through the doorway, eating only HEARD, a clean white horned skull rolls down the steps to the chief's feet. No blood/gore.
+- Noor's ritual -> she sees the goat skull -> pushed in -> stone slab closes -> darkness, growl, something huge moving toward her.
+- One eye opens: the one-eyed MONSTER pulls her away and fights the beast in the dark -> monster is WOUNDED -> leads her through the tunnel to its cave (caveinside).
+- Then: wreck dive for the first-aid box, bandaging, finale.
