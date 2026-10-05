@@ -315,3 +315,4 @@ From the capture onward every Noor line must be CLEAR so it can be fixed/re-voic
 - (4 Oct) RULE: give each prompt COMPLETE the first time (actions, counts, all characters' sounds/voices, chips, frame). The user runs all tabs at once - no follow-up additions.
 - (5 Oct) cage = hanging stick cage element (object) carried on a pole by two warriors; used from the wake-up after the blackout.
 - (5 Oct) Noora2 = dirty/captured Noor sheet (ISLAND_ELEMENTS/CHAR_Noora2_dirty_sheet.png): use from the cage scene onward; Noora (clean) before. Dry dark scratches, gold coin pendant, no blood.
+- (5 Oct) handcuffs = rope handcuff-knot element (object): short rope around both wrists, no leash. Use instead of describing tied hands (Kling drew dog-leash ropes).
