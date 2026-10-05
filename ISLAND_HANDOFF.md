@@ -316,3 +316,6 @@ From the capture onward every Noor line must be CLEAR so it can be fixed/re-voic
 - (5 Oct) cage = hanging stick cage element (object) carried on a pole by two warriors; used from the wake-up after the blackout.
 - (5 Oct) Noora2 = dirty/captured Noor sheet (ISLAND_ELEMENTS/CHAR_Noora2_dirty_sheet.png): use from the cage scene onward; Noora (clean) before. Dry dark scratches, gold coin pendant, no blood.
 - (5 Oct) handcuffs = rope handcuff-knot element (object): short rope around both wrists, no leash. Use instead of describing tied hands (Kling drew dog-leash ropes).
+- (6 Oct) RULE: under every prompt list an "@ CHECKLIST": every @ tag in the order it appears in the prompt text, with its count and the total, so the user can re-select each chip from the @ list (the prompt box is small and names are hard to find).
+- (6 Oct) prisoninside = location element: inside of the square bamboo prison (dirt floor, woven mat, clay oil lamp, campfire and huts outside the bars).
+- (6 Oct) Firefly unlimited (Premium) = 720p only, with a hidden DAILY cap (429 rate_limited, retry-after 00:00 UTC = 5 AM Pakistan). 1080p always costs credits. Use 720p for tests, 1080p credits only for finals.
