@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Firefly Elements Downloader",
+  "version": "1.0.0",
+  "description": "Downloads every element image on the Firefly Elements page, named exactly like the element, into one folder.",
+  "permissions": ["downloads", "activeTab", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_popup": "popup.html", "default_title": "Firefly Elements Downloader" },
+  "content_scripts": [
+    {
+      "matches": ["https://firefly.adobe.com/*"],
+      "js": ["hook.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "matches": ["https://firefly.adobe.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

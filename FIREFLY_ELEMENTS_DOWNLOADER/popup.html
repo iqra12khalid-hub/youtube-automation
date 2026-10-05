@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body { font: 13px system-ui, sans-serif; width: 360px; margin: 12px; background: #1b1b1b; color: #eee; }
+  h1 { font-size: 15px; margin: 0 0 8px; }
+  button { width: 100%; padding: 8px; margin: 4px 0; border: 0; border-radius: 6px; background: #3b63fb; color: #fff; font-weight: 600; cursor: pointer; }
+  button:disabled { background: #444; cursor: default; }
+  button.secondary { background: #333; }
+  #status { margin: 8px 0; color: #bbb; }
+  ul { list-style: none; padding: 0; margin: 0; max-height: 300px; overflow: auto; }
+  li { padding: 3px 0; border-bottom: 1px solid #2a2a2a; display: flex; justify-content: space-between; gap: 8px; }
+  .ok { color: #6fdc8c; } .bad { color: #ff7a7a; }
+</style>
+</head>
+<body>
+  <h1>Firefly Elements Downloader</h1>
+  <button id="scan">1. Scan Elements page</button>
+  <button id="dl" disabled>2. Download all</button>
+  <button id="report" class="secondary" disabled>Save report (for fixing)</button>
+  <div id="status">Open firefly.adobe.com → Elements, then click Scan.</div>
+  <ul id="list"></ul>
+  <script src="popup.js"></script>
+</body>
+</html>
