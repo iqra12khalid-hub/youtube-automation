@@ -349,3 +349,4 @@ RULES: one action per clip; start frame whenever continuing; monster = still sil
 - Fixed: `ISLAND_CLIPS/Paint_take2_1080p_nosmile.mp4` = 0–12.9s, 0.3s audio fade. Last frame `ISLAND_FRAMES/Paint_take2_last.png` (frightened, Noora3 paint).
 - Expression line to use from now on: "She never smiles at any moment. Serious, frightened face from start to end, lips pressed together."
 - Camera moves: Kling does slow push-ins; it ignores cuts/whip-pans to another person. Do cutaways as separate clips and intercut in edit.
+- UPDATE (user found): camera switches/cuts to another person need **Multi-shot ON**. With Multi-shot OFF Kling makes one continuous shot and ignores "camera moves to X". Rule now: Multi-shot OFF by default (it drifts faces/outfits), turn it ON only for scenes that need cuts between people, and keep the chips strong so faces hold.
