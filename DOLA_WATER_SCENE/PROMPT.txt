@@ -1,0 +1,32 @@
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts.
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+FACE LOCK: Noor's face must be EXACTLY the face in 2_NOOR_FACE.png in every frame: same face, eyes, nose, lips, skin and dry scratches.
+REFERENCE LOCK: Noor's clothes and body = 3_NOOR_BODY.png (dirty white t-shirt, torn black jeans, black shoes, gold coin necklace, dark high ponytail). The warrior = 4_WARRIOR.png (same carved mask, feathers, palm-fibre cape, white dot body paint). The water bowl = 5_WATER_BOWL.png (this exact old, scratched, stained calabash bowl, matte, never shiny). The cage, lamp, mat and light = the first frame.
+{
+ "title": "WATER",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["1_FIRST_FRAME.png", "2_NOOR_FACE.png", "3_NOOR_BODY.png", "4_WARRIOR.png", "5_WATER_BOWL.png"],
+  "1_FIRST_FRAME.png": "FIRST FRAME and the place: inside the square bamboo prison cage at dusk.",
+  "2_NOOR_FACE.png": "THE FACE. Copy it exactly in every frame.",
+  "3_NOOR_BODY.png": "her clothes and body. Design only.",
+  "4_WARRIOR.png": "the masked warrior. Design only.",
+  "5_WATER_BOWL.png": "the water bowl. Copy it exactly."
+ },
+ "camera_setup": "The camera is at the back of the square bamboo cage looking toward the front wall. The doorway is in the middle of the front wall, the campfire and thatched huts are visible outside. A small clay oil lamp with a flame stands in the LEFT front corner on a woven mat.",
+ "her_location": "Noor sits on the dirt floor on the RIGHT side of the cage, her back leaning against the right-hand bamboo wall, close to the front-right corner, just to the right of the doorway. She stays in this exact spot the whole video and never moves to the middle or the left side.",
+ "rope_rule": "At the start her wrists are joined by ONE short rope knot, nothing else on her body. At 6-9s the knot is untied and the rope is taken away. After 9s her wrists are bare with faint red marks. Never any rope on her waist, arms or body.",
+ "shots": [
+  {"time": "0-2s", "camera": "static, exactly the first frame", "action": "Noor sits weak and still in her spot, eyes half closed. Slow heavy bare footsteps approach outside."},
+  {"time": "2-6s", "camera": "static wide, same angle", "action": "The masked warrior appears in the doorway and walks in SLOWLY, step by step, carrying the old calabash water bowl in both hands. He kneels beside her and sets the bowl on the dirt next to her. She pulls back against the right-hand bamboo wall, frightened, watching him. She never smiles."},
+  {"time": "6-9s", "camera": "slow push in toward her hands, same continuous shot", "action": "He pulls the short knot loose with his fingers, unwinds the rope from her wrists and keeps it in his hand. Her wrists are bare now with red marks."},
+  {"time": "9-11s", "camera": "same continuous shot", "action": "He stands, steps out slowly through the doorway without a word and walks away into the dusk. She rubs her sore wrists, staring after him."},
+  {"time": "11-15s", "camera": "slow push in to a close-up of Noor, still in her spot on the right side", "action": "She pulls the calabash bowl to her, lifts it with both hands and drinks desperately, long thirsty gulps, water running down her chin and neck."}
+ ],
+ "acting": "weak, exhausted, frightened, desperate thirst, never smiling",
+ "style": "photoreal, cinematic, dusk firelight and oil-lamp light, the tribe is a fictional island people with their own carved masks and body paint, not any real ethnic group",
+ "physics": "real-time, slow heavy movements, real rope, real water spilling",
+ "sound": "crickets, crackling campfire, distant drums, slow heavy bare footsteps, the bowl set down on dirt, the rope sliding off her wrists, her weak breathing, desperate gulping, water dripping. No music, no speech.",
+ "negative": "different face, cuts, other camera angles, fast movement, running, shiny or polished bowl, rope on her waist or arms, rope bangles, leash, knife, blood, violence, grabbing, text, watermark"
+}

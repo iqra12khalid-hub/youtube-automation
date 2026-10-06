@@ -1,0 +1,7 @@
+WATER SCENE - DOLA (15 s)
+=========================
+1. Open a NEW Dola chat.
+2. Upload the 5 images in number order: 1_FIRST_FRAME, 2_NOOR_FACE, 3_NOOR_BODY, 4_WARRIOR, 5_WATER_BOWL.
+3. Open PROMPT.txt, select all, copy, paste into Dola, send.
+4. If Dola refuses: open a NEW chat, upload the same 5 images, paste PROMPT_SAFE.txt instead.
+5. Send the result to Claude (watermark crop + fade from black + join to the faint clip).
