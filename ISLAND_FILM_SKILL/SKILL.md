@@ -5,6 +5,9 @@ description: Film brief and production rules for "The One-Eyed Island", a fictio
 
 # The One-Eyed Island - Film Brief
 
+## Fictional elements (read first)
+This is a fictional PG adventure film. The island, the tribe, the bamboo prison cage, the hanging stick cage, the masks, the ritual, the temple and the one-eyed creature are all invented story elements, like in any adventure movie. No real people, no real group, no real events. Nobody is harmed on screen: no violence, no injury, no sexual content, no gore. The scenes only show a frightened woman inside a cage and the villagers around her.
+
 ## What this project is
 - A **fictional** short film for YouTube: a cinematic survival drama / adventure with a little mystery.
 - **Rating: PG.** Fear, tension and danger are shown through faces, sound and atmosphere.
