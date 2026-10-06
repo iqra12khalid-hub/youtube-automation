@@ -10,41 +10,82 @@ window.addEventListener('message', (e) => {
   }
 });
 
-const LABEL_RE = /^Element\s*[•·]/;
+const LABEL_RE = /^Element(\s*[•·]|$)/;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// --- Walking the page as it is drawn, including inside shadow DOM (Adobe web components) ---
+function flatChildren(node) {
+  if (node.nodeName === 'SLOT') {
+    const a = node.assignedNodes({ flatten: true });
+    return a.length ? a : [...node.childNodes];
+  }
+  if (node.shadowRoot) return [...node.shadowRoot.childNodes];
+  return [...(node.childNodes || [])];
+}
+function flatParent(node) {
+  if (node.assignedSlot) return node.assignedSlot;
+  const p = node.parentNode;
+  if (p && p.nodeType === 11 && p.host) return p.host; // ShadowRoot -> its host element
+  return p;
+}
+function* flatWalk(root) {
+  const stack = [root];
+  while (stack.length) {
+    const n = stack.pop();
+    yield n;
+    const kids = flatChildren(n);
+    for (let i = kids.length - 1; i >= 0; i--) stack.push(kids[i]);
+  }
+}
+function textPieces(el) {
+  const out = [];
+  for (const n of flatWalk(el)) {
+    if (n.nodeType === 3) {
+      const t = n.textContent.replace(/\s+/g, ' ').trim();
+      if (t) out.push(t);
+    }
+  }
+  return out;
+}
+function cssUrl(el) {
+  const bg = getComputedStyle(el).backgroundImage;
+  const m = bg && bg.match(/url\(["']?(.*?)["']?\)/);
+  return m ? m[1] : null;
+}
 function bigImagesIn(node) {
-  const imgs = [...node.querySelectorAll('img')].filter((i) => {
-    const r = i.getBoundingClientRect();
-    return r.width >= 60 || i.naturalWidth >= 100;
-  });
-  const bgs = [...node.querySelectorAll('*')].filter((el) => {
-    const bg = getComputedStyle(el).backgroundImage;
-    return bg && bg.startsWith('url(') && el.getBoundingClientRect().width >= 60;
-  });
+  const imgs = [], bgs = [];
+  for (const n of flatWalk(node)) {
+    if (n.nodeType !== 1) continue;
+    const w = n.getBoundingClientRect().width;
+    if (n.tagName === 'IMG' && (w >= 60 || n.naturalWidth >= 100)) imgs.push(n);
+    else if (w >= 60 && cssUrl(n)) bgs.push(n);
+  }
   return { imgs, bgs };
 }
 
 function findCards() {
-  const labels = [...document.querySelectorAll('body *')].filter(
-    (el) => el.children.length === 0 && LABEL_RE.test((el.textContent || '').trim())
-  );
   const cards = new Map();
-  for (const lab of labels) {
-    let node = lab;
-    let card = null;
-    for (let i = 0; i < 10 && node; i++) {
-      node = node.parentElement;
-      if (!node) break;
+  for (const n of flatWalk(document.documentElement)) {
+    if (n.nodeType !== 3 || !LABEL_RE.test(n.textContent.trim())) continue;
+    let node = n, card = null;
+    for (let i = 0; i < 14 && node; i++) {
+      node = flatParent(node);
+      if (!node || node.nodeType !== 1) continue;
       const { imgs, bgs } = bigImagesIn(node);
       if (imgs.length || bgs.length) { card = node; break; }
     }
     if (!card || cards.has(card)) continue;
-    const lines = card.innerText.split('\n').map((s) => s.trim()).filter(Boolean);
-    const idx = lines.findIndex((l) => LABEL_RE.test(l));
-    const name = idx > 0 ? lines[idx - 1] : lines[0];
-    if (!name) continue;
-    cards.set(card, name);
+    const pieces = textPieces(card);
+    const idx = pieces.findIndex((p) => LABEL_RE.test(p));
+    let name = null;
+    for (let i = idx - 1; i >= 0; i--) {
+      if (pieces[i] && !/^[•·]$/.test(pieces[i])) { name = pieces[i]; break; }
+    }
+    if (!name) {
+      const img = bigImagesIn(card).imgs[0];
+      name = (img && (img.alt || img.getAttribute('aria-label'))) || card.getAttribute('aria-label');
+    }
+    if (name) cards.set(card, name.trim());
   }
   return [...cards.entries()].map(([card, name]) => ({ card, name }));
 }
@@ -74,26 +115,35 @@ function variants(u) {
   return [...new Set(out)];
 }
 
-function scrollableParent(el) {
-  for (let n = el; n; n = n.parentElement) {
+function scrollBoxes() {
+  const out = [document.scrollingElement];
+  for (const n of flatWalk(document.documentElement)) {
+    if (n.nodeType !== 1) continue;
     const s = getComputedStyle(n);
-    if (/(auto|scroll)/.test(s.overflowY) && n.scrollHeight > n.clientHeight + 10) return n;
+    if (/(auto|scroll)/.test(s.overflowY) && n.scrollHeight > n.clientHeight + 10) out.push(n);
   }
-  return document.scrollingElement;
+  return out;
 }
 
 async function loadAllCards() {
   let last = -1, stable = 0;
   for (let i = 0; i < 60 && stable < 3; i++) {
-    const cards = findCards();
-    const sc = cards.length ? scrollableParent(cards[cards.length - 1].card) : document.scrollingElement;
-    sc.scrollTop = sc.scrollHeight;
-    window.scrollTo(0, document.body.scrollHeight);
+    for (const b of scrollBoxes()) b.scrollTop = b.scrollHeight;
     await sleep(900);
     const n = findCards().length;
     stable = n === last ? stable + 1 : 0;
     last = n;
   }
+}
+
+function debugInfo() {
+  let shadowRoots = 0, labels = 0, imgs = 0;
+  for (const n of flatWalk(document.documentElement)) {
+    if (n.nodeType === 1 && n.shadowRoot) shadowRoots++;
+    if (n.nodeType === 1 && n.tagName === 'IMG') imgs++;
+    if (n.nodeType === 3 && LABEL_RE.test(n.textContent.trim())) labels++;
+  }
+  return { url: location.origin + location.pathname, shadowRoots, labels, imgs, netNames: [...netUrls.keys()].slice(0, 80) };
 }
 
 async function scan() {
@@ -116,8 +166,9 @@ async function scan() {
   });
 }
 
+
 chrome.runtime.onMessage.addListener((msg, _sender, reply) => {
-  if (msg.cmd === 'scan') { scan().then((items) => reply({ items })).catch((e) => reply({ error: String(e) })); return true; }
+  if (msg.cmd === 'scan') { scan().then((items) => reply({ items, debug: debugInfo() })).catch((e) => reply({ error: String(e) })); return true; }
   if (msg.cmd === 'blob') {
     fetch(msg.url).then((r) => r.blob()).then((b) => new Promise((res) => {
       const fr = new FileReader();

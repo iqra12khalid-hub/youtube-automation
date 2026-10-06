@@ -1,5 +1,6 @@
 let items = [];
 let results = [];
+let scanDebug = null;
 let tabId = null;
 const $ = (id) => document.getElementById(id);
 
@@ -30,6 +31,8 @@ $('scan').onclick = async () => {
   try {
     const res = await chrome.tabs.sendMessage(tabId, { cmd: 'scan' });
     items = (res && res.items) || [];
+    scanDebug = res && res.debug;
+    $('report').disabled = false;
     $('status').textContent = items.length ? `Found ${items.length} elements.` : 'No elements found. Reload the page (F5) and scan again.';
     render(items);
     $('dl').disabled = !items.length;
@@ -56,6 +59,8 @@ chrome.runtime.onMessage.addListener((m) => {
 });
 
 $('report').onclick = () => {
-  const blob = new Blob([JSON.stringify(results, null, 2)], { type: 'application/json' });
+  const strip = (u) => { try { const x = new URL(u); return x.origin + x.pathname; } catch (e) { return String(u).slice(0, 60); } };
+  const scan = items.map((i) => ({ name: i.name, candidates: i.candidates.map(strip) }));
+  const blob = new Blob([JSON.stringify({ debug: scanDebug, scan, results }, null, 2)], { type: 'application/json' });
   chrome.downloads.download({ url: URL.createObjectURL(blob), filename: 'Firefly_Elements/_report.json', conflictAction: 'overwrite' });
 };
