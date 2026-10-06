@@ -109,6 +109,17 @@ function variants(u) {
     }
     if (changed) out.push(big.href);
     out.push(x.origin + x.pathname);
+    const h = x.href;
+    if (/size=\d+/i.test(h)) for (const s of ['4096', '2048']) out.push(h.replace(/size=\d+/gi, 'size=' + s));
+    if (/:rendition/i.test(h)) {
+      out.push(h.replace(/:rendition[^/?]*/i, ':primary'));
+      out.push(h.replace(/\/:rendition[^/?]*/i, ''));
+      out.push(h.replace(/:rendition[^/?]*/i, ':rendition;size=4096'));
+    }
+    if (/\{[^}]*\}/.test(h)) {
+      out.push(h.replace(/\{[^}]*\}/g, ''));
+      out.push(h.replace(/\{[^}]*\}/g, ';size=4096'));
+    }
     const p = x.href.replace(/([;/_-])(size|width|w)[=_-]?\d{2,4}/gi, '').replace(/\b\d{2,4}x\d{2,4}\b/g, '');
     if (p !== x.href) out.push(p);
   } catch (e) { /* ignore */ }
@@ -167,7 +178,25 @@ async function scan() {
 }
 
 
+// Ask the page itself (hook.js) to fetch a URL with Firefly's own login.
+let reqId = 0;
+function pageFetch(url) {
+  return new Promise((resolve) => {
+    const id = ++reqId;
+    const t = setTimeout(() => { window.removeEventListener('message', on); resolve({}); }, 20000);
+    function on(e) {
+      if (e.source !== window || !e.data || !e.data.__ffedRes || e.data.id !== id) return;
+      clearTimeout(t);
+      window.removeEventListener('message', on);
+      resolve(e.data);
+    }
+    window.addEventListener('message', on);
+    window.postMessage({ __ffedReq: true, id, url }, '*');
+  });
+}
+
 chrome.runtime.onMessage.addListener((msg, _sender, reply) => {
+  if (msg.cmd === 'pageFetch') { pageFetch(msg.url).then((r) => reply({ dataUrl: r.dataUrl })); return true; }
   if (msg.cmd === 'scan') { scan().then((items) => reply({ items, debug: debugInfo() })).catch((e) => reply({ error: String(e) })); return true; }
   if (msg.cmd === 'blob') {
     fetch(msg.url).then((r) => r.blob()).then((b) => new Promise((res) => {

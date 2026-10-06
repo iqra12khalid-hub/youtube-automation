@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Firefly Elements Downloader",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Downloads every element image on the Firefly Elements page, named exactly like the element, into one folder.",
   "permissions": ["downloads", "activeTab", "tabs"],
   "host_permissions": ["<all_urls>"],

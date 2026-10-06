@@ -20,6 +20,8 @@ async function getBlob(u, tabId) {
       return await (await fetch(r.dataUrl)).blob();
     }
     if (u.startsWith('data:')) return await (await fetch(u)).blob();
+    const viaPage = await chrome.tabs.sendMessage(tabId, { cmd: 'pageFetch', url: u }).catch(() => null);
+    if (viaPage && viaPage.dataUrl) return await (await fetch(viaPage.dataUrl)).blob();
     const res = await fetch(u, { credentials: 'include' });
     if (!res.ok) return null;
     return await res.blob();
@@ -55,7 +57,7 @@ async function downloadItem(item, tabId) {
   if (!best) return { name: item.name, ok: false, tried: item.candidates.map(stripQuery) };
 
   const filename = `${FOLDER}/${safeName(item.name)}.${extFor(best.blob.type)}`;
-  const url = /^https?:/.test(best.u) ? best.u : blobToDataUrl(await best.blob.arrayBuffer(), best.blob.type);
+  const url = blobToDataUrl(await best.blob.arrayBuffer(), best.blob.type);
   await chrome.downloads.download({ url, filename, conflictAction: 'uniquify', saveAs: false });
   return { name: item.name, ok: true, w: best.w, h: best.h, kb: Math.round(best.blob.size / 1024), type: best.blob.type, from: stripQuery(best.u), tried: item.candidates.length };
 }

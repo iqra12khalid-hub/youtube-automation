@@ -36,8 +36,40 @@
     if (found.length) window.postMessage({ __ffed: true, found }, '*');
   }
 
+  // Remember the headers Firefly itself uses for Adobe API calls, so images can be
+  // fetched exactly the way the page does (kept inside this closure only).
+  let apiHeaders = {};
+  function rememberHeaders(input, init) {
+    try {
+      const url = typeof input === 'string' ? input : (input && input.url) || '';
+      if (!/\.adobe\.io\//.test(url)) return;
+      const hs = new Headers((init && init.headers) || (input && input.headers) || {});
+      const keep = {};
+      for (const k of ['authorization', 'x-api-key']) if (hs.get(k)) keep[k] = hs.get(k);
+      if (keep.authorization) apiHeaders = keep;
+    } catch (e) { /* ignore */ }
+  }
+
   const origFetch = window.fetch;
+  window.addEventListener('message', async (e) => {
+    if (e.source !== window || !e.data || !e.data.__ffedReq) return;
+    const { id, url } = e.data;
+    const done = (payload) => window.postMessage({ __ffedRes: true, id, ...payload }, '*');
+    try {
+      const isApi = /\.adobe\.io\//.test(url);
+      const res = await origFetch(url, isApi ? { headers: apiHeaders } : { credentials: 'include' });
+      const ct = res.headers.get('content-type') || '';
+      if (!res.ok || !ct.startsWith('image/')) return done({});
+      const b = await res.blob();
+      const fr = new FileReader();
+      fr.onload = () => done({ dataUrl: fr.result });
+      fr.onerror = () => done({});
+      fr.readAsDataURL(b);
+    } catch (err) { done({}); }
+  });
+
   window.fetch = async function (...args) {
+    rememberHeaders(args[0], args[1]);
     const res = await origFetch.apply(this, args);
     try {
       const ct = res.headers.get('content-type') || '';
