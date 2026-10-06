@@ -1,0 +1,10 @@
+REFERENCES
+==========
+CHAR_Noora2_FACE.png            Noor's face (dirty/captured look)
+CHAR_Noora2_sheet.png           Noor full body: front, sides, back, face
+CHAR_warrior_FRONT.png          masked warrior, front
+CHAR_warrior_sheet.png          masked warrior, all views
+OBJ_waterbowl.png               old calabash water bowl
+OBJ_coloringmaterial.png        red herbal dye bowl (crushed plants and seeds)
+LOC_prisoninside_dusk_frame.png inside the prison at dusk, Noor on the right side (start frame)
+LOC_sacrifice_temple.png        the temple
