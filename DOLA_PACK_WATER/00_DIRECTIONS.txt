@@ -1,0 +1,20 @@
+DOLA - WATER CLIP (prison, night) - 15 s
+========================================
+
+FILES (upload in THIS order, first frame first):
+1. Water_start.png            = FIRST FRAME (prison, Noor on the RIGHT side, wrists tied with one knot, lamp + mat on the LEFT)
+2. Noora2_FACE.png            = THE FACE (most important)
+3. CHAR_Noora2_dirty_sheet.png = her dirty clothes / body
+4. TRIBE_Warrior_FRONT.png    = the masked warrior
+
+HOW TO RUN
+- Open a FRESH Dola chat. Load the original Kartar skill if you use it (KARTAR_ORIGINAL_SKILL.md), NOT the Veyra one.
+- Upload the 4 files in order, then paste everything from 01_WATER.txt (from "Make this video..." down to the closing }).
+- If Dola refuses: open a NEW chat and use the SAFE VERSION at the bottom of 01_WATER.txt.
+- Send the result to Claude. Claude crops the watermark and joins it to the faint clip.
+
+RULES IN THIS CLIP
+- Noor stays on the RIGHT side the whole clip.
+- Rope: one short knot on her wrists at the start, gone after 8 s, never again.
+- The bowl is OLD and ROUGH (a used calabash gourd), never shiny.
+- The warrior walks in SLOWLY.

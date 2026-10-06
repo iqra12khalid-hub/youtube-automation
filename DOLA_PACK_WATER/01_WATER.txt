@@ -1,0 +1,38 @@
+NEW CHAT. UPLOAD (in this order): Water_start.png, Noora2_FACE.png, CHAR_Noora2_dirty_sheet.png, TRIBE_Warrior_FRONT.png
+-------------------------------------------------------------------------------------------------------------------
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts.
+FIRST FRAME: Use the uploaded image Water_start.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+FACE LOCK: Noor's face must be EXACTLY the face in Noora2_FACE.png in every frame: same face, same eyes, nose and lips, same skin, same dry scratches.
+REFERENCE LOCK: Noor's clothes = CHAR_Noora2_dirty_sheet.png (dirty white t-shirt, torn black jeans, gold coin necklace, dark high ponytail). The warrior = TRIBE_Warrior_FRONT.png (same carved mask, feathers, palm-fibre cape, white dot body paint). The cage, the lamp, the mat and the light = the first frame.
+{
+ "title": "WATER",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["Water_start.png", "Noora2_FACE.png", "CHAR_Noora2_dirty_sheet.png", "TRIBE_Warrior_FRONT.png"],
+  "Water_start.png": "FIRST FRAME. The bamboo prison at dusk: Noor sits on the RIGHT side against the right-hand bars, the clay oil lamp and woven mat in the LEFT corner, the doorway in the middle of the front wall, the campfire and huts outside.",
+  "Noora2_FACE.png": "THE FACE. Copy it exactly in every frame.",
+  "CHAR_Noora2_dirty_sheet.png": "her clothes and body. Design only.",
+  "TRIBE_Warrior_FRONT.png": "the masked warrior. Design only."
+ },
+ "position_rule": "Noor stays on the RIGHT side against the right-hand bamboo bars the whole clip. She never moves to the middle or the left.",
+ "rope_rule": "At the start her wrists are joined by ONE short rope knot, nothing else on her body. At 6-8s it is cut and taken away. After 8s her wrists are bare with faint red marks. Never any rope on her waist, arms or body.",
+ "shots": [
+  {"time": "0-2s", "camera": "static, exactly the first frame", "action": "Noor sits weak and still on the right side, eyes half closed. Slow heavy bare footsteps approach outside."},
+  {"time": "2-6s", "camera": "static wide", "action": "The masked warrior appears outside the doorway and walks in SLOWLY, step by step, ducking under the low bamboo frame, carrying one old rough calabash gourd bowl of water in both hands: dull matte brown-orange, scratched and dirty, dark stains, dry cracks, no shine at all. He kneels and sets the bowl on the dirt near her. She shrinks back against the right-hand bars, frightened. She never smiles."},
+  {"time": "6-8s", "camera": "slow push in toward her hands", "action": "He takes a small black stone knife from his belt and with one short clean stroke cuts the rope knot between her wrists. The cut rope falls apart in two pieces; he picks them up and tucks them in his belt. Her wrists are bare now with red marks."},
+  {"time": "8-10s", "camera": "medium shot, continuous", "action": "He stands, steps out slowly through the doorway without a word and walks away into the dusk. Noor rubs her sore wrists, staring after him."},
+  {"time": "10-15s", "camera": "slow push in to a close-up of Noor, still on the right side", "action": "She pulls the old calabash bowl to her, lifts it with both hands and drinks desperately, long thirsty gulps, water running down her chin and neck."}
+ ],
+ "acting": "weak, frightened, desperate thirst, never smiling",
+ "style": "photoreal, cinematic, dusk firelight and oil-lamp light, the tribe is a fictional island people with their own carved masks and body paint, not any real ethnic group",
+ "physics": "real-time, slow heavy movements, real rope fibres cut cleanly, real water spilling",
+ "sound": "crickets, crackling campfire, distant drums, slow heavy bare footsteps, the bowl set down on dirt, a quick rope cut, her weak breathing, desperate gulping, water dripping",
+ "negative": "different face, cuts to other shots, fast movement, running, shiny or polished bowl, lacquered bowl, rope on her waist or arms, rope bangles, leash, blood, violence, grabbing, text, watermark"
+}
+
+-------------------- SAFE VERSION (use if Dola refuses the one above) --------------------
+Same upload, same first lines, then replace the "6-8s" shot with:
+  {"time": "6-8s", "camera": "slow push in toward her hands", "action": "He loosens the short rope knot with his fingers and pulls the rope away, keeping it. Her wrists are bare now with red marks."},
+and delete "a quick rope cut" from the sound line.
