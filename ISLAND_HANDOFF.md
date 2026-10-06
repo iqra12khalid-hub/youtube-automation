@@ -342,3 +342,10 @@ RULES: one action per clip; start frame whenever continuing; monster = still sil
 - (6 Oct) ADOBE SUPPORT: fair-usage limits are DYNAMIC (no fixed number) and PER MODEL. When Kling 3.0 Omni hits the limit, switch to another free model at 720p (Kling 3.0 with First+Last frames, Veo 3.1 Fast, Runway Gen-4.5, Ray3.14). 1080p Kling Omni 15 s = 600 credits.
 - (6 Oct) DAILY CAP DATA: 27 successful + ~4-6 blocked/failed Kling generations (15 s, 720p) before both Kling 3.0 Omni and Kling 3.0 were capped (cap seems shared across Kling models). Reset ~00:00 UTC (5 AM PKT). Budget ~25-30 usable clips/day.
 - (6 Oct) HAR #2 FINDINGS (feature-auth-profile): Kling 3.0 + Kling 3.0 Omni share ONE fair-use pool -> both "over_consumption_quota_exhausted" (reset 07 Oct 00:00 UTC). STILL FREE (fair use) when Kling is capped: Kling 2.5 Turbo Pro (even 1080p 5s), Veo 3.1 Fast, Ray3.14, Runway Gen-4.5, Firefly Video. Paid with credits: Veo 3.1, Gemini Omni Flash, Seedance 2.0/2.0 Fast/2.5, Ray3/HDR. Fair-use pool numbers seen: 1250 units/min and 120000 units/day (meaning of units unknown).
+
+## Paint take 2 (1080p) — trimmed
+- Source: Firefly clip "Continue exactly from the start frame..._2.mp4" (15.04s). Camera DID push in toward Noor (~8-11s), but she smiles from ~13.4s.
+- Cause: my wording "never smiling until the very end" — the word "until" invites a smile. NEVER use "until" with expressions.
+- Fixed: `ISLAND_CLIPS/Paint_take2_1080p_nosmile.mp4` = 0–12.9s, 0.3s audio fade. Last frame `ISLAND_FRAMES/Paint_take2_last.png` (frightened, Noora3 paint).
+- Expression line to use from now on: "She never smiles at any moment. Serious, frightened face from start to end, lips pressed together."
+- Camera moves: Kling does slow push-ins; it ignores cuts/whip-pans to another person. Do cutaways as separate clips and intercut in edit.
