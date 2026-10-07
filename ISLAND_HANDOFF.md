@@ -2,6 +2,8 @@
 
 This file lets any AI take over the project **exactly where it stopped**. Read it fully before answering the user.
 
+> **NEW: start with `ISLAND_MASTER_BRIEF.md`** — the clean, up-to-date summary of everything. This file is the detailed history.
+
 **Status at handoff (1 Oct 2026, evening):**
 - **Done and edited:** clips 1, 2, 3, 4, 4B, 5, 6, 6B, 7 (`planeinwater` clip, made with the Kartar skill).
 - **Now in progress:** the **BRIDGE clip** (Noor sitting → gets up → walks → creature watching from behind → she ends standing at the water = first frame of clip 7). It is being made in **Adobe Firefly → Kling 3.0** with **first frame + last frame**. Prompt in section 8.1.
