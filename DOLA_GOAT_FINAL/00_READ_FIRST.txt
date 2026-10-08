@@ -1,0 +1,16 @@
+GOAT SCENE - LAST 2 CLIPS FOR DOLA
+==================================
+Dola only reads IMAGES and PASTED TEXT (not zip/txt files).
+
+For EACH folder:
+ 1. Open a BRAND-NEW Dola chat (not the one that refused). Do NOT attach goat_sacrifice_prompts.txt.
+ 2. Drag in that folder's images in number order (1_FIRST_FRAME first).
+ 3. Open PASTE_THIS_IN_DOLA.txt in Notepad -> Ctrl+A -> Ctrl+C -> paste in the chat -> send.
+
+CLIP_A_god_answers_wind : the chief waits at the dark doorway, a blast of hot wind + dust bursts out,
+                          slow motion, he smiles (the god accepted the offering).
+CLIP_B_celebration      : he slams his staff, the six warriors at the fire cheer and dance.
+
+Edit order: dance -> chief stops the dance -> warrior brings the goat -> goat walks into the doorway
+(Goat4 clip, already made) -> [growls + crunching added in the edit over the black door] -> CLIP_A -> CLIP_B
+If Dola still refuses: make them in Firefly / Kling instead.
