@@ -1,0 +1,25 @@
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts.
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+REFERENCE LOCK: copy the chief from 2_CHIEF_BODY.png and 3_CHIEF_FACE.png exactly, the goat from 4_GOAT.png, the temple doorway from 5_TEMPLE_DOOR.jpg.
+
+{
+ "title": "The Offering Falls",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["1_FIRST_FRAME.png", "2_CHIEF_BODY.png", "3_CHIEF_FACE.png", "4_GOAT.png", "5_TEMPLE_DOOR.jpg"],
+  "2_CHIEF_BODY.png + 3_CHIEF_FACE.png": "the tribal chief - same face, feather crown, red face paint, shell necklace, red-and-white striped body paint, grass cape, carved staff. Design only, ignore any printed words.",
+  "4_GOAT.png": "the small white goat with small horns",
+  "5_TEMPLE_DOOR.jpg": "the top platform of the stone temple: dark doorway, hanging vines, carved stone faces on both sides, small oil lamps"
+ },
+ "camera": "locked medium shot facing the dark doorway, the camera does not move",
+ "shots": [
+  {"time": "0-4s", "action": "The chief stands beside the doorway with his hand on the white goat. He gives it one firm push forward over the stone threshold."},
+  {"time": "4-8s", "action": "Just inside the doorway the stone floor ends at the edge of a deep black pit. The goat stumbles over the edge and drops straight down into the darkness, disappearing below. Nothing of it is seen again."},
+  {"time": "8-15s", "action": "The chief steps to the edge of the doorway, leans forward slightly and stares down into the black pit, completely still, waiting as if something will come out. Torchlight flickers on his face."}
+ ],
+ "style": "realistic live-action film, 35mm film grain, warm torchlight, dark jungle night, horror mystery mood",
+ "physics": "real weight, the goat falls naturally, slow calm movements of the chief",
+ "sound": "the goat's bleat falling away and echoing deep below, then total silence, crackling torches, a faint deep rumble from far below. No speech. No music.",
+ "negative": "goat walking calmly inside, goat coming back out, second goat, cuts, camera moving, different chief face, extra people, text, watermark, gore, blood"
+}

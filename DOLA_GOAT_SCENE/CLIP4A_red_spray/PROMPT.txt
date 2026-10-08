@@ -1,0 +1,22 @@
+Make this video 10 seconds, one generation, ONE continuous shot with no cuts.
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+REFERENCE LOCK: copy the chief from 2_CHIEF_BODY.png and 3_CHIEF_FACE.png exactly, the temple doorway from 4_TEMPLE_DOOR.jpg.
+
+{
+ "title": "The God Answers",
+ "duration_seconds": 10,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["1_FIRST_FRAME.png", "2_CHIEF_BODY.png", "3_CHIEF_FACE.png", "4_TEMPLE_DOOR.jpg"],
+  "2_CHIEF_BODY.png + 3_CHIEF_FACE.png": "the tribal chief - same face, feather crown, red face paint, shell necklace, carved staff. Design only, ignore any printed words.",
+  "4_TEMPLE_DOOR.jpg": "the dark stone doorway with carved stone faces and small oil lamps"
+ },
+ "camera": "slow push-in from a medium shot to a close-up of the chief's face",
+ "shots": [
+  {"time": "0-3s", "action": "The chief stands beside the pitch-black doorway, staring into the darkness in silence. A deep growl rises from deep inside. Suddenly a fine spray of red mist bursts out of the darkness and splashes across his face and chest."},
+  {"time": "3-10s", "action": "Slow motion close-up: fine red droplets drift down over his face and feathers, he closes his eyes, breathes in, then slowly smiles with dark satisfaction."}
+ ],
+ "style": "realistic live-action film, 35mm film grain, warm firelight, horror mood, the second half in slow motion",
+ "sound": "a deep growl from inside the dark, a wet burst of spray, then slow-motion silence with a low heartbeat. No speech. No music.",
+ "negative": "gore, body parts, wounds, animal visible, cuts, different chief face, extra people, text, watermark"
+}

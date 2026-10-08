@@ -1,0 +1,34 @@
+THE ONE-EYED ISLAND - GOAT SCENE PACK FOR DOLA (clips 3, 4A, 4B)
+=================================================================
+
+ALREADY DONE (not in this pack):
+  Clip 1  dance around the fire
+  Clip 2  the chief stops the dance and points          (ISLAND_CLIPS/Goat2_chief_halts_dance.mp4)
+  Clip 2b the warrior brings the goat to the doorway     (ISLAND_CLIPS/Goat3_warrior_brings_goat.mp4)
+
+IN THIS PACK:
+  CLIP3_push_and_fall   the chief pushes the goat, it falls into a deep black pit, he stares into the dark
+  CLIP4A_red_spray      red spray bursts out of the dark onto the chief, slow motion, he smiles
+  CLIP4B_celebration    he slams his staff, the six warriors at the fire cheer and dance
+
+All three have their own first frame, so you can run them AT THE SAME TIME in 3 chats.
+
+HOW TO RUN EACH CLIP
+--------------------
+1. Open a NEW Dola chat.
+2. Paste 0_FILM_BRIEF_paste_first.md as the first message (the project brief). Send it.
+3. Upload ALL images from the clip folder, IN NUMBER ORDER (1_FIRST_FRAME first).
+4. Paste that folder's PROMPT.txt. Send.
+
+CLIP 4A NOTE
+------------
+A red spray on a face may be read as blood and refused (Dola is strict, the film brief also says no blood).
+If it is refused: open a NEW chat (one refusal can block the whole chat) and use PROMPT_SAFE.txt
+(hot wind + dust instead of red spray - same moment, same smile).
+If the slow motion is not slow enough, the editor will slow it down to half speed.
+
+EDIT ORDER
+----------
+dance -> chief stops the dance -> warrior brings the goat -> CLIP3 -> CLIP4A -> CLIP4B
+
+Send every result back for checking (frame by frame, exact cut points).
