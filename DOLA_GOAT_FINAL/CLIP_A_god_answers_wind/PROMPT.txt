@@ -14,7 +14,7 @@ REFERENCE LOCK: copy the chief from 2_CHIEF_BODY.png and 3_CHIEF_FACE.png exactl
  "camera": "slow push-in from a medium shot to a close-up of the chief's face",
  "shots": [
   {"time": "0-3s", "action": "The chief stands beside the pitch-black doorway, staring into the darkness in silence. A deep growl rises from deep inside. Suddenly a blast of hot wind and grey dust bursts out of the darkness with a roar, blowing his feathers and necklace back and making the oil lamps flare."},
-  {"time": "3-10s", "action": "Slow motion close-up: dust and glowing sparks drift past his face, he closes his eyes, breathes in, then slowly smiles with dark satisfaction, as if the god has accepted the offering."}
+  {"time": "3-10s", "action": "Slow motion close-up: dust and glowing sparks drift past his face, he closes his eyes, breathes in, then slowly smiles with dark satisfaction, as if the god has answered him."}
  ],
  "style": "realistic live-action film, 35mm film grain, warm firelight, horror mood, the second half in slow motion",
  "sound": "a deep growl from inside the dark, a roaring rush of wind, then slow-motion silence with a low heartbeat. No speech. No music.",

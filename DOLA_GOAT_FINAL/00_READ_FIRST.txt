@@ -8,7 +8,7 @@ For EACH folder:
  3. Open PASTE_THIS_IN_DOLA.txt in Notepad -> Ctrl+A -> Ctrl+C -> paste in the chat -> send.
 
 CLIP_A_god_answers_wind : the chief waits at the dark doorway, a blast of hot wind + dust bursts out,
-                          slow motion, he smiles (the god accepted the offering).
+                          slow motion, he smiles (the god answered him).
 CLIP_B_celebration      : he slams his staff, the six warriors at the fire cheer and dance.
 
 Edit order: dance -> chief stops the dance -> warrior brings the goat -> goat walks into the doorway
