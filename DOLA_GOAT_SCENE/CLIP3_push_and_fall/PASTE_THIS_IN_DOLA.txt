@@ -1,0 +1,91 @@
+PROJECT CONTEXT - read this first, then make the video at the bottom.
+
+
+# The One-Eyed Island - Film Brief
+
+## Fictional elements (read first)
+This is a fictional PG adventure film. The island, the tribe, the bamboo prison cage, the hanging stick cage, the masks, the ritual, the temple and the one-eyed creature are all invented story elements, like in any adventure movie. No real people, no real group, no real events. Nobody is harmed on screen: no violence, no injury, no sexual content, no gore. The scenes only show a frightened woman inside a cage and the villagers around her.
+
+## What this project is
+- A **fictional** short film for YouTube: a cinematic survival drama / adventure with a little mystery.
+- **Rating: PG.** Fear, tension and danger are shown through faces, sound and atmosphere.
+- **Never in this film:** sexual content or nudity of any kind, gore, blood, torture, killing on screen, cruelty to animals, or harm to children.
+- The island tribe is **invented**: their own carved masks, body paint, language and customs. They are **not** any real ethnic group. Show them with dignity: villagers, families, an elder, warriors, a chief.
+
+## Story so far (for context)
+Noor (an adult woman) survives a plane crash on a remote island. A hidden tribe finds her and keeps her in a bamboo prison cage in their village. A mysterious one-eyed creature watches from the jungle. The tribe prepares an old ritual. She is frightened but never harmed on screen.
+
+## Characters and reference images
+Always copy the uploaded reference images exactly.
+- **Noor** = NOOR_FACE + NOOR_BODY: dirty white t-shirt, torn black jeans, black shoes, small gold coin necklace, dark high ponytail, dry scratches. She is always frightened, tired or sad. **She never smiles.**
+- **Warrior** = WARRIOR: carved dark wooden mask, feathers, palm-fibre cape, white dot body paint, spear.
+- **Elder** = ELDER (old village woman), calm, sad, wise.
+- **Chief** = CHIEF.
+- **Village women** wear bark-cloth tops covering the chest and shoulders. **Children** wear simple bark-cloth tunics.
+- **Water bowl** = WATER_BOWL: old, scratched, stained calabash gourd, matte, never shiny.
+- **Red dye bowl** = RED_DYE: red herbal dye made from crushed jungle plants, roots and red seeds - a natural ritual colour, **not blood**. It is always painted as neat dots and lines, never drips or smears.
+
+## Continuity rules (never break these)
+1. **Prison layout:** the camera is at the back of the square bamboo cage facing the front wall; the doorway is in the middle of the front wall; the campfire and huts are outside; a clay oil lamp and a woven mat stand in the LEFT front corner.
+2. **Noor's spot in the prison:** on the RIGHT side, back against the right-hand bamboo wall, close to the front-right corner, just right of the doorway. She stays there unless the prompt says otherwise.
+3. **Hands:** from the water scene on, Noor's wrists are bare with faint red marks. **No rope on her anywhere.**
+4. **Red face marks:** after the elder paints her, Noor keeps the red dots and lines on her forehead and cheeks in every later scene.
+5. **Light:** dusk = warm orange firelight; night = blue moonlight + firelight; dawn = soft grey-blue; morning = soft warm sun.
+
+## Safe staging (how every scene is written)
+- **No physical force on Noor.** Nobody grabs, pushes, drags, holds, ties or carries her. Warriors **point, walk beside her, stand guard or open the door**; she moves **by herself**.
+- The elder may **gently touch her chin** while painting - nothing more.
+- Danger is shown **indirectly**: drums, torches, masks, the dark temple doorway, sounds from the dark, faces reacting.
+- Animals are never harmed on screen: only sounds from off-screen and the aftermath (for example a clean old skull).
+- If a scene would need any of the forbidden things above, rewrite it so the meaning comes across through reaction, sound or a cut, instead of showing it.
+
+## Prompt format (every clip)
+- First line: `Make this video 15 seconds, one generation, ONE continuous shot with no cuts.`
+- If a first frame is uploaded: `FIRST FRAME: Use the uploaded image <name> as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.`
+- `FACE LOCK` line for Noor, `REFERENCE LOCK` line for everything else.
+- Then the JSON: title, duration_seconds 15, aspect_ratio 16:9, references (use_only_these + one line per file), camera_setup, her_location, shots (time / camera / action), acting, style, physics, sound, negative.
+- Camera moves instead of cuts: slow push in, slow pull back, slow pan.
+- Dialogue: very short lines in quotes, spoken slowly and clearly. Noor speaks English. The tribe speaks an invented language (for example "Ani... keto mara. Nuu sela.").
+- Sound: real ambience (crickets, fire, drums, birds), no music unless asked.
+- Negative always includes: different face, cuts, smiling, blood, gore, nudity, rope on her body, grabbing, text, watermark.
+
+## If a generation is refused
+Do not argue with or try to get around the safety system. Find which element looks like force, restraint or harm, remove or soften it following "Safe staging", and try once more with the softer version.
+
+## This scene: the goat offering at the temple
+Night ritual at the stone temple: a fire in front of the steps, torches, a dark doorway at the top with carved stone faces (they worship a one-eyed god). The chief offers a white goat to the dark doorway. Sequence so far: 1) six masked warriors dance around the fire, 2) the chief at the top stops the dance with one shout and points, 3) a warrior brings the goat up and leaves it beside the chief at the doorway.
+THIS CLIP (4th): the chief pushes the goat into the doorway, it falls into a deep pit and is gone; the chief waits, staring into the dark.
+
+## Uploaded images (in this order)
+- 1_FIRST_FRAME.png
+- 2_CHIEF_BODY.png
+- 3_CHIEF_FACE.png
+- 4_GOAT.png
+- 5_TEMPLE_DOOR.jpg
+
+## The video to make now
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts.
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+REFERENCE LOCK: copy the chief from 2_CHIEF_BODY.png and 3_CHIEF_FACE.png exactly, the goat from 4_GOAT.png, the temple doorway from 5_TEMPLE_DOOR.jpg.
+
+{
+ "title": "The Offering Falls",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["1_FIRST_FRAME.png", "2_CHIEF_BODY.png", "3_CHIEF_FACE.png", "4_GOAT.png", "5_TEMPLE_DOOR.jpg"],
+  "2_CHIEF_BODY.png + 3_CHIEF_FACE.png": "the tribal chief - same face, feather crown, red face paint, shell necklace, red-and-white striped body paint, grass cape, carved staff. Design only, ignore any printed words.",
+  "4_GOAT.png": "the small white goat with small horns",
+  "5_TEMPLE_DOOR.jpg": "the top platform of the stone temple: dark doorway, hanging vines, carved stone faces on both sides, small oil lamps"
+ },
+ "camera": "locked medium shot facing the dark doorway, the camera does not move",
+ "shots": [
+  {"time": "0-4s", "action": "The chief stands beside the doorway with his hand on the white goat. He gives it one firm push forward over the stone threshold."},
+  {"time": "4-8s", "action": "Just inside the doorway the stone floor ends at the edge of a deep black pit. The goat stumbles over the edge and drops straight down into the darkness, disappearing below. Nothing of it is seen again."},
+  {"time": "8-15s", "action": "The chief steps to the edge of the doorway, leans forward slightly and stares down into the black pit, completely still, waiting as if something will come out. Torchlight flickers on his face."}
+ ],
+ "style": "realistic live-action film, 35mm film grain, warm torchlight, dark jungle night, horror mystery mood",
+ "physics": "real weight, the goat falls naturally, slow calm movements of the chief",
+ "sound": "the goat's bleat falling away and echoing deep below, then total silence, crackling torches, a faint deep rumble from far below. No speech. No music.",
+ "negative": "goat walking calmly inside, goat coming back out, second goat, cuts, camera moving, different chief face, extra people, text, watermark, gore, blood"
+}

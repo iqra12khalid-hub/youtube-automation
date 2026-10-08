@@ -1,34 +1,17 @@
-THE ONE-EYED ISLAND - GOAT SCENE PACK FOR DOLA (clips 3, 4A, 4B)
-=================================================================
+THE ONE-EYED ISLAND - GOAT SCENE PACK FOR DOLA (works on a brand-new account)
+=============================================================================
+Dola cannot open zip, .txt or .md attachments. It only reads IMAGES and PASTED TEXT.
 
-ALREADY DONE (not in this pack):
-  Clip 1  dance around the fire
-  Clip 2  the chief stops the dance and points          (ISLAND_CLIPS/Goat2_chief_halts_dance.mp4)
-  Clip 2b the warrior brings the goat to the doorway     (ISLAND_CLIPS/Goat3_warrior_brings_goat.mp4)
+1. Unzip this file on your PC (right-click > Extract All).
+2. For each clip folder (CLIP3, CLIP4A, CLIP4B), open a NEW Dola chat and:
+   a) drag in the folder's images in number order (1_FIRST_FRAME first),
+   b) open PASTE_THIS_IN_DOLA.txt in Notepad, Ctrl+A, Ctrl+C, paste it in the chat, send.
+   That one paste already contains the whole project brief + the scene story + the prompt,
+   so a new account understands everything. Nothing else is needed.
+3. The 3 clips have their own first frames -> you can run them at the same time.
 
-IN THIS PACK:
-  CLIP3_push_and_fall   the chief pushes the goat, it falls into a deep black pit, he stares into the dark
-  CLIP4A_red_spray      red spray bursts out of the dark onto the chief, slow motion, he smiles
-  CLIP4B_celebration    he slams his staff, the six warriors at the fire cheer and dance
+CLIP 4A: if the red spray is refused, open a NEW chat and use PASTE_THIS_IN_DOLA_SAFE.txt
+(hot wind + dust instead of red spray).
 
-All three have their own first frame, so you can run them AT THE SAME TIME in 3 chats.
-
-HOW TO RUN EACH CLIP
---------------------
-1. Open a NEW Dola chat.
-2. Paste 0_FILM_BRIEF_paste_first.md as the first message (the project brief). Send it.
-3. Upload ALL images from the clip folder, IN NUMBER ORDER (1_FIRST_FRAME first).
-4. Paste that folder's PROMPT.txt. Send.
-
-CLIP 4A NOTE
-------------
-A red spray on a face may be read as blood and refused (Dola is strict, the film brief also says no blood).
-If it is refused: open a NEW chat (one refusal can block the whole chat) and use PROMPT_SAFE.txt
-(hot wind + dust instead of red spray - same moment, same smile).
-If the slow motion is not slow enough, the editor will slow it down to half speed.
-
-EDIT ORDER
-----------
-dance -> chief stops the dance -> warrior brings the goat -> CLIP3 -> CLIP4A -> CLIP4B
-
-Send every result back for checking (frame by frame, exact cut points).
+Do NOT let Dola stitch or merge clips (Fast/Pro) - send the clips back and they get joined for free.
+Edit order: dance -> chief stops the dance -> warrior brings the goat -> CLIP3 -> CLIP4A -> CLIP4B
