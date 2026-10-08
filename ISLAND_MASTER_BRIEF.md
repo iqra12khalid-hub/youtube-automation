@@ -63,7 +63,8 @@ Last updated: **7 Oct 2026**.
 | **tribeoldwomen** | the elder woman: blue-grey braids, white face dots, grass cape, shell necklaces | elder |
 | **prisoninside** | location: inside the bamboo prison | shots **inside** the cage |
 | **prison** | location: the bamboo prison from **outside** | shots **outside** the cage (exits, door, guards) |
-| **sacrificeplace** | location: the temple with steps, fire, torches, dark doorway | temple scenes |
+| **upperritual** | location: top of the temple - dark doorway, vines, carved stone faces | shots at the doorway |
+| **ritualplace** | location: temple courtyard - stone steps, fire pit, torches | shots at the fire / steps |
 | **goat** | the small **white** goat | goat scene |
 | **coloringmaterial** | bowl of red ritual dye | painting scene |
 | **waterbowl** | old calabash bowl of water | water scene |
