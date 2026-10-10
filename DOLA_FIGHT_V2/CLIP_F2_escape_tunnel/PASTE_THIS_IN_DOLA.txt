@@ -10,7 +10,7 @@ STEP 2 - ONCE YOU HAVE CHECKED EVERY FILE, put each character into the video exa
 
 STEP 3 - MAKE THE VIDEO.
 Make this video 15 seconds, one generation, ONE continuous shot with no cuts.
-FIRST FRAME: Use 0_FIRST_FRAME.png as the FIRST FRAME (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+NO FIRST FRAME - draw the opening picture yourself: night, the dark jungle right behind the old stone temple, drifting smoke and distant orange torch lights. THE MONSTER (exactly as 1_CHAR_MONSTER_sheet.png) and NOOR (exactly as 4_CHAR_NOOR_sheet.png) are coming out of the smoke toward the camera.
 Characters in this video: THE MONSTER (1_CHAR_MONSTER_sheet.png), NOOR (4_CHAR_NOOR_sheet.png), THE WARRIORS (2_CHAR_WARRIOR_sheet.png, only as far-away torch carriers). No chief.
 Place: the dark jungle right behind the old stone temple - giant tree roots, mossy rocks, hanging vines, mist, moonlight through the leaves. Then a narrow, hidden tunnel opening in the rocks, half covered by a curtain of vines.
 
