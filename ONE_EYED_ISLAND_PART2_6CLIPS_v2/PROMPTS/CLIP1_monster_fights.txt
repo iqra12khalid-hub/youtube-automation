@@ -1,0 +1,24 @@
+CLIP 1 of 6 - "The Protector Fights"
+FIRST FRAME: FIRST_FRAMES/CLIP1_FIRST_FRAME.jpg (already in the folder). The clip must start EXACTLY on this image.
+CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg      PLACE: TEMPLE_COURTYARD.jpg
+CAMERA: starts exactly as the first frame (medium shot), then slowly pulls back to a wide shot of the courtyard.
+
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- MONSTER must look EXACTLY like MONSTER.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize MONSTER.
+- NOOR must look EXACTLY like NOOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize NOOR.
+- WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize WARRIOR.
+- They must look the same as in the previous clips of this film. If you are not sure, copy the uploaded file, not your own idea.
+- MONSTER is NOT wounded and NOT bleeding in any clip. It is strong the whole time.
+
+0-3s: MONSTER snaps the two spears pointed at it and knocks both WARRIOR to the ground.
+3-7s: More WARRIOR charge at MONSTER from the front. MONSTER fights them one after another - blocks a spear with its forearm, sweeps two WARRIOR off their feet, throws one across the courtyard.
+7-11s: Three WARRIOR attack together from the front. MONSTER grabs a spear, swings it and knocks all three down.
+11-15s: In front of MONSTER every WARRIOR is down on the ground, groaning. MONSTER stands tall, breathing hard, facing the camera.
+NOOR stays far behind on the temple stairs the whole time, crouching, frightened. She does NOT come near MONSTER in this clip.
+
+RULES FOR THIS VIDEO
+- Use ONLY the characters and places from my uploaded files, exactly as they look in the files. Characters are named by their file name.
+- Make it with image-to-video / reference-to-video with the files attached. Do NOT use text-to-video. If the image tools are not working, do not generate - tell me.
+- 15 seconds, 16:9, ONE continuous shot, no cuts, realistic live-action film, 35mm grain, night. No blood. NOOR never smiles. Invented tribal shouts only, no English words. No text, no watermark. No chief in this clip.
+- Nobody just stands and watches: every WARRIOR is always reacting, attacking, falling or getting up.
+- BEFORE YOU GENERATE: reply with the list of character files, place files and first frame you will use for this clip, and wait for my OK.
