@@ -366,3 +366,12 @@ RULES: one action per clip; start frame whenever continuing; monster = still sil
 - (8 Oct) Kling skull take: skull came out as a long-horned COW skull, chief reached for it, skull vanished in the wide. Kept 9.5-15s celebration as ISLAND_CLIPS/Warriors_celebrate_fire_spare.mp4. Plan: make a goat-skull element (goatskull).
 - (9 Oct) Warrior_checks_skull.mp4: 2.75s warrior enters, 4.5-11s kneels and turns the skull, 11-15s rises to masked-face close-up (no clear nod). Frame for next clip: ISLAND_FRAMES/Warrior_kneel_skull.png (9.5s, kneeling, hands on skull).
 - (9 Oct) NIGHT PROBLEM: @prisoninside element image is daylight/dusk, so Kling copies its light even when the prompt says deep night. Fix: colour-grade in post (Warriors_come_for_Noor_NIGHT.mp4) or make a NIGHT version of the prison element.
+
+## Part 2 - NEW PLAN (fight at the FOOT of the stairs)
+- Doorway-top attempts failed (Kling walks everyone into the door / monster looks like the doorway beast / courtyard redrawn).
+- New plan: the scene happens at the foot of the stairs, before Noor climbs any step. ONE fixed wide camera behind the fire pit (no doorway close-ups).
+- First frame: ISLAND_FRAMES/P2_D1_first.png (Noor_dragged_to_steps_EDIT.mp4 @ 4.9s).
+- Chips: @ritualplace, @Noora3, @Monster (warriors come from the first frame + words). Multi-shot OFF, 10s.
+- Action: Noor resists -> monster leaps from the right jungle onto the lower stairs, facing them -> knocks left warrior away, then right -> spreads arms in front of Noor -> more warriors run in.
+- Order: P2_ClipA (chief order) -> this clip -> fight. P2_B1 (tips back at door) dropped.
+- Usable spares: 5ca05098 3.3-5s (warriors flung L/R), dd98877c 12.25-15s (Noor close-up behind monster arm), 28fe37a1 9.5-12.5s (warriors charge up stairs).
