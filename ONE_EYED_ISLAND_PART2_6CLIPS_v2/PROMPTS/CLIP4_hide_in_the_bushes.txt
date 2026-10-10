@@ -1,20 +1,21 @@
 CLIP 4 of 6 - "Hide"
 FIRST FRAME = THE LAST FRAME OF CLIP 3.
 DO NOT START THIS CLIP until CLIP 3 is finished and I upload its last frame as CLIP4_FIRST_FRAME.jpg. Start EXACTLY on that image.
-CHARACTERS: MONSTER.jpg, NOOR.jpg      PLACE: a dark night jungle (any jungle) - giant trees, roots, thick ferns and bushes, hanging vines, mist, moonlight
+CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg      PLACE: a dark night jungle (any jungle) - giant trees, roots, thick ferns and bushes, hanging vines, mist, moonlight
 CAMERA: handheld, follows MONSTER and NOOR from behind, then stays low beside the bushes.
 
 CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
 - MONSTER must look EXACTLY like MONSTER.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize MONSTER.
 - NOOR must look EXACTLY like NOOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize NOOR.
+- WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize WARRIOR.
 - They must look the same as in the previous clips of this film. If you are not sure, copy the uploaded file, not your own idea.
 - MONSTER is NOT wounded and NOT bleeding. It is strong the whole time.
 
-0-4s: MONSTER and NOOR walk fast through the dark jungle, MONSTER pushing leaves aside for her.
-4-7s: Far, far away between the trees, small orange torch lights appear and distant shouting is heard. MONSTER stops and raises its hand. NOOR freezes.
-7-11s: MONSTER pulls NOOR down into a thick wall of bushes and big ferns and covers her with its arm. They are completely hidden - from outside only leaves can be seen.
-11-15s: The far-away torch lights move slowly from left to right in the distance and fade away. Silence. Only leaves move a little where they are hiding.
-No WARRIOR comes close. The torches stay far away in the background the whole time.
+0-3s: MONSTER and NOOR walk fast through the dark jungle, MONSTER pushing leaves aside for her.
+3-5s: Ahead of them between the trees, orange torch lights appear and shouting voices come closer. MONSTER stops and raises its hand. NOOR freezes.
+5-8s: MONSTER pulls NOOR down into a thick wall of bushes and big ferns and covers her with its arm. They are completely hidden - from outside only leaves can be seen.
+8-12s: A line of WARRIOR with torches walks past in front of the bushes, from left to right, searching, without seeing them. The torch light flickers over the leaves.
+12-15s: The torches move away and fade. Silence. MONSTER slowly comes up out of the bushes, helps NOOR up, and they walk on deeper into the jungle toward the cave.
 
 RULES FOR THIS VIDEO
 - Use ONLY the characters and places from my uploaded files, exactly as they look in the files. Characters are named by their file name.

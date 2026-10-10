@@ -7,10 +7,9 @@ FOLDERS
   PROMPTS/      CLIP1, CLIP2 (done)   CLIP3, CLIP4, CLIP5, CLIP6 (to make)
 
 STORY
-  3 MONSTER waves NOOR to follow, they walk out of the courtyard into the jungle.
-    The warriors on the ground do not move. Nobody follows.
-  4 in the jungle: far-away torch lights and shouts -> they hide deep in the bushes, unseen.
-  5 they come out, go deeper, reach CAVE_ENTRANCE and go in.
+  3 straight away MONSTER waves NOOR to follow, they walk out into the jungle. Warriors on the ground do not move.
+  4 in the jungle torches come -> they hide in the bushes -> the torches pass by -> they move on toward the cave.
+  5 they reach CAVE_ENTRANCE and go in.
   6 inside CAVE_INSIDE: MONSTER lights the fire, they sit.
 
 FIRST FRAMES
