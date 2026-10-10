@@ -1,0 +1,34 @@
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. No blood, no injuries shown - people are pushed and tumble.
+
+STEP 1 - CHECK EVERY FILE FIRST. Before you make anything, open and study each uploaded image one by one:
+- 1_CHAR_MONSTER_sheet.png = THE MONSTER. A one-eyed protector (a hero, not a villain). Bald, grey cracked skin, ONE big eye in the middle of the forehead, sharp teeth, torn mustard-yellow cloth tunic over one shoulder, brown leather strap across the chest, round metal charms on cords around the neck, rope belt, barefoot. The SCALE panel shows its size: only ONE HEAD taller than a warrior. Never a giant, never a muscular body-builder.
+- 2_CHAR_WARRIOR_sheet.png = THE WARRIORS. All warriors look exactly like this: dark carved wooden mask with white stripes and red-yellow eye rings, black feathers on top, straw cape on the shoulders, cowrie-shell and bone necklace, white dot body paint, rope belt with a burlap loincloth, rope anklets, spear.
+- 4_CHAR_NOOR_sheet.png = NOOR. Young woman, brown hair in a ponytail, red and white stripes painted across her forehead and cheeks, dirty white T-shirt, small gold necklace, dirty dark jeans, dark shoes. She never smiles.
+- 5_LOC_TEMPLE_COURTYARD_sheet.png = THE PLACE. Stone temple courtyard at night: round fire pit with rocks, stone stairs up to a vine-covered temple with a dark doorway and carved stone faces, tiki torches, stone walls, dark jungle around, starry sky. The right panel is our exact camera position, behind the fire pit.
+Ignore all printed words and labels on the sheets - they are only notes for you.
+
+STEP 2 - ONCE YOU HAVE CHECKED EVERY FILE, put each character into the video exactly as their reference sheet shows: same face, same costume, same colors, same body size. Do not invent new designs.
+
+STEP 3 - MAKE THE VIDEO.
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts.
+FIRST FRAME: Use 0_FIRST_FRAME.png as the FIRST FRAME (image_to_video). The video starts exactly on this image - THE MONSTER in the middle holding two spears pointed at it, a WARRIOR on each side, NOOR crouching on the temple stairs behind. Do not draw a new picture.
+Characters in this video: THE MONSTER (1_CHAR_MONSTER_sheet.png), NOOR (4_CHAR_NOOR_sheet.png), THE WARRIORS (2_CHAR_WARRIOR_sheet.png). Place: 5_LOC_TEMPLE_COURTYARD_sheet.png. No chief.
+
+{
+ "title": "The Protector Is Hurt",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "camera": "starts as the medium shot of the first frame, then slowly pulls back to a wide shot of the courtyard by the end. No cuts.",
+ "shots": [
+  {"time": "0-3s", "action": "THE MONSTER grips both spear shafts pointed at it and snaps them in half. The two WARRIORS stumble back and fall."},
+  {"time": "3-6s", "action": "A third WARRIOR runs in from behind and thrusts his spear. It hits THE MONSTER on the back of its shoulder. THE MONSTER roars in pain and drops to one knee, holding its shoulder. No blood."},
+  {"time": "6-9s", "action": "NOOR jumps up from the stairs, runs to THE MONSTER and kneels beside it, putting its arm over her shoulder to help it, scared and determined."},
+  {"time": "9-12s", "action": "More WARRIORS slowly close in with their spears. THE MONSTER scoops a big handful of sand with its good hand and throws it into the fire pit - a huge cloud of smoke and sparks bursts up and fills the courtyard. The WARRIORS cough and cover their eyes."},
+  {"time": "12-15s", "action": "Inside the smoke THE MONSTER stands up, lifts NOOR onto its good arm, and limps away into the smoke toward the dark jungle on the right side of the temple. They disappear."}
+ ],
+ "rules": "Every character matches its reference sheet for the whole video. THE MONSTER stays one head taller than the warriors. Same temple as the first frame.",
+ "dialogue": "the warriors shout in an invented tribal language: \"KAI! HA-RO!\" - no English words. Noor gasps but says nothing.",
+ "style": "realistic live-action adventure film, 35mm film grain, deep blue night with warm firelight, drifting smoke, dramatic mood",
+ "sound": "spears snapping, the monster's roar of pain, Noor's footsteps, a whoosh as the fire explodes into smoke, warriors coughing, then muffled shouts in the smoke. No music.",
+ "negative": "blood, wounds shown, new temple design, giant monster, different Noor face, chief, cuts, Noor smiling, English words, text, watermark"
+}
