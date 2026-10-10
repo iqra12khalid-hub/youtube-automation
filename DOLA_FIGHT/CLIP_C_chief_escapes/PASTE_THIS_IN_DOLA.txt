@@ -1,0 +1,23 @@
+CONTEXT: This is a scene from "The One-Eyed Island", a fictional PG adventure film. Noor, a young woman in a dirty white T-shirt and dark jeans with red stripes painted on her face, is held by an invented island tribe (carved wooden masks, feathers, straw capes, white dot body paint, spears) at an old stone temple in the jungle at night: a fire pit in front of the stone stairs, torches all around, a vine-covered temple with carved stone faces. A one-eyed creature with grey cracked skin and a yellow cloth wrap is her PROTECTOR - it is a hero, not a villain. It is only a little taller than a man. Nobody is badly hurt: people are pushed and tumble, no blood, no injuries shown. Copy the uploaded reference images exactly.
+
+Make this video 5 seconds, one generation, ONE continuous shot with no cuts. No first frame - draw this new picture.
+REFERENCE LOCK: copy the chief from 1_CHIEF_BODY.png and 2_CHIEF_FACE.png exactly, the place from 3_TEMPLE_COURTYARD.jpg.
+
+{
+ "title": "The Chief Slips Away",
+ "duration_seconds": 5,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["1_CHIEF_BODY.png", "2_CHIEF_FACE.png", "3_TEMPLE_COURTYARD.jpg"],
+  "1_CHIEF_BODY.png + 2_CHIEF_FACE.png": "the tribal chief - same face, feather crown, red face paint, shell necklace, carved staff. A NORMAL-SIZED old man, the same height as any person. Design only, ignore any printed words.",
+  "3_TEMPLE_COURTYARD.jpg": "the edge of the temple courtyard - stone wall, torches, dark jungle behind"
+ },
+ "camera": "medium shot from the side, still camera, the fight blurred in the background",
+ "shots": [
+  {"time": "0-2s", "action": "The chief stands half hidden behind a torch at the edge of the courtyard, gripping his carved staff, watching the fight in the blurred background with fear in his eyes."},
+  {"time": "2-5s", "action": "He slowly backs away, glances over his shoulder, then turns and hurries off into the dark jungle."}
+ ],
+ "style": "realistic live-action adventure film, 35mm film grain, deep blue night with warm torchlight, tense mood",
+ "sound": "distant shouting and fighting, crackling torch, his quick breathing, rustling leaves as he slips away. No music.",
+ "negative": "giant chief, more than one chief, monster, creature in focus, blood, text, watermark"
+}

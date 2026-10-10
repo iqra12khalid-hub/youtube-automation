@@ -1,0 +1,31 @@
+CONTEXT: This is a scene from "The One-Eyed Island", a fictional PG adventure film. Noor, a young woman in a dirty white T-shirt and dark jeans with red stripes painted on her face, is held by an invented island tribe (carved wooden masks, feathers, straw capes, white dot body paint, spears) at an old stone temple in the jungle at night: a fire pit in front of the stone stairs, torches all around, a vine-covered temple with carved stone faces. A one-eyed creature with grey cracked skin and a yellow cloth wrap is her PROTECTOR - it is a hero, not a villain. It is only a little taller than a man. Nobody is badly hurt: people are pushed and tumble, no blood, no injuries shown. Copy the uploaded reference images exactly.
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts.
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME.png as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+REFERENCE LOCK: copy the creature from 2_MONSTER.png, Noor from 3_NOOR.png, every warrior from 4_WARRIOR_FRONT.png and 5_WARRIOR_SIDE.png, the place from 6_TEMPLE_COURTYARD.jpg.
+
+{
+ "title": "The Protector Fights",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "references": {
+  "use_only_these": ["1_FIRST_FRAME.png", "2_MONSTER.png", "3_NOOR.png", "4_WARRIOR_FRONT.png", "5_WARRIOR_SIDE.png", "6_TEMPLE_COURTYARD.jpg"],
+  "2_MONSTER.png": "the one-eyed protector creature - bald grey cracked skin, one big eye, yellow cloth wrap with rope belt and a small round charm. Only a little taller than a man. Design only.",
+  "3_NOOR.png": "Noor - same face and hair, dirty white T-shirt, dark jeans, red stripes painted on her face. She never smiles. Design only, ignore any printed words.",
+  "4_WARRIOR_FRONT.png + 5_WARRIOR_SIDE.png": "every warrior looks exactly like this: carved wooden mask with feathers, straw cape, white dot body paint, woven waist cloth, spear. Design only, ignore any printed words.",
+  "6_TEMPLE_COURTYARD.jpg": "the temple courtyard: fire pit in front, stone stairs up to the vine-covered temple, torches all around, night sky"
+ },
+ "camera": "wide shot from behind the fire pit, completely still for the whole video, never moves, never zooms",
+ "shots": [
+  {"time": "0-2s", "action": "The creature steps in front of Noor and spreads both arms wide, hiding her behind its body. Noor steps back onto the first stair."},
+  {"time": "2-5s", "action": "Many masked warriors run in from both sides of the courtyard toward the creature, shouting."},
+  {"time": "5-8s", "action": "The creature grabs the first spear and breaks it, then sweeps two warriors back with one arm so they tumble across the sand."},
+  {"time": "8-11s", "action": "Two more warriors charge from the left. The creature blocks their spears with its forearm and pushes them back into the bushes."},
+  {"time": "11-15s", "action": "One warrior sneaks around the side toward Noor. The creature turns fast, pulls the spear out of his hands and pushes him away. Noor stays behind it on the stairs, frightened and serious. More warriors keep circling."}
+ ],
+ "rules": "the creature never stands still and never waits - it is always moving and fighting. There is no chief in this video. Same size for the creature the whole time: one head taller than the warriors.",
+ "dialogue": "the warriors shout in an invented tribal language: \"HA-RO! TOROK! KAI!\" - no English words. Noor says nothing.",
+ "style": "realistic live-action adventure film, 35mm film grain, deep blue night with warm firelight, dancing shadows, dramatic mood",
+ "sound": "crackling fire, running feet on sand, warriors shouting, a wooden spear snapping, heavy thuds as warriors tumble, the creature's deep growls. No music.",
+ "negative": "giant creature, creature taller than the temple door, camera movement, cuts, chief, blood, injuries, Noor smiling, English words, text, watermark"
+}

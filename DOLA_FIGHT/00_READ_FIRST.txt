@@ -1,0 +1,15 @@
+THE ONE-EYED ISLAND - FIGHT SCENE PACK FOR DOLA
+================================================
+Dola reads only IMAGES and PASTED TEXT (not zip, not .txt files).
+
+For each clip folder: open a NEW Dola chat, drag in the folder's images in number order,
+then open PASTE_THIS_IN_DOLA.txt in Notepad, Ctrl+A, Ctrl+C, paste in the chat, send.
+
+ORDER
+1. CLIP_E1_fight            (15s) - first frame included. Run first.
+2. CLIP_C_chief_escapes     (5s)  - no first frame, can run at the same time as E1.
+3. CLIP_E2_fight_continues  (15s) - needs E1's LAST FRAME as 1_FIRST_FRAME.png.
+                                    Send E1 to Claude, it will make that frame.
+
+Do NOT let Dola stitch or merge clips - send them back and they get cut together.
+Edit: monster saves Noor -> E1 (part) -> chief escapes -> E1 (rest) -> E2
