@@ -1,5 +1,5 @@
 CLIP 3 of 6 - "Come With Me"
-FIRST FRAME: FIRST_FRAMES/CLIP3_FIRST_FRAME.jpg (already in the folder). Start EXACTLY on this image: MONSTER by the fire pit with its back to the camera, NOOR on the temple stairs, WARRIOR lying on the ground.
+FIRST FRAME: FIRST_FRAMES/CLIP3_FIRST_FRAME.jpg (already in the folder). Start EXACTLY on this image: MONSTER standing behind the fire pit with its back to the camera, NOOR sitting on the temple stairs looking at MONSTER, four WARRIOR lying on the ground around the fire.
 CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg      PLACE: TEMPLE_COURTYARD.jpg
 CAMERA: same wide shot as the first frame, from behind the fire pit, completely still.
 
