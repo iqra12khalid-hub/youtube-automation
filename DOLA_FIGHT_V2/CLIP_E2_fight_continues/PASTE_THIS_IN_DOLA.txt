@@ -1,0 +1,34 @@
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. No blood, no injuries shown - people are pushed and tumble.
+
+STEP 1 - CHECK EVERY FILE FIRST. Before you make anything, open and study each uploaded image one by one:
+- 1_CHAR_MONSTER_sheet.png = THE MONSTER. A one-eyed protector (a hero, not a villain). Bald, grey cracked skin, ONE big eye in the middle of the forehead, sharp teeth, torn mustard-yellow cloth tunic over one shoulder, brown leather strap across the chest, round metal charms on cords around the neck, rope belt, barefoot. The SCALE panel shows its size: only ONE HEAD taller than a warrior. Never a giant, never a muscular body-builder.
+- 2_CHAR_WARRIOR_sheet.png = THE WARRIORS. All warriors look exactly like this: dark carved wooden mask with white stripes and red-yellow eye rings, black feathers on top, straw cape on the shoulders, cowrie-shell and bone necklace, white dot body paint, rope belt with a burlap loincloth, rope anklets, spear.
+- 3_CHAR_CHIEF_sheet.png = THE CHIEF (only when listed). Tall carved wooden crown with black and red feathers and cowrie shells, red stripe across the eyes, black beard, shell-and-bone necklace, long straw cape, carved staff. Normal human size - the same height as a warrior.
+- 4_CHAR_NOOR_sheet.png = NOOR. Young woman, brown hair in a ponytail, red and white stripes painted across her forehead and cheeks, dirty white T-shirt, small gold necklace, dirty dark jeans, dark shoes. She never smiles.
+- 5_LOC_TEMPLE_COURTYARD_sheet.png = THE PLACE. Stone temple courtyard at night: round fire pit with rocks, stone stairs up to a vine-covered temple with a dark doorway and carved stone faces, tiki torches, stone walls, dark jungle around, starry sky. The right panel is our exact camera position, behind the fire pit.
+Ignore all printed words and labels on the sheets - they are only notes for you.
+
+STEP 2 - ONCE YOU HAVE CHECKED EVERY FILE, put each character into the video exactly as their reference sheet shows: same face, same costume, same colors, same body size. Do not invent new designs.
+
+STEP 3 - MAKE THE VIDEO.
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts.
+FIRST FRAME: Use 0_FIRST_FRAME.png as the FIRST FRAME (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+Characters in this video: THE MONSTER (1_CHAR_MONSTER_sheet.png), NOOR (4_CHAR_NOOR_sheet.png), THE WARRIORS (2_CHAR_WARRIOR_sheet.png). Place: 5_LOC_TEMPLE_COURTYARD_sheet.png. No chief.
+
+{
+ "title": "The Protector Is Hurt",
+ "duration_seconds": 15,
+ "aspect_ratio": "16:9",
+ "camera": "wide shot from behind the fire pit, exactly like the first frame, completely still, never moves, never zooms",
+ "shots": [
+  {"time": "0-4s", "action": "Two WARRIORS charge from the right. THE MONSTER catches both spears, twists them out of their hands and throws the spears away. The WARRIORS stumble back."},
+  {"time": "4-8s", "action": "Three WARRIORS rush in together. THE MONSTER sweeps its long arm and all three tumble across the ground. NOOR ducks behind the stone at the foot of the stairs."},
+  {"time": "8-11s", "action": "The WARRIORS form a wide circle, pointing their spears, slowly closing in. THE MONSTER turns in a circle, growling, keeping NOOR behind it."},
+  {"time": "11-15s", "action": "All the WARRIORS rush in at once. THE MONSTER pushes them back, but one spear hits its shoulder. It roars in pain and drops to one knee, still holding one arm out in front of NOOR."}
+ ],
+ "rules": "THE MONSTER never stands still and never waits. Every character matches its reference sheet for the whole video. THE MONSTER stays one head taller than the warriors.",
+ "dialogue": "the warriors shout in an invented tribal language: \"HA-RO! KAI! TOROK!\" - no English words. Noor gasps but says nothing.",
+ "style": "realistic live-action adventure film, 35mm film grain, deep blue night with warm firelight, dramatic mood",
+ "sound": "crackling fire, running feet, warriors shouting, spears clattering on stone, heavy thuds, the monster's roar of pain. No music.",
+ "negative": "new temple design, sand ground, muscular body-builder monster, giant monster, different Noor face, chief, camera movement, cuts, blood, wounds shown, Noor smiling, English words, text, watermark"
+}

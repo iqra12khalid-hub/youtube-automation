@@ -1,0 +1,16 @@
+THE ONE-EYED ISLAND - FIGHT SCENE PACK v2 (with character sheets)
+==================================================================
+REFERENCES/ = the 5 character/location sheets (master copies):
+  1_CHAR_MONSTER_sheet.png  2_CHAR_WARRIOR_sheet.png  3_CHAR_CHIEF_sheet.png
+  4_CHAR_NOOR_sheet.png     5_LOC_TEMPLE_COURTYARD_sheet.png
+Each CLIP folder already contains the sheets it needs.
+
+FOR EACH CLIP: new Dola chat -> drag in that folder's images in number order (0 first)
+-> open PASTE_THIS_IN_DOLA.txt in Notepad -> Ctrl+A, Ctrl+C -> paste -> send.
+
+ORDER
+1. CLIP_E1_fight            15s  first frame included
+2. CLIP_C_chief_escapes      5s  (already have a good one - optional)
+3. CLIP_E2_fight_continues  15s  needs 0_FIRST_FRAME.png = E1's last frame (Claude makes it)
+
+The same sheets + text also work in Seedance (Firefly): first frame in Frames, sheets in Media.

@@ -1,0 +1,29 @@
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. No blood, no injuries shown - people are pushed and tumble.
+
+STEP 1 - CHECK EVERY FILE FIRST. Before you make anything, open and study each uploaded image one by one:
+- 1_CHAR_MONSTER_sheet.png = THE MONSTER. A one-eyed protector (a hero, not a villain). Bald, grey cracked skin, ONE big eye in the middle of the forehead, sharp teeth, torn mustard-yellow cloth tunic over one shoulder, brown leather strap across the chest, round metal charms on cords around the neck, rope belt, barefoot. The SCALE panel shows its size: only ONE HEAD taller than a warrior. Never a giant, never a muscular body-builder.
+- 2_CHAR_WARRIOR_sheet.png = THE WARRIORS. All warriors look exactly like this: dark carved wooden mask with white stripes and red-yellow eye rings, black feathers on top, straw cape on the shoulders, cowrie-shell and bone necklace, white dot body paint, rope belt with a burlap loincloth, rope anklets, spear.
+- 3_CHAR_CHIEF_sheet.png = THE CHIEF (only when listed). Tall carved wooden crown with black and red feathers and cowrie shells, red stripe across the eyes, black beard, shell-and-bone necklace, long straw cape, carved staff. Normal human size - the same height as a warrior.
+- 4_CHAR_NOOR_sheet.png = NOOR. Young woman, brown hair in a ponytail, red and white stripes painted across her forehead and cheeks, dirty white T-shirt, small gold necklace, dirty dark jeans, dark shoes. She never smiles.
+- 5_LOC_TEMPLE_COURTYARD_sheet.png = THE PLACE. Stone temple courtyard at night: round fire pit with rocks, stone stairs up to a vine-covered temple with a dark doorway and carved stone faces, tiki torches, stone walls, dark jungle around, starry sky. The right panel is our exact camera position, behind the fire pit.
+Ignore all printed words and labels on the sheets - they are only notes for you.
+
+STEP 2 - ONCE YOU HAVE CHECKED EVERY FILE, put each character into the video exactly as their reference sheet shows: same face, same costume, same colors, same body size. Do not invent new designs.
+
+STEP 3 - MAKE THE VIDEO.
+Make this video 5 seconds, one generation, ONE continuous shot with no cuts. No first frame - draw this new picture.
+Characters in this video: THE CHIEF only (3_CHAR_CHIEF_sheet.png). Place: 5_LOC_TEMPLE_COURTYARD_sheet.png.
+
+{
+ "title": "The Chief Slips Away",
+ "duration_seconds": 5,
+ "aspect_ratio": "16:9",
+ "camera": "medium shot from the side at the edge of the courtyard, still camera, the fight blurred far in the background",
+ "shots": [
+  {"time": "0-2s", "action": "THE CHIEF stands half hidden behind a torch at the stone wall at the edge of the courtyard, gripping his carved staff, watching the fight in the blurred background with fear in his eyes."},
+  {"time": "2-5s", "action": "He slowly backs away, glances over his shoulder, then turns and hurries off into the dark jungle."}
+ ],
+ "style": "realistic live-action adventure film, 35mm film grain, deep blue night with warm torchlight, tense mood",
+ "sound": "distant shouting and fighting, crackling torch, his quick breathing, rustling leaves. No music.",
+ "negative": "giant chief, more than one chief, monster in focus, blood, text, watermark"
+}
