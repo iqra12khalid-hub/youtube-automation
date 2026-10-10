@@ -8,16 +8,15 @@ CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
 - MONSTER must look EXACTLY like MONSTER.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize MONSTER.
 - NOOR must look EXACTLY like NOOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize NOOR.
 - They must look the same as in the previous clips of this film. If you are not sure, copy the uploaded file, not your own idea.
-- MONSTER is NOT wounded and NOT bleeding in any clip. It is strong the whole time.
+- MONSTER is NOT wounded and NOT bleeding. It is strong the whole time.
 
-0-5s: MONSTER and NOOR climb over mossy rocks along a small stream in the misty night jungle.
-5-9s: They reach CAVE_ENTRANCE - the dark opening hidden behind hanging roots and vines. MONSTER pulls the hanging roots aside.
-9-13s: MONSTER lets NOOR go in first. She looks back at it once, then steps into the darkness. MONSTER follows.
-13-15s: The hanging roots swing closed behind them. The cave entrance looks hidden again.
+0-3s: MONSTER slowly comes up out of the bushes, looks around, then helps NOOR stand up.
+3-8s: They walk on deeper into the misty jungle, climbing over mossy rocks along a small stream.
+8-12s: They reach CAVE_ENTRANCE - the dark opening hidden behind hanging roots. MONSTER pulls the roots aside and lets NOOR go in first.
+12-15s: MONSTER follows her inside. The hanging roots swing closed behind them and the entrance looks hidden again.
 
 RULES FOR THIS VIDEO
 - Use ONLY the characters and places from my uploaded files, exactly as they look in the files. Characters are named by their file name.
 - Make it with image-to-video / reference-to-video with the files attached. Do NOT use text-to-video. If the image tools are not working, do not generate - tell me.
 - 15 seconds, 16:9, ONE continuous shot, no cuts, realistic live-action film, 35mm grain, night. No blood. NOOR never smiles. Invented tribal shouts only, no English words. No text, no watermark. No chief in this clip.
-- Nobody just stands and watches: every WARRIOR is always reacting, attacking, falling or getting up.
 - BEFORE YOU GENERATE: reply with the list of character files, place files and first frame you will use for this clip, and wait for my OK.

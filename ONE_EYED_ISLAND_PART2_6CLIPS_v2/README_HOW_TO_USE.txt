@@ -1,34 +1,25 @@
-THE ONE-EYED ISLAND - PART 2 - 6 CLIPS (v2)  - from the fight to the cave
-==========================================================================
+THE ONE-EYED ISLAND - PART 2 - CLIPS 3 to 6 (clips 1-2 are done)
+=================================================================
 FOLDERS
   CHARACTERS/   MONSTER.jpg  NOOR.jpg  WARRIOR.jpg
   PLACES/       TEMPLE_COURTYARD.jpg  CAVE_ENTRANCE.jpg  CAVE_INSIDE.jpg
-  FIRST_FRAMES/ CLIP1_FIRST_FRAME.jpg
-  PROMPTS/      CLIP1 ... CLIP6
+  FIRST_FRAMES/ CLIP1_FIRST_FRAME.jpg (done)  CLIP3_FIRST_FRAME.jpg (use now)
+  PROMPTS/      CLIP1, CLIP2 (done)   CLIP3, CLIP4, CLIP5, CLIP6 (to make)
 
 STORY
-  1 MONSTER beats every warrior in front of it (NOOR stays on the stairs)
-  2 a warrior hits MONSTER in the back - it turns, grabs him, throws him away (MONSTER not wounded)
-  3 MONSTER waves NOOR to come behind it - they back away into the jungle
-  4 through the night jungle, hiding from the torches
-  5 the hidden CAVE_ENTRANCE - they go in
-  6 inside CAVE_INSIDE - MONSTER lights the fire, they sit
+  3 MONSTER waves NOOR to follow, they walk out of the courtyard into the jungle.
+    The warriors on the ground do not move. Nobody follows.
+  4 in the jungle: far-away torch lights and shouts -> they hide deep in the bushes, unseen.
+  5 they come out, go deeper, reach CAVE_ENTRANCE and go in.
+  6 inside CAVE_INSIDE: MONSTER lights the fire, they sit.
 
-FIRST FRAMES - EVERY CLIP IS A CHAIN
-  CLIP 1 -> CLIP1_FIRST_FRAME.jpg (included)
-  CLIP 2 -> last frame of CLIP 1     CLIP 3 -> last frame of CLIP 2
-  CLIP 4 -> last frame of CLIP 3     CLIP 5 -> last frame of CLIP 4
+FIRST FRAMES
+  CLIP 3 -> FIRST_FRAMES/CLIP3_FIRST_FRAME.jpg (included, = 27s of the joined edit)
+  CLIP 4 -> last frame of CLIP 3
+  CLIP 5 -> last frame of CLIP 4
   CLIP 6 -> last frame of CLIP 5
-  => make them ONE BY ONE. After each clip, send it to Claude to get the next first frame.
+  => one by one. Send each clip to Claude to get the next first frame.
 
-HOW TO USE (one chat)
-1. Upload CHARACTERS + PLACES, paste 00_STEP1_ANALYSE_CHARACTERS.txt. Check the AI's list.
-2. Upload FIRST_FRAMES/CLIP1_FIRST_FRAME.jpg, paste PROMPTS/CLIP1. The AI lists the files -> check -> "OK, generate".
-3. Send the clip to Claude -> get CLIP2_FIRST_FRAME.jpg -> upload it, paste CLIP2 ... and so on.
-
-UPDATE
-  Clips 1 and 2 are DONE (used until 27s of the joined edit).
-  CLIP 3 is replaced by PROMPTS/CLIP3_NEW_come_behind_me.txt
-     -> its first frame is FIRST_FRAMES/CLIP3_NEW_FIRST_FRAME.jpg (included)
-  CLIP 4 -> last frame of CLIP 3 (NEW), then 5 and 6 as before.
-  (CLIP5_FIRST_FRAME.jpg in this folder came from the old clip 4 - do not use it.)
+HOW TO USE: same chat as before (characters already analysed), or a new chat:
+  upload CHARACTERS + PLACES, paste 00_STEP1_ANALYSE_CHARACTERS.txt, check the list,
+  then upload the first frame + paste the clip prompt, confirm, generate.
