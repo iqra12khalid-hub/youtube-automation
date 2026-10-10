@@ -25,3 +25,10 @@ HOW TO USE (one chat)
 1. Upload CHARACTERS + PLACES, paste 00_STEP1_ANALYSE_CHARACTERS.txt. Check the AI's list.
 2. Upload FIRST_FRAMES/CLIP1_FIRST_FRAME.jpg, paste PROMPTS/CLIP1. The AI lists the files -> check -> "OK, generate".
 3. Send the clip to Claude -> get CLIP2_FIRST_FRAME.jpg -> upload it, paste CLIP2 ... and so on.
+
+UPDATE
+  Clips 1 and 2 are DONE (used until 27s of the joined edit).
+  CLIP 3 is replaced by PROMPTS/CLIP3_NEW_come_behind_me.txt
+     -> its first frame is FIRST_FRAMES/CLIP3_NEW_FIRST_FRAME.jpg (included)
+  CLIP 4 -> last frame of CLIP 3 (NEW), then 5 and 6 as before.
+  (CLIP5_FIRST_FRAME.jpg in this folder came from the old clip 4 - do not use it.)
