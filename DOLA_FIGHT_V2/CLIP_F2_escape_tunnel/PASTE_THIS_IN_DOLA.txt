@@ -1,5 +1,7 @@
 CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. No blood, no injuries shown - people are pushed and tumble.
 
+HARD RULE - READ FIRST: This video MUST be made with image-to-video / reference-to-video, with ALL uploaded reference images attached to the generation. Do NOT fall back to text-to-video. If the image or reference tool is not available, DO NOT generate anything - stop and tell me, and I will retry later.
+
 STEP 1 - CHECK EVERY FILE FIRST. Before you make anything, open and study each uploaded image one by one:
 - 1_CHAR_MONSTER_sheet.png = THE MONSTER. A one-eyed protector (a hero, not a villain). Bald, grey cracked skin, ONE big eye in the middle of the forehead, sharp teeth, torn mustard-yellow cloth tunic over one shoulder, brown leather strap across the chest, round metal charms on cords around the neck, rope belt, barefoot. The SCALE panel shows its size: only ONE HEAD taller than a warrior. Never a giant, never a muscular body-builder.
 - 2_CHAR_WARRIOR_sheet.png = THE WARRIORS. All warriors look exactly like this: dark carved wooden mask with white stripes and red-yellow eye rings, black feathers on top, straw cape on the shoulders, cowrie-shell and bone necklace, white dot body paint, rope belt with a burlap loincloth, rope anklets, spear.
@@ -10,7 +12,7 @@ STEP 2 - ONCE YOU HAVE CHECKED EVERY FILE, put each character into the video exa
 
 STEP 3 - MAKE THE VIDEO.
 Make this video 15 seconds, one generation, ONE continuous shot with no cuts.
-NO FIRST FRAME - draw the opening picture yourself: night, the dark jungle right behind the old stone temple, drifting smoke and distant orange torch lights. THE MONSTER (exactly as 1_CHAR_MONSTER_sheet.png) and NOOR (exactly as 4_CHAR_NOOR_sheet.png) are coming out of the smoke toward the camera.
+FIRST FRAME: Use 0_FIRST_FRAME.jpg as the FIRST FRAME (image_to_video). The video starts exactly on this image - THE MONSTER leading NOOR out of the smoke into the dark jungle. Do not draw a new picture.
 Characters in this video: THE MONSTER (1_CHAR_MONSTER_sheet.png), NOOR (4_CHAR_NOOR_sheet.png), THE WARRIORS (2_CHAR_WARRIOR_sheet.png, only as far-away torch carriers). No chief.
 Place: the dark jungle right behind the old stone temple - giant tree roots, mossy rocks, hanging vines, mist, moonlight through the leaves. Then a narrow, hidden tunnel opening in the rocks, half covered by a curtain of vines.
 
@@ -20,10 +22,10 @@ Place: the dark jungle right behind the old stone temple - giant tree roots, mos
  "aspect_ratio": "16:9",
  "camera": "handheld tracking shot following them from behind and the side, then it slowly stops at the tunnel and stays still. No cuts.",
  "shots": [
-  {"time": "0-4s", "action": "THE MONSTER limps out of the smoke into the dark jungle behind the temple, holding its hurt shoulder, NOOR under its good arm helping it walk. Behind them, orange torch lights and shouting WARRIORS search through the smoke."},
-  {"time": "4-8s", "action": "They push through ferns and over big tree roots. NOOR keeps looking back, frightened. THE MONSTER stops at a mossy rock wall and pulls aside a thick curtain of hanging vines - behind it is a narrow dark tunnel opening."},
-  {"time": "8-11s", "action": "THE MONSTER lets NOOR go in first, then squeezes in after her and lets the vines fall closed behind them."},
-  {"time": "11-15s", "action": "Seen from inside the dark tunnel looking out through the vines: torch lights and WARRIORS run past outside without seeing them. The torch light fades away. Silence. In the cool blue darkness THE MONSTER slowly sinks down against the tunnel wall, breathing heavily, and NOOR kneels beside it, looking at its shoulder with worry."}
+  {"time": "0-4s", "action": "THE MONSTER (bald grey cracked skin, ONE big eye in the forehead, mustard-yellow torn tunic over one shoulder, brown leather strap, metal charms, one head taller than Noor) limps out of the smoke into the dark jungle behind the temple, holding its hurt shoulder, NOOR (brown ponytail, red-white face-paint stripes, dirty white T-shirt, dark jeans) under its good arm helping it walk. Behind them, orange torch lights and shouting WARRIORS (striped wooden masks, black feathers, straw capes, white dot paint) search through the smoke."},
+  {"time": "4-8s", "action": "They push through ferns and over big tree roots. NOOR (brown ponytail, red-white face-paint stripes, dirty white T-shirt, dark jeans) keeps looking back, frightened. THE MONSTER (bald grey cracked skin, ONE big eye in the forehead, mustard-yellow torn tunic over one shoulder, brown leather strap, metal charms, one head taller than Noor) stops at a mossy rock wall and pulls aside a thick curtain of hanging vines - behind it is a narrow dark tunnel opening."},
+  {"time": "8-11s", "action": "THE MONSTER (bald grey cracked skin, ONE big eye in the forehead, mustard-yellow torn tunic over one shoulder, brown leather strap, metal charms, one head taller than Noor) lets NOOR (brown ponytail, red-white face-paint stripes, dirty white T-shirt, dark jeans) go in first, then squeezes in after her and lets the vines fall closed behind them."},
+  {"time": "11-15s", "action": "Seen from inside the dark tunnel looking out through the vines: torch lights and WARRIORS (striped wooden masks, black feathers, straw capes, white dot paint) run past outside without seeing them. The torch light fades away. Silence. In the cool blue darkness THE MONSTER (bald grey cracked skin, ONE big eye in the forehead, mustard-yellow torn tunic over one shoulder, brown leather strap, metal charms, one head taller than Noor) slowly sinks down against the tunnel wall, breathing heavily, and NOOR (brown ponytail, red-white face-paint stripes, dirty white T-shirt, dark jeans) kneels beside it, looking at its shoulder with worry."}
  ],
  "rules": "Every character matches its reference sheet for the whole video. THE MONSTER stays one head taller than NOOR.",
  "dialogue": "far-away warriors shouting in an invented tribal language. Noor whispers nothing - only her fast breathing.",
