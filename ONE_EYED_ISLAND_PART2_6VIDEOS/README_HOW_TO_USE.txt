@@ -2,7 +2,7 @@ THE ONE-EYED ISLAND - PART 2 - 6 VIDEOS
 =======================================
 FOLDERS
   CHARACTERS/   MONSTER.jpg  NOOR.jpg  WARRIOR.jpg  CHIEF.jpg
-  PLACES/       TEMPLE_COURTYARD.jpg  TUNNEL_ENTRANCE.jpg
+  PLACES/       TEMPLE_COURTYARD.jpg  CAVE_ENTRANCE.jpg  CAVE_INSIDE.jpg
   FIRST_FRAMES/ VIDEO1_FIRST_FRAME.jpg  (the others come from the previous video's last frame)
   PROMPTS/      VIDEO1 ... VIDEO6
 

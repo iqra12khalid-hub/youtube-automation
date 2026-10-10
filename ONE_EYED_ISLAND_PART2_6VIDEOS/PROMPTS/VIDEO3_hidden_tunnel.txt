@@ -1,10 +1,10 @@
 VIDEO 3 of 6 - "The Hidden Tunnel"
 FIRST FRAME: the LAST FRAME of VIDEO 2. Do NOT start this video until I upload it as VIDEO3_FIRST_FRAME.jpg.
-CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg      PLACE: dark jungle behind the temple, then TUNNEL_ENTRANCE.jpg
+CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg      PLACE: dark jungle behind the temple, then CAVE_ENTRANCE.jpg (at NIGHT, moonlight)
 CAMERA: follows them from behind and the side, then stops at the tunnel and stays still.
 
 0-4s: MONSTER limps through the dark jungle, holding its shoulder, NOOR under its arm helping it walk. Far behind, WARRIOR torches search through the smoke.
-4-8s: They push through ferns and over big roots to a mossy rock wall. MONSTER pulls aside the curtain of hanging vines of TUNNEL_ENTRANCE - a narrow dark opening behind it.
+4-8s: They push through ferns and over big roots to CAVE_ENTRANCE, the dark cave opening hidden behind hanging roots and vines. MONSTER pulls the hanging roots aside.
 8-12s: NOOR goes in first, MONSTER squeezes in after her.
 12-15s: The vines fall closed. Torch light comes closer outside.
 

@@ -11,10 +11,11 @@ CHARACTERS
 
 PLACES
 - TEMPLE_COURTYARD.jpg = TEMPLE_COURTYARD
-- TUNNEL_ENTRANCE.jpg  = TUNNEL_ENTRANCE
+- CAVE_ENTRANCE.jpg    = CAVE_ENTRANCE (a hidden cave opening in the jungle)
+- CAVE_INSIDE.jpg      = CAVE_INSIDE (the MONSTER's hidden home inside the cave)
 
 Please:
 1. Open and analyse every file, one by one.
 2. Reply with a list: each file name + one short line saying who or what it is, so I can check you know which character is whom.
-3. Remember them. From now on, whenever a prompt says MONSTER, NOOR, WARRIOR, CHIEF, TEMPLE_COURTYARD or TUNNEL_ENTRANCE, you must use EXACTLY the design from that file - same face, same costume, same colours, same body size. Ignore any printed words on the sheets.
+3. Remember them. From now on, whenever a prompt says MONSTER, NOOR, WARRIOR, CHIEF, TEMPLE_COURTYARD, CAVE_ENTRANCE or CAVE_INSIDE, you must use EXACTLY the design from that file - same face, same costume, same colours, same body size. Ignore any printed words on the sheets.
 4. Do not generate any video now. Just confirm, then wait for my prompts.

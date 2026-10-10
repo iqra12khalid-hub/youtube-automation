@@ -1,11 +1,11 @@
 VIDEO 6 of 6 - "The Cave"
 FIRST FRAME: the LAST FRAME of VIDEO 4. Do NOT start this video until I upload it as VIDEO6_FIRST_FRAME.jpg.
-CHARACTERS: MONSTER.jpg, NOOR.jpg      PLACE: inside the tunnel, then a big cave
+CHARACTERS: MONSTER.jpg, NOOR.jpg      PLACE: the dark cave passage, then CAVE_INSIDE.jpg
 CAMERA: follows them from behind, then stops and slowly pushes in.
 
-0-4s: Far away at the tunnel entrance, orange torch light and shouting come back. MONSTER gets up and takes NOOR's hand.
-4-10s: They walk deeper into the dark tunnel, MONSTER limping, NOOR keeping one hand on the rock wall.
-10-15s: The tunnel opens into a huge silent cave with a shaft of moonlight falling on still water. They stop at the edge. MONSTER sits down slowly, NOOR beside it, both looking at the light. Calm, slow ending.
+0-4s: Far away at the cave entrance, orange torch light and shouting come back. MONSTER gets up and takes NOOR's hand.
+4-10s: They walk deeper into the dark cave passage, MONSTER limping, NOOR keeping one hand on the rock wall.
+10-15s: The passage opens into CAVE_INSIDE - the MONSTER's hidden home, with its bed of skins and a small stone fire ring. MONSTER lights the fire, the warm glow fills the cave. MONSTER sits down slowly, NOOR beside it, both looking into the flames. Calm, slow ending.
 
 RULES FOR THIS VIDEO
 - Use ONLY the characters and places from my uploaded files, exactly as they look in the files. Characters are named by their file name.
