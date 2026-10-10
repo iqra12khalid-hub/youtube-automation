@@ -1,0 +1,14 @@
+VIDEO 4 of 6 - "Hiding"
+FIRST FRAME: the LAST FRAME of VIDEO 3. Do NOT start this video until I upload it as VIDEO4_FIRST_FRAME.jpg.
+CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg (only far away, outside)      PLACE: inside the tunnel, looking out through the vines of TUNNEL_ENTRANCE.jpg
+CAMERA: inside the dark tunnel, still, then a very slow push-in on MONSTER and NOOR.
+
+0-5s: Seen from inside: WARRIOR with torches run past outside the vines without seeing them. The torch light fades away. Silence.
+5-10s: In the cool blue darkness MONSTER slowly sinks down against the tunnel wall, breathing heavily. NOOR kneels beside it, looking at its shoulder with worry.
+10-15s: NOOR tears a strip from the bottom of her T-shirt and gently ties it around MONSTER's shoulder. MONSTER looks at her with its one eye, calm. Quiet, emotional moment.
+
+RULES FOR THIS VIDEO
+- Use ONLY the characters and places from my uploaded files, exactly as they look in the files. Characters are named by their file name.
+- Make it with image-to-video / reference-to-video with the files attached. Do NOT use text-to-video. If the image tools are not working, do not generate - tell me.
+- 15 seconds, 16:9, ONE continuous shot, no cuts, realistic live-action film, 35mm grain, night. No blood. NOOR never smiles. Invented tribal shouts only, no English words. No text, no watermark.
+- BEFORE YOU GENERATE: reply with the list of character files, place files and first frame you will use for this video, and wait for my OK.

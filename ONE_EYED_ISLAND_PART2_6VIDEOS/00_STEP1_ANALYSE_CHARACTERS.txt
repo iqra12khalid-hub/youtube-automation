@@ -1,0 +1,20 @@
+STEP 1 - PASTE THIS FIRST (upload all files from CHARACTERS and PLACES with it). DO NOT GENERATE ANYTHING YET.
+
+This is a fictional PG adventure film, "The One-Eyed Island". I am uploading the character files and place files for it.
+Each file NAME is the character's or place's name:
+
+CHARACTERS
+- MONSTER.jpg = MONSTER
+- NOOR.jpg    = NOOR
+- WARRIOR.jpg = WARRIOR (all warriors look like this)
+- CHIEF.jpg   = CHIEF (there is only one chief)
+
+PLACES
+- TEMPLE_COURTYARD.jpg = TEMPLE_COURTYARD
+- TUNNEL_ENTRANCE.jpg  = TUNNEL_ENTRANCE
+
+Please:
+1. Open and analyse every file, one by one.
+2. Reply with a list: each file name + one short line saying who or what it is, so I can check you know which character is whom.
+3. Remember them. From now on, whenever a prompt says MONSTER, NOOR, WARRIOR, CHIEF, TEMPLE_COURTYARD or TUNNEL_ENTRANCE, you must use EXACTLY the design from that file - same face, same costume, same colours, same body size. Ignore any printed words on the sheets.
+4. Do not generate any video now. Just confirm, then wait for my prompts.

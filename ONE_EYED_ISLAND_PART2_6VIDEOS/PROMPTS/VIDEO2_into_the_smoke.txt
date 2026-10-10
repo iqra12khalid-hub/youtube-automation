@@ -1,0 +1,16 @@
+VIDEO 2 of 6 - "Into the Smoke"
+FIRST FRAME: the LAST FRAME of VIDEO 1. Do NOT start this video until I upload it as VIDEO2_FIRST_FRAME.jpg.
+CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg      PLACE: TEMPLE_COURTYARD.jpg
+CAMERA: wide shot, completely still.
+
+0-3s: MONSTER plunges its hand into the burning fire pit and slams the logs down into the ashes. It is not hurt.
+3-5s: A gigantic wall of thick white-grey smoke bursts out in every direction and swallows MONSTER, NOOR and every WARRIOR.
+5-9s: The whole screen is completely white-grey smoke. Nothing can be seen - only blurry torch glows. WARRIOR coughing and shouting.
+9-12s: Out of the smoke on the right, MONSTER appears, limping, pulling NOOR out by her hand. NOOR is coughing.
+12-15s: MONSTER puts its arm around NOOR and leads her into the dark jungle at the edge of the courtyard.
+
+RULES FOR THIS VIDEO
+- Use ONLY the characters and places from my uploaded files, exactly as they look in the files. Characters are named by their file name.
+- Make it with image-to-video / reference-to-video with the files attached. Do NOT use text-to-video. If the image tools are not working, do not generate - tell me.
+- 15 seconds, 16:9, ONE continuous shot, no cuts, realistic live-action film, 35mm grain, night. No blood. NOOR never smiles. Invented tribal shouts only, no English words. No text, no watermark.
+- BEFORE YOU GENERATE: reply with the list of character files, place files and first frame you will use for this video, and wait for my OK.
