@@ -3,6 +3,11 @@ FIRST FRAME: NONE - this is a new scene. It can be made at any time, no need to 
 CHARACTERS: CHIEF.jpg (only one, normal human size), WARRIOR.jpg      PLACE: TEMPLE_COURTYARD.jpg
 CAMERA: wide shot of the courtyard, then a slow push-in on CHIEF.
 
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize WARRIOR.
+- CHIEF must look EXACTLY like CHIEF.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize CHIEF.
+- They must look the same as in the previous videos of this film. If you are not sure, copy the uploaded file, not your own idea.
+
 0-4s: The smoke slowly clears in TEMPLE_COURTYARD. WARRIOR are coughing, looking around, confused. The spot by the fire pit is empty.
 4-9s: CHIEF steps out from behind the stone wall, angry, gripping his staff. He looks at the empty spot.
 9-15s: CHIEF points his staff at the dark jungle and shouts an order. WARRIOR grab torches and run into the jungle.

@@ -3,6 +3,12 @@ FIRST FRAME: the LAST FRAME of VIDEO 3. Do NOT start this video until I upload i
 CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg (only far away, outside)      PLACE: just inside CAVE_ENTRANCE.jpg, looking out through the hanging roots
 CAMERA: inside the dark cave entrance, still, then a very slow push-in on MONSTER and NOOR.
 
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- MONSTER must look EXACTLY like MONSTER.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize MONSTER.
+- NOOR must look EXACTLY like NOOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize NOOR.
+- WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize WARRIOR.
+- They must look the same as in the previous videos of this film. If you are not sure, copy the uploaded file, not your own idea.
+
 0-5s: Seen from inside: WARRIOR with torches run past outside the hanging roots without seeing them. The torch light fades away. Silence.
 5-10s: In the cool blue darkness MONSTER slowly sinks down against the cave wall, breathing heavily. NOOR kneels beside it, looking at its shoulder with worry.
 10-15s: NOOR tears a strip from the bottom of her T-shirt and gently ties it around MONSTER's shoulder. MONSTER looks at her with its one eye, calm. Quiet, emotional moment.

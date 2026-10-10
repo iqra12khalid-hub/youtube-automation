@@ -3,6 +3,12 @@ FIRST FRAME: the LAST FRAME of VIDEO 2. Do NOT start this video until I upload i
 CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg      PLACE: dark jungle behind the temple, then CAVE_ENTRANCE.jpg (at NIGHT, moonlight)
 CAMERA: follows them from behind and the side, then stops at the tunnel and stays still.
 
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- MONSTER must look EXACTLY like MONSTER.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize MONSTER.
+- NOOR must look EXACTLY like NOOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize NOOR.
+- WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize WARRIOR.
+- They must look the same as in the previous videos of this film. If you are not sure, copy the uploaded file, not your own idea.
+
 0-4s: MONSTER limps through the dark jungle, holding its shoulder, NOOR under its arm helping it walk. Far behind, WARRIOR torches search through the smoke.
 4-8s: They push through ferns and over big roots to CAVE_ENTRANCE, the dark cave opening hidden behind hanging roots and vines. MONSTER pulls the hanging roots aside.
 8-12s: NOOR goes in first, MONSTER squeezes in after her.

@@ -3,6 +3,12 @@ FIRST FRAME: FIRST_FRAMES/VIDEO1_FIRST_FRAME.jpg (already in the folder). Start 
 CHARACTERS: MONSTER.jpg, NOOR.jpg, WARRIOR.jpg      PLACE: TEMPLE_COURTYARD.jpg
 CAMERA: starts as the first frame (medium shot), slowly pulls back to a wide shot from in front of the fire pit.
 
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- MONSTER must look EXACTLY like MONSTER.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize MONSTER.
+- NOOR must look EXACTLY like NOOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize NOOR.
+- WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize WARRIOR.
+- They must look the same as in the previous videos of this film. If you are not sure, copy the uploaded file, not your own idea.
+
 0-3s: MONSTER grips the two spears pointed at it and snaps them. The two WARRIOR fall back.
 3-6s: A third WARRIOR runs in from behind and thrusts his spear into the back of MONSTER's shoulder. MONSTER roars and drops to one knee beside the fire pit.
 6-10s: NOOR jumps up from the stairs, runs to MONSTER and kneels beside it, holding it.

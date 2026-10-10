@@ -3,6 +3,11 @@ FIRST FRAME: the LAST FRAME of VIDEO 4. Do NOT start this video until I upload i
 CHARACTERS: MONSTER.jpg, NOOR.jpg      PLACE: the dark cave passage, then CAVE_INSIDE.jpg
 CAMERA: follows them from behind, then stops and slowly pushes in.
 
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- MONSTER must look EXACTLY like MONSTER.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize MONSTER.
+- NOOR must look EXACTLY like NOOR.jpg in every single frame: same face, same body, same size, same costume, same colours. Do not redesign, age, recolour or resize NOOR.
+- They must look the same as in the previous videos of this film. If you are not sure, copy the uploaded file, not your own idea.
+
 0-4s: Far away at the cave entrance, orange torch light and shouting come back. MONSTER gets up and takes NOOR's hand.
 4-10s: They walk deeper into the dark cave passage, MONSTER limping, NOOR keeping one hand on the rock wall.
 10-15s: The passage opens into CAVE_INSIDE - the MONSTER's hidden home, with its bed of skins and a small stone fire ring. MONSTER lights the fire, the warm glow fills the cave. MONSTER sits down slowly, NOOR beside it, both looking into the flames. Calm, slow ending.
