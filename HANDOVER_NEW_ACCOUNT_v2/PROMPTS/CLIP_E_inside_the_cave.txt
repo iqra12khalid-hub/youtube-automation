@@ -1,0 +1,20 @@
+CLIP E - "Home" (back to MONSTER and NOOR)
+FIRST FRAME: FIRST_FRAMES/CLIP_E_FIRST_FRAME.jpg (already in the folder) - the dark cave entrance at night, right after MONSTER and NOOR walked in. Start EXACTLY on this image.
+CHARACTERS: MONSTER.jpg, NOOR.jpg      PLACE: a dark rocky cave passage, then CAVE_INSIDE.jpg
+CAMERA: follows them from behind through the passage, then stops and slowly pushes in.
+
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- MONSTER must look EXACTLY like MONSTER.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize MONSTER.
+- NOOR must look EXACTLY like NOOR.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize NOOR.
+
+0-5s: In near darkness MONSTER leads NOOR through a narrow rocky cave passage, NOOR keeping one hand on the wall.
+5-9s: The passage opens into CAVE_INSIDE - MONSTER's hidden home with its bed of skins and a small stone fire ring.
+9-12s: MONSTER kneels and lights the small fire. Warm orange light fills the cave.
+12-15s: NOOR slowly sits down by the fire, still unsure, looking around. MONSTER sits on the other side of the fire, calm, looking at her with its one eye. Quiet, slow ending.
+MONSTER is NOT wounded. NOOR never smiles.
+
+RULES FOR THIS VIDEO
+- Use ONLY the characters, objects and places from my uploaded files, exactly as they look in the files, named by their file name.
+- Make it with image-to-video / reference-to-video with the files attached. Do NOT use text-to-video. If the image tools are not working, do not generate - tell me.
+- 15 seconds, 16:9, ONE continuous shot, no cuts, realistic live-action film, 35mm grain, night. No blood, nobody is hurt. Invented tribal language only, no English words. No text, no watermark.
+- BEFORE YOU GENERATE: reply with the list of files and first frame you will use for this clip, and wait for my OK.

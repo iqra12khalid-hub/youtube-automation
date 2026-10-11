@@ -1,0 +1,21 @@
+CLIP C - "The Elder's Anger"
+FIRST FRAME: none - draw it, starting in CHIEF_VILLAGE.
+CHARACTERS: ELDER_WOMAN.jpg, CHIEF.jpg, WARRIOR.jpg      PLACE: CHIEF_VILLAGE.jpg
+CAMERA: wide shot of CHIEF_VILLAGE, then a medium shot of ELDER_WOMAN and CHIEF face to face by the fire pit.
+
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- ELDER_WOMAN must look EXACTLY like ELDER_WOMAN.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize ELDER_WOMAN.
+- CHIEF must look EXACTLY like CHIEF.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize CHIEF.
+- WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize WARRIOR.
+
+0-4s: In CHIEF_VILLAGE, CHIEF sits on his feathered throne. WARRIOR stand around the fire pit, tired and with their heads down. ELDER_WOMAN storms in through the WARRIOR, who step aside for her.
+4-9s: ELDER_WOMAN stops right in front of CHIEF, points her stick at him and shouts at him in an invented tribal language, very angry. CHIEF stands up from the throne.
+9-13s: She keeps shouting and pokes his chest with the end of her stick. CHIEF lowers his head, ashamed. The WARRIOR look away.
+13-15s: ELDER_WOMAN points her stick hard toward the dark jungle. CHIEF slowly raises his head with a hard, angry face.
+ELDER_WOMAN is the most powerful person in this scene - even CHIEF is afraid of her.
+
+RULES FOR THIS VIDEO
+- Use ONLY the characters, objects and places from my uploaded files, exactly as they look in the files, named by their file name.
+- Make it with image-to-video / reference-to-video with the files attached. Do NOT use text-to-video. If the image tools are not working, do not generate - tell me.
+- 15 seconds, 16:9, ONE continuous shot, no cuts, realistic live-action film, 35mm grain, night. No blood, nobody is hurt. Invented tribal language only, no English words. No text, no watermark.
+- BEFORE YOU GENERATE: reply with the list of files and first frame you will use for this clip, and wait for my OK.

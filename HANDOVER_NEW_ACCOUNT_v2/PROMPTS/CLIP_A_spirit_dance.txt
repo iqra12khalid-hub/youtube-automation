@@ -1,0 +1,18 @@
+CLIP A - "The Spirit Dance"
+FIRST FRAME: none - draw it, starting inside ELDER_HUT.
+CHARACTERS: ELDER_WOMAN.jpg      PLACE: ELDER_HUT.jpg
+CAMERA: slow circling move around ELDER_WOMAN, low angle, smoke drifting through the moonbeams.
+
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- ELDER_WOMAN must look EXACTLY like ELDER_WOMAN.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize ELDER_WOMAN.
+
+0-5s: In ELDER_HUT, ELDER_WOMAN dances slowly around the small fire, barefoot, eyes closed, arms raised, her grey braids swinging. She chants low in an invented tribal language.
+5-10s: She throws a handful of white powder from her bowl into the fire - the flames flare up and the smoke swirls. The hanging masks sway and the shadows grow on the walls.
+10-15s: Her dance gets faster and wilder, she spins, stamps her feet and shakes her arms toward the carved one-eyed idol in the corner.
+A spirit dance - eerie, powerful, mysterious.
+
+RULES FOR THIS VIDEO
+- Use ONLY the characters, objects and places from my uploaded files, exactly as they look in the files, named by their file name.
+- Make it with image-to-video / reference-to-video with the files attached. Do NOT use text-to-video. If the image tools are not working, do not generate - tell me.
+- 15 seconds, 16:9, ONE continuous shot, no cuts, realistic live-action film, 35mm grain, night. No blood, nobody is hurt. Invented tribal language only, no English words. No text, no watermark.
+- BEFORE YOU GENERATE: reply with the list of files and first frame you will use for this clip, and wait for my OK.
