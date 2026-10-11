@@ -1,0 +1,18 @@
+MESSAGE 1 - PASTE THIS FIRST (upload all files from CHARACTERS and PLACES with it). DO NOT GENERATE ANYTHING YET.
+
+This is a fictional PG adventure film, "The One-Eyed Island". I am continuing it in this new chat.
+Story so far: Noor, a young woman, was captured by an island tribe. A one-eyed creature (MONSTER) - her protector, a hero, not a villain - fought off the warriors and led her away through the night jungle. In the last clip they walked into a hidden cave entrance. Now we continue inside the cave.
+
+Each file NAME is the character's or place's name:
+CHARACTERS
+- MONSTER.jpg = MONSTER (bald grey cracked skin, ONE eye in the forehead, torn mustard-yellow tunic, leather strap, metal charms; only a little taller than a man)
+- NOOR.jpg    = NOOR (young woman, brown ponytail, red-white face-paint stripes, dirty white T-shirt, dark jeans)
+PLACES
+- CAVE_ENTRANCE.jpg = CAVE_ENTRANCE (the hidden cave opening in the jungle)
+- CAVE_INSIDE.jpg   = CAVE_INSIDE (MONSTER's hidden home inside the cave: bed of skins, small stone fire ring)
+
+Please:
+1. Open and analyse every file, one by one.
+2. Reply with a list: each file name + one short line saying who or what it is.
+3. Remember them. Whenever a prompt says MONSTER, NOOR, CAVE_ENTRANCE or CAVE_INSIDE, use EXACTLY the design from that file - same face, costume, colours, body size. Ignore any printed words on the sheets.
+4. Do not generate any video now. Just confirm, then wait for my next message.
