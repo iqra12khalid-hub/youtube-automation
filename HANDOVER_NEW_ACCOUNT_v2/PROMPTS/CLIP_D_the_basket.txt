@@ -1,21 +1,20 @@
-CLIP D - "The Hunt Begins"
+CLIP D - "The Basket"
 FIRST FRAME = THE LAST FRAME OF CLIP C.
 DO NOT START THIS CLIP until CLIP C is finished and I upload its last frame. Start EXACTLY on that image.
-CHARACTERS: CHIEF.jpg, ELDER_WOMAN.jpg, WARRIOR.jpg, FROG.jpg, BASKET.jpg      PLACE: CHIEF_VILLAGE.jpg
-CAMERA: wide shot, then close-ups on the spear tips, then wide again.
+CHARACTERS: ELDER_WOMAN.jpg, CHIEF.jpg, WARRIOR.jpg, BASKET.jpg, FROG.jpg      PLACE: CHIEF_VILLAGE.jpg
+CAMERA: wide shot of the group in front of the throne, then a close-up of the BASKET.
 
 CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
-- CHIEF must look EXACTLY like CHIEF.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize CHIEF.
 - ELDER_WOMAN must look EXACTLY like ELDER_WOMAN.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize ELDER_WOMAN.
+- CHIEF must look EXACTLY like CHIEF.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize CHIEF.
 - WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize WARRIOR.
-- FROG must look EXACTLY like FROG.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize FROG.
 - BASKET must look EXACTLY like BASKET.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize BASKET.
+- FROG must look EXACTLY like FROG.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize FROG.
 
-0-4s: CHIEF turns to the WARRIOR, raises his staff and shouts an order. The WARRIOR raise their spears and roar back.
-4-7s: ELDER_WOMAN opens the BASKET and pulls back the cloth. Inside, many small FROG crawl and blink - all alive.
-7-12s: One by one the WARRIOR gently wipe the tips of their spears across the back of a FROG and put each FROG back into the BASKET unharmed. The spear tips now shine wet and bright in the firelight.
-12-15s: The WARRIOR grab torches and run out of CHIEF_VILLAGE into the dark jungle in a long line. ELDER_WOMAN and CHIEF watch them go.
-The FROG are never hurt - they are only touched and put back alive.
+0-5s: ELDER_WOMAN raises her stick and gives orders in an invented tribal language. a group of 7 WARRIOR with spears quickly line up in front of her by the fire. CHIEF stands behind her, silent.
+5-9s: ELDER_WOMAN takes the BASKET and hands it to the first WARRIOR. He holds it carefully with both hands.
+9-12s: He pulls back the cloth. Close-up inside the BASKET: many small FROG, alive, blinking, crawling over each other.
+12-15s: The WARRIOR lean in and look into the BASKET, their faces lit orange by the fire.
 
 RULES FOR THIS VIDEO
 - Use ONLY the characters, objects and places from my uploaded files, exactly as they look in the files, named by their file name.

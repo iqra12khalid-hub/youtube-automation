@@ -1,5 +1,5 @@
-CLIP E - "Home" (back to MONSTER and NOOR)
-FIRST FRAME: FIRST_FRAMES/CLIP_E_FIRST_FRAME.jpg (already in the folder) - the dark cave entrance at night, right after MONSTER and NOOR walked in. Start EXACTLY on this image.
+CLIP F - "Home" (back to MONSTER and NOOR)
+FIRST FRAME: FIRST_FRAMES/CLIP_F_FIRST_FRAME.jpg (already in the folder) - the dark cave entrance at night, right after MONSTER and NOOR walked in. Start EXACTLY on this image.
 CHARACTERS: MONSTER.jpg, NOOR.jpg      PLACE: a dark rocky cave passage, then CAVE_INSIDE.jpg
 CAMERA: follows them from behind through the passage, then stops and slowly pushes in.
 

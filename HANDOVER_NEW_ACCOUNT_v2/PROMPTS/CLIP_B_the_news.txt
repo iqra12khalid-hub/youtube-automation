@@ -8,10 +8,10 @@ CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
 - ELDER_WOMAN must look EXACTLY like ELDER_WOMAN.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize ELDER_WOMAN.
 - WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize WARRIOR.
 
-0-3s: ELDER_WOMAN is still dancing by the fire.
-3-7s: A WARRIOR bursts in through the doorway, out of breath, falls to one knee and speaks fast and urgently in an invented tribal language, pointing outside.
-7-11s: ELDER_WOMAN stops. Her eyes snap open. Her face turns from calm to furious. She stares at the WARRIOR.
-11-15s: She grabs her carved walking stick and her bowl and storms out of ELDER_HUT past the WARRIOR, who hurries after her.
+0-3s: ELDER_WOMAN stands still in front of the idol, breathing hard, smoke around her.
+3-7s: A WARRIOR rushes in through the doorway, drops to one knee, head down, and speaks fast and frightened in an invented tribal language, pointing outside.
+7-11s: ELDER_WOMAN slowly turns her head to him. Her eyes narrow and her face becomes furious. She shouts one sharp word at him and he shrinks back.
+11-15s: She grabs her carved walking stick and storms out of ELDER_HUT. The WARRIOR hurries after her.
 
 RULES FOR THIS VIDEO
 - Use ONLY the characters, objects and places from my uploaded files, exactly as they look in the files, named by their file name.
