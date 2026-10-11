@@ -1,15 +1,15 @@
 CLIP A - "The Dance in the Dark"
 FIRST FRAME: none - draw it, inside ELDER_HUT.
 CHARACTERS: ELDER_WOMAN.jpg      PLACE: ELDER_HUT.jpg
-CAMERA: slow circling move around ELDER_WOMAN, low angle, thick smoke in the moonbeams. Dark and scary.
+CAMERA: slow circling move around ELDER_WOMAN, low angle, thick smoke in the moonbeams. Dark and mysterious.
 
 CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
 - ELDER_WOMAN must look EXACTLY like ELDER_WOMAN.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize ELDER_WOMAN.
 
-0-5s: In the dark ELDER_HUT, ELDER_WOMAN dances slowly around the small fire, barefoot, eyes rolled up so only the whites show, arms raised, her grey braids swinging. She hums a low, eerie song in an invented language.
-5-10s: She throws a handful of white powder from her bowl into the fire - the flames jump up high and turn the smoke red. The hanging masks swing and their long shadows crawl over the walls.
+0-5s: In the dark ELDER_HUT, ELDER_WOMAN dances slowly around the small fire, barefoot, eyes half closed, arms raised, her grey braids swinging. She hums a low, eerie song in an invented language.
+5-10s: She throws a handful of white powder from her bowl into the fire - the flames jump up high and the smoke swirls orange. The hanging masks swing and their long shadows crawl over the walls.
 10-15s: She dances faster and wilder, spinning and stamping, her shadow huge on the wall, and stops suddenly facing the carved one-eyed idol, breathing hard.
-Mood: frightening, mysterious, like a horror film.
+Mood: mysterious and dramatic, like an old legend.
 
 RULES FOR THIS VIDEO
 - Use ONLY the characters, objects and places from my uploaded files, exactly as they look in the files, named by their file name.
