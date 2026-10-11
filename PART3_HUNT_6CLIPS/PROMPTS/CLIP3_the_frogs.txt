@@ -1,0 +1,29 @@
+CLIP 3 of 6 - "The Frogs"
+FIRST FRAME = THE LAST FRAME OF CLIP 2.
+DO NOT START THIS CLIP until CLIP 2 is finished and I upload its last frame as the first frame. Start EXACTLY on that image.
+CHARACTERS: ELDER_WOMAN.jpg, WARRIOR.jpg, BASKET.jpg, FROG.jpg      PLACE: CHIEF_VILLAGE.jpg
+CAMERA: medium shot of ELDER_WOMAN and the WARRIOR, then close-ups on the BASKET and the spear tips.
+
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- ELDER_WOMAN must look EXACTLY like ELDER_WOMAN.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize ELDER_WOMAN.
+- WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize WARRIOR.
+- BASKET must look EXACTLY like BASKET.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize BASKET.
+- FROG must look EXACTLY like FROG.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize FROG.
+
+CONTINUITY - NO JUMPS:
+- Every movement is shown fully. Nobody appears or disappears suddenly, nobody jumps from one place or pose to another (for example sitting in one moment and standing in the next, or lying down without lying down).
+- People who are in the frame stay in the frame and keep the same clothes, props and positions unless we see them move.
+- No dissolves, no fades, no jump cuts, no new people popping in. Anyone who arrives walks in from the edge of the frame or through a doorway.
+
+0-3s: ELDER_WOMAN holds up the BASKET in front of the 7 WARRIOR so they can all see it.
+3-6s: She pulls the cloth off the BASKET. Inside, many small FROG sit and crawl, alive, blinking.
+6-12s: One by one the WARRIOR step forward and gently touch the tip of their spear to the back of a FROG, so a little of the frog's skin moisture stays on the spear tip. The FROG stay in the BASKET, alive and unharmed. The spear tips look the same as before - no glow, no shine.
+12-15s: The WARRIOR step back into their line and hold their spears upright. ELDER_WOMAN covers the BASKET with the cloth again.
+The WARRIOR carry only spears - no torches.
+
+RULES FOR THIS VIDEO
+- Use ONLY the characters, objects and places from my uploaded files, exactly as they look in the files, named by their file name.
+- Make it with image-to-video / reference-to-video with the files attached. Do NOT use text-to-video. If the image tools are not working, do not generate - tell me.
+- 15 seconds, 16:9, ONE continuous shot, no cuts, realistic live-action film, 35mm grain, night. Nobody is hurt.
+- All talking is ONLY in an invented tribal language - no English words at all, no subtitles. No text, no watermark.
+- BEFORE YOU GENERATE: reply with the list of files and first frame you will use for this clip, and wait for my OK.

@@ -1,0 +1,28 @@
+CLIP 2 of 6 - "The Elder and the Chief"
+FIRST FRAME: none - this is a new place. Draw it in CHIEF_VILLAGE.
+CHARACTERS: ELDER_WOMAN.jpg, CHIEF.jpg, WARRIOR.jpg, BASKET.jpg      PLACE: CHIEF_VILLAGE.jpg
+CAMERA: wide shot of CHIEF_VILLAGE, then slowly moves closer to ELDER_WOMAN and CHIEF in front of the throne.
+
+CHARACTER LOCK - MUST FOLLOW FOR THE WHOLE VIDEO:
+- ELDER_WOMAN must look EXACTLY like ELDER_WOMAN.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize ELDER_WOMAN.
+- CHIEF must look EXACTLY like CHIEF.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize CHIEF.
+- WARRIOR must look EXACTLY like WARRIOR.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize WARRIOR.
+- BASKET must look EXACTLY like BASKET.jpg in every single frame: same face, body, size, costume and colours. Do not redesign, age, recolour or resize BASKET.
+
+CONTINUITY - NO JUMPS:
+- Every movement is shown fully. Nobody appears or disappears suddenly, nobody jumps from one place or pose to another (for example sitting in one moment and standing in the next, or lying down without lying down).
+- People who are in the frame stay in the frame and keep the same clothes, props and positions unless we see them move.
+- No dissolves, no fades, no jump cuts, no new people popping in. Anyone who arrives walks in from the edge of the frame or through a doorway.
+
+0-3s: In CHIEF_VILLAGE, CHIEF sits on his feathered throne. 7 WARRIOR with spears stand in a line beside the fire pit. ELDER_WOMAN walks in from the left edge of the frame, holding the BASKET in both hands. She holds nothing else.
+3-7s: CHIEF stands up and steps down from the throne and bows his head to her, like a younger man to his elder. ELDER_WOMAN speaks to him sharply in an invented tribal language, scolding him, her face stern.
+7-11s: CHIEF answers quietly with open hands, then lowers his eyes and nods. She keeps speaking firmly and he listens like a student.
+11-15s: ELDER_WOMAN turns away from CHIEF to the 7 WARRIOR and speaks to them in the tribal language, giving them orders. The WARRIOR stand straight and listen. CHIEF stands quietly behind her.
+ELDER_WOMAN is the boss. The BASKET stays in her hands the whole time.
+
+RULES FOR THIS VIDEO
+- Use ONLY the characters, objects and places from my uploaded files, exactly as they look in the files, named by their file name.
+- Make it with image-to-video / reference-to-video with the files attached. Do NOT use text-to-video. If the image tools are not working, do not generate - tell me.
+- 15 seconds, 16:9, ONE continuous shot, no cuts, realistic live-action film, 35mm grain, night. Nobody is hurt.
+- All talking is ONLY in an invented tribal language - no English words at all, no subtitles. No text, no watermark.
+- BEFORE YOU GENERATE: reply with the list of files and first frame you will use for this clip, and wait for my OK.
