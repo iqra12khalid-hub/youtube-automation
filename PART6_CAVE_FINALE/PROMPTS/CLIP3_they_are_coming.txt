@@ -1,0 +1,16 @@
+=== CLIP 3 - SHE WAKES / THEY ARE COMING (Kling 3.0 Omni via Firefly) ===
+SETTINGS: 15 s | 16:9 | Multi-shot ON (3 shots) | First frame: CLIP3_wake_FIRST_FRAME.jpg (close-up of Noor sleeping)
+CHIPS (type @ and pick from list): @Noora3  @Monster  @caveinside
+The first frame is a close-up on purpose: it hides the monster's drifted face, and the @Monster chip brings back the real one-eyed face in shot 2.
+
+----- PASTE BELOW -----
+SHOT 1 (0-4 s): Close-up, the camera stays close and still. @Noora3 is asleep on her side in the dark cave, orange firelight on her face. Faint voices chanting far away. Her eyes snap open. She lies very still, listening, breathing fast, eyes wide. She does not smile.
+
+SHOT 2 (4-10 s): Medium shot inside the same cave as @caveinside, roots hanging from the rock ceiling, a small fire burning low on the ground. @Monster, with its single large eye in the middle of its forehead and its necklace, is already crouching awake, its head turned toward the dark cave entrance. It raises one hand to Noor in a calm "stay still" gesture. Then it quickly pushes sand over the small fire with both hands and the fire goes out - only a thin blue moonlight from the entrance remains. It gently pulls Noor behind a large rock against the cave wall and crouches in front of her like a guard.
+
+SHOT 3 (10-15 s): Low dark shot from inside the cave looking toward the entrance, blue moonlight outside. One by one, the shiny tips of long wooden spears slowly appear around the edge of the entrance, then the shadows of feathered masks. In the darkness close to the camera, the monster's single large eye opens and glows softly. Hold on the eye.
+
+CONTINUITY: same cave in every shot, only Noor and the monster inside; the tribe members are only shadows and spear tips at the entrance. Noor keeps the same face, clothes and face paint. No jumps, no new people inside the cave.
+Sound: faint tribal chant outside, the fire hissing out, then near silence, slow breathing, soft footsteps on stone, a pebble rolling. No music, no English words.
+Avoid: smiling, text, watermark, torches, daylight, a human face on the monster, two eyes on the monster.
+----- END -----
