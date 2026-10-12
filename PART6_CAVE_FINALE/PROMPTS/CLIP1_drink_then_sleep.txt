@@ -1,0 +1,16 @@
+=== CLIP 1 - DRINK, THEN SLEEP (Kling 3.0 Omni via Firefly) ===
+SETTINGS: 15 s | 16:9 | Multi-shot ON (2 shots) | First frame: CLIP1_drink_sleep_FIRST_FRAME.jpg
+CHIPS (type @ and pick from list): @Noora3  @Monster  @caveinside
+The dissolve between the shots is added in editing - Kling just makes 2 shots.
+
+----- PASTE BELOW -----
+Inside a dark rocky cave at night with roots hanging from the ceiling, @Noora3 sits on the cave floor holding a wooden bowl of water, and @Monster sits on the left watching her quietly. Same cave as @caveinside, same faces and clothes as the first frame. Warm low firelight from a small fire just out of view, flickering on the rock walls. Realistic live-action film, 35mm grain, quiet calm mood.
+
+SHOT 1 (0-7 s): Medium shot, the camera stays still. Noor slowly lifts the bowl with both hands and drinks the water in small slow sips, eyes closed for a moment, tired. She lowers the bowl onto her lap and lets out a long breath. The monster tilts its head slightly and keeps watching her calmly. Her face stays serious and tired, she does not smile.
+
+SHOT 2 (7-15 s): Later that night, same cave, same angle but a little wider. Noor is lying asleep on her side on the woven mats on the cave floor, her head resting on her arm, breathing slowly, the empty bowl beside her. The small fire has burned low to glowing embers. The monster sits awake beside her near the cave wall like a guard, still, its single large eye open in the dim orange glow, looking toward the dark cave entrance. Very slow gentle push-in.
+
+CONTINUITY: only these two characters, nobody else appears. Same cave, same bowl, same clothes and face paint on Noor, same necklace on the monster. No jumps, no new objects, no people popping in.
+Sound: soft fire crackle, water sips, quiet breathing, distant night insects, faint wind at the cave mouth. No music, no talking.
+Avoid: smiling, text, watermark, extra people, different faces, daylight.
+----- END -----
