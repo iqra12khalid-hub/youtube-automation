@@ -1,17 +1,15 @@
-=== CLIP 2 - THE DREAM (Kling 3.0 Omni via Firefly) ===
-SETTINGS: 15 s | 16:9 | Multi-shot ON (3 shots) | First frame: CLIP2_dream_FIRST_FRAME.jpg (her sleeping, last frame of Clip 1)
-CHIPS (type @ and pick from list): @Noora3  @warriorwithspear
-Do NOT add the @Monster chip - the dream figure must look different from our monster.
-In editing I add a soft dissolve between shot 1 and shot 2.
+=== CLIP 2 - THE DREAM (Kling 3.0 Omni via Firefly) - v2 SAFE WORDING ===
+SETTINGS: 15 s | 16:9 | Multi-shot ON (3 shots) | First frame: CLIP2_dream_FIRST_FRAME.jpg
+CHIPS: @Noora3 only. (No @Monster, no @warriorwithspear.)
+v1 was refused - removed: barefoot, clothing list, lying/sleeping body wording, men with spears, shadowy figure.
 
 ----- PASTE BELOW -----
-SHOT 1 (0-4 s): Inside the dark cave at night, @Noora3 lies asleep on her side by the small low fire. The camera slowly pushes in to a close-up of her sleeping face, warm orange glow on her skin. Her eyelids flicker gently as she starts to dream. Nobody else moves.
+SHOT 1 (0-4 s): Inside a warm cave at night, slow push-in to a close-up of the face of @Noora3 resting with her eyes closed, soft orange firelight on her face. Her eyelids flicker gently as she begins to dream.
 
-SHOT 2 (4-10 s): A dream. @Noora3 stands barefoot alone on a wide empty beach at night, same white t-shirt, jeans and red face paint. A huge full moon hangs low over a dark calm sea, silver light shining on the waves. Thick soft mist drifts over the sand. Dreamlike look: slightly slow motion, soft glow, cool blue and silver colours, gentle haze. Far away in the mist stands a very tall shadowy figure with one single glowing eye, blurry and still, like an ancient island spirit made of fog. Noor looks at it, serious and calm, she does not smile.
+SHOT 2 (4-10 s): A peaceful dream. @Noora3 stands alone on a wide quiet beach at night. A huge full moon glows low over a calm sea, silver light on the gentle waves, soft mist drifting over the sand. Dreamy look: slight slow motion, soft glow, cool blue and silver colours. Far away in the mist stands a very tall misty spirit made of fog with one single glowing eye, calm and still, like an old island legend. Noor looks at it with a serious, curious face.
 
-SHOT 3 (10-15 s): Same dream beach, same mist and moonlight. The tall misty one-eyed figure slowly raises one long arm and points behind Noor. She turns around slowly. Behind her, in the fog, a line of dark silhouettes of tall tribal men with spears from @warriorwithspear stand still, only their spear tips and feathered masks visible in the mist. Slow push-in on Noor's face, her eyes widen.
+SHOT 3 (10-15 s): Same dreamy beach, same moon and mist. The tall fog spirit slowly lifts one long arm and points past Noor. She turns around slowly. Far behind her in the fog, a row of tall feathered tribal masks appears faintly in the mist. Slow push-in on Noor's face, her eyes open wide.
 
-CONTINUITY: Noor looks the same in every shot, same face, hair, clothes and face paint. The figure stays far away and blurry. No jumps, nobody pops in except the silhouettes in shot 3.
-Sound: soft ocean waves, low airy hum, slow heartbeat; in shot 3 a distant tribal chant "HOO-HA! HU!" grows louder. No music, no English words.
-Avoid: smiling, text, watermark, daylight, sharp clear face on the misty figure, extra people on the beach.
+Noor keeps the same face, hair and red face paint in every shot. No smiling, no text, no watermark, no daylight.
+Sound: soft waves, a low airy hum, a slow heartbeat, and a distant tribal chant "HOO-HA! HU!" growing louder in shot 3. No music, no English words.
 ----- END -----
