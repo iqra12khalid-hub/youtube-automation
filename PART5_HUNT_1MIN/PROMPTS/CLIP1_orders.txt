@@ -12,10 +12,10 @@ START FRAME: Continue exactly from the start frame: the chief sits on his feathe
 6-11s: She speaks to them firmly in an invented tribal language, telling them to go and hunt wild animals for food tonight. She points with her whole arm toward the dark jungle. The chief stays seated and nods once.
 11-15s: The seven warriors lift their spears up together and call out in one voice: "HOO-HA! HU!"
 
-CHARACTER LOCK (100%): use ONLY these characters, exactly as their reference pictures - same faces, same masks, same costumes, same colours, same size:
-- WARRIOR (@warriorwithspear / WARRIOR.jpg): striped black-and-white wooden mask with red eye rings, black feathers on top, straw cape, cowrie necklace, white dot body paint, straw loincloth, a spear. Every warrior looks exactly like this.
-- OLD WOMAN (@tribeoldwomen / ELDER_WOMAN.jpg): long grey braids, white dot face paint, red chin line, bark-strip dress, straw cape.
-- CHIEF (CHIEF.jpg, no chip - he is already in the start frame): tall carved crown with black and red feathers, red stripe across the eyes, black beard, big shell necklace. Only one chief.
+CHARACTER LOCK (100%): use ONLY these characters, exactly as their reference pictures:
+- WARRIOR: striped black-and-white wooden mask with red eye rings, black feathers on top, straw cape, cowrie necklace, white dot body paint, straw loincloth, a spear. Every warrior looks exactly like this.
+- OLD WOMAN: long grey braids, white dot face paint, red chin line, bark-strip dress, straw cape.
+- CHIEF (already in the start frame): tall carved crown with black and red feathers, red stripe across the eyes, black beard, big shell necklace. Only one chief.
 No other people. No animals appear on screen at any moment. Nobody changes clothes, masks or face paint.
 
 Continuity: one continuous shot, no cuts. Every movement is shown fully - nobody appears or disappears suddenly, nobody jumps from one place or pose to another. New people only walk in from the edge of the frame.

@@ -1,6 +1,7 @@
 THE ONE-EYED ISLAND - THE HUNT - 4 clips x 15 s = 1 minute
 ============================================================
-Made for Kling in Firefly (chips listed at the top of each prompt, max 3). Paste only the text BELOW the line.
+Made for Kling in Firefly (chips listed at the top of each prompt, max 3). Open each prompt file, COPY the text below the line and PASTE it into Kling. Do NOT upload .txt or .zip files to Kling - it only accepts images.
+Upload only the JPG first frame. After pasting, retype each @chip (type @ and pick it from the list).
 Works in Dola too: upload CHARACTERS + PLACES, then the first frame, then the prompt.
 
  1  The Orders     - the old woman orders 7 warriors to go hunting, "HOO-HA! HU!"   FIRST FRAME: CLIP1_FIRST_FRAME.jpg (included, logo removed)

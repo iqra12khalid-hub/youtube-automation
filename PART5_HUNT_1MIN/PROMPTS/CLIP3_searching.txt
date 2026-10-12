@@ -13,8 +13,8 @@ START FRAME: Continue exactly from the start frame.
 8-12s: Another warrior kneels, picks up a broken twig from the ground, looks at it closely, and sniffs a crushed leaf on a low branch.
 12-15s: He points deeper into the jungle. The others nod and follow him, quiet and careful, moonlight on their masks.
 
-CHARACTER LOCK (100%): use ONLY these characters, exactly as their reference pictures - same faces, same masks, same costumes, same colours, same size:
-- WARRIOR (@warriorwithspear / WARRIOR.jpg): striped black-and-white wooden mask with red eye rings, black feathers on top, straw cape, cowrie necklace, white dot body paint, straw loincloth, a spear. Every warrior looks exactly like this.
+CHARACTER LOCK (100%): use ONLY these characters, exactly as their reference pictures:
+- WARRIOR: striped black-and-white wooden mask with red eye rings, black feathers on top, straw cape, cowrie necklace, white dot body paint, straw loincloth, a spear. Every warrior looks exactly like this.
 No other people. No animals appear on screen at any moment. Nobody changes clothes, masks or face paint.
 
 Continuity: one continuous shot, no cuts. Every movement is shown fully - nobody appears or disappears suddenly, nobody jumps from one place or pose to another. New people only walk in from the edge of the frame.

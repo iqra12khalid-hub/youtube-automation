@@ -14,10 +14,10 @@ START FRAME: Continue exactly from the start frame.
 13-15s: The last warrior looks back once, then disappears into the dark trees. The village is quiet, only the fire crackles.
 The warriors carry only spears - no torches. They are going to hunt wild animals for food.
 
-CHARACTER LOCK (100%): use ONLY these characters, exactly as their reference pictures - same faces, same masks, same costumes, same colours, same size:
-- WARRIOR (@warriorwithspear / WARRIOR.jpg): striped black-and-white wooden mask with red eye rings, black feathers on top, straw cape, cowrie necklace, white dot body paint, straw loincloth, a spear. Every warrior looks exactly like this.
-- OLD WOMAN (@tribeoldwomen / ELDER_WOMAN.jpg): long grey braids, white dot face paint, red chin line, bark-strip dress, straw cape.
-- CHIEF (CHIEF.jpg, no chip - he is already in the start frame): tall carved crown with black and red feathers, red stripe across the eyes, black beard, big shell necklace. Only one chief.
+CHARACTER LOCK (100%): use ONLY these characters, exactly as their reference pictures:
+- WARRIOR: striped black-and-white wooden mask with red eye rings, black feathers on top, straw cape, cowrie necklace, white dot body paint, straw loincloth, a spear. Every warrior looks exactly like this.
+- OLD WOMAN: long grey braids, white dot face paint, red chin line, bark-strip dress, straw cape.
+- CHIEF (already in the start frame): tall carved crown with black and red feathers, red stripe across the eyes, black beard, big shell necklace. Only one chief.
 No other people. No animals appear on screen at any moment. Nobody changes clothes, masks or face paint.
 
 Continuity: one continuous shot, no cuts. Every movement is shown fully - nobody appears or disappears suddenly, nobody jumps from one place or pose to another. New people only walk in from the edge of the frame.
