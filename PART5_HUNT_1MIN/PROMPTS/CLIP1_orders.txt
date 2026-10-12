@@ -1,0 +1,23 @@
+CLIP 1 of 4 - "The Orders"  (15 s, 16:9, Multi-shot OFF)
+CHIPS (3): @chiefplace, @tribeoldwomen, @warriorwithspear
+FIRST FRAME: FIRST_FRAMES/CLIP1_FIRST_FRAME.jpg (in the folder)
+
+------- PASTE BELOW THIS LINE -------
+LOCATION: night, @chiefplace - the village square with the tall feathered throne on its wooden platform, carved totem poles, the big drum, thatched huts, torches and a fire. Same place and same camera as the start frame.
+
+START FRAME: Continue exactly from the start frame: the chief sits on his feathered throne; the old woman @tribeoldwomen stands in front of the platform holding a covered basket and a small bowl; two masked warriors with spears stand on each side.
+
+0-3s: The old woman puts the basket and the bowl down on the edge of the platform and turns to the warriors.
+3-6s: Five more warriors @warriorwithspear walk in calmly from the left and right edges of the frame and line up with the other two in front of her - seven warriors in total.
+6-11s: She speaks to them firmly in an invented tribal language, telling them to go and hunt wild animals for food tonight. She points with her whole arm toward the dark jungle. The chief stays seated and nods once.
+11-15s: The seven warriors lift their spears up together and call out in one voice: "HOO-HA! HU!"
+
+CHARACTER LOCK (100%): use ONLY these characters, exactly as their reference pictures - same faces, same masks, same costumes, same colours, same size:
+- WARRIOR (@warriorwithspear / WARRIOR.jpg): striped black-and-white wooden mask with red eye rings, black feathers on top, straw cape, cowrie necklace, white dot body paint, straw loincloth, a spear. Every warrior looks exactly like this.
+- OLD WOMAN (@tribeoldwomen / ELDER_WOMAN.jpg): long grey braids, white dot face paint, red chin line, bark-strip dress, straw cape.
+- CHIEF (CHIEF.jpg, no chip - he is already in the start frame): tall carved crown with black and red feathers, red stripe across the eyes, black beard, big shell necklace. Only one chief.
+No other people. No animals appear on screen at any moment. Nobody changes clothes, masks or face paint.
+
+Continuity: one continuous shot, no cuts. Every movement is shown fully - nobody appears or disappears suddenly, nobody jumps from one place or pose to another. New people only walk in from the edge of the frame.
+All talking only in an invented tribal language - no English words, no subtitles.
+Style: realistic live-action film, 35mm grain, deep blue night, warm firelight / moonlight, dramatic and intense mood. Nobody is hurt. No text, no watermark.
