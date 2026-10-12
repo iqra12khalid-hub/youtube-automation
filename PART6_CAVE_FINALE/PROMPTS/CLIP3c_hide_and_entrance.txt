@@ -1,0 +1,16 @@
+=== CLIP 3c - HIDE + SHAPES AT THE ENTRANCE (Kling 3.0 Omni via Firefly) ===
+Written in the same style as the dream prompt that generated fine.
+SETTINGS: 15 s | 16:9 | Multi-shot ON (3 shots) | First frame: CLIP3c_FIRST_FRAME.jpg (monster's hand up, Noor awake)
+CHIPS: @Noora3  @Monster  @caveinside
+Edit plan: old Clip 3 (3.0-7.2 s: Noor wakes, monster raises hand) -> this clip.
+
+----- PASTE BELOW -----
+SHOT 1 (0-5 s): Inside the dark cave at night, same as the first frame. @Monster with its one big eye holds up its open hand toward @Noora3, who lies on the cave floor looking up at it with wide eyes. It slowly lowers its hand and turns its head toward the cave entrance, listening. Noor slowly sits up, serious and quiet, she does not smile.
+
+SHOT 2 (5-10 s): Same cave as @caveinside, a little wider. @Monster pushes sand over the small campfire with both hands and the warm light fades, leaving soft blue moonlight from the entrance. Noor moves back against the rock wall into the shadows and @Monster crouches in front of her, both very still, looking toward the entrance.
+
+SHOT 3 (10-15 s): Low shot from deep inside the dark cave toward the moonlit entrance. Slowly, the long tips of wooden spears and tall feathered masks appear as dark shapes at the edge of the entrance, one by one. Nobody comes inside. Hold on the entrance.
+
+Same faces in every shot, the monster always has its one big eye. Only Noor and the monster inside the cave. No text, no watermark, no torches.
+Sound: embers hissing out, quiet breathing, a faint tribal chant outside getting closer, soft footsteps on stone. No music, no English words.
+----- END -----
