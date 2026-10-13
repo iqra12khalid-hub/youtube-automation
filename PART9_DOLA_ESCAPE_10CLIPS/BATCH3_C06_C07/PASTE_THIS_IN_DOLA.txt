@@ -1,0 +1,30 @@
+Please reply only in English. Batch 3: generate C06 and C07 now, one video each, 16:9, 15 seconds each.
+The same 4 images are used for both clips: image 1 = creature (bandaged), image 2 = creature face, image 3 = girl (black top), image 4 = warrior.
+
+===== C06 =====
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+
+Make this video 15 seconds, one generation, 16:9.
+NO FIRST FRAME. REFERENCE LOCK: the creature is image 1 (1_CREATURE_BANDAGED.jpg) / image 2 (2_CREATURE_FACE.jpg), the girl is image 3 (3_GIRL_BLACK_TOP.jpg).
+The creature: one big eye in the middle of its face, grey wrinkled skin, bald head, pointed ears, disc necklace, mustard tunic, a head taller than a man, realistic like an actor in prosthetic make-up, never a cartoon, never a human face.
+NIGHT, deep wet rainforest: giant mossy trees, hanging vines, tall ferns, mist, cold blue moonlight through the canopy. No daylight.
+0-6 s: The creature and the girl run hand in hand through tall ferns, the creature limping badly, one hand on its bandage.
+6-11 s: The creature stumbles and falls to its knees in the mud, breathing hard, struggling to get up. SLOW MOTION on the fall.
+11-15 s: The girl pulls its arm over her shoulder and helps it up. They keep going, slowly.
+PACING: few actions, slow and calm. Let each action breathe, hold on faces and reactions between actions. Do not add any extra actions.
+Sound: running, breaking branches, heavy breathing, a pained groan. No music.
+NEGATIVE: daylight, white t-shirt, no bandage, two eyes, cartoon, extra people. No blood, no gore, nobody seriously hurt. No text, no watermark.
+
+===== C07 =====
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+
+Make this video 15 seconds, one generation, 16:9.
+NO FIRST FRAME. REFERENCE LOCK: the creature is image 1 (1_CREATURE_BANDAGED.jpg), the girl is image 3 (3_GIRL_BLACK_TOP.jpg), the warriors are image 4 (4_WARRIOR.jpg).
+The creature: one big eye in the middle of its face, grey wrinkled skin, bald head, pointed ears, disc necklace, mustard tunic, a head taller than a man, realistic like an actor in prosthetic make-up, never a cartoon, never a human face.
+NIGHT, deep wet rainforest: giant mossy trees, hanging vines, tall ferns, mist, cold blue moonlight through the canopy. No daylight.
+0-4 s: Two warriors burst out of the ferns behind the creature and the girl, spears raised. The girl steps behind the creature.
+4-11 s: A rough struggle in SLOW MOTION: the tired creature grabs the first warrior's spear, snaps it and pushes him down into the ferns; it shoves the second warrior against a tree and he slides down, dazed.
+11-15 s: The creature, exhausted, holds its bandage and limps on with the girl, leaving the two warriors on the ground.
+PACING: few actions, slow and calm. Let each action breathe, hold on faces and reactions between actions. Do not add any extra actions.
+Sound: shouts, wood snapping, bodies hitting the ground, heavy breathing. No music, no English.
+NEGATIVE: daylight, white t-shirt, two eyes on the creature, cartoon, more than two warriors. No blood, no gore, nobody seriously hurt. No text, no watermark.
