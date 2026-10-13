@@ -1,0 +1,14 @@
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly. Nobody is badly hurt on screen, no blood.
+
+Make this video 15 seconds, one generation, 16:9.
+FIRST FRAME: Use 1_FIRST_FRAME.jpg as the first frame. The video starts exactly on this image.
+REFERENCE LOCK: the creature is 2_MONSTER_WOUNDED.jpg and 3_MONSTER_WOUNDED_FACE.jpg (one big eye, grey skin, bald head, pointed ears, disc necklace, mustard tunic, wound on the left side of the belly). The girl starts like 4_NOOR_WHITE_SHIRT.jpg and after taking off the t-shirt looks like 5_NOOR_BLACK_TOP.jpg. The cave is 7_CAVE_INSIDE.jpg.
+
+NIGHT in every shot. Dark cave, only faint red embers and cold blue moonlight.
+0-3 s: Same shot as the first frame, camera still. The creature's silhouette in the moonlit cave mouth presses one hand on the wound on the left side of its belly and limps slowly toward the camera, bent over in pain.
+3-7 s: Inside the dark cave. The girl sits by the embers in her white t-shirt. The creature limps up to her and STOPS, STANDING upright in front of her. It does NOT sit down and does NOT touch her. Still holding its belly with one hand, it points firmly with its other long grey arm toward the cave entrance: "we must go, now".
+7-11 s: The girl stands up and faces the creature. She looks at its hand on the wound, shakes her head firmly and points at the wound: "No. You're hurt." The creature points to the exit again; she steps closer and refuses, determined and serious, never smiling.
+11-15 s: Medium shot from the side. The girl quickly pulls her white t-shirt off over her head in one move. Underneath she wears a plain black sports top exactly like 5_NOOR_BLACK_TOP.jpg, fully covered like gym clothing. She holds the white shirt in both hands and bites it to start a tear. The creature stands watching her, surprised, its one big eye wide.
+The creature stays standing the whole clip. Practical, non-sexual moment.
+Sound: limping footsteps, painful breathing, her firm voice, cloth tearing, embers crackling. No music.
+NEGATIVE: the creature sitting down, the creature touching her knee, human face on the creature, two eyes, cartoon, small creature, daylight, extra people, text, watermark.
