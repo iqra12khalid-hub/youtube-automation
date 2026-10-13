@@ -1,9 +1,9 @@
-NOTE: 1_FIRST_FRAME.jpg = the last frame of clip 1. Send me clip 1 and I will add it.
+NOTE: 1_FIRST_FRAME.jpg = the last frame of clip 1b. Send me clip 1b and I will add it.
 
 CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly. Nobody is badly hurt on screen, no blood.
 
 Make this video 15 seconds, one generation, 16:9.
-FIRST FRAME: Use 1_FIRST_FRAME.jpg (the last frame of clip 1) as the first frame.
+FIRST FRAME: Use 1_FIRST_FRAME.jpg (the last frame of clip 1b) as the first frame.
 REFERENCE LOCK: the creature is 2_MONSTER_BANDAGED.jpg and 3_MONSTER_BANDAGED_FACE.jpg (white cloth bandage around its belly). The girl is 4_NOOR_BLACK_TOP.jpg and 5_NOOR_FACE.jpg (black sports top, jeans, red face paint). The cave mouth is 6_CAVE_ENTRANCE.jpg.
 
 NIGHT in every shot, cold blue moonlight, no daylight.
