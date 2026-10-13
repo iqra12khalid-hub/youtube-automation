@@ -1,8 +1,8 @@
 === CLIP 5a - THE MONSTER WALKS BACK INTO THE CAVE (5 s test) ===
 SETTINGS: 5 s | 16:9 | Multi-shot OFF | First frame: CLIP5a_walk_in_FIRST_FRAME.jpg
-CHIPS: @monster2
+CHIPS: @Monster
 
 ----- PASTE BELOW -----
-NIGHT. The camera stays completely still, same shot as the first frame. The dark silhouette of @monster2 stands in the moonlit cave mouth. It turns and walks slowly toward the camera, deeper into the cave, holding one hand pressed on its belly, slightly bent over and limping. It passes close to the camera and walks out of the frame to the left. The cave mouth is left empty, only the blue moonlight and the jungle outside. Same darkness the whole time, no daylight, no text, no watermark.
+NIGHT. The camera stays completely still, same shot as the first frame. The dark silhouette of @Monster stands in the moonlit cave mouth. It turns and walks slowly toward the camera, deeper into the cave, holding one hand pressed on its belly, slightly bent over and limping. It passes close to the camera and walks out of the frame to the left. The cave mouth is left empty, only the blue moonlight and the jungle outside. Same darkness the whole time, no daylight, no text, no watermark.
 Sound: slow heavy footsteps on stone, painful breathing, then silence.
 ----- END -----
