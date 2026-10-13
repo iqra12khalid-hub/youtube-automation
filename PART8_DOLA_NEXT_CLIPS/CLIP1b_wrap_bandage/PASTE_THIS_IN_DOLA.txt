@@ -1,0 +1,14 @@
+NOTE: 1_FIRST_FRAME.jpg = the last frame of clip 1. Send me clip 1 and I will add it.
+
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly. No blood.
+
+Make this video 10 seconds, one generation, 16:9.
+FIRST FRAME: Use 1_FIRST_FRAME.jpg (the last frame of clip 1) as the first frame.
+REFERENCE LOCK: the creature starts like 2_MONSTER_WOUNDED.jpg and ends like 3_MONSTER_BANDAGED.jpg, face 4_MONSTER_FACE.jpg (one big eye). The girl is 5_NOOR_BLACK_TOP.jpg (black sports top).
+
+NIGHT, dark cave, faint red embers, cold blue moonlight.
+0-6 s: Medium close-up on both FACES, the belly below the frame. The girl rips a long strip from her white t-shirt, leans in and passes it around the creature's waist, pulling it tight, concentrating, worried. The creature flinches once, then looks down at her quietly with its one big eye.
+6-10 s: Slightly wider. The knot is tied: the creature now looks exactly like 3_MONSTER_BANDAGED.jpg, a white cloth bandage around its belly. The girl looks up at it. It gently touches her shoulder with one long grey hand, grateful. She does not smile.
+SLOW MOTION: none needed.
+Sound: cloth tearing and pulled tight, a pained breath, embers crackling. No music.
+NEGATIVE: bandage on the arm, human face on the creature, two eyes, cartoon, daylight, extra people, text, watermark.
