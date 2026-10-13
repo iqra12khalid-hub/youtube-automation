@@ -1,0 +1,28 @@
+Please reply only in English. Generate C04 and C05 now, one video each, 16:9.
+Images 1-3 are for C04 only. Images 4-6 are for C05 only.
+
+===== C04 =====
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+
+Make this video 15 seconds, one generation, 16:9.
+NO FIRST FRAME. REFERENCE LOCK: every warrior looks exactly like image 1 (1_C04_WARRIOR.jpg) (carved wooden mask with feathers, palm-fibre cape, white dot body paint, long wooden spear). The cave mouth is image 2 (2_C04_CAVE_ENTRANCE.jpg), the inside is image 3 (3_C04_CAVE_INSIDE.jpg).
+NIGHT, cold blue moonlight, no torches.
+0-5 s: Outside the cave mouth, two pairs of warriors arrive from two different sides of the jungle and meet. They talk quickly in low voices in an invented tribal language, pointing at the cave.
+5-11 s: Only ONE pair goes inside the dark cave, spears forward. On the cave floor they find their two fellow warriors lying completely still, not moving at all. The two warriors stop, look at them, and do not touch them.
+11-15 s: They look at each other, shake their heads, and walk back out of the cave to the others.
+PACING: few actions, slow and calm. Let each action breathe, hold on faces and reactions between actions. Do not add any extra actions.
+Sound: quiet tribal voices, footsteps on stone, silence inside. No music, no English.
+NEGATIVE: the lying warriors moving, touching the bodies, fire, daylight, more than six warriors, text, watermark. No blood.
+
+===== C05 =====
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+
+Make this video 15 seconds, one generation, 16:9.
+NO FIRST FRAME. REFERENCE LOCK: the creature is image 4 (4_C05_CREATURE_BANDAGED.jpg), the girl is image 5 (5_C05_GIRL_BLACK_TOP.jpg), the warriors are image 6 (6_C05_WARRIOR.jpg).
+The creature: one big eye in the middle of its face, grey wrinkled skin, bald head, pointed ears, disc necklace, mustard tunic, a head taller than a man, realistic like an actor in prosthetic make-up, never a cartoon, never a human face.
+NIGHT, cold blue moonlight, deep mist below.
+0-9 s: A high rocky cliff above the misty jungle. The creature and the girl edge carefully along a very narrow stone ledge, backs to the rock wall, step by step. The creature holds her hand and guides her, one hand on its bandage. Small stones fall into the mist.
+9-15 s: Cut: deep in the night jungle, two warriors run fast after them with spears, in SLOW MOTION, jumping over roots, ferns splashing.
+PACING: few actions, slow and calm. Let each action breathe, hold on faces and reactions between actions. Do not add any extra actions.
+Sound: wind, falling pebbles, heavy breathing, then slow-motion drum-like footsteps. No music.
+NEGATIVE: daylight, anyone falling, white t-shirt, no bandage, two eyes on the creature, cartoon. No blood, no gore, nobody seriously hurt. No text, no watermark.
