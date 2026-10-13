@@ -1,0 +1,14 @@
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly. Nobody is badly hurt on screen, no blood.
+
+Make this video 15 seconds, one generation, 16:9.
+FIRST FRAME: Use 1_FIRST_FRAME.jpg as the first frame. The video starts exactly on this image.
+REFERENCE LOCK: the creature is 2_MONSTER_WOUNDED.jpg and 3_MONSTER_WOUNDED_FACE.jpg (one big eye, grey skin, bald head, pointed ears, disc necklace, mustard tunic, wound on the left side of the belly). At the end it looks like 6_MONSTER_BANDAGED.jpg. The girl starts like 4_NOOR_WHITE_SHIRT.jpg and after taking off the t-shirt looks like 5_NOOR_BLACK_TOP.jpg. The cave is 7_CAVE_INSIDE.jpg.
+
+NIGHT in every shot. Dark cave, only faint red embers and cold blue moonlight.
+0-3 s: Same shot as the first frame. The creature's silhouette in the moonlit cave mouth presses one hand on the left side of its belly and limps slowly toward the camera like a wounded animal.
+3-6 s: Inside the dark cave, the creature reaches the girl sitting by the embers in her white t-shirt. It lifts its hand from the wound and we clearly see the dark gash on its grey belly. It points to the cave entrance and gently pulls her hand: "we must go".
+6-9 s: The girl looks at the wound and shakes her head: "No. You're hurt." She quickly pulls her white t-shirt off over her head. Underneath she wears a plain black sports top exactly like 5_NOOR_BLACK_TOP.jpg, fully covered like gym clothing.
+9-12 s: Close-up of her hands: she bites the white t-shirt and rips it into a long strip.
+12-15 s: She kneels and wraps the white strip twice around the creature's belly and ties a knot, exactly like 6_MONSTER_BANDAGED.jpg. The creature looks at her quietly with its one big eye, grateful. She stays serious, she never smiles.
+Calm, caring, non-sexual moment. Sound: limping steps, painful breathing, cloth tearing, embers crackling, her soft firm voice. No music.
+NEGATIVE: human face on the creature, two eyes, cartoon, small creature, daylight, extra people, text, watermark.

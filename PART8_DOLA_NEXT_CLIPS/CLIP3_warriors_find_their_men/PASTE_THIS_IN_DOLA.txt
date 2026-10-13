@@ -1,0 +1,12 @@
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly. Nobody is badly hurt on screen, no blood.
+
+Make this video 15 seconds, one generation, 16:9.
+FIRST FRAME: Use 1_FIRST_FRAME.jpg as the first frame (view from inside the dark cave toward the moonlit entrance).
+REFERENCE LOCK: every warrior looks exactly like 2_WARRIOR.jpg: carved wooden mask with feathers, palm-fibre cape, white dot body paint, woven waist cloth, long wooden spear. The cave mouth is 3_CAVE_ENTRANCE.jpg.
+
+NIGHT, pitch dark, only cold blue moonlight from the entrance. Camera still.
+0-5 s: Four warriors run into the cave mouth out of breath, spears ready, and stop.
+5-10 s: They see their two companions lying dazed on the cave floor. They kneel and help them sit up. One dazed warrior points weakly deeper into the cave and then outside, to the jungle.
+10-15 s: The leader picks up a broken spear from the floor, looks at it, then looks out at the jungle and raises his spear: "TOKA! HU!" They all run out of the cave after the escape.
+Sound: running feet, heavy breathing, groaning, a shouted tribal command. No music, no English words.
+NEGATIVE: daylight, torches, blood, more than six warriors, text, watermark.
