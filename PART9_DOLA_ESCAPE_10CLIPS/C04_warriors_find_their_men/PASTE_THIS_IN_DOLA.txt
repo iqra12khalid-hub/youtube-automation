@@ -6,5 +6,6 @@ NIGHT, cold blue moonlight, no torches.
 0-5 s: Outside the cave mouth, two pairs of warriors arrive from two different sides of the jungle and meet. They talk quickly in low voices in an invented tribal language, pointing at the cave.
 5-11 s: Only ONE pair goes inside the dark cave, spears forward. On the cave floor they find their two fellow warriors lying completely still, not moving at all. The two warriors stop, look at them, and do not touch them.
 11-15 s: They look at each other, shake their heads, and walk back out of the cave to the others.
+PACING: few actions, slow and calm. Let each action breathe, hold on faces and reactions between actions. Do not add any extra actions.
 Sound: quiet tribal voices, footsteps on stone, silence inside. No music, no English.
 NEGATIVE: the lying warriors moving, touching the bodies, fire, daylight, more than six warriors, text, watermark. No blood.

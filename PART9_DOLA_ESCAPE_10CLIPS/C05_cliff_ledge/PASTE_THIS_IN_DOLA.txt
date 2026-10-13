@@ -6,5 +6,6 @@ The creature: one big eye in the middle of its face, grey wrinkled skin, bald he
 NIGHT, cold blue moonlight, deep mist below.
 0-9 s: A high rocky cliff above the misty jungle. The creature and the girl edge carefully along a very narrow stone ledge, backs to the rock wall, step by step. The creature holds her hand and guides her, one hand on its bandage. Small stones fall into the mist.
 9-15 s: Cut: deep in the night jungle, two warriors run fast after them with spears, in SLOW MOTION, jumping over roots, ferns splashing.
+PACING: few actions, slow and calm. Let each action breathe, hold on faces and reactions between actions. Do not add any extra actions.
 Sound: wind, falling pebbles, heavy breathing, then slow-motion drum-like footsteps. No music.
 NEGATIVE: daylight, anyone falling, white t-shirt, no bandage, two eyes on the creature, cartoon. No blood, no gore, nobody seriously hurt. No text, no watermark.
