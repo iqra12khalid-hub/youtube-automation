@@ -20,3 +20,8 @@
 
 PG: nobody hurt on screen. Monster is caught with ropes and a net, never wounded.
 Needed from user: SHIP image, BEACH image (day/dawn), the shot where Noor lit the smoke signal (to match).
+
+## UPDATE (user)
+- No smoke. Pair 3 catches a scent (one quick moment, not dog sniffing), reaches the corner of the cave, goes in.
+- Fight inside: the monster gets slightly hurt (a graze on the arm/shoulder, no blood shown), beats the two, escapes with Noor, they run.
+- NIGHT all the way. Morning only at the end (beach / ship).
