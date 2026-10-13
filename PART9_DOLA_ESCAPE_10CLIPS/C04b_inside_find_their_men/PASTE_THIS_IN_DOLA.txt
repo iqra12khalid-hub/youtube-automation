@@ -1,0 +1,10 @@
+Please reply only in English. Make one 10 second video, 16:9, single shot, no cuts.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film.
+REFERENCE LOCK: every warrior looks exactly like image 1 (1_WARRIOR.jpg). The cave is image 2 (2_CAVE_INSIDE.jpg).
+NIGHT. The cave is dark: the campfire is OUT and cold - grey ash and black stones only, no flames, no glow, no embers. Only cold blue moonlight from the entrance.
+On the cave floor, TWO warriors (same look as image 1) lie completely still on their sides, spears dropped beside them, as if knocked out. They do not move at all for the whole video.
+0-5 s: Two more warriors walk slowly into the dark cave, spears forward, and STOP when they see the two warriors lying on the floor.
+5-10 s: Close on the two standing warriors: they look down at their fellows, then look at each other. They do not touch them.
+PACING: few actions, slow and calm. Do not add any extra actions.
+Sound: quiet footsteps, dripping water, tense breathing. No music.
+NEGATIVE: fire, flames, embers, glowing stones, daylight, the creature, the girl, blood, gore, injuries shown. No text, no watermark.
