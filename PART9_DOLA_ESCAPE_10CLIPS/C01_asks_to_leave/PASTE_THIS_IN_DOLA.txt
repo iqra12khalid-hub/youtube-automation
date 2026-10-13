@@ -1,0 +1,12 @@
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+
+Make this video 10 seconds, one generation, 16:9.
+FIRST FRAME: 1_FIRST_FRAME.jpg - the video starts exactly on this image.
+REFERENCE LOCK: the creature is 2_CREATURE_WOUNDED.jpg / 3_CREATURE_FACE.jpg (wound on the left side of its belly). The girl is 4_GIRL_WHITE_SHIRT.jpg (white t-shirt, red face paint). The cave is 5_CAVE_INSIDE.jpg.
+The creature: one big eye in the middle of its face, grey wrinkled skin, bald head, pointed ears, disc necklace, mustard tunic, a head taller than a man, realistic like an actor in prosthetic make-up, never a cartoon, never a human face.
+NIGHT. The cave is dark: the campfire is OUT, no flames and no glowing embers, only cold blue moonlight from the entrance and a thin wisp of smoke from the dead fire.
+0-4 s: Same shot as the first frame. The creature's silhouette in the moonlit cave mouth presses one hand on its belly wound and limps slowly into the cave, bent over in pain.
+4-7 s: Inside the dark cave, the girl sits on the floor. The creature limps up and STOPS, STANDING in front of her, one hand still on the wound. It does not sit and does not touch her. With its other hand it points to the cave entrance: "we must go".
+7-10 s: The girl stands up, looks at the wound and shakes her head firmly: "No. You're hurt. You need help." Serious, she never smiles.
+Sound: limping steps, painful breathing, her firm voice. No music.
+NEGATIVE: fire, flames, embers, the creature sitting, two eyes, human face, cartoon, daylight, extra people. No blood, no gore, nobody seriously hurt. No text, no watermark.

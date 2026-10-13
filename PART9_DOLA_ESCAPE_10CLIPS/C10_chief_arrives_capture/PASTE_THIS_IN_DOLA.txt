@@ -1,0 +1,11 @@
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+
+Make this video 15 seconds, one generation, 16:9.
+NO FIRST FRAME. REFERENCE LOCK: the creature is 1_CREATURE_BANDAGED.jpg, the warriors are 2_WARRIOR.jpg, the chief is 3_CHIEF.jpg, the girl is 4_GIRL_BLACK_TOP.jpg.
+The creature: one big eye in the middle of its face, grey wrinkled skin, bald head, pointed ears, disc necklace, mustard tunic, a head taller than a man, realistic like an actor in prosthetic make-up, never a cartoon, never a human face.
+NIGHT, deep wet rainforest: giant mossy trees, hanging vines, tall ferns, mist, cold blue moonlight through the canopy. No daylight.
+0-5 s: SLOW MOTION. From behind the trees many more warriors appear, and the chief from 3_CHIEF.jpg walks in front of them.
+5-11 s: SLOW MOTION. The warriors throw a big rope net over the creature on the ground and pull the ropes tight. The creature struggles under the net, its one big eye looking toward the girl.
+11-15 s: The girl, far away at the very edge of the forest, looks back at the creature with tears in her eyes, then turns and runs. Several warriors run after her into the last trees. Do NOT show the beach.
+Sound: slow-motion shouting, ropes pulled tight, the creature's deep groan, the girl's breathing. No music, no English.
+NEGATIVE: daylight, beach, ship, white t-shirt, two eyes on the creature, cartoon, spears stabbing. No blood, no gore, nobody seriously hurt. No text, no watermark.

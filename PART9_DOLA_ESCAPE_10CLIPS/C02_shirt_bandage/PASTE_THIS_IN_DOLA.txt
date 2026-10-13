@@ -1,0 +1,14 @@
+NOTE: 1_FIRST_FRAME.jpg = the last frame of C01. Send me C01 and I will add it.
+
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+
+Make this video 15 seconds, one generation, 16:9.
+FIRST FRAME: 1_FIRST_FRAME.jpg (the last frame of clip C01).
+REFERENCE LOCK: the creature starts like 2_CREATURE_WOUNDED.jpg and ends like 3_CREATURE_BANDAGED.jpg, face 4_CREATURE_FACE.jpg. The girl is wearing TWO tops: a white t-shirt over a plain black sports top; after she takes the white one off she looks exactly like 5_GIRL_BLACK_TOP.jpg / 6_GIRL_FACE.jpg.
+The creature: one big eye in the middle of its face, grey wrinkled skin, bald head, pointed ears, disc necklace, mustard tunic, a head taller than a man, realistic like an actor in prosthetic make-up, never a cartoon, never a human face.
+NIGHT. The cave is dark: the campfire is OUT, no flames and no glowing embers, only cold blue moonlight from the entrance and a thin wisp of smoke from the dead fire.
+0-4 s: The girl quickly pulls her white t-shirt off over her head. Underneath she wears her black sports top, fully covered like gym clothing. She bites the white shirt and rips it into a long strip.
+4-11 s: Close-up on both FACES, the belly below the frame: she wraps the white strip around the creature's waist, pulling it tight, concentrating and worried. The creature flinches once, then looks down at her quietly with its one big eye.
+11-15 s: Slightly wider: the bandage is done, the creature now looks exactly like 3_CREATURE_BANDAGED.jpg. It gently touches her shoulder, grateful. She stays serious.
+Practical, caring, non-sexual moment. Sound: cloth tearing, a pained breath, quiet breathing. No music.
+NEGATIVE: fire, flames, embers, bandage on the arm, two eyes, human face, cartoon, daylight, extra people. No blood, no gore, nobody seriously hurt. No text, no watermark.

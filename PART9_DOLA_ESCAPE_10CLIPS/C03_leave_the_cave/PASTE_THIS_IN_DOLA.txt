@@ -1,0 +1,10 @@
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+
+Make this video 10 seconds, one generation, 16:9.
+FIRST FRAME: 1_FIRST_FRAME.jpg - view from inside the dark cave toward the empty moonlit entrance. Camera still.
+REFERENCE LOCK: the creature is 2_CREATURE_BANDAGED.jpg (white cloth bandage around its belly). The girl is 3_GIRL_BLACK_TOP.jpg (black sports top, jeans, red face paint). The cave mouth is 4_CAVE_ENTRANCE.jpg.
+The creature: one big eye in the middle of its face, grey wrinkled skin, bald head, pointed ears, disc necklace, mustard tunic, a head taller than a man, realistic like an actor in prosthetic make-up, never a cartoon, never a human face.
+NIGHT. The cave is dark: the campfire is OUT, no flames and no glowing embers, only cold blue moonlight from the entrance and a thin wisp of smoke from the dead fire.
+0-10 s: The creature and the girl walk past the camera into the frame, hand in hand, the creature limping slightly with one hand on its bandage. They walk carefully toward the moonlit entrance, stop for a second to look outside, then step out into the night jungle and disappear. The entrance is empty again.
+Sound: soft footsteps, breathing, night insects outside. No music.
+NEGATIVE: fire, daylight, white t-shirt on the girl, no bandage, two eyes, cartoon, extra people. No blood, no gore, nobody seriously hurt. No text, no watermark.
