@@ -11,7 +11,7 @@ CREATURE STATE: the creature is badly hurt and exhausted the whole time: hunched
 5-12 s (natural speed): The two warriors raise their spears, let out a loud war cry "HAAA-OOH!" and run toward the creature along the muddy path, feet splashing in the mud.
 12-15 s (natural speed): The two warriors stop in front of the creature, about 4 feet away, holding their long wooden spears across their bodies. The creature stands hunched and braced. The girl is still behind, a few feet away. Clip ends here.
 PACING: few actions, let each action breathe. Do not add any extra actions.
-Sound: running feet in mud, grunts, the creature's tired moans, wooden poles knocking, splashes in mud. Warriors make only wordless tribal war cries, NO English words. No music.
+Sound: running feet in mud, grunts, the creature's tired moans, wooden poles clacking, splashes in mud. Warriors make only wordless tribal war cries, NO English words. No music.
 FAMILY-FRIENDLY: this is a gentle PG scuffle like in a family adventure film. Only grabbing wooden poles, pushing, tripping and falling into soft mud. Nobody is hit, nobody is injured, no weapons touch anyone, no blood. The warriors just fall down and stay sitting or lying in the mud, dazed and tired.
 NEGATIVE: cuts, close-ups, torches, fire, more than two warriors, extra people, two eyes on the creature, cartoon, white t-shirt on the girl, the girl standing next to the creature during the fight, text, watermark, logo.
 FINAL CHECK: never more than two warriors at any moment. Exactly 4 people in total.
