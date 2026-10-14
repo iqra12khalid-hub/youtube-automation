@@ -1,7 +1,12 @@
-CHIPS: @monster3 @noora4   |  15 s, 16:9, multi-shot OFF
+CHIPS: @monster3 @noora4   |  15 s, 16:9, MULTI-SHOT ON, 3 shots x 5 s
 
-NIGHT. Deep wet rainforest at NIGHT, giant mossy trees, hanging vines, tall ferns, mist, cold blue moonlight through the canopy. No daylight.
-@monster3 (one big eye, grey wrinkled skin, mustard tunic, white bandage around its belly) and @noora4 (black sports top, red face paint) run hand in hand through the tall ferns toward the camera. @monster3 limps badly, one hand on its bandage.
-@monster3 stumbles and falls to its knees in the mud, in SLOW MOTION, breathing hard.
-@noora4 pulls the arm of @monster3 over her shoulder and helps it stand up. They walk on slowly, away from the camera.
-Slow and calm, only these actions. Same camera angle the whole time. NIGHT, blue moonlight. No blood.
+SHOT 1 (0-5 s), wide tracking shot from the side:
+NIGHT. Deep wet rainforest at NIGHT, giant mossy trees, tall ferns, mist, cold blue moonlight. @noora4 (black sports top) runs through the ferns pulling @monster3 by the hand. @monster3 (one big eye, grey wrinkled skin, mustard tunic, white bandage on its belly) is weak and struggling, bent over, limping heavily, one hand pressed on its bandage, barely keeping up.
+
+SHOT 2 (5-10 s), close-up tracking in front of @monster3's face:
+NIGHT, same blue moonlight. @monster3 is in pain while running: its one eye half closed, mouth open gasping for air, sweating, head heavy, stumbling over roots. @noora4 looks back at it, worried, still pulling its hand.
+
+SHOT 3 (10-15 s), low angle close to the muddy ground, SLOW MOTION:
+NIGHT, same blue moonlight. The legs of @monster3 give way and it falls hard onto its knees and hands in the mud, groaning, too tired to stand. @noora4 kneels beside it and holds its shoulder.
+
+Only these actions. NIGHT in every shot, same blue moonlight, same jungle. @monster3 must look weak and struggling, never strong. No blood, no warriors, no daylight.
