@@ -1,0 +1,14 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+Make this video 15 seconds, one generation, 16:9.
+FIRST FRAME: 4_FIRST_FRAME.jpg = the LAST FRAME of the previous video (C3). The video starts exactly on this image.
+REFERENCE LOCK: the girl is 1_GIRL_SHEET.jpg (black sports top, dark jeans, red face paint, never smiles). The creature is 2_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, disc necklace, torn mustard tunic, white cloth bandage around its belly; realistic like an actor in prosthetic make-up, never a cartoon, never a human face). The warriors look exactly like 3_WARRIOR.jpg (carved wooden mask with black feathers, palm-fibre shoulder cape, white dot body paint, woven grass skirt). Exactly TWO warriors, each holding ONLY ONE long wooden spear, no torches.
+LOCATION AND LIGHT: the same misty blue-green jungle as the first frame: giant dark trees, tall ferns, a muddy dirt path, soft blue mist. Keep this light in every shot.
+CREATURE STATE: the creature is badly hurt and exhausted the whole time: it limps, presses its bandage, gasps for air, moans "aah... ohh...", stumbles and nearly falls. It wins only with great effort, never looks strong or easy.
+0-5 s: The two warriors lie dazed on the ground, not getting up. The girl gets up and runs to the creature, and pulls its arm over her shoulder to hold it up.
+5-10 s: Together they walk slowly away past the dazed warriors, the creature limping badly, one hand on its bandage, leaning on the girl.
+10-15 s: They disappear between the giant trees and ferns deeper into the misty jungle. The camera stays behind and watches them go.
+PACING: few actions, let each action breathe, hold on faces and reactions. Do not add any extra actions.
+Sound: the creature's pained breathing and moans, footsteps in mud, jungle birds. No music.
+SAFE: no blood, no gore, nobody seriously hurt.
+NEGATIVE: torches, fire, more than two warriors, extra people, two eyes on the creature, cartoon, white t-shirt on the girl, text, watermark.
