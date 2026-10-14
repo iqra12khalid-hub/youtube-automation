@@ -1,6 +1,7 @@
 Please reply only in English.
 CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
 Make this video 15 seconds, one generation, 16:9.
+IMPORTANT: THERE ARE ONLY TWO WARRIORS IN THIS WHOLE VIDEO - NEVER MORE THAN TWO. No third warrior, no warriors in the background, no warriors hiding in the trees or ferns, nobody else arrives. Count them: 1, 2. Only these 4 people exist: the girl, the creature and the two warriors.
 FIRST FRAME: 4_FIRST_FRAME.jpg. The video starts exactly on this image: seen from behind, the creature (left) and the girl (right) in the foreground, the two warriors standing on the path ahead, 15-20 feet away. The camera slowly pulls back a little so all four people stay fully visible.
 REFERENCE LOCK: the girl is 1_GIRL_SHEET.jpg (black sports top, dark jeans, red face paint, never smiles). The creature is 2_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, disc necklace, torn mustard tunic, white cloth bandage around its belly; realistic like an actor in prosthetic make-up, never a cartoon, never a human face). The warriors look exactly like 3_WARRIOR.jpg (carved wooden mask with black feathers, palm-fibre shoulder cape, white dot body paint, woven grass skirt). Exactly TWO warriors, each holding ONLY ONE long wooden spear, no torches.
 LOCATION AND LIGHT: DAYTIME, the same misty blue-green jungle as the first frame: giant dark trees, tall ferns, a muddy dirt path, soft blue mist. Keep this light the whole time.
@@ -13,3 +14,4 @@ PACING: few actions, let each action breathe. Do not add any extra actions.
 Sound: running feet in mud, grunts, the creature's pained moans and roars, wooden spear shafts knocking, bodies hitting mud. Warriors make only wordless tribal war cries, NO English words. No music.
 SAFE: PG fight only - grabbing and pushing spears aside, a kick, a punch, knocking down. The spear points never touch anyone. No stabbing, no blood, no gore, nobody seriously hurt. Warriors are only knocked down and knocked out.
 NEGATIVE: cuts, close-ups, torches, fire, more than two warriors, extra people, two eyes on the creature, cartoon, white t-shirt on the girl, the girl standing next to the creature during the fight, text, watermark, logo.
+FINAL CHECK: never more than two warriors at any moment. Exactly 4 people in total.
