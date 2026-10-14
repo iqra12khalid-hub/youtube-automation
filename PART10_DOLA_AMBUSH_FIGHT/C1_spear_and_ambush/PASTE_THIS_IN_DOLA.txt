@@ -8,7 +8,7 @@ CREATURE STATE: the creature is badly hurt and exhausted the whole time: it limp
 0-4 s: Same shot as the first frame. The creature is down in the mud moaning in pain, the girl holding it. Silence, only breathing.
 4-7 s: SLOW MOTION: a wooden spear flies in from out of nowhere, from the jungle IN FRONT of them, and stabs deep into the muddy ground right in front of them. Mud splashes up, the shaft vibrates. Nobody is hit. The girl flinches.
 7-12 s: From the SAME direction the spear came from (in front of them), the two warriors leap out of the ferns, one from the RIGHT and one from the LEFT, and land hard on the path in front of the creature and the girl, crouching low, spears pointed at them, blocking the way. They do NOT come from behind.
-12-15 s: The girl screams in fear and falls back onto her hands. The creature, still on the ground, lifts its head and stares at the warriors, groaning.
+12-15 s: Close-up on the girl's face: she is shocked and surprised, eyes wide, mouth open, she gasps. She falls back onto her hands and starts crawling BACKWARDS on her hands, away from the warriors - she never moves toward them. The creature, still on the ground, lifts its head and stares at the warriors, groaning.
 PACING: few actions, let each action breathe, hold on faces and reactions. Do not add any extra actions.
 Sound: heavy breathing, a spear whoosh and thud into mud, feet landing, the girl's scream, creature moaning. No music. Warriors make only short tribal shouts, no English.
 SAFE: PG fight only - pushes, shoves, grabbing spear shafts, knocking down. No stabbing, nobody is hit by a spear point, no blood, no gore, nobody seriously hurt. Warriors are only knocked down and dazed.
