@@ -1,0 +1,14 @@
+BOTH: CHIP @warriorwithspear only | 15 s | 16:9 | MULTI-SHOT ON, 3 shots x 5 s
+Exactly TWO @warriorwithspear in every shot, never more.
+
+===== PROMPT 2 (DAY) - JUMPS AND ROOTS =====
+SHOT 1 (0-5 s): DAY. Wide shot through hanging vines in a deep green rainforest in DAYLIGHT, warm sunbeams cutting through the mist and the canopy. Two @warriorwithspear run fast along a jungle stream, feet splashing through the shallow sparkling water.
+SHOT 2 (5-10 s): DAY, same warm sunlight. Side shot in SLOW MOTION: the first @warriorwithspear leaps over a huge fallen mossy log, spear held high, the second @warriorwithspear jumps right after him, water drops and leaves glittering in the sunbeams.
+SHOT 3 (10-15 s): DAY, same warm sunlight. Close-up on the masked face of one @warriorwithspear running, heavy breathing, eyes scanning the jungle, the second @warriorwithspear running blurred behind him, sunlight flickering through the leaves.
+Only two @warriorwithspear. DAYLIGHT in every shot. No night, no other people.
+
+===== PROMPT 3 (DAY) - HUNTING THE TRAIL =====
+SHOT 1 (0-5 s): DAY. Top-down drone shot above the bright green jungle canopy in DAYLIGHT, morning mist, two @warriorwithspear running fast along a narrow path between the trees.
+SHOT 2 (5-10 s): DAY, same warm sunlight. Behind-the-shoulder tracking shot following the two @warriorwithspear as they run through mud, feet sinking and splashing in SLOW MOTION, palm-fibre capes swinging, sunbeams through the leaves.
+SHOT 3 (10-15 s): DAY, same warm sunlight. Low angle: the two @warriorwithspear skid to a stop in the mud, one kneels and touches fresh footprints on the ground, the other raises his spear and points ahead into the jungle.
+Only two @warriorwithspear. DAYLIGHT in every shot. No night, no other people.
