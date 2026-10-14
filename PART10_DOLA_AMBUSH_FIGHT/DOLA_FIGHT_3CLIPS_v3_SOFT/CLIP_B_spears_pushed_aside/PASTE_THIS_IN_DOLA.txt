@@ -1,0 +1,18 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+Make this video 15 seconds, one generation, 16:9.
+IMPORTANT: THERE ARE ONLY TWO WARRIORS IN THIS WHOLE VIDEO - NEVER MORE THAN TWO. No third warrior, no warriors in the background, no warriors hiding in the trees or ferns, nobody else arrives. Count them: 1, 2. Only these 4 people exist: the girl, the creature and the two warriors.
+FIRST FRAME: use the LAST FRAME of the previous video (Clip A). The video starts exactly where Clip A ended: the two warriors in front of the creature holding their spears, the girl a few feet behind the creature.
+REFERENCE LOCK: the girl is 1_GIRL_SHEET.jpg (black sports top, dark jeans, red face paint, never smiles). The creature is 2_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, disc necklace, torn mustard tunic, white cloth bandage around its belly; realistic like an actor in prosthetic make-up, never a cartoon, never a human face). The warriors look exactly like 3_WARRIOR.jpg (carved wooden mask with black feathers, palm-fibre shoulder cape, white dot body paint, woven grass skirt). Exactly TWO warriors, each holding ONLY ONE long wooden spear, no torches.
+LOCATION AND LIGHT: DAYTIME, the same misty blue-green jungle as the first frame: giant dark trees, tall ferns, a muddy dirt path, soft blue mist. Keep this light the whole time.
+CAMERA: ONE CONTINUOUS SHOT, NO CUTS. ALL FOUR PEOPLE (the girl, the creature and both warriors) MUST BE VISIBLE IN THE FRAME THE WHOLE TIME. Medium-wide shot, camera steady, never close-ups, never a shot of only the warriors or only one person.
+CREATURE STATE: the creature is badly hurt and exhausted the whole time: hunched, one hand often pressed on its bandage, gasping, moaning "aah... ohh...". Every move costs it great effort. It never looks strong or easy.
+0-4 s (natural speed): Both warriors step forward and push their long wooden poles toward the creature at the same time, one low and one high. The creature catches both wooden shafts, one in each hand, far from its body.
+4-6 s (FAST, normal speed, sharp): The creature pushes the low pole away to ITS RIGHT and the high pole away to ITS LEFT; both warriors lose their balance.
+6-13 s (SLOW MOTION): The creature pushes the first warrior away with its foot and shoves the second warrior away with its arm. The first warrior falls backward into the soft mud IN FRONT of the creature; the second warrior stumbles and falls into the mud to the SIDE of the creature. Both poles drop into the mud.
+13-15 s (natural speed): The creature sways, gasping, hand on its bandage. Both warriors are on the ground, groaning. The girl watches from behind. Clip ends here.
+PACING: few actions, let each action breathe. Do not add any extra actions.
+Sound: running feet in mud, grunts, the creature's tired moans, wooden poles knocking, splashes in mud. Warriors make only wordless tribal war cries, NO English words. No music.
+FAMILY-FRIENDLY: this is a gentle PG scuffle like in a family adventure film. Only grabbing wooden poles, pushing, tripping and falling into soft mud. Nobody is hit, nobody is injured, no weapons touch anyone, no blood. The warriors just fall down and stay sitting or lying in the mud, dazed and tired.
+NEGATIVE: cuts, close-ups, torches, fire, more than two warriors, extra people, two eyes on the creature, cartoon, white t-shirt on the girl, the girl standing next to the creature during the fight, text, watermark, logo.
+FINAL CHECK: never more than two warriors at any moment. Exactly 4 people in total.
