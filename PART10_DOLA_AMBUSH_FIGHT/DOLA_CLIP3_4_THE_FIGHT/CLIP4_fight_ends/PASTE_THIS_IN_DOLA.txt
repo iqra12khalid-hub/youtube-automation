@@ -1,0 +1,15 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference images exactly.
+Make this video 15 seconds, one generation, 16:9.
+FIRST FRAME: use the LAST FRAME of the previous video (Clip 3) as the first frame. The video starts exactly where Clip 3 ended: the first warrior in the ferns, the second warrior running in, the girl behind the creature.
+REFERENCE LOCK: the girl is 1_GIRL_SHEET.jpg (black sports top, dark jeans, red face paint, never smiles). The creature is 2_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, disc necklace, torn mustard tunic, white cloth bandage around its belly; realistic like an actor in prosthetic make-up, never a cartoon, never a human face). The warriors look exactly like 3_WARRIOR.jpg (carved wooden mask with black feathers, palm-fibre shoulder cape, white dot body paint, woven grass skirt). Exactly TWO warriors, each holding ONLY ONE long wooden spear, no torches.
+LOCATION AND LIGHT: DAYTIME, the same misty blue-green jungle as the first frame: giant dark trees, tall ferns, a muddy dirt path, soft blue mist. Keep this light in every shot.
+CREATURE STATE: the creature is badly hurt and exhausted the whole time: hunched, one hand pressed on its wound, gasping, moaning "aah... ohh...", stumbling. Every move costs it great effort. It never looks strong or easy.
+0-5 s (natural speed): The second warrior rushes in and strikes the creature on the shoulder with the wooden shaft of his spear. The creature staggers and drops to one knee, groaning "aaahh...", its hand on its wound. The girl, behind it, gasps in fear.
+5-10 s (SLOW MOTION): The creature rises with great effort, grabs the second warrior by the arm and throws him backward; he slams onto the muddy path and his spear falls from his hand. The first warrior runs back out of the ferns and charges; the creature swings its arm and knocks him down beside the other.
+10-15 s (natural speed, wide shot): Both warriors lie on the muddy path, dazed and groaning, unable to get up. The creature sways on its feet, exhausted, hunched, hand pressed on its wound, breathing heavily. The girl runs to its side and holds it up.
+SPEED: natural speed for running and normal moves, SLOW MOTION only where written, like a movie fight.
+PACING: few actions, let each action breathe. Do not add any extra actions.
+Sound: running feet in mud, grunts, the creature's pained moans and roars, wooden spear shafts knocking, bodies hitting mud. Warriors make only wordless tribal war cries, NO English words. No music.
+SAFE: PG fight only - pushes, shoves, grabbing spear shafts, knocking down. No stabbing, nobody is hit by a spear point, no blood, no gore, nobody seriously hurt. Warriors are only knocked down and dazed.
+NEGATIVE: torches, fire, more than two warriors, extra people, two eyes on the creature, cartoon, white t-shirt on the girl, text, watermark, logo.
