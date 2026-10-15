@@ -1,8 +1,9 @@
 Please reply only in English.
+FIRST FRAME: YES - use the LAST FRAME of Clip 3 as the first frame (the couple standing next to the burning driftwood pile on the beach). The video starts exactly on that frame.
 CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film set in the present day. Copy the uploaded reference images exactly.
 Make this video 15 seconds, one generation, 16:9.
 REFERENCE LOCK: the man is 1_MAN.jpg (about 35, short messy dark brown hair, short beard, open white linen shirt over a light blue t-shirt, beige linen shorts, barefoot, sunglasses hanging on his shirt). The woman is 2_WOMAN.jpg (about 32, long wavy light brown hair, wide straw sun hat with tortoiseshell sunglasses on it, floral pink-and-white shirt knotted at the waist over a coral bikini top, white linen shorts, barefoot). Only these TWO people in the whole video. They are a happy couple on holiday.
-THE ISLAND: looks exactly like 4_ISLAND.jpg: a long empty white sand beach, turquoise sea, and behind the beach a thick wall of tall green tropical forest and palm trees. No cliffs, no houses, nobody on the beach.
+THE ISLAND: the same beach as 4_ISLAND.jpg (which is seen from above), but here ALWAYS seen at SEA LEVEL / eye level, the natural view from a boat or from the sand: a long, straight, flat, empty white sand beach, gentle turquoise waves at the front, and right behind the beach a thick, even wall of tall green tropical forest - tall trees and coconut palms, nothing else. THE JUNGLE behind the beach is only trees: tall rainforest trees, palms and green bushes. No cliffs, no rocks, no cave, no mountains, no houses, nobody on the beach.
 THE FIRE: on the beach is the pile of driftwood from 5_DRYWOODS.jpg (cone-shaped pile of dry grey driftwood logs, a ring of round brown coconut husks around the base, one long dry palm leaf on top), now BURNING, with a VERY TALL thick column of grey-white smoke rising straight up into the blue sky, high above the forest, visible from far out at sea.
 LIGHT: bright sunny daytime, clear blue sky, sparkling sea. The same light in every shot.
 THE YACHT: looks exactly like 3_YACHT.jpg, anchored in the turquoise water behind them.
@@ -11,4 +12,4 @@ THE YACHT: looks exactly like 3_YACHT.jpg, anchored in the turquoise water behin
 10-15 s: She touches his arm: "Let's go." They turn and walk back to the grey dinghy on the shore. He looks back at the forest one last time. The smoke keeps rising behind them.
 Sound: waves, birds, crackling fire, wind in the trees, their quiet voices. English is allowed for the couple.
 PACING: few actions, let each moment breathe. Do not add extra actions or extra people.
-NEGATIVE: night, storm, other boats, other people, the tribe, warriors, a creature, cliffs, houses, logos, text, watermark.
+NEGATIVE: aerial view, drone view from above, night, storm, other boats, other people, the tribe, warriors, a creature, cliffs, houses, logos, text, watermark.
