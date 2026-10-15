@@ -1,0 +1,21 @@
+SHIP ELEMENTS - make each image in Firefly Image (16:9, photorealistic), then save it as a Kling element with the name shown.
+
+1) ELEMENT NAME: oldship   (object / location)
+Character-sheet style reference of ONE old wooden two-mast sailing ship, shown 4 times side by side on a plain light grey background: FRONT view, SIDE view, BACK view, 3/4 view. Dark weathered wooden hull, faded off-white patched canvas sails, ropes and rigging, a small wooden rowing boat hanging on ropes at the side, a brass bell, no flags, no name, no text on the hull. Realistic film prop, soft even studio light, labels FRONT / SIDE / BACK / 3/4 under each view.
+
+2) ELEMENT NAME: shipdeck   (location)
+Wide realistic photo of the wooden deck of the same old two-mast sailing ship in daylight at sea: worn wooden planks, coiled ropes, barrels, wooden rail along the side, tall masts with patched off-white sails, the ship's wheel at the back, open blue ocean and soft sea mist around. Empty, no people. Film still.
+
+3) ELEMENT NAME: shipcaptain   (character)
+Character sheet of ONE man, the ship's captain, shown 4 times side by side on a plain light grey background: FRONT, SIDE, BACK, and a FACE close-up. About 55 years old, tanned weathered skin, short grey beard, deep wrinkles around kind eyes, faded navy-blue wool coat over a loose cream linen shirt, brown trousers, worn leather boots, an old brass spyglass in his hand. Realistic, like a real actor, soft even studio light, labels under each view.
+
+4) ELEMENT NAME: sailor   (character)
+Character sheet of ONE young sailor, shown 4 times side by side on a plain light grey background: FRONT, SIDE, BACK, and a FACE close-up. About 25 years old, lean and strong, sun-tanned, short dark curly hair, light stubble, rolled-up sleeves on a faded grey-blue cotton shirt, rope belt, rolled-up canvas trousers, barefoot. Realistic, like a real actor, soft even studio light, labels under each view.
+
+5) ELEMENT NAME: rowboat   (object)
+Reference sheet of ONE small old wooden rowing boat, shown 3 times on a plain light grey background: SIDE view, 3/4 view, TOP view. Weathered dark wood, two wooden oars resting in it, a coil of rope inside, room for 3 people. No text. Realistic film prop, soft even studio light.
+
+6) ELEMENT NAME: smokingfirepit   (location)
+Realistic daytime photo of a small burnt-out campfire pit on a white sand tropical beach: a ring of stones, half-burnt driftwood logs, glowing embers, a thin column of grey smoke rising straight up into the sky. Turquoise sea and gentle waves behind, green jungle on one side. Nobody there. Film still, soft daylight.
+
+TIP: in Kling use at most 3 chips per clip, e.g. @oldship @shipcaptain @sailor for the deck shots, @smokingfirepit for the spyglass view.
