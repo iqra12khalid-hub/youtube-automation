@@ -1,0 +1,15 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film set in the present day. Copy the uploaded reference images exactly.
+Make this video 15 seconds, one generation, 16:9.
+REFERENCE LOCK: the man is 1_MAN.jpg (about 35, short messy dark brown hair, short beard, open white linen shirt over a light blue t-shirt, beige linen shorts, barefoot, sunglasses hanging on his shirt). The woman is 2_WOMAN.jpg (about 32, long wavy light brown hair, wide straw sun hat with tortoiseshell sunglasses on it, floral pink-and-white shirt knotted at the waist over a coral bikini top, white linen shorts, barefoot). Only these TWO people in the whole video. They are a happy couple on holiday.
+THE ISLAND: looks exactly like 4_ISLAND.jpg: a long empty white sand beach, turquoise sea, and behind the beach a thick wall of tall green tropical forest and palm trees. No cliffs, no houses, nobody on the beach.
+THE FIRE: on the beach is the pile of driftwood from 5_DRYWOODS.jpg (cone-shaped pile of dry grey driftwood logs, a ring of round brown coconut husks around the base, one long dry palm leaf on top), now BURNING, with a VERY TALL thick column of grey-white smoke rising straight up into the blue sky, high above the forest, visible from far out at sea.
+LIGHT: bright sunny daytime, clear blue sky, sparkling sea. The same light in every shot.
+THE HELM: inside the yacht exactly like 3_HELM.jpg (cream leather captain's seat, wooden steering wheel, binoculars on the counter, big windows looking out over the sea).
+0-5 s: Inside the helm, the man grabs the binoculars from the counter and looks out through the front window toward the island. The woman stands beside him, worried.
+5-9 s: Binocular view (round black edges): the empty white beach, the burning driftwood pile from 5_DRYWOODS.jpg, and the VERY TALL column of smoke rising high above the forest. Nobody there.
+9-12 s: He lowers the binoculars. She says: "Someone must be there... they need help!" He nods: "Hold on."
+12-15 s: He pushes the throttle forward and turns the wooden wheel; through the windows the island swings into the center as the yacht speeds toward it.
+Sound: engine growing louder, waves, their voices. English is allowed for the couple.
+PACING: few actions, let each moment breathe. Do not add extra actions or extra people.
+NEGATIVE: night, storm, other boats, other people, the tribe, warriors, a creature, cliffs, houses, logos, text, watermark.

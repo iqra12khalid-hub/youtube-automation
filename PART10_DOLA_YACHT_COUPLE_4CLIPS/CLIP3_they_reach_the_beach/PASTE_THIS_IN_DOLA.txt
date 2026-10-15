@@ -1,0 +1,14 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film set in the present day. Copy the uploaded reference images exactly.
+Make this video 15 seconds, one generation, 16:9.
+REFERENCE LOCK: the man is 1_MAN.jpg (about 35, short messy dark brown hair, short beard, open white linen shirt over a light blue t-shirt, beige linen shorts, barefoot, sunglasses hanging on his shirt). The woman is 2_WOMAN.jpg (about 32, long wavy light brown hair, wide straw sun hat with tortoiseshell sunglasses on it, floral pink-and-white shirt knotted at the waist over a coral bikini top, white linen shorts, barefoot). Only these TWO people in the whole video. They are a happy couple on holiday.
+THE ISLAND: looks exactly like 4_ISLAND.jpg: a long empty white sand beach, turquoise sea, and behind the beach a thick wall of tall green tropical forest and palm trees. No cliffs, no houses, nobody on the beach.
+THE FIRE: on the beach is the pile of driftwood from 5_DRYWOODS.jpg (cone-shaped pile of dry grey driftwood logs, a ring of round brown coconut husks around the base, one long dry palm leaf on top), now BURNING, with a VERY TALL thick column of grey-white smoke rising straight up into the blue sky, high above the forest, visible from far out at sea.
+LIGHT: bright sunny daytime, clear blue sky, sparkling sea. The same light in every shot.
+THE YACHT: looks exactly like 3_YACHT.jpg (white private motor yacht, small grey inflatable dinghy with a small engine).
+0-4 s: The white yacht stops in the turquoise water near the beach of 4_ISLAND.jpg, the tall smoke column rising from the beach ahead.
+4-9 s: The couple ride the small grey inflatable dinghy to the shore and jump out into the shallow water, pulling the dinghy onto the sand.
+9-15 s: They walk quickly up the white beach to the burning driftwood pile, the smoke rising high above them. They look around. He calls out: "Hello?! Is anyone there?" She calls: "Hello?!" Only the waves answer.
+Sound: small engine, waves, footsteps in sand, crackling fire, their voices. English is allowed for the couple.
+PACING: few actions, let each moment breathe. Do not add extra actions or extra people.
+NEGATIVE: night, storm, other boats, other people, the tribe, warriors, a creature, cliffs, houses, logos, text, watermark.
