@@ -1,0 +1,19 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG-13 adventure action film. Staged movie stunt choreography performed by stunt actors. Copy the uploaded reference images exactly.
+Make this video 15 seconds, one generation, 16:9.
+Upload images in this order: 1_CREATURE_SHEET.jpg, 2_WARRIOR.jpg, 3_FIRST_FRAME.jpg.
+FIRST FRAME: use 3_FIRST_FRAME.jpg exactly. The video starts from this image: the creature down on the muddy path on hands and knees, the LEFT warrior aiming his spear down at it, the RIGHT warrior raising his spear high.
+IMPORTANT: ONLY THREE CHARACTERS EXIST: the creature and TWO warriors. NEVER MORE THAN TWO WARRIORS. Nobody else.
+REFERENCE LOCK: the creature is 1_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, necklace, torn mustard tunic with a brown strap, white cloth around its waist; realistic like an actor in prosthetic make-up). The creature NEVER wears a mask or a straw cape. The warriors look exactly like 2_WARRIOR.jpg (black-and-white striped carved mask with black feathers, straw shoulder cape, bone necklace, white body paint lines, straw skirt). Each warrior has only one wooden spear. No torches.
+LOCATION AND LIGHT: DAYTIME, the same misty blue jungle path as the first frame, wet reddish mud, ferns on both sides, soft blue fog.
+CAMERA: ONE CONTINUOUS SHOT, NO CUTS. Handheld at the side of the path, a few fern leaves in the foreground, all three characters visible.
+EVERYTHING AT REAL SPEED. No slow motion. Heavy, brutal, believable action-movie stunt fight: real weight, real force, mud splashing.
+0-3 s: The warrior on the RIGHT raises his spear high to strike. The creature, still on the ground, kicks out hard at his legs. His feet fly out from under him; he crashes backward into the mud, his spear flying out of his hands into the ferns. He is dazed, slipping and sliding in the mud, struggling to get up the whole time - that is why he cannot help.
+3-6 s: At the same moment the warrior on the LEFT stabs his spear down. The creature rolls aside, the spear hits the mud, the creature grabs the wooden shaft and rises to its feet with a roar.
+6-9 s: It yanks the spear and the warrior toward itself and smashes its forearm hard into his chest. The warrior staggers back, winded. The creature rips the spear away and throws it down.
+9-11 s: Fast and hard, like a classic action-movie finishing move: the creature steps behind him, one big hand flat on his forehead, the other under his chin, and twists his head hard to the side in one quick movement. A loud sharp crack.
+11-13 s: The warrior instantly goes limp and drops straight down onto the mud like a sack, face down, and never moves again.
+13-15 s: The right warrior finally pushes himself up out of the mud, covered in mud, grabs his spear from the ferns and turns toward the creature, shocked and furious. The creature turns to face him, breathing hard. Clip ends here.
+No blood, no gore. The spear points never pierce anyone.
+Sound: mud splashing, heavy breathing, the creature's roars, wordless tribal war cries (NO English words), the crack, heavy thuds. No music.
+NEGATIVE: slow motion, cuts, the creature wearing a mask or straw cape, the second warrior standing and watching, more than two warriors, extra people, two eyes on the creature, cartoon, blood, text, watermark, logo.
