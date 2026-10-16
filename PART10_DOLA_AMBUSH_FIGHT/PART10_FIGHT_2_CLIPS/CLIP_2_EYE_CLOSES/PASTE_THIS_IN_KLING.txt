@@ -1,9 +1,9 @@
-!!! FIRST FRAME = THE LAST FRAME OF CLIP 2 (ask Claude) !!!
+!!! FIRST FRAME = THE LAST FRAME OF CLIP 1 (ask Claude) !!!
 
-KLING 3.0 OMNI   FIRST FRAME: THE LAST FRAME OF CLIP 2 (ask Claude)   CHIPS: @monster3 + your warrior element (written @warrior)   MULTI-SHOT: OFF   15 s
+KLING 3.0 OMNI   FIRST FRAME: last frame of Clip 1   CHIPS: @monster3   MULTI-SHOT: OFF   15 s
 
 PROMPT
-Continue exactly from the first frame. One continuous shot, daytime, misty blue jungle path, wet reddish mud, ferns on both sides, soft fog. Only @monster3 and exactly two @warrior; never more than two warriors. @monster3 never wears a mask or straw cape. No torches.
+Continue exactly from the first frame. One continuous shot, daytime, misty blue jungle path, wet reddish mud, ferns, soft fog. Only @monster3 moves; the two warriors lie still on the ground the whole time. @monster3 looks exactly the same as in the first frame: grey skin, single big eye, mustard tunic, white waist cloth; never a mask or straw cape.
 
 0-4 s (real speed): @monster3 turns away from the two motionless warriors and starts walking down the path, limping, one hand pressed on its side.
 4-7 s: It stops, sways, shakes its head, dizzy. It reaches out for a tree trunk but misses.

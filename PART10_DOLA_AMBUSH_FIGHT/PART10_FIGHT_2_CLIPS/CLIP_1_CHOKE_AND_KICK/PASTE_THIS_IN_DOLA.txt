@@ -1,0 +1,20 @@
+!!! FIRST FRAME = 3_FIRST_FRAME.jpg (in this folder) !!!
+
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG-13 adventure action film. Staged movie stunt choreography performed by stunt actors. Copy the uploaded reference images exactly.
+Make this video 15 seconds, one generation, 16:9.
+Upload images in this order: 1_CREATURE_SHEET.jpg, 2_WARRIOR.jpg, 3_FIRST_FRAME.jpg.
+FIRST FRAME: use 3_FIRST_FRAME.jpg exactly: the creature down on the muddy path on hands and knees, the LEFT warrior aiming his spear down at it, the RIGHT warrior raising his spear high.
+IMPORTANT: ONLY THREE CHARACTERS EXIST: the creature and TWO warriors. NEVER MORE THAN TWO WARRIORS. Nobody else.
+REFERENCE LOCK: The creature is EXACTLY 1_CREATURE_SHEET.jpg the whole time: one big eye in the middle of its face, grey wrinkled skin, bald head, necklace, torn mustard tunic with a brown strap, white cloth around its waist; realistic like an actor in prosthetic make-up. It NEVER wears a mask, a straw cape or a bone necklace, and it never changes into a warrior. The warriors look exactly like 2_WARRIOR.jpg (black-and-white striped carved mask with black feathers, straw shoulder cape, bone necklace, white body paint lines, straw skirt). One wooden spear each. No torches.
+LOCATION AND LIGHT: DAYTIME, the same misty blue jungle path as the first frame, wet reddish mud, ferns on both sides, soft blue fog.
+CAMERA: ONE CONTINUOUS SHOT, NO CUTS. Handheld at the side of the path, medium-wide, all three characters visible.
+EVERYTHING AT REAL SPEED. No slow motion. Heavy, brutal, believable action-movie stunt fight: real weight, real force, every hit clearly lands, mud splashing.
+0-3 s: The LEFT warrior stabs his spear down. The creature rolls aside, the spear sticks in the mud, and the creature surges up onto its feet with a roar.
+3-6 s: In one fast movement the creature grabs the LEFT warrior by the throat with one huge hand and lifts him off the ground, choking him. His feet kick in the air, both hands claw at the creature's arm, he gasps.
+6-8 s: The RIGHT warrior charges in with his spear raised. Still holding the first warrior by the throat, the creature turns and drives a massive kick into the RIGHT warrior's chest. He is blasted backward through the air, flies far away, crashes hard into the mud, rolls, and lies still, knocked out, his spear flying into the ferns.
+8-12 s: The choked warrior struggles harder, kicking, then weaker... his hands slip off the creature's arm, his arms drop, his body goes completely limp. He is knocked out.
+12-15 s: The creature drops him; he falls into the mud and lies motionless. Both warriors lie still on the path, far apart. The creature stands alone between them, swaying, gasping, one hand pressed on its side. Clip ends here.
+No blood, no gore. The spear points never pierce anyone.
+Sound: mud splashing, choking gasps, the creature's roars, wordless tribal war cries (NO English words), a huge kick impact, heavy thuds. No music.
+NEGATIVE: slow motion, cuts, the creature wearing a mask or straw cape, the second warrior standing and watching, more than two warriors, extra people, two eyes on the creature, cartoon, blood, text, watermark, logo.
