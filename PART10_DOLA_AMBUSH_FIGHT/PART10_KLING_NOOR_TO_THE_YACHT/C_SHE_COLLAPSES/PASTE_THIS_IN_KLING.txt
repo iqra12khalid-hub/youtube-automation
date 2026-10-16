@@ -1,0 +1,12 @@
+FIRST FRAME: the LAST FRAME of clip A (ask Claude)   CHIPS: @noora4 @Island   MULTI-SHOT: OFF   8 s
+
+PROMPT
+Continue exactly from the first frame. One continuous shot. Same warm low afternoon sun as the first frame, white sand beach, turquoise sea, palm trees and wild jungle behind. Only one person: @noora4. Camera low at her side, handheld.
+
+0-3s: Still waving, her screaming voice cracks and breaks. Her arms drop. She coughs, sways, breathing in short gasps, eyes losing focus.
+
+3-6s: Like a real person fainting from exhaustion: her knees give way without warning, her body goes heavy and crumples, she falls sideways onto the sand, one arm under her, her hair over her face. Not graceful, not posed, not slow.
+
+6-8s: She lies on her side on the sand, not moving, eyes closed. A small wave washes up near her feet. The yacht is far away in the background.
+
+Her face the whole time: terrified, exhausted, crying, tears and dirt, eyebrows pulled up, lips trembling. She NEVER smiles, never looks happy, never poses. Keep her face, ponytail, black sports top, dark dirty jeans and red face paint exactly like @noora4. Sound: her breaking voice, a heavy soft thud on sand, waves. No music.

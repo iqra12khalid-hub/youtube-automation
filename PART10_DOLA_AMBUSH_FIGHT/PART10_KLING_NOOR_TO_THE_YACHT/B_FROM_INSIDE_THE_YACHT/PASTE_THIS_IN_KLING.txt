@@ -1,0 +1,17 @@
+FIRST FRAME: none   CHIPS: @boatman @boatwomen @boatinside   MULTI-SHOT: OFF   12 s
+
+PROMPT
+Inside the helm of the white private yacht @boatinside, exactly the same interior. Warm low afternoon sun. Only two people inside: @boatman at the wheel and @boatwomen beside him, in exactly the same clothes as their references. Camera inside the helm behind them; through the big front windscreen we see the long white beach and palm trees far away.
+
+0-3s: @boatwomen looks out of the windscreen, then leans forward and points.
+@boatwomen: "Wait... there's someone on the beach!"
+
+3-7s: Through the windscreen, far away, a tiny girl in a black top waves both arms over her head. We cannot hear her, only the engine. @boatman squints and leans toward the glass.
+@boatman: "She's waving at us... I can't hear her."
+
+7-10s: Far away, the tiny figure suddenly drops onto the sand and does not move. @boatwomen gasps and grabs his arm.
+@boatwomen: "Oh my God, she fell! Go, go!"
+
+10-12s: @boatman pushes the throttle forward; the yacht turns toward the beach.
+
+Realistic, natural acting. Sound: engine, their voices only. No music.
