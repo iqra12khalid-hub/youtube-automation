@@ -1,0 +1,21 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG-13 adventure action film. Staged movie stunt choreography performed by stunt actors. Copy the uploaded reference images exactly.
+Make this video 15 seconds, one generation, 16:9.
+IMPORTANT: ONLY THREE CHARACTERS EXIST: the creature and TWO warriors. NEVER MORE THAN TWO WARRIORS. No third warrior, nobody in the background, nobody arrives. No girl, no other people.
+REFERENCE LOCK: the creature is 1_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, necklace, torn mustard tunic with a brown strap, white cloth around its waist; realistic like an actor in prosthetic make-up, never a cartoon, never a human face). The warriors look exactly like 2_WARRIOR.jpg (black-and-white striped carved mask with black feathers on top, straw shoulder cape, bone necklace, white body paint lines, straw skirt). Each warrior holds ONLY ONE long wooden spear. No torches.
+LOCATION AND LIGHT: DAYTIME, the same misty blue jungle path as the first frame: tall dark trees, ferns on both sides, wet reddish dirt path, thick soft blue fog. Keep this light the whole time.
+CAMERA: ONE CONTINUOUS SHOT, NO CUTS. REAL SPEED - NO SLOW MOTION. Fast, raw, realistic fight like a real action movie. Handheld camera at the side of the path, partly behind fern leaves in the foreground that shake as it moves; the action is clearly visible through the leaves.
+CREATURE: never wears a straw cape, never wears a mask, never looks like a warrior. It always keeps its own grey skin, mustard tunic and white waist cloth. Wounded and exhausted, breathing hard, roaring, fighting with its last strength.
+No blood, no gore. The spear points never pierce anyone.
+Upload images in this order: 1_CREATURE_SHEET.jpg, 2_WARRIOR.jpg, 3_FIRST_FRAME.jpg.
+FIRST FRAME: use 3_FIRST_FRAME.jpg exactly. The video starts from this image: the creature down on the path on hands and knees, the two masked warriors standing over it, one aiming his spear down, the other raising his spear high.
+EVERYTHING AT REAL SPEED.
+0-3 s: The warrior on the left stabs his spear down at the creature. At the last moment the creature rolls aside; the spear hits the mud where it was.
+3-6 s: The creature springs up onto its feet, grabs the spear shaft, rips it out of the warrior's hands and throws it away into the ferns.
+6-8 s: The warrior punches; the creature catches his arm and spins behind him.
+8-10 s: QUICK AND HARD, like a classic action-movie finishing move: from behind, the creature puts one big hand flat on the warrior's forehead and the other hand under his chin, and in one fast violent movement twists his head hard to the side. A loud sharp CRACK. It happens in less than one second.
+10-12 s: The warrior instantly goes completely limp. The creature lets go and he drops straight down like a sack onto the muddy path and lies motionless, face down, never moving again.
+12-15 s: The creature turns, breathing hard, to face the second warrior, who steps back, spear raised, shocked. Clip ends here.
+Sound: feet on wet dirt, heavy breathing, the creature's roars, wooden spears clattering, heavy thuds on the ground. The warriors shout only wordless tribal war cries, NO English words. No music.
+NEGATIVE: the creature wearing a straw cape or mask, slow motion, cuts, torches, fire, more than two warriors, extra people, a girl, two eyes on the creature, cartoon, blood, text, watermark, logo.
+FINAL CHECK: never more than two warriors at any moment. Exactly 3 characters in total.

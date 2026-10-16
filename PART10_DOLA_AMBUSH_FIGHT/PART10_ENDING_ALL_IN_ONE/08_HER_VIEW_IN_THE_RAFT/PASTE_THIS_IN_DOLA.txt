@@ -1,0 +1,9 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film set in the present day. Copy the uploaded reference images EXACTLY - same faces, same clothes, same yacht, same beach. Never invent new people, new clothes or a different boat.
+Make this video ONE continuous shot, NO cuts, 16:9, DAYTIME, bright tropical sun.
+Upload images in this order: 1_WOMAN.jpg, 2_MAN.jpg, 3_YACHT.jpg. Length: 6 seconds.
+REFERENCE LOCK: The woman is EXACTLY 2_WOMAN.jpg (or 1_WOMAN.jpg): long wavy blonde hair, straw sun hat, pink floral long-sleeve beach shirt, white shorts. NOT a dress. The man is EXACTLY 1_MAN.jpg (or 2_MAN.jpg): short brown hair, light stubble, open white linen shirt over a light blue t-shirt, beige shorts. The yacht is EXACTLY 3_YACHT.jpg / 5_YACHT.jpg: a modern white private motor yacht with dark windows and a flybridge. Never a sailing ship. The small boat is a grey inflatable rubber dinghy with a small outboard motor, from the yacht.
+POINT-OF-VIEW SHOT: we see through the eyes of a girl lying in the bottom of the grey inflatable dinghy, her head on the woman's lap, looking up. Blurry, soft, swaying with the waves, like someone half-conscious.
+0-6 s: Above: the bright sky and the woman's face looking down, holding her. At the back, the man steers the small motor. The dinghy bounces over small waves toward the white yacht, which gets bigger behind them. The picture flickers in and out of focus.
+Sound: muffled motor and water, like hearing underwater. No music.
+NEGATIVE: sharp image, other people, text, watermark, logo.

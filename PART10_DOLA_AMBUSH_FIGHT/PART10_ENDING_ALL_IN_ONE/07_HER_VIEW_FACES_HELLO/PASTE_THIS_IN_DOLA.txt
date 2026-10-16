@@ -1,0 +1,11 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film set in the present day. Copy the uploaded reference images EXACTLY - same faces, same clothes, same yacht, same beach. Never invent new people, new clothes or a different boat.
+Make this video ONE continuous shot, NO cuts, 16:9, DAYTIME, bright tropical sun.
+Upload images in this order: 1_MAN.jpg, 2_WOMAN.jpg. Length: 8 seconds.
+REFERENCE LOCK: The man is EXACTLY 1_MAN.jpg (or 2_MAN.jpg): short brown hair, light stubble, open white linen shirt over a light blue t-shirt, beige shorts. The woman is EXACTLY 2_WOMAN.jpg (or 1_WOMAN.jpg): long wavy blonde hair, straw sun hat, pink floral long-sleeve beach shirt, white shorts. NOT a dress.
+POINT-OF-VIEW SHOT: we see through the eyes of a girl lying on her back on a beach, looking straight up. The bright blue sky and sun are above. The picture is blurry, soft and slightly swaying, like someone half-conscious.
+0-3 s: Blurry bright sky. Slowly two faces lean in over the camera from above: the woman with her straw hat on one side, the man on the other side, worried.
+3-6 s: The woman looks right into the camera and says slowly: "Hello?... Hello?... Can you hear me?" The image goes in and out of focus.
+6-8 s: The faces get more and more blurry, the light gets brighter and the edges of the picture go dark, like eyes closing.
+Sound: muffled, distant, like underwater. Waves. Her voice sounds far away. No music.
+NEGATIVE: sharp image, other people, text, watermark, logo.

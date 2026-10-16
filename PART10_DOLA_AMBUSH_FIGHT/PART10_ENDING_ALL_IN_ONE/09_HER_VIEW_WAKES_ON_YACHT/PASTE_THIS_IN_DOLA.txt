@@ -1,0 +1,9 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film set in the present day. Copy the uploaded reference images EXACTLY - same faces, same clothes, same yacht, same beach. Never invent new people, new clothes or a different boat.
+Make this video ONE continuous shot, NO cuts, 16:9, DAYTIME, bright tropical sun.
+Upload images in this order: 1_WOMAN.jpg, 2_HELM.jpg. Length: 6 seconds.
+REFERENCE LOCK: The woman is EXACTLY 2_WOMAN.jpg (or 1_WOMAN.jpg): long wavy blonde hair, straw sun hat, pink floral long-sleeve beach shirt, white shorts. NOT a dress. The inside of the yacht is EXACTLY 2_HELM.jpg: white and wood interior.
+POINT-OF-VIEW SHOT: we see through the eyes of a girl lying on the white cushioned seat inside the yacht, looking up. At first blurry, then slowly clearer.
+0-6 s: The white ceiling of the yacht and the window light above. The woman leans in, puts a blanket over her and says softly: "You're safe now. You're on our boat." The picture slowly becomes sharp.
+Sound: soft engine hum, waves, the woman's gentle voice, a little echo at first then clear. No music.
+NEGATIVE: different interior, other people, text, watermark, logo.
