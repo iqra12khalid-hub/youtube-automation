@@ -10,9 +10,10 @@ REFERENCE LOCK: The creature is EXACTLY 1_CREATURE_SHEET.jpg the whole time: one
 LOCATION AND LIGHT: DAYTIME, the same misty blue jungle path as the first frame, wet reddish mud, ferns on both sides, soft blue fog.
 CAMERA: ONE CONTINUOUS SHOT, NO CUTS. Handheld at the side of the path, medium-wide, all three characters visible.
 EVERYTHING AT REAL SPEED. No slow motion. Heavy, brutal, believable action-movie stunt fight: real weight, real force, every hit clearly lands, mud splashing.
-0-3 s: The LEFT warrior stabs his spear down. The creature rolls aside, the spear sticks in the mud, and the creature surges up onto its feet with a roar.
-3-6 s: In one fast movement the creature grabs the LEFT warrior by the throat with one huge hand and lifts him off the ground, choking him. His feet kick in the air, both hands claw at the creature's arm, he gasps.
-6-8 s: The RIGHT warrior charges in with his spear raised. Still holding the first warrior by the throat, the creature turns and drives a massive kick into the RIGHT warrior's chest. He is blasted backward through the air, flies far away, crashes hard into the mud, rolls, and lies still, knocked out, his spear flying into the ferns.
+0-2 s: The LEFT warrior stabs his spear down. The creature rolls aside, the spear sticks in the mud, and the creature surges up onto its feet with a roar.
+2-3 s: In one fast movement the creature grabs the LEFT warrior by the throat with one huge hand and lifts him off the ground, choking him. His feet kick, his hands claw at the creature's arm.
+3-6 s: The INSTANT the creature grabs the first warrior's throat, the RIGHT warrior screams and rushes at the creature's back with his spear raised to stab - he never stops or waits.
+6-8 s: Still holding the first warrior, the creature spins around and drives a massive kick into the RIGHT warrior's chest just before the spear reaches it. He is blasted backward through the air, flies far away, crashes hard into the mud, rolls, and lies still, knocked out, his spear flying into the ferns.
 8-12 s: The choked warrior struggles harder, kicking, then weaker... his hands slip off the creature's arm, his arms drop, his body goes completely limp. He is knocked out.
 12-15 s: The creature drops him; he falls into the mud and lies motionless. Both warriors lie still on the path, far apart. The creature stands alone between them, swaying, gasping, one hand pressed on its side. Clip ends here.
 No blood, no gore. The spear points never pierce anyone.
