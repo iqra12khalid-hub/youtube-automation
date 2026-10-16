@@ -1,0 +1,12 @@
+KLING 3.0 OMNI   CHIPS: @boatman @boatwomen   MULTI-SHOT: OFF   FIRST FRAME: none   8 s
+
+PROMPT
+POINT-OF-VIEW SHOT through the eyes of a girl lying on her back on a sunny beach, looking straight up. Bright blue sky and sun above. The picture is blurry, soft and slightly swaying, like someone half-conscious.
+
+0-3s: Blurry bright sky. Slowly two faces lean in over the camera from above: @boatwomen in her straw hat on one side, @boatman on the other, worried.
+
+3-6s: @boatwomen looks right into the camera and says slowly: "Hello?... Hello?... Can you hear me?" The image drifts in and out of focus.
+
+6-8s: The faces get blurrier, the light brighter, the edges of the picture go dark, like eyes closing.
+
+Sound: muffled, distant, like underwater. Her voice sounds far away. No music.

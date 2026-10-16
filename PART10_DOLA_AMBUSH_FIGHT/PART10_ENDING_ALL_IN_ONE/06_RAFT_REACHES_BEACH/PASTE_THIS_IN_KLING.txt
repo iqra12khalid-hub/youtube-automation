@@ -1,0 +1,14 @@
+KLING 3.0 OMNI   CHIPS: @boatman @boatwomen @noora4   MULTI-SHOT: OFF   FIRST FRAME: none   12 s
+
+PROMPT
+Daytime, bright sun, white sand beach, turquoise water, green jungle behind, the white private yacht waiting far out on the water. Only three people: @boatman, @boatwomen, and @noora4 lying on the sand.
+
+0-4s: A small grey inflatable rubber dinghy with an outboard motor speeds over the water toward the beach, @boatman steering the motor, @boatwomen at the front.
+
+4-7s: The dinghy slides into the shallow water. They jump out into the knee-deep water and run up the beach.
+
+7-12s: @noora4 lies unconscious on her side on the sand. They drop to their knees beside her. @boatwomen gently turns her onto her back and holds her head; @boatman checks her breathing.
+@boatman: "She's breathing."
+@boatwomen, softly: "Hello? Hello, can you hear me?"
+
+Keep everyone exactly like their elements. Sound: outboard motor, splashing, waves, their voices. No music.
