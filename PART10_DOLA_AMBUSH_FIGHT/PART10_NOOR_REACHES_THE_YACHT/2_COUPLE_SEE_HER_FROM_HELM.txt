@@ -1,0 +1,18 @@
+CHIPS: @boatman @boatwomen @boatinside    DURATION: 12 s    MULTI-SHOT: OFF
+
+PROMPT
+Daytime. Inside the helm of a modern white private yacht, @boatinside, exactly the same interior. The yacht is moving slowly along the coast, about to leave. Through the big front windscreen we see the beach and the green jungle tree line of the island in the distance. Only two people inside: @boatman at the wheel and @boatwomen beside him, in the same clothes as their references.
+
+0-3s: @boatman steers calmly. @boatwomen looks out of the windscreen at the beach.
+
+3-6s: Through the windscreen, far away, a small figure of a girl comes out from between the trees at the edge of the jungle and stumbles onto the sand. @boatwomen freezes and points at the windscreen.
+
+@boatwomen: "Wait... look! Someone just came out of the trees!"
+
+6-9s: @boatman slows the yacht, leans forward and squints.
+@boatman: "Is that... a girl? Out here?"
+
+9-12s: They look at each other, worried.
+@boatwomen: "She's hurt. Stop the boat!"
+
+Camera inside the helm behind the couple, the windscreen and the far beach always visible. Realistic, natural acting. Sound: engine slowing down, waves, their voices only. No music.

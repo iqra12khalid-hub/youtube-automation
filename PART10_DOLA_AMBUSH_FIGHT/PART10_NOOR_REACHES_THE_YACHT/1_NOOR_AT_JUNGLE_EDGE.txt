@@ -1,0 +1,13 @@
+CHIPS: @noora4 @Island    DURATION: 10 s    MULTI-SHOT: OFF
+
+PROMPT
+Daytime. The last trees and ferns at the edge of a tropical jungle. Through the gaps between the tree trunks, bright sunlight and the open sandy beach of @Island and the blue sea are visible ahead. Only one character: @noora4. No other people.
+
+0-4s: The camera is behind @noora4, inside the dark jungle. She runs from the RIGHT toward the LEFT, pushing ferns aside, exhausted, crying, breathing hard.
+
+4-7s: She slows down and stops between the last two tree trunks, still in the shade of the jungle. She grabs a trunk with one hand to hold herself up and stares out at the bright beach and the sea, chest heaving, scared, eyes full of tears.
+
+7-10s: She looks back over her shoulder into the dark jungle behind her, worried, then turns again toward the beach.
+
+Her face shows only fear, grief and exhaustion. She never smiles and never speaks. Sound: her heavy breathing, quiet crying, leaves, distant waves. No music, no voices.
+Keep her face, ponytail, black top, jeans and face paint exactly like @noora4.
