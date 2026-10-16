@@ -4,6 +4,7 @@ Make this video 15 seconds, one generation, 16:9.
 Upload images in this order: 1_CREATURE_SHEET.jpg, then the LAST FRAME of Clip 2 (from Claude) as the first frame.
 FIRST FRAME: the video starts exactly from the uploaded last frame: the creature standing over the two warriors lying still on the path.
 REFERENCE LOCK: the creature is 1_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, necklace, torn mustard tunic with a brown strap, white cloth around its waist; realistic, never a cartoon, never a human face).
+The creature never wears a straw cape or mask; it keeps its own grey skin, mustard tunic and white waist cloth.
 ONLY the creature moves. The two warriors lie still on the ground the whole time. No other people.
 LOCATION AND LIGHT: DAYTIME, the same misty blue jungle path, tall trees, ferns, soft blue fog, sunlight through the treetops.
 CAMERA: ONE CONTINUOUS SHOT, NO CUTS.
@@ -13,4 +14,4 @@ CAMERA: ONE CONTINUOUS SHOT, NO CUTS.
 9-12 s: Close-up on its face. Its single big eye blinks slowly, heavy, the eyelid closing little by little, opening once, then closing again.
 12-15 s (SLOW MOTION): The camera pulls back. The creature slowly falls forward and to the side, all the way down onto the dirt path, dust floating in the soft light. It lies still and peaceful, its eye closed. Quiet.
 Sound: limping footsteps, heavy breathing getting slower and softer, soft wind in the leaves. No music, no voices.
-NEGATIVE: cuts, other people moving, two eyes on the creature, cartoon, blood, text, watermark, logo.
+NEGATIVE: the creature wearing a straw cape or mask, cuts, other people moving, two eyes on the creature, cartoon, blood, text, watermark, logo.
