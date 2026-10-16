@@ -1,0 +1,16 @@
+Please reply only in English.
+CONTEXT: A scene from a fictional fantasy adventure film. The creature is a fictional one-eyed jungle creature, not a human. Copy the uploaded reference images exactly.
+Make this video 15 seconds, one generation, 16:9.
+FIRST FRAME: 3_FIRST_FRAME.jpg. The video starts exactly on this image and keeps the same jungle, the same light and the same camera.
+REFERENCE LOCK: the girl is 1_GIRL_SHEET.jpg (black sports top, dark jeans, red face paint, ponytail). The creature is 2_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, torn mustard tunic, white cloth bandage; realistic like an actor in prosthetic make-up, never a cartoon).
+THE WOUND: the long wooden spear seen in the first frame stays stuck in the creature's back the whole time, exactly as in the first frame. It is part of him: it moves with his body, it never falls out, never lies on the ground, never moves to his side. No blood, no gore.
+ONLY these two characters. Nobody else appears, the path behind them stays empty.
+ACTING: real, raw acting like a serious drama film. No posing, no smiling, no calm catwalk walking.
+0-5 s, SLOW: With huge effort, shaking and groaning in pain, the creature pushes itself up from its knees and slowly rises to its feet. It does not stand straight: it stays hunched and bent forward, swaying, breathing heavily. The girl runs to it and holds its arm, crying: "No, don't... stay down... please."
+5-8 s: Hunched and swaying, the creature looks down at her with its one big eye. It puts its big hand on her shoulder and gently but firmly pushes her away from it, toward the beach.
+8-10 s: The girl takes two slow steps backward, unwilling, shaking her head, tears running down her face, reaching out her hand toward it: "No... I'm not leaving you."
+10-12 s: She stops and does not go. The creature throws its head back and lets out one huge, deep, desperate ROAR at her, a roar that clearly means "LEAVE!". No words, only the roar. Birds burst out of the trees.
+12-15 s: The girl flinches, her face breaks, she covers her mouth with her hand, sobbing. She slowly turns away and walks a few steps away, looking back over her shoulder at it, then keeps walking, unwillingly. The creature stays standing, hunched and swaying, watching her go.
+The creature never speaks words, only groans and roars. She does NOT run.
+Sound: his heavy breathing and groans, her crying and voice, the huge roar, birds. No music.
+NEGATIVE: other people, warriors, blood, gore, cartoon, two eyes on the creature, white t-shirt on the girl, the spear falling out or lying on the ground, text, watermark.
