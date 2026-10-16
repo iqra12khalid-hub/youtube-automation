@@ -1,3 +1,7 @@
+!!! FIRST FRAME = THE LAST FRAME OF CLIP 1 !!!
+Do NOT start this clip without it. Send CLIP 1 to Claude to get its clean last frame (logo removed), or take the last frame yourself.
+Upload it as the LAST image, after the numbered images.
+
 Please reply only in English.
 CONTEXT: A scene from "The One-Eyed Island", a fictional PG-13 adventure action film. Staged movie stunt choreography performed by stunt actors. Copy the uploaded reference images exactly.
 Make this video 15 seconds, one generation, 16:9.
