@@ -4,15 +4,16 @@ Make this video 15 seconds, one generation, 16:9.
 IMPORTANT: ONLY THREE CHARACTERS EXIST: the creature and TWO warriors. NEVER MORE THAN TWO WARRIORS. No third warrior, nobody in the background, nobody arrives. No girl, no woman, no other people.
 REFERENCE LOCK: the creature is 1_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, necklace, torn mustard tunic with a brown strap, white cloth around its waist; realistic like an actor in prosthetic make-up, never a cartoon, never a human face). The warriors look exactly like 2_WARRIOR.jpg (black-and-white striped carved mask with black feathers on top, straw shoulder cape, bone necklace, body paint, straw skirt). Each warrior holds ONLY ONE long wooden spear. No torches.
 LOCATION AND LIGHT: DAYTIME, the same misty blue jungle path: tall dark trees, ferns on both sides, reddish dirt path, thick soft blue fog. Keep this light the whole time.
-CAMERA: ONE CONTINUOUS SHOT, NO CUTS. Medium-wide, all three characters visible, the camera circles slowly around the fight like a movie fight scene.
-CREATURE: wounded and weak the whole time, hunched, breathing hard, roaring with pain. It fights with its last strength. It gets hit and hurt, but it keeps getting up.
+CAMERA: ONE CONTINUOUS SHOT, NO CUTS. REAL SPEED ONLY - NO SLOW MOTION AT ANY MOMENT. Fast, raw, brutal, realistic fight like a real action movie. Handheld camera filmed from INSIDE THE BUSHES at the side of the path, like someone hiding and watching: big fern leaves and branches in the foreground partly cover the frame and shake as the camera moves; through the leaves the whole fight is clearly visible, all three characters. The camera moves quickly behind the leaves to follow the action.
+CREATURE: wounded and weak the whole time, hunched, breathing hard, roaring with pain. It fights fast and wild with its last strength. It gets hit and hurt, but it keeps getting up.
 HITS: all hits are with fists, kicks, shoulders and the WOODEN SHAFT of the spears. The spear points never pierce anyone. No blood, no gore.
-FIRST FRAME: use the LAST FRAME of the previous video (Part 1). The creature is on the ground pushing itself up on one hand, the two warriors standing over it with spears raised.
-0-3 s (SLOW MOTION): The first warrior brings his spear down; the creature catches the wooden shaft with both hands just in time.
-3-6 s (natural speed): Roaring, the creature pulls the warrior toward it, rises to its feet and shoves him back. It snaps the spear in half over its knee and throws the pieces away.
-6-9 s (SLOW MOTION): The second warrior hits the creature on the shoulder with his spear shaft. The creature staggers and drops to one knee, holding its shoulder.
-9-13 s (SLOW MOTION): The first warrior, now without a spear, runs at the creature. The creature rises, grabs him and throws him hard into the ferns at the side of the path. He lands and lies still, knocked out.
-13-15 s: The creature turns to face the second warrior, swaying, exhausted, breathing hard. The second warrior grips his spear. Clip ends here.
+FIRST FRAME: use the LAST FRAME of the previous video (Part 1). The creature is on the ground pushing itself up on one hand, the two warriors standing over it with spears raised. The camera stays behind the ferns at the side of the path.
+EVERYTHING AT REAL SPEED. No slow motion.
+0-2 s: The first warrior brings his spear down hard; the creature catches the wooden shaft with both hands just in time.
+2-5 s: Roaring, the creature yanks the warrior toward it, jumps to its feet and headbutts him back. It snaps the spear in half over its knee and throws the pieces away.
+5-8 s: The second warrior hits the creature on the shoulder with his spear shaft, then again on the arm. The creature staggers and drops to one knee, holding its shoulder.
+8-12 s: The first warrior, now without a spear, charges with his fists. The creature rises, grabs him and throws him hard into the ferns at the side of the path, right past the camera; the leaves shake. He lies still, knocked out.
+12-15 s: The creature turns to face the second warrior, swaying, breathing hard. The second warrior grips his spear and shouts. Clip ends here.
 Sound: feet on dirt, heavy breathing, the creature's roars and pained moans, wooden shafts clashing, heavy thuds on the ground. The warriors shout only wordless tribal war cries, NO English words. No music.
-NEGATIVE: cuts, close-ups of only the warriors, torches, fire, more than two warriors, extra people, a girl, two eyes on the creature, cartoon, blood, text, watermark, logo.
+NEGATIVE: slow motion, cuts, close-ups of only the warriors, torches, fire, more than two warriors, extra people, a girl, two eyes on the creature, cartoon, blood, text, watermark, logo.
 FINAL CHECK: never more than two warriors at any moment. Exactly 3 characters in total.
