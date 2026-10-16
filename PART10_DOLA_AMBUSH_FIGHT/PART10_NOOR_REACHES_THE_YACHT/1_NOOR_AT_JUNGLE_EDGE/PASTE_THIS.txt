@@ -1,0 +1,11 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film set in the present day. Copy the uploaded reference images EXACTLY - same faces, same clothes, same yacht, same helm, same beach. Never invent new people, new clothes or a different boat.
+Make this video ONE continuous shot, NO cuts, 16:9, daytime.
+Upload images in this order: 1_GIRL.jpg, 2_ISLAND.jpg. Length: 10 seconds.
+REFERENCE LOCK: The girl is EXACTLY 1_GIRL.jpg: brown hair in a ponytail, black sports top, dark dirty jeans, red tribal face paint across her forehead and cheeks, dirt on her skin. She is NOT wearing a t-shirt. She never smiles. The beach and sea are EXACTLY 2_ISLAND.jpg: white sand, turquoise water, thick green jungle tree line.
+ONLY ONE PERSON IN THE VIDEO: the girl. No other people.
+0-4 s: The camera is behind the girl inside the dark jungle. She runs from the RIGHT toward the LEFT, pushing ferns aside, exhausted, crying, breathing hard.
+4-7 s: She stops between the last two tree trunks, still in the shade of the jungle, grabs a trunk to hold herself up and stares out at the bright beach and the sea from 2_ISLAND.jpg, chest heaving, scared, tears in her eyes.
+7-10 s: She looks back over her shoulder into the dark jungle, worried, then turns again toward the beach.
+Sound: heavy breathing, quiet crying, leaves, distant waves. No music, no words.
+NEGATIVE: t-shirt, smiling, other people, a boat in this shot, text, watermark, logo.

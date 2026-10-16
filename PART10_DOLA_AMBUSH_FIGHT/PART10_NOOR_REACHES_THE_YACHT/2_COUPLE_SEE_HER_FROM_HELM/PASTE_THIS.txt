@@ -1,0 +1,16 @@
+Please reply only in English.
+CONTEXT: A scene from "The One-Eyed Island", a fictional PG adventure film set in the present day. Copy the uploaded reference images EXACTLY - same faces, same clothes, same yacht, same helm, same beach. Never invent new people, new clothes or a different boat.
+Make this video ONE continuous shot, NO cuts, 16:9, daytime.
+Upload images in this order: 1_MAN.jpg, 2_WOMAN.jpg, 3_HELM.jpg, 4_ISLAND.jpg. Length: 12 seconds.
+REFERENCE LOCK: The man is EXACTLY 1_MAN.jpg: short brown hair, light stubble, open white linen shirt over a light blue t-shirt, beige shorts. The woman is EXACTLY 2_WOMAN.jpg: long wavy blonde hair, straw sun hat, pink floral long-sleeve beach shirt, white shorts. NOT a blue dress. The inside of the yacht is EXACTLY 3_HELM.jpg: white and wood helm, big front windscreen, the same dashboard and seat. The beach seen through the windscreen is EXACTLY 4_ISLAND.jpg.
+ONLY TWO PEOPLE INSIDE THE HELM: the man at the wheel and the woman beside him.
+The yacht moves slowly along the coast, about to leave. The camera is inside the helm behind the couple; the windscreen and the far beach are always visible.
+0-3 s: The man steers calmly. The woman looks out of the windscreen at the beach.
+3-6 s: Through the windscreen, far away, a tiny figure of a girl in a black top comes out from between the trees at the edge of the jungle and stumbles onto the sand. The woman freezes and points.
+Woman: "Wait... look! Someone just came out of the trees!"
+6-9 s: The man slows the yacht, leans forward and squints.
+Man: "Is that... a girl? Out here?"
+9-12 s: They look at each other, worried.
+Woman: "She's hurt. Stop the boat!"
+Sound: engine slowing down, waves, their voices only. No music.
+NEGATIVE: different people, blue dress, a different boat interior, more than two people inside, text, watermark, logo.
