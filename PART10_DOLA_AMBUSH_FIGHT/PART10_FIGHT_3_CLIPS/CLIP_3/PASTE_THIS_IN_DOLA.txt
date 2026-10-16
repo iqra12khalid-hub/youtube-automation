@@ -1,0 +1,19 @@
+!!! FIRST FRAME = THE LAST FRAME OF CLIP 2 !!!
+Send Clip 2 to Claude to get its clean last frame (logo removed). Upload it as image 2.
+
+Please reply only in English.
+CONTEXT: A quiet, emotional scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference image exactly.
+Make this video 15 seconds, one generation, 16:9.
+Upload images in this order: 1_CREATURE_SHEET.jpg, then the LAST FRAME of Clip 2 as image 2.
+FIRST FRAME: the video starts exactly from the last frame of Clip 2: the creature standing over the two warriors lying still in the mud.
+REFERENCE LOCK: the creature is 1_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, necklace, torn mustard tunic with a brown strap, white cloth around its waist; realistic, never a cartoon). It never wears a mask or straw cape.
+ONLY the creature moves. The two warriors lie still on the ground the whole time. No other people.
+LOCATION AND LIGHT: DAYTIME, the same misty blue jungle path, wet reddish mud, ferns, soft blue fog.
+CAMERA: ONE CONTINUOUS SHOT, NO CUTS.
+0-4 s (real speed): The creature turns away from the two motionless warriors and starts walking down the path, limping, one hand pressed on its side.
+4-7 s: It stops, sways, shakes its head, dizzy. It reaches out for a tree trunk but misses.
+7-9 s: Its legs give out and it drops onto both knees in the middle of the path, head hanging.
+9-12 s: Close-up on its face. Its single big eye blinks slowly and heavily, the eyelid closing little by little, opening once, then closing again.
+12-15 s (SLOW MOTION): The camera pulls back. The creature slowly falls forward and to the side, all the way down onto the muddy path, mud and mist floating in the soft light. It lies still and peaceful, its eye closed. Quiet.
+Sound: limping footsteps in mud, heavy breathing getting slower and softer, soft wind in the leaves. No music, no voices.
+NEGATIVE: cuts, other people moving, the creature wearing a mask or straw cape, two eyes on the creature, cartoon, blood, text, watermark, logo.

@@ -1,0 +1,14 @@
+!!! FIRST FRAME = THE LAST FRAME OF CLIP 2 (ask Claude) !!!
+
+KLING 3.0 OMNI   FIRST FRAME: THE LAST FRAME OF CLIP 2 (ask Claude)   CHIPS: @monster3 + your warrior element (written @warrior)   MULTI-SHOT: OFF   15 s
+
+PROMPT
+Continue exactly from the first frame. One continuous shot, daytime, misty blue jungle path, wet reddish mud, ferns on both sides, soft fog. Only @monster3 and exactly two @warrior; never more than two warriors. @monster3 never wears a mask or straw cape. No torches.
+
+0-4 s (real speed): @monster3 turns away from the two motionless warriors and starts walking down the path, limping, one hand pressed on its side.
+4-7 s: It stops, sways, shakes its head, dizzy. It reaches out for a tree trunk but misses.
+7-9 s: Its legs give out and it drops onto both knees in the middle of the path, head hanging.
+9-12 s: Close-up on its face. Its single big eye blinks slowly and heavily, the eyelid closing little by little, opening once, then closing again.
+12-15 s (SLOW MOTION): The camera pulls back. @monster3 slowly falls forward and to the side, all the way down onto the muddy path, mud and mist floating in the soft light. It lies still and peaceful, its eye closed. Quiet.
+
+No blood. Sound: limping footsteps, slow breathing getting softer, wind in the leaves. No music.

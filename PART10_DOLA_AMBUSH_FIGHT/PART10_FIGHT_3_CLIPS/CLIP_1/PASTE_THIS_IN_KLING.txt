@@ -1,3 +1,5 @@
+!!! FIRST FRAME = 3_FIRST_FRAME.jpg (in this folder) !!!
+
 KLING 3.0 OMNI   FIRST FRAME: 3_FIRST_FRAME.jpg   CHIPS: @monster3 + your warrior element (written @warrior below)   MULTI-SHOT: OFF   15 s
 
 PROMPT

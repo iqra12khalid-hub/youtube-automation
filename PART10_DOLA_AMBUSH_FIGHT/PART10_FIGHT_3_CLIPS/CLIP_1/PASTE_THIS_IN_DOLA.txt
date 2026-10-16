@@ -1,3 +1,5 @@
+!!! FIRST FRAME = 3_FIRST_FRAME.jpg (in this folder) !!!
+
 Please reply only in English.
 CONTEXT: A scene from "The One-Eyed Island", a fictional PG-13 adventure action film. Staged movie stunt choreography performed by stunt actors. Copy the uploaded reference images exactly.
 Make this video 15 seconds, one generation, 16:9.
