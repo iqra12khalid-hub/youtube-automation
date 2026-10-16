@@ -1,0 +1,14 @@
+Please reply only in English.
+CONTEXT: A quiet, emotional scene from "The One-Eyed Island", a fictional PG adventure film. Copy the uploaded reference image exactly.
+Make this video 15 seconds, one generation, 16:9.
+Upload: 1_CREATURE_SHEET.jpg, then the LAST FRAME of Part 3 (from Claude) as the first frame.
+FIRST FRAME: the video starts exactly from the uploaded last frame: the creature on its knees on the jungle path, two warriors lying still on the ground nearby.
+REFERENCE LOCK: the creature is 1_CREATURE_SHEET.jpg (one big eye in the middle of its face, grey wrinkled skin, bald head, necklace, torn mustard tunic with a brown strap, white cloth around its waist; realistic like an actor in prosthetic make-up, never a cartoon, never a human face).
+ONLY the creature moves. The two warriors lie still on the ground the whole time. No other people.
+LOCATION AND LIGHT: DAYTIME, the same misty blue jungle path, tall trees, ferns, soft blue fog, sunlight coming through the treetops.
+CAMERA: ONE CONTINUOUS SHOT, NO CUTS. Very slow camera movement.
+0-4 s (SLOW MOTION): The creature, exhausted, sways on its knees, then slowly tips sideways and rolls onto its back on the dirt path. Dust floats softly in the light.
+4-9 s: The camera slowly moves above it and comes close to its face. It lies on its back breathing slowly, its single big eye looking up at the sky through the tall trees. Sunlight falls on its face. Its expression becomes calm and peaceful, a tear at the corner of its eye.
+9-15 s: Extreme close-up on its eye. Very slowly the heavy eyelid closes, little by little, until it is fully closed. Its breathing slows and it rests, completely calm and still, as if falling into a deep sleep.
+Sound: slow tired breathing getting softer, soft wind in the leaves. No music, no voices.
+NEGATIVE: cuts, other people moving, two eyes on the creature, cartoon, blood, text, watermark, logo.
