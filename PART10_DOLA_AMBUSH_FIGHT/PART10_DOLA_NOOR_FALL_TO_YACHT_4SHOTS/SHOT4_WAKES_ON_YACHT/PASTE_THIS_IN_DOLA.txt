@@ -1,0 +1,11 @@
+Please reply only in English.
+CONTEXT: A quiet, emotional scene from "The One-Eyed Island", a fictional PG adventure film set in the present day. Copy the uploaded reference images EXACTLY - same face, same clothes.
+Make this video ONE continuous shot, NO cuts, 16:9. LIGHT: soft warm late-afternoon sun.
+Upload images in this order: 1_GIRL.jpg, 2_WOMAN.jpg, 3_YACHT_INSIDE.jpg. Length: 15 seconds.
+REFERENCE LOCK: The girl is EXACTLY 1_GIRL.jpg: brown hair in a ponytail, black sports top, dark dirty jeans, red tribal face paint across her forehead and cheeks, dirt on her skin. She never smiles. (her face paint is smudged). The woman is EXACTLY 2_WOMAN.jpg: long wavy blonde hair, pink floral long-sleeve shirt fully buttoned, white shorts, hat off. The inside of the yacht is EXACTLY 3_YACHT_INSIDE.jpg.
+ONLY TWO PEOPLE: the girl and the woman.
+0-4 s: The girl lies resting on the white cushioned seat inside the yacht under a grey blanket, eyes closed. The woman sits beside her, gently pressing a wet cloth to her forehead, worried.
+4-8 s: The girl's eyes slowly open. Confused and scared, she looks around, breathing fast, and tries to sit up. The woman gently holds her shoulder and softly says: "Shh... it's okay. You're safe now. You're on our boat."
+8-15 s: The girl sits up slowly, the blanket around her shoulders. The woman hands her a warm cup with steam rising. The girl holds it with both shaking hands, staring at nothing, tired and sad. A tear rolls down her cheek and she slowly looks out of the window toward the island.
+Quiet, gentle, emotional, realistic. Sound: soft engine hum, waves, the woman's quiet voice. No music.
+NEGATIVE: smiling, different people, a different interior, a dress, text, watermark, logo.
