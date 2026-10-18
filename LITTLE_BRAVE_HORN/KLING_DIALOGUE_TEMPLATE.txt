@@ -11,3 +11,11 @@ Prompt pattern:
 - End with: "Lip sync rules: a mouth moves ONLY when that character is speaking a line,
   exactly matching the words and timing. No mouth movement at any other time.
   No silent lip movement." + Sound list + "No music. No text."
+
+STRONGER NO-EXTRA-LIP RULES (added after clips 6-9 still had small extra mouth movement)
+- In every silent block write: "mouths closed in a gentle closed-mouth smile, lips still".
+- Do NOT write "giggling", "laughing", "chattering" in silent blocks (they make Kling open mouths).
+  Use "smiling with mouth closed", "happy eyes", "shoulders shake with a silent laugh".
+- Put the spoken line as ONE short sentence, and say "then the mouth closes and stays closed".
+- Kling NEGATIVE PROMPT field: talking, mouth moving, lip movement, chewing, babbling,
+  open mouth, mouth flapping, mumbling, extra speech, singing
