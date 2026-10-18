@@ -1,11 +1,11 @@
 PROJECT CONTEXT - read this first, then make the video at the bottom.
 
-LITTLE BRAVE HORN - a 3D animated family film (Pixar / DreamWorks style), safe for kids.
+LITTLE BRAVE HORN - a 3D animated family film (high-quality 3D cartoon feature-film style), safe for kids.
 Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to save his mother.
 Almost no dialogue: the story is told with faces, body language, music and sound.
 
 STYLE (every clip)
-- 3D animated feature-film quality, Pixar style, soft rounded shapes, very expressive cartoon faces and eyes.
+- 3D animated feature-film quality, soft rounded shapes, very expressive cartoon faces and eyes.
 - Animals move on FOUR legs like real animals (they never stand up like humans), but act with cute cartoon emotions.
 - Warm golden light = safe and happy. Natural speed, no slow motion unless the prompt asks.
 - 16:9, ONE continuous 15-second shot, smooth camera, no cuts, no text, no subtitles, no watermark, no logo.
@@ -89,7 +89,7 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
   "title": "Little Brave Horn - Clip 01: Wake up in the golden grass (TITLE SHOT)",
   "duration_seconds": 15,
   "aspect_ratio": "16:9",
-  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "style": "3D animated feature film, warm golden light, cute expressive cartoon animals on four legs",
   "references": {
     "use_only_these": [
       "1_littlerhino.jpg",
@@ -139,7 +139,7 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
   "title": "Little Brave Horn - Clip 02: The butterfly on his horn",
   "duration_seconds": 15,
   "aspect_ratio": "16:9",
-  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "style": "3D animated feature film, warm golden light, cute expressive cartoon animals on four legs",
   "references": {
     "use_only_these": [
       "1_FIRST_FRAME.png",
@@ -187,7 +187,7 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
   "title": "Little Brave Horn - Clip 03: Charging the bush like a big rhino",
   "duration_seconds": 15,
   "aspect_ratio": "16:9",
-  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "style": "3D animated feature film, warm golden light, cute expressive cartoon animals on four legs",
   "references": {
     "use_only_these": [
       "1_littlerhino.jpg",
@@ -235,7 +235,7 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
   "title": "Little Brave Horn - Clip 04: Running through the grass, then Mama",
   "duration_seconds": 15,
   "aspect_ratio": "16:9",
-  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "style": "3D animated feature film, warm golden light, cute expressive cartoon animals on four legs",
   "references": {
     "use_only_these": [
       "1_littlerhino.jpg",
@@ -288,7 +288,7 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
   "title": "Little Brave Horn - Clip 05: \"Come, little one. It's time to go.\"",
   "duration_seconds": 15,
   "aspect_ratio": "16:9",
-  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "style": "3D animated feature film, warm golden light, cute expressive cartoon animals on four legs",
   "references": {
     "use_only_these": [
       "1_FIRST_FRAME.png",
@@ -340,7 +340,7 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
   "title": "Little Brave Horn - Clip 06: The herd walks, his tiny horn",
   "duration_seconds": 15,
   "aspect_ratio": "16:9",
-  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "style": "3D animated feature film, warm golden light, cute expressive cartoon animals on four legs",
   "references": {
     "use_only_these": [
       "1_littlerhino.jpg",
@@ -390,7 +390,7 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
   "title": "Little Brave Horn - Clip 07: Mud bath and bubbles",
   "duration_seconds": 15,
   "aspect_ratio": "16:9",
-  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "style": "3D animated feature film, warm golden light, cute expressive cartoon animals on four legs",
   "references": {
     "use_only_these": [
       "1_littlerhino.jpg",
@@ -443,7 +443,7 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
   "title": "Little Brave Horn - Clip 08: Mud baby and the sad reflection",
   "duration_seconds": 15,
   "aspect_ratio": "16:9",
-  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "style": "3D animated feature film, warm golden light, cute expressive cartoon animals on four legs",
   "references": {
     "use_only_these": [
       "1_FIRST_FRAME.png",
