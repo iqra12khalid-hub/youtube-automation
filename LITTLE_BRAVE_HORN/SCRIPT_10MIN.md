@@ -77,7 +77,7 @@ Built on the structure and rhythm of "One Brave Trunk" (see `../ANALYSIS_One_Bra
 **Locations** (Firefly Image, then location elements):
 - `savanna`: golden African savanna, tall dry grass, acacia trees, a waterhole, warm sunlight.
 - `mudpool`: a shallow muddy pool with reeds and a big round grey rock at the edge.
-- `fruittree`: a big marula tree full of round yellow fruit, a hollow log lying under it.
+- `fruitree`: a big marula tree full of round yellow fruit, a hollow log lying under it.
 
 ---
 
@@ -153,7 +153,7 @@ E10. A huge shadow: he looks up, up, up a long neck: the `@giraffe` lowers its h
 24. He crashes into `@mamarhino`'s leg; she looks at the hippo, the hippo shrugs and goes back to sleep.
 
 ### THE MARULA FRUIT (5:40-8:00)
-25. `@littlerhino` sees a juicy yellow fruit high on `@fruittree`. Licks his lips.
+25. `@littlerhino` sees a juicy yellow fruit high on `@fruitree`. Licks his lips.
 26. He stretches up on his back legs, wobbling, can't reach.
 27. He spears a fallen fruit with his horn, proud, then can't get it off; shakes his head, it flies away and hits `@oxpecker`.
 28. He rams the tree trunk with his horn: one tiny leaf falls on his head.

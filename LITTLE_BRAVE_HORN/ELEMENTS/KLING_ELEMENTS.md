@@ -14,6 +14,11 @@
 | `chameleon` | character | green chameleon with yellow spots | chameleon/ |
 | `giraffe` | character | gentle giraffe (NOT yet saved in Kling) | giraffe/ |
 
-Locations still to make: `savanna`, `mudpool`, `fruittree`.
+## Locations (saved in Kling)
+| Kling name | Images here |
+|---|---|
+| `savanna` | savanna/ (BASE, FRONT, BACK) |
+| `mudpool` | mudpool/ (BASE, FRONT padded 2.4:1, BACK) |
+| `fruitree` | marula tree with hollow log, slope and path (saved in Kling with this spelling) |
 
 Kling limit: max 3 elements per clip. For shots with more, use a first-frame image.
