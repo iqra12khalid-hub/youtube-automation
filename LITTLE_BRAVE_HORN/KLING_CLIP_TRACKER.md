@@ -12,8 +12,8 @@
 | 8 | Oxpecker lands, "Who's there?" / "That tickles!" | last frame of 7 | DONE |
 | 9 | Chase with bird, "Mama, look! I have a friend!" | last frame of 8 | DONE |
 | 10A | Leaves mud, meets Zuri: "Hi, I'm Little Horn. Want to play?" / "Yes! I'm Zuri!" | last frame of 9 | DONE (no play part) |
-| 10B | Play, mother zebra calls, "We'll play again soon!" / "Promise?", Zuri leaves | last frame of 10A | NEXT |
-| 11 | Sad alone, walks on, meerkats | last frame of 10B | WAITING for 10B |
+| 10B | Play, mother zebra calls, "We'll play again soon!" / "Promise?", Zuri leaves | last frame of 10A | DONE |
+| 11 | Sad alone, walks on, meerkats | last frame of 10B | NEXT |
 
 Chain A: 6 -> 7 -> 8 -> 9   (9 ends with Mama + baby + bird)
 Chain B: 10 -> 11 -> ...    (exploring: zebra, meerkats, chameleon, giraffe)
