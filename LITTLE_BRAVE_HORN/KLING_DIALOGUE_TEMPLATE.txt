@@ -1,0 +1,13 @@
+KLING 3.0 OMNI - DIALOGUE FORMAT THAT WORKS (perfect lip sync, confirmed on clip 4)
+Settings: first frame = last frame of previous clip, 15 s, 16:9, Multi-shot OFF, Audio ON.
+Elements: @littlerhino @mamarhino + location (max 3).
+
+Prompt pattern:
+- "Continue exactly from the first frame." + style + who is where.
+- Split into time blocks: "0-4 s: ...", "4-9 s: ...".
+- In every block say whose mouth moves and that the others stay CLOSED.
+- Dialogue: "speaks slowly in a soft, warm, gentle mother's voice: "..."" /
+            "answers in his small, high, squeaky voice: "...""  (never say "boy" or "child")
+- End with: "Lip sync rules: a mouth moves ONLY when that character is speaking a line,
+  exactly matching the words and timing. No mouth movement at any other time.
+  No silent lip movement." + Sound list + "No music. No text."
