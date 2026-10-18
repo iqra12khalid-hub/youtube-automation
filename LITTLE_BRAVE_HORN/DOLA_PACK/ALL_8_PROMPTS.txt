@@ -1,0 +1,478 @@
+PROJECT CONTEXT - read this first, then make the video at the bottom.
+
+LITTLE BRAVE HORN - a 3D animated family film (Pixar / DreamWorks style), safe for kids.
+Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to save his mother.
+Almost no dialogue: the story is told with faces, body language, music and sound.
+
+STYLE (every clip)
+- 3D animated feature-film quality, Pixar style, soft rounded shapes, very expressive cartoon faces and eyes.
+- Animals move on FOUR legs like real animals (they never stand up like humans), but act with cute cartoon emotions.
+- Warm golden light = safe and happy. Natural speed, no slow motion unless the prompt asks.
+- 16:9, ONE continuous 15-second shot, smooth camera, no cuts, no text, no subtitles, no watermark, no logo.
+
+CHARACTERS - always copy the uploaded sheets exactly
+- LITTLE RHINO: grey-pink baby rhino, big brown eyes, round pink ears, ONLY ONE TINY ROUND BLUNT HORN BUMP on his nose. His horn must stay tiny in every frame.
+- MAMA RHINO: big darker slate-grey rhino, kind eyes with long lashes, one long curved horn + small second horn.
+- Other adult rhinos in the herd (when the prompt asks) look like Mama Rhino: same grey colour, long horns, slightly different sizes.
+
+
+HOW TO MAKE THESE 8 CLIPS IN DOLA (read this first)
+==================================================
+
+SETTINGS FOR EVERY CLIP
+- Model: SEEDANCE 2.0
+- Quality: 4K
+- Length: 15 SECONDS
+- Aspect ratio: 16:9
+- One generation per clip, one continuous shot, no cuts.
+
+HOW TO UPLOAD
+- Open the clip's folder (for example CLIP_01_...).
+- Upload the images in the folder IN NUMBER ORDER (1, 2, 3, ...).
+- Open PASTE_THIS_IN_DOLA.txt in that folder, copy EVERYTHING and paste it into Dola.
+
+ORDER - VERY IMPORTANT
+Some clips must start EXACTLY on the LAST FRAME of the clip before them.
+DO NOT START those clips until the clip before is finished and you have its last frame.
+
+  START NOW (no first frame needed, you can make these at the same time):
+    CLIP 01, CLIP 03, CLIP 04, CLIP 06, CLIP 07
+
+  WAIT - make these only AFTER the clip before is finished:
+    CLIP 02  <- needs the LAST FRAME of CLIP 01
+    CLIP 05  <- needs the LAST FRAME of CLIP 04
+    CLIP 08  <- needs the LAST FRAME of CLIP 07
+
+  For a WAIT clip:
+    1. Finish the earlier clip and download it.
+    2. Take its very last frame as an image (or send me the video and I will cut the frame for you).
+    3. Name it 1_FIRST_FRAME and upload it FIRST, then the other numbered images in the folder.
+
+AFTER EACH CLIP
+- Check: the baby rhino's horn is still TINY and round, both rhinos walk on four legs, no text on screen.
+- If something is wrong, generate again with the same prompt.
+- Send me the finished clips and I will edit them together with music and sound.
+
+THE 8 CLIPS (2 minutes of the film)
+  01  Wake up in the golden grass (title shot)      START NOW
+  02  The butterfly on his horn                      WAIT for 01
+  03  Charging the bush like a big rhino             START NOW
+  04  Running through the grass, then Mama           START NOW
+  05  "Come, little one. It's time to go."           WAIT for 04
+  06  The herd walks, his tiny horn                  START NOW
+  07  Mud bath and bubbles                           START NOW
+  08  Mud baby and the sad reflection                WAIT for 07
+
+FOLDERS
+  CHARACTER_SHEETS/  one sheet per character, all poses on one image, named by character
+  LOCATIONS/         savanna, mudpool, fruittree
+  CLIP_01 ... CLIP_08  numbered images + PASTE_THIS_IN_DOLA.txt for each clip
+
+
+============================================================
+ALL 8 PROMPTS
+============================================================
+
+
+######## CLIP 01 - Wake up in the golden grass (TITLE SHOT) ########
+START NOW - no first frame needed.
+Folder: CLIP_01_WAKE_UP_IN_THE_GOLDEN_GRASS_TITLE_SHOT
+Upload in this order:
+- 1_littlerhino.jpg
+- 2_savanna.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 01: Wake up in the golden grass (TITLE SHOT)",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_littlerhino.jpg",
+      "2_savanna.jpg"
+    ],
+    "1_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "2_savanna.jpg": "SAVANNA: golden African savanna, tall dry golden grass, flat-topped acacia trees, soft hills, a winding dirt path, warm golden sunlight."
+  },
+  "camera_setup": "Starts as an extreme close-up on the horn, slow smooth pull back to a medium shot of the baby rhino standing in the grass. Low camera at his eye level.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "Extreme close-up of LITTLE RHINO's tiny round horn bump in soft golden morning light, golden dust and pollen floating slowly in the air. The camera starts to pull back slowly."
+    },
+    {
+      "time": "5-10 s",
+      "action": "The camera keeps pulling back: he is lying asleep in the tall golden grass of the savanna, eyes closed, breathing gently. His round ears twitch one by one. One eye slowly opens, then the other. He blinks."
+    },
+    {
+      "time": "10-15 s",
+      "action": "He gets up on his four short legs, stretches his front legs forward with his bottom in the air like a puppy, gives a big cute yawn, then shakes his head so his ears flop. He stands in the grass facing the camera, happy and curious. A small blue butterfly flutters in from the left toward his face."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Morning birds, soft wind in the grass, a tiny yawn squeak, gentle breathing. No music.",
+  "last_frame": "LITTLE RHINO standing in the golden grass facing the camera, a blue butterfly just in front of his face.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}
+
+
+######## CLIP 02 - The butterfly on his horn ########
+WAIT - start only after CLIP 01 is finished (needs its last frame).
+Folder: CLIP_02_THE_BUTTERFLY_ON_HIS_HORN
+Upload in this order:
+- 1_FIRST_FRAME.png
+- 2_littlerhino.jpg
+- 3_savanna.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME (the last frame of CLIP 01) as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 02: The butterfly on his horn",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_FIRST_FRAME.png",
+      "2_littlerhino.jpg",
+      "3_savanna.jpg"
+    ],
+    "2_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "3_savanna.jpg": "SAVANNA: golden African savanna, tall dry golden grass, flat-topped acacia trees, soft hills, a winding dirt path, warm golden sunlight."
+  },
+  "camera_setup": "Medium close shot at his eye level, the camera gently follows him when he falls and gets up. One continuous shot.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "The blue butterfly lands right on his tiny horn bump. He freezes. His eyes slowly cross as he stares at it, very funny cross-eyed face."
+    },
+    {
+      "time": "5-10 s",
+      "action": "He leans his head back more and more to see it, wobbling on his little legs, then loses balance and tips over backwards onto his back with a soft flop, four legs up in the air."
+    },
+    {
+      "time": "10-15 s",
+      "action": "The butterfly flies away. He wiggles, rolls over and gets back on his feet, shakes the grass off, and looks around. He notices a small round green bush a few metres in front of him and lowers his head at it with a determined little face."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Butterfly wing flutters, a funny surprised squeak, a soft grass flop, birds, wind. No music.",
+  "last_frame": "LITTLE RHINO standing, head lowered, looking at a small round green bush in front of him.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}
+
+
+######## CLIP 03 - Charging the bush like a big rhino ########
+START NOW - no first frame needed.
+Folder: CLIP_03_CHARGING_THE_BUSH_LIKE_A_BIG_RHINO
+Upload in this order:
+- 1_littlerhino.jpg
+- 2_savanna.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 03: Charging the bush like a big rhino",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_littlerhino.jpg",
+      "2_savanna.jpg"
+    ],
+    "1_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "2_savanna.jpg": "SAVANNA: golden African savanna, tall dry golden grass, flat-topped acacia trees, soft hills, a winding dirt path, warm golden sunlight."
+  },
+  "camera_setup": "Side-on medium-wide shot at his height, the camera follows the charge and the bounce, then slowly moves closer to his proud face.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "Wide shot of the golden savanna. LITTLE RHINO stands in front of a small round green bush, lowers his head, scrapes the ground with one front foot twice like a big rhino, dust puffs up."
+    },
+    {
+      "time": "5-10 s",
+      "action": "He charges at the bush at full baby speed, little legs running fast. He hits the bush with his tiny horn and BOING: the springy bush bounces him straight back, he flies backwards and lands sitting on his bottom, dazed, little stars of dust around his head."
+    },
+    {
+      "time": "10-15 s",
+      "action": "He shakes his head, gets up, forgets the bush and starts drawing a line in the sandy ground with his tiny horn, walking slowly while drawing. He stops, looks at his line proudly and lifts his chin, very proud of himself."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Foot scraping, quick little hoof steps, a springy BOING, a soft bump, sand scratching. No music.",
+  "last_frame": "LITTLE RHINO standing proudly next to a line in the sand.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}
+
+
+######## CLIP 04 - Running through the grass, then Mama ########
+START NOW - no first frame needed.
+Folder: CLIP_04_RUNNING_THROUGH_THE_GRASS_THEN_MAMA
+Upload in this order:
+- 1_littlerhino.jpg
+- 2_mamarhino.jpg
+- 3_savanna.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 04: Running through the grass, then Mama",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_littlerhino.jpg",
+      "2_mamarhino.jpg",
+      "3_savanna.jpg"
+    ],
+    "1_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "2_mamarhino.jpg": "MAMA RHINO (his mother): big and gentle, darker slate-grey skin with deep wrinkles, kind warm brown eyes with long lashes, round ears, ONE LONG curved horn and a small second horn behind it. Walks on four legs.",
+    "3_savanna.jpg": "SAVANNA: golden African savanna, tall dry golden grass, flat-topped acacia trees, soft hills, a winding dirt path, warm golden sunlight."
+  },
+  "camera_setup": "Low fast tracking camera behind and beside him, then it stops when he tumbles and slowly tilts to his face looking up at Mama.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "Low fast camera running behind LITTLE RHINO through the tall golden grass, grass blades whipping past the camera with motion blur, he runs happily with his ears flapping."
+    },
+    {
+      "time": "5-10 s",
+      "action": "He trips over a small root and tumbles head over heels into a soft patch of grass, rolling, and ends lying on his back, legs up, giggling."
+    },
+    {
+      "time": "10-15 s",
+      "action": "A big shadow falls over him. He opens his eyes and looks up: MAMA RHINO is standing over him, looking down at him with a warm loving smile. He smiles back up at her, upside down."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Fast little hoof steps, grass swishing, a tumble, giggles, then quiet with birds. No music.",
+  "last_frame": "LITTLE RHINO lying on his back in the grass looking up, MAMA RHINO standing over him smiling down.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}
+
+
+######## CLIP 05 - "Come, little one. It's time to go." ########
+WAIT - start only after CLIP 04 is finished (needs its last frame).
+Folder: CLIP_05_COME_LITTLE_ONE_IT_S_TIME_TO_GO
+Upload in this order:
+- 1_FIRST_FRAME.png
+- 2_littlerhino.jpg
+- 3_mamarhino.jpg
+- 4_savanna.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME (the last frame of CLIP 04) as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 05: \"Come, little one. It's time to go.\"",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_FIRST_FRAME.png",
+      "2_littlerhino.jpg",
+      "3_mamarhino.jpg",
+      "4_savanna.jpg"
+    ],
+    "2_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "3_mamarhino.jpg": "MAMA RHINO (his mother): big and gentle, darker slate-grey skin with deep wrinkles, kind warm brown eyes with long lashes, round ears, ONE LONG curved horn and a small second horn behind it. Walks on four legs.",
+    "4_savanna.jpg": "SAVANNA: golden African savanna, tall dry golden grass, flat-topped acacia trees, soft hills, a winding dirt path, warm golden sunlight."
+  },
+  "camera_setup": "Medium shot at the baby's eye level, then the camera stays still while they walk away together along the path into the golden distance.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "MAMA RHINO lowers her head and gently nudges him with the side of her long horn, rolling him back onto his feet. He wobbles and stands up."
+    },
+    {
+      "time": "5-10 s",
+      "action": "She looks at him lovingly and says softly and slowly: \"Come, little one. It's time to go.\" He nods happily and bounces once."
+    },
+    {
+      "time": "10-15 s",
+      "action": "MAMA RHINO turns and walks away calmly along the dirt path into the savanna. LITTLE RHINO trots after her with quick little steps to catch up and walks close beside her front leg."
+    }
+  ],
+  "dialogue": "MAMA RHINO (warm, gentle, slow): \"Come, little one. It's time to go.\"",
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Soft nudge, her calm warm voice speaking the line, his happy squeak, hoof steps on the dirt path, birds. No music.",
+  "last_frame": "Mother and baby walking away together along the dirt path.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}
+
+
+######## CLIP 06 - The herd walks, his tiny horn ########
+START NOW - no first frame needed.
+Folder: CLIP_06_THE_HERD_WALKS_HIS_TINY_HORN
+Upload in this order:
+- 1_littlerhino.jpg
+- 2_mamarhino.jpg
+- 3_savanna.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 06: The herd walks, his tiny horn",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_littlerhino.jpg",
+      "2_mamarhino.jpg",
+      "3_savanna.jpg"
+    ],
+    "1_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "2_mamarhino.jpg": "MAMA RHINO (his mother): big and gentle, darker slate-grey skin with deep wrinkles, kind warm brown eyes with long lashes, round ears, ONE LONG curved horn and a small second horn behind it. Walks on four legs.",
+    "3_savanna.jpg": "SAVANNA: golden African savanna, tall dry golden grass, flat-topped acacia trees, soft hills, a winding dirt path, warm golden sunlight."
+  },
+  "camera_setup": "Starts wide and low from the side of the herd, then slowly moves in to a medium close shot of the baby walking beside his mother, ending on his face.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "Wide shot: a small herd of four big grey rhinos walks in a line through the golden savanna, dust rising in the warm light, acacia trees behind. LITTLE RHINO trots at the very back trying to keep up."
+    },
+    {
+      "time": "5-10 s",
+      "action": "Closer: LITTLE RHINO walks right next to MAMA RHINO. He looks up at her long, beautiful curved horn with big admiring eyes."
+    },
+    {
+      "time": "10-15 s",
+      "action": "He crosses his eyes to look down at his own tiny round horn bump on his nose, then lets out a small sad sigh, his ears droop and his head goes a little lower."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Heavy rhino footsteps, a few deep rhino snorts, his little hoof steps, wind, a tiny sad sigh. No music.",
+  "last_frame": "LITTLE RHINO walking beside his mother, ears down, a little sad.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}
+
+
+######## CLIP 07 - Mud bath and bubbles ########
+START NOW - no first frame needed.
+Folder: CLIP_07_MUD_BATH_AND_BUBBLES
+Upload in this order:
+- 1_littlerhino.jpg
+- 2_mamarhino.jpg
+- 3_mudpool.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 07: Mud bath and bubbles",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_littlerhino.jpg",
+      "2_mamarhino.jpg",
+      "3_mudpool.jpg"
+    ],
+    "1_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "2_mamarhino.jpg": "MAMA RHINO (his mother): big and gentle, darker slate-grey skin with deep wrinkles, kind warm brown eyes with long lashes, round ears, ONE LONG curved horn and a small second horn behind it. Walks on four legs.",
+    "3_mudpool.jpg": "MUD POOL: a shallow round pool of smooth brown mud with bubbles, green reeds around the edge, one big round grey boulder at the edge, cracked dry mud ground, golden grass and acacia trees behind."
+  },
+  "camera_setup": "Starts with a wide shot of the mud pool and the big rhinos rolling, then moves down and in to a close shot of the baby popping bubbles at the edge.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "The herd arrives at the mud pool. MAMA RHINO and the big rhinos walk into the soft brown mud and roll in it happily, mud splashing in the warm afternoon light."
+    },
+    {
+      "time": "5-10 s",
+      "action": "LITTLE RHINO stands at the edge of the mud pool. Mud bubbles rise up, BLOOP. He pokes a bubble with his tiny horn, POP, and giggles."
+    },
+    {
+      "time": "10-15 s",
+      "action": "He pops more bubbles one after another, POP POP POP, faster and faster, giggling louder, his tail wagging. The last bubble pops right in front of his nose with a tiny splash of mud on his face; he blinks, surprised, then grins."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Thick mud squelching, rhinos grunting happily, bubbles bloop and pop, little giggles. No music.",
+  "last_frame": "LITTLE RHINO at the edge of the mud pool with a small mud splash on his face, grinning; MAMA RHINO in the mud behind him.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}
+
+
+######## CLIP 08 - Mud baby and the sad reflection ########
+WAIT - start only after CLIP 07 is finished (needs its last frame).
+Folder: CLIP_08_MUD_BABY_AND_THE_SAD_REFLECTION
+Upload in this order:
+- 1_FIRST_FRAME.png
+- 2_littlerhino.jpg
+- 3_mamarhino.jpg
+- 4_mudpool.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME (the last frame of CLIP 07) as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 08: Mud baby and the sad reflection",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_FIRST_FRAME.png",
+      "2_littlerhino.jpg",
+      "3_mamarhino.jpg",
+      "4_mudpool.jpg"
+    ],
+    "2_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "3_mamarhino.jpg": "MAMA RHINO (his mother): big and gentle, darker slate-grey skin with deep wrinkles, kind warm brown eyes with long lashes, round ears, ONE LONG curved horn and a small second horn behind it. Walks on four legs.",
+    "4_mudpool.jpg": "MUD POOL: a shallow round pool of smooth brown mud with bubbles, green reeds around the edge, one big round grey boulder at the edge, cracked dry mud ground, golden grass and acacia trees behind."
+  },
+  "camera_setup": "Medium shot of the mud pool, then the camera follows him to the puddle and ends on a close shot of his reflection and his sad face (camera low, near the water).",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "LITTLE RHINO jumps into the mud pool and rolls in it happily. He comes up completely covered in brown mud, only his two big eyes blinking out of the mud. MAMA RHINO laughs and splashes a little mud at him with her foot."
+    },
+    {
+      "time": "5-10 s",
+      "action": "He walks out of the pool to a small clear puddle of water and looks at his reflection. He sees his tiny horn. He lifts one front foot and pushes his horn up with it to make it look bigger, smiling hopefully."
+    },
+    {
+      "time": "10-15 s",
+      "action": "He lets go: the horn is tiny again. He looks at the reflection for a moment, his smile disappears, his ears droop and he sits down, sad and quiet. Mud drips from his chin."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Mud splash, a happy squeal, mama's soft laugh-snort, water drips, then quiet with soft wind. No music.",
+  "last_frame": "LITTLE RHINO sitting sadly beside the puddle looking at his reflection.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}

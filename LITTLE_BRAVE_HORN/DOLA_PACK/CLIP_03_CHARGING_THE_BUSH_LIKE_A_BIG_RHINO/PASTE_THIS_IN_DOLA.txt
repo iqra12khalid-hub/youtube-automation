@@ -1,0 +1,61 @@
+PROJECT CONTEXT - read this first, then make the video at the bottom.
+
+LITTLE BRAVE HORN - a 3D animated family film (Pixar / DreamWorks style), safe for kids.
+Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to save his mother.
+Almost no dialogue: the story is told with faces, body language, music and sound.
+
+STYLE (every clip)
+- 3D animated feature-film quality, Pixar style, soft rounded shapes, very expressive cartoon faces and eyes.
+- Animals move on FOUR legs like real animals (they never stand up like humans), but act with cute cartoon emotions.
+- Warm golden light = safe and happy. Natural speed, no slow motion unless the prompt asks.
+- 16:9, ONE continuous 15-second shot, smooth camera, no cuts, no text, no subtitles, no watermark, no logo.
+
+CHARACTERS - always copy the uploaded sheets exactly
+- LITTLE RHINO: grey-pink baby rhino, big brown eyes, round pink ears, ONLY ONE TINY ROUND BLUNT HORN BUMP on his nose. His horn must stay tiny in every frame.
+- MAMA RHINO: big darker slate-grey rhino, kind eyes with long lashes, one long curved horn + small second horn.
+- Other adult rhinos in the herd (when the prompt asks) look like Mama Rhino: same grey colour, long horns, slightly different sizes.
+
+THIS CLIP: 03 of 8 - Charging the bush like a big rhino
+
+## Uploaded images (in this order)
+- 1_littlerhino.jpg
+- 2_savanna.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 03: Charging the bush like a big rhino",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_littlerhino.jpg",
+      "2_savanna.jpg"
+    ],
+    "1_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "2_savanna.jpg": "SAVANNA: golden African savanna, tall dry golden grass, flat-topped acacia trees, soft hills, a winding dirt path, warm golden sunlight."
+  },
+  "camera_setup": "Side-on medium-wide shot at his height, the camera follows the charge and the bounce, then slowly moves closer to his proud face.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "Wide shot of the golden savanna. LITTLE RHINO stands in front of a small round green bush, lowers his head, scrapes the ground with one front foot twice like a big rhino, dust puffs up."
+    },
+    {
+      "time": "5-10 s",
+      "action": "He charges at the bush at full baby speed, little legs running fast. He hits the bush with his tiny horn and BOING: the springy bush bounces him straight back, he flies backwards and lands sitting on his bottom, dazed, little stars of dust around his head."
+    },
+    {
+      "time": "10-15 s",
+      "action": "He shakes his head, gets up, forgets the bush and starts drawing a line in the sandy ground with his tiny horn, walking slowly while drawing. He stops, looks at his line proudly and lifts his chin, very proud of himself."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Foot scraping, quick little hoof steps, a springy BOING, a soft bump, sand scratching. No music.",
+  "last_frame": "LITTLE RHINO standing proudly next to a line in the sand.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}

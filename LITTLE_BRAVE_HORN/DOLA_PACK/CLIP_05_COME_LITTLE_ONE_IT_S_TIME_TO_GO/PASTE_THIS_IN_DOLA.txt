@@ -1,0 +1,69 @@
+PROJECT CONTEXT - read this first, then make the video at the bottom.
+
+LITTLE BRAVE HORN - a 3D animated family film (Pixar / DreamWorks style), safe for kids.
+Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to save his mother.
+Almost no dialogue: the story is told with faces, body language, music and sound.
+
+STYLE (every clip)
+- 3D animated feature-film quality, Pixar style, soft rounded shapes, very expressive cartoon faces and eyes.
+- Animals move on FOUR legs like real animals (they never stand up like humans), but act with cute cartoon emotions.
+- Warm golden light = safe and happy. Natural speed, no slow motion unless the prompt asks.
+- 16:9, ONE continuous 15-second shot, smooth camera, no cuts, no text, no subtitles, no watermark, no logo.
+
+CHARACTERS - always copy the uploaded sheets exactly
+- LITTLE RHINO: grey-pink baby rhino, big brown eyes, round pink ears, ONLY ONE TINY ROUND BLUNT HORN BUMP on his nose. His horn must stay tiny in every frame.
+- MAMA RHINO: big darker slate-grey rhino, kind eyes with long lashes, one long curved horn + small second horn.
+- Other adult rhinos in the herd (when the prompt asks) look like Mama Rhino: same grey colour, long horns, slightly different sizes.
+
+THIS CLIP: 05 of 8 - "Come, little one. It's time to go."
+
+## Uploaded images (in this order)
+- 1_FIRST_FRAME.png
+- 2_littlerhino.jpg
+- 3_mamarhino.jpg
+- 4_savanna.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME (the last frame of CLIP 04) as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 05: \"Come, little one. It's time to go.\"",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_FIRST_FRAME.png",
+      "2_littlerhino.jpg",
+      "3_mamarhino.jpg",
+      "4_savanna.jpg"
+    ],
+    "2_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "3_mamarhino.jpg": "MAMA RHINO (his mother): big and gentle, darker slate-grey skin with deep wrinkles, kind warm brown eyes with long lashes, round ears, ONE LONG curved horn and a small second horn behind it. Walks on four legs.",
+    "4_savanna.jpg": "SAVANNA: golden African savanna, tall dry golden grass, flat-topped acacia trees, soft hills, a winding dirt path, warm golden sunlight."
+  },
+  "camera_setup": "Medium shot at the baby's eye level, then the camera stays still while they walk away together along the path into the golden distance.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "MAMA RHINO lowers her head and gently nudges him with the side of her long horn, rolling him back onto his feet. He wobbles and stands up."
+    },
+    {
+      "time": "5-10 s",
+      "action": "She looks at him lovingly and says softly and slowly: \"Come, little one. It's time to go.\" He nods happily and bounces once."
+    },
+    {
+      "time": "10-15 s",
+      "action": "MAMA RHINO turns and walks away calmly along the dirt path into the savanna. LITTLE RHINO trots after her with quick little steps to catch up and walks close beside her front leg."
+    }
+  ],
+  "dialogue": "MAMA RHINO (warm, gentle, slow): \"Come, little one. It's time to go.\"",
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Soft nudge, her calm warm voice speaking the line, his happy squeak, hoof steps on the dirt path, birds. No music.",
+  "last_frame": "Mother and baby walking away together along the dirt path.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}

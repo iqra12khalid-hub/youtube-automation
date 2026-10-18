@@ -1,0 +1,65 @@
+PROJECT CONTEXT - read this first, then make the video at the bottom.
+
+LITTLE BRAVE HORN - a 3D animated family film (Pixar / DreamWorks style), safe for kids.
+Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to save his mother.
+Almost no dialogue: the story is told with faces, body language, music and sound.
+
+STYLE (every clip)
+- 3D animated feature-film quality, Pixar style, soft rounded shapes, very expressive cartoon faces and eyes.
+- Animals move on FOUR legs like real animals (they never stand up like humans), but act with cute cartoon emotions.
+- Warm golden light = safe and happy. Natural speed, no slow motion unless the prompt asks.
+- 16:9, ONE continuous 15-second shot, smooth camera, no cuts, no text, no subtitles, no watermark, no logo.
+
+CHARACTERS - always copy the uploaded sheets exactly
+- LITTLE RHINO: grey-pink baby rhino, big brown eyes, round pink ears, ONLY ONE TINY ROUND BLUNT HORN BUMP on his nose. His horn must stay tiny in every frame.
+- MAMA RHINO: big darker slate-grey rhino, kind eyes with long lashes, one long curved horn + small second horn.
+- Other adult rhinos in the herd (when the prompt asks) look like Mama Rhino: same grey colour, long horns, slightly different sizes.
+
+THIS CLIP: 02 of 8 - The butterfly on his horn
+
+## Uploaded images (in this order)
+- 1_FIRST_FRAME.png
+- 2_littlerhino.jpg
+- 3_savanna.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+FIRST FRAME: Use the uploaded image 1_FIRST_FRAME (the last frame of CLIP 01) as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 02: The butterfly on his horn",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_FIRST_FRAME.png",
+      "2_littlerhino.jpg",
+      "3_savanna.jpg"
+    ],
+    "2_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "3_savanna.jpg": "SAVANNA: golden African savanna, tall dry golden grass, flat-topped acacia trees, soft hills, a winding dirt path, warm golden sunlight."
+  },
+  "camera_setup": "Medium close shot at his eye level, the camera gently follows him when he falls and gets up. One continuous shot.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "The blue butterfly lands right on his tiny horn bump. He freezes. His eyes slowly cross as he stares at it, very funny cross-eyed face."
+    },
+    {
+      "time": "5-10 s",
+      "action": "He leans his head back more and more to see it, wobbling on his little legs, then loses balance and tips over backwards onto his back with a soft flop, four legs up in the air."
+    },
+    {
+      "time": "10-15 s",
+      "action": "The butterfly flies away. He wiggles, rolls over and gets back on his feet, shakes the grass off, and looks around. He notices a small round green bush a few metres in front of him and lowers his head at it with a determined little face."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Butterfly wing flutters, a funny surprised squeak, a soft grass flop, birds, wind. No music.",
+  "last_frame": "LITTLE RHINO standing, head lowered, looking at a small round green bush in front of him.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}

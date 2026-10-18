@@ -1,0 +1,64 @@
+PROJECT CONTEXT - read this first, then make the video at the bottom.
+
+LITTLE BRAVE HORN - a 3D animated family film (Pixar / DreamWorks style), safe for kids.
+Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to save his mother.
+Almost no dialogue: the story is told with faces, body language, music and sound.
+
+STYLE (every clip)
+- 3D animated feature-film quality, Pixar style, soft rounded shapes, very expressive cartoon faces and eyes.
+- Animals move on FOUR legs like real animals (they never stand up like humans), but act with cute cartoon emotions.
+- Warm golden light = safe and happy. Natural speed, no slow motion unless the prompt asks.
+- 16:9, ONE continuous 15-second shot, smooth camera, no cuts, no text, no subtitles, no watermark, no logo.
+
+CHARACTERS - always copy the uploaded sheets exactly
+- LITTLE RHINO: grey-pink baby rhino, big brown eyes, round pink ears, ONLY ONE TINY ROUND BLUNT HORN BUMP on his nose. His horn must stay tiny in every frame.
+- MAMA RHINO: big darker slate-grey rhino, kind eyes with long lashes, one long curved horn + small second horn.
+- Other adult rhinos in the herd (when the prompt asks) look like Mama Rhino: same grey colour, long horns, slightly different sizes.
+
+THIS CLIP: 07 of 8 - Mud bath and bubbles
+
+## Uploaded images (in this order)
+- 1_littlerhino.jpg
+- 2_mamarhino.jpg
+- 3_mudpool.jpg
+
+Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
+
+REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
+
+{
+  "title": "Little Brave Horn - Clip 07: Mud bath and bubbles",
+  "duration_seconds": 15,
+  "aspect_ratio": "16:9",
+  "style": "3D animated feature film, Pixar style, warm golden light, cute expressive cartoon animals on four legs",
+  "references": {
+    "use_only_these": [
+      "1_littlerhino.jpg",
+      "2_mamarhino.jpg",
+      "3_mudpool.jpg"
+    ],
+    "1_littlerhino.jpg": "LITTLE RHINO (the hero, baby rhino): chubby round body, soft grey-pink skin, big shiny brown eyes, round pink ears that twitch. Only ONE horn: a very TINY, round, blunt bump on the tip of his nose (smaller than his ear). Walks on four legs like a real animal.",
+    "2_mamarhino.jpg": "MAMA RHINO (his mother): big and gentle, darker slate-grey skin with deep wrinkles, kind warm brown eyes with long lashes, round ears, ONE LONG curved horn and a small second horn behind it. Walks on four legs.",
+    "3_mudpool.jpg": "MUD POOL: a shallow round pool of smooth brown mud with bubbles, green reeds around the edge, one big round grey boulder at the edge, cracked dry mud ground, golden grass and acacia trees behind."
+  },
+  "camera_setup": "Starts with a wide shot of the mud pool and the big rhinos rolling, then moves down and in to a close shot of the baby popping bubbles at the edge.",
+  "shots": [
+    {
+      "time": "0-5 s",
+      "action": "The herd arrives at the mud pool. MAMA RHINO and the big rhinos walk into the soft brown mud and roll in it happily, mud splashing in the warm afternoon light."
+    },
+    {
+      "time": "5-10 s",
+      "action": "LITTLE RHINO stands at the edge of the mud pool. Mud bubbles rise up, BLOOP. He pokes a bubble with his tiny horn, POP, and giggles."
+    },
+    {
+      "time": "10-15 s",
+      "action": "He pops more bubbles one after another, POP POP POP, faster and faster, giggling louder, his tail wagging. The last bubble pops right in front of his nose with a tiny splash of mud on his face; he blinks, surprised, then grins."
+    }
+  ],
+  "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
+  "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
+  "sound": "Thick mud squelching, rhinos grunting happily, bubbles bloop and pop, little giggles. No music.",
+  "last_frame": "LITTLE RHINO at the edge of the mud pool with a small mud splash on his face, grinning; MAMA RHINO in the mud behind him.",
+  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+}
