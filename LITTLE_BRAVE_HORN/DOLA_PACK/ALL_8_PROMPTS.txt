@@ -12,7 +12,11 @@ PROJECT CONTEXT - read this first, then make the video at the bottom.
 
 LITTLE BRAVE HORN - a 3D animated family film (high-quality 3D cartoon feature-film style), safe for kids.
 Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to save his mother.
-Almost no dialogue: the story is told with faces, body language, music and sound.
+Short spoken dialogue in English. The characters SPEAK OUT LOUD: generate their real voices in the video's audio, with lips moving in sync with the words. Never move the lips without sound.
+
+VOICES (same in every clip)
+- LITTLE RHINO: a cute young boy's voice (about 6 years old), bright, curious, a little squeaky.
+- MAMA RHINO: a warm, gentle, loving adult woman's voice, soft and calm.
 
 STYLE (every clip)
 - 3D animated feature-film quality, soft rounded shapes, very expressive cartoon faces and eyes.
@@ -136,11 +140,12 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "He gets up on his four short legs, stretches his front legs forward with his bottom in the air like a puppy, gives a big cute yawn, then shakes his head so his ears flop. He stands in the grass facing the camera, happy and curious. A small blue butterfly flutters in from the left toward his face."
     }
   ],
+  "dialogue": "LITTLE RHINO (sleepy, after the yawn, at about 11 s): \"Mmm... good morning, sun!\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Morning birds, soft wind in the grass, a tiny yawn squeak, gentle breathing. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Morning birds, soft wind in the grass, a tiny yawn squeak, gentle breathing. No music.",
   "last_frame": "LITTLE RHINO standing in the golden grass facing the camera, a blue butterfly just in front of his face.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }
 
 
@@ -189,11 +194,12 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "The butterfly flies away. He wiggles, rolls over and gets back on his feet, shakes the grass off, and looks around. He notices a small round green bush a few metres in front of him and lowers his head at it with a determined little face."
     }
   ],
+  "dialogue": "LITTLE RHINO (cross-eyed, whispering, at about 3 s): \"Hello, little butterfly...\"  /  (falling over, at about 8 s): \"Whoa... oof!\"  /  (looking at the bush, determined, at about 13 s): \"I'm a big rhino!\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Butterfly wing flutters, a funny surprised squeak, a soft grass flop, birds, wind. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Butterfly wing flutters, a funny surprised squeak, a soft grass flop, birds, wind. No music.",
   "last_frame": "LITTLE RHINO standing, head lowered, looking at a small round green bush in front of him.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }
 
 
@@ -238,11 +244,12 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "He shakes his head, gets up, forgets the bush and starts drawing a line in the sandy ground with his tiny horn, walking slowly while drawing. He stops, looks at his line proudly and lifts his chin, very proud of himself."
     }
   ],
+  "dialogue": "LITTLE RHINO (before the charge, at about 4 s): \"Here I come!\"  /  (sitting dazed after the bounce, at about 9 s): \"Ow... bouncy bush.\"  /  (proud of his line, at about 13 s): \"Ta-da!\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Foot scraping, quick little hoof steps, a springy BOING, a soft bump, sand scratching. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Foot scraping, quick little hoof steps, a springy BOING, a soft bump, sand scratching. No music.",
   "last_frame": "LITTLE RHINO standing proudly next to a line in the sand.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }
 
 
@@ -290,11 +297,12 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "A big shadow falls over him. He opens his eyes and looks up: MAMA RHINO is standing over him, looking down at him with a warm loving smile. He smiles back up at her, upside down."
     }
   ],
+  "dialogue": "LITTLE RHINO (running, at about 2 s): \"Wheee!\"  /  MAMA RHINO (smiling down at him, at about 12 s): \"There you are, little one.\"  /  LITTLE RHINO (upside down, happy, at about 14 s): \"Hi, Mama!\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Fast little hoof steps, grass swishing, a tumble, giggles, then quiet with birds. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Fast little hoof steps, grass swishing, a tumble, giggles, then quiet with birds. No music.",
   "last_frame": "LITTLE RHINO lying on his back in the grass looking up, MAMA RHINO standing over him smiling down.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }
 
 
@@ -346,12 +354,12 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "MAMA RHINO turns and walks away calmly along the dirt path into the savanna. LITTLE RHINO trots after her with quick little steps to catch up and walks close beside her front leg."
     }
   ],
-  "dialogue": "MAMA RHINO (warm, gentle, slow): \"Come, little one. It's time to go.\"",
+  "dialogue": "MAMA RHINO (warm, gentle, slow, at about 6 s): \"Come, little one. It's time to go.\"  /  LITTLE RHINO (happy, at about 9 s): \"Okay, Mama!\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Soft nudge, her calm warm voice speaking the line, his happy squeak, hoof steps on the dirt path, birds. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Soft nudge, her calm warm voice speaking the line, his happy squeak, hoof steps on the dirt path, birds. No music.",
   "last_frame": "Mother and baby walking away together along the dirt path.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }
 
 
@@ -399,11 +407,12 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "He crosses his eyes to look down at his own tiny round horn bump on his nose, then lets out a small sad sigh, his ears droop and his head goes a little lower."
     }
   ],
+  "dialogue": "LITTLE RHINO (looking up at her horn, at about 6 s): \"Mama... your horn is so big.\"  /  MAMA RHINO (gently, at about 9 s): \"Yours will grow too, little one.\"  /  LITTLE RHINO (small sad sigh, looking at his own horn, at about 13 s): \"Mine is so tiny...\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Heavy rhino footsteps, a few deep rhino snorts, his little hoof steps, wind, a tiny sad sigh. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Heavy rhino footsteps, a few deep rhino snorts, his little hoof steps, wind, a tiny sad sigh. No music.",
   "last_frame": "LITTLE RHINO walking beside his mother, ears down, a little sad.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }
 
 
@@ -451,11 +460,12 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "He pops more bubbles one after another, POP POP POP, faster and faster, giggling louder, his tail wagging. The last bubble pops right in front of his nose with a tiny splash of mud on his face; he blinks, surprised, then grins."
     }
   ],
+  "dialogue": "MAMA RHINO (happy, rolling in the mud, at about 3 s): \"Come on in, sweetheart!\"  /  LITTLE RHINO (popping bubbles, giggling, at about 8 s): \"Pop! Pop! Hee-hee!\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Thick mud squelching, rhinos grunting happily, bubbles bloop and pop, little giggles. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Thick mud squelching, rhinos grunting happily, bubbles bloop and pop, little giggles. No music.",
   "last_frame": "LITTLE RHINO at the edge of the mud pool with a small mud splash on his face, grinning; MAMA RHINO in the mud behind him.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }
 
 
@@ -507,9 +517,10 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "He lets go: the horn is tiny again. He looks at the reflection for a moment, his smile disappears, his ears droop and he sits down, sad and quiet. Mud drips from his chin."
     }
   ],
+  "dialogue": "MAMA RHINO (laughing softly, at about 4 s): \"Look at you! A little mud ball!\"  /  LITTLE RHINO (pushing his horn up, hopeful, at about 8 s): \"Bigger... bigger...\"  /  LITTLE RHINO (sad, quiet, at about 13 s): \"It's still tiny.\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Mud splash, a happy squeal, mama's soft laugh-snort, water drips, then quiet with soft wind. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Mud splash, a happy squeal, mama's soft laugh-snort, water drips, then quiet with soft wind. No music.",
   "last_frame": "LITTLE RHINO sitting sadly beside the puddle looking at his reflection.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }

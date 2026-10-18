@@ -12,7 +12,11 @@ PROJECT CONTEXT - read this first, then make the video at the bottom.
 
 LITTLE BRAVE HORN - a 3D animated family film (high-quality 3D cartoon feature-film style), safe for kids.
 Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to save his mother.
-Almost no dialogue: the story is told with faces, body language, music and sound.
+Short spoken dialogue in English. The characters SPEAK OUT LOUD: generate their real voices in the video's audio, with lips moving in sync with the words. Never move the lips without sound.
+
+VOICES (same in every clip)
+- LITTLE RHINO: a cute young boy's voice (about 6 years old), bright, curious, a little squeaky.
+- MAMA RHINO: a warm, gentle, loving adult woman's voice, soft and calm.
 
 STYLE (every clip)
 - 3D animated feature-film quality, soft rounded shapes, very expressive cartoon faces and eyes.
@@ -69,9 +73,10 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "The butterfly flies away. He wiggles, rolls over and gets back on his feet, shakes the grass off, and looks around. He notices a small round green bush a few metres in front of him and lowers his head at it with a determined little face."
     }
   ],
+  "dialogue": "LITTLE RHINO (cross-eyed, whispering, at about 3 s): \"Hello, little butterfly...\"  /  (falling over, at about 8 s): \"Whoa... oof!\"  /  (looking at the bush, determined, at about 13 s): \"I'm a big rhino!\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Butterfly wing flutters, a funny surprised squeak, a soft grass flop, birds, wind. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Butterfly wing flutters, a funny surprised squeak, a soft grass flop, birds, wind. No music.",
   "last_frame": "LITTLE RHINO standing, head lowered, looking at a small round green bush in front of him.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }

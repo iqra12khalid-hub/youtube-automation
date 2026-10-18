@@ -12,7 +12,11 @@ PROJECT CONTEXT - read this first, then make the video at the bottom.
 
 LITTLE BRAVE HORN - a 3D animated family film (high-quality 3D cartoon feature-film style), safe for kids.
 Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to save his mother.
-Almost no dialogue: the story is told with faces, body language, music and sound.
+Short spoken dialogue in English. The characters SPEAK OUT LOUD: generate their real voices in the video's audio, with lips moving in sync with the words. Never move the lips without sound.
+
+VOICES (same in every clip)
+- LITTLE RHINO: a cute young boy's voice (about 6 years old), bright, curious, a little squeaky.
+- MAMA RHINO: a warm, gentle, loving adult woman's voice, soft and calm.
 
 STYLE (every clip)
 - 3D animated feature-film quality, soft rounded shapes, very expressive cartoon faces and eyes.
@@ -68,9 +72,10 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "He crosses his eyes to look down at his own tiny round horn bump on his nose, then lets out a small sad sigh, his ears droop and his head goes a little lower."
     }
   ],
+  "dialogue": "LITTLE RHINO (looking up at her horn, at about 6 s): \"Mama... your horn is so big.\"  /  MAMA RHINO (gently, at about 9 s): \"Yours will grow too, little one.\"  /  LITTLE RHINO (small sad sigh, looking at his own horn, at about 13 s): \"Mine is so tiny...\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
-  "sound": "Heavy rhino footsteps, a few deep rhino snorts, his little hoof steps, wind, a tiny sad sigh. No music.",
+  "sound": "Spoken dialogue (real voices, lip-synced) + Heavy rhino footsteps, a few deep rhino snorts, his little hoof steps, wind, a tiny sad sigh. No music.",
   "last_frame": "LITTLE RHINO walking beside his mother, ears down, a little sad.",
-  "negative": "different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
+  "negative": "lips moving with no voice, silent talking, wrong voice, different character design, baby rhino with a big or pointed horn, baby rhino with two big horns, animals standing on two legs like humans, realistic documentary animals, extra characters not in the prompt, deformed legs, extra legs, scary faces, blood, injury, cuts or scene changes, slow motion, text, subtitles, letters, watermark, logo, blurry, low quality"
 }
