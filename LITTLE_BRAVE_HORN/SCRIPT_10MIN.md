@@ -11,7 +11,7 @@ Built on the structure and rhythm of "One Brave Trunk" (see `../ANALYSIS_One_Bra
 
 | Element | Who | Look |
 |---|---|---|
-| `@littlehorn` | the hero, baby rhino | chubby, grey-pink, big shiny eyes, round ears that twist, a TINY stub of a horn |
+| `@littlerhino` | the hero, baby rhino | chubby, grey-pink, big shiny eyes, round ears that twist, a TINY stub of a horn |
 | `@mamarhino` | his mother | big, gentle, grey, a long curved horn, kind eyes |
 | `@oxpecker` | his best friend | small brown bird, bright red-and-yellow beak, cheeky |
 | `@hippo` | the grumpy "rock" | big sleepy hippo, comedy |
@@ -24,7 +24,7 @@ Built on the structure and rhythm of "One Brave Trunk" (see `../ANALYSIS_One_Bra
 
 ### Character sheet prompts (Firefly Image, 16:9)
 
-**@littlehorn**
+**@littlerhino**
 ```
 3D animated character sheet in Pixar style, ONE baby rhinoceros shown 4 times on a plain light grey background: FRONT, SIDE, BACK and a FACE close-up. Chubby round body, soft grey-pink skin with gentle wrinkles, big shiny expressive brown eyes, round twitchy ears, a very TINY rounded stub of a horn on its nose. Cute, curious, playful. Soft studio light, labels under each view. No text on the body.
 ```
@@ -107,10 +107,10 @@ Every big moment is followed by a close-up of Little Horn's face.
 ## 3. Clip list (Kling, 5-10 s each; I cut each into 1-3 shots)
 
 ### TITLE (0:00-0:12)
-1. Extreme close-up of `@littlehorn`'s tiny horn in golden morning light, dust floating, slow push-out to his sleepy face. *(Title "Little Brave Horn" added in editing.)*
+1. Extreme close-up of `@littlerhino`'s tiny horn in golden morning light, dust floating, slow push-out to his sleepy face. *(Title "Little Brave Horn" added in editing.)*
 
 ### PLAY: THE TINY HORN (0:12-1:05)
-2. `@littlehorn` wakes up in the tall grass, stretches, yawns, ears twisting in different directions like radars.
+2. `@littlerhino` wakes up in the tall grass, stretches, yawns, ears twisting in different directions like radars.
 3. A butterfly lands on his tiny horn; he goes cross-eyed staring at it, wobbles and falls on his back, legs in the air.
 4. He tries to charge a small bush like a big rhino, head down, running, BOING, bounces back and sits down, confused.
 5. He draws a line in the sand with his horn, looks at it proudly.
@@ -119,22 +119,22 @@ Every big moment is followed by a close-up of Little Horn's face.
 
 ### HERD AND MUD BATH (1:05-2:20)
 8. `@mamarhino` nudges him with her horn. She says gently: **"Come, little one. It's time to go."** *(Line 1 of 2.)*
-9. Wide: a small rhino herd walks through the golden savanna in a line, dust rising, `@littlehorn` trotting to keep up at the back.
+9. Wide: a small rhino herd walks through the golden savanna in a line, dust rising, `@littlerhino` trotting to keep up at the back.
 10. He walks next to `@mamarhino` and looks up at her long horn, then crosses his eyes to look at his own tiny one. Sigh.
 11. The herd reaches `@mudpool`; the big rhinos roll in the mud.
-12. `@littlehorn` pops mud bubbles one by one with his horn, giggling.
+12. `@littlerhino` pops mud bubbles one by one with his horn, giggling.
 13. He rolls in the mud and comes out completely brown, only his eyes blinking. `@mamarhino` splashes him.
 14. He sees his reflection in a puddle, pushes his little horn up with his foot to make it look bigger, lets go, it's tiny again. Sad face.
 
 ### THE OXPECKER FRIEND (2:20-3:20)
-15. `@oxpecker` lands on `@littlehorn`'s back. He spins round and round trying to see it.
+15. `@oxpecker` lands on `@littlerhino`'s back. He spins round and round trying to see it.
 16. The bird hops onto his tiny horn and sits there like a king. They look at each other, eye to eye.
 17. The bird pecks a tick off his ear; he laughs and wiggles. Friendship.
 18. They play chase: the bird flies low, he runs after it through the grass.
 19. He runs back to `@mamarhino` and snuggles against her leg, the bird on his back.
 
 ### EXPLORING (3:20-4:40)
-E1. `@littlehorn` wanders away from the herd, sniffing everything, the bird on his back. Wide: big savanna, he is tiny.
+E1. `@littlerhino` wanders away from the herd, sniffing everything, the bird on his back. Wide: big savanna, he is tiny.
 E2. A `@zebrafoal` bounces out of the grass. They stare at each other; the foal hops sideways, he copies it, they hop together.
 E3. They race through the grass; the foal's long legs tangle and it falls, he laughs, then he falls too. Both roll in the grass laughing.
 E4. The foal's mother calls; it runs back to the zebra herd, looks back once and wags its tail goodbye. He waves his tiny horn.
@@ -146,14 +146,14 @@ E9. The chameleon turns grey like a rhino to copy him; he tries to turn green by
 E10. A huge shadow: he looks up, up, up a long neck: the `@giraffe` lowers its head down to his level and gently licks his tiny horn. He giggles and runs back toward the herd.
 
 ### THE "ROCK" (4:40-5:40)
-20. Evening walk; `@littlehorn` sniffs the ground, following his nose, and gets left behind.
+20. Evening walk; `@littlerhino` sniffs the ground, following his nose, and gets left behind.
 21. He sees a big grey shape at the edge of `@mudpool`, thinks it's his mother, runs and snuggles against it happily.
 22. The "rock" opens one eye: it's `@hippo`. It yawns a giant yawn right over him.
-23. `@littlehorn` freezes, then runs away so fast that his legs spin in the air first, like a cartoon.
+23. `@littlerhino` freezes, then runs away so fast that his legs spin in the air first, like a cartoon.
 24. He crashes into `@mamarhino`'s leg; she looks at the hippo, the hippo shrugs and goes back to sleep.
 
 ### THE MARULA FRUIT (5:40-8:00)
-25. `@littlehorn` sees a juicy yellow fruit high on `@fruittree`. Licks his lips.
+25. `@littlerhino` sees a juicy yellow fruit high on `@fruittree`. Licks his lips.
 26. He stretches up on his back legs, wobbling, can't reach.
 27. He spears a fallen fruit with his horn, proud, then can't get it off; shakes his head, it flies away and hits `@oxpecker`.
 28. He rams the tree trunk with his horn: one tiny leaf falls on his head.
@@ -168,13 +168,13 @@ E10. A huge shadow: he looks up, up, up a long neck: the `@giraffe` lowers its h
 ### POACHERS (8:00-8:55)
 36. Cut to grey: `@jeep` parked behind bushes on a hill.
 37. `@poachers`: the tall one looks through binoculars, the short one is busy taking a selfie (joke).
-38. Binocular POV: `@mamarhino` and `@littlehorn` sleeping under the tree. Zoom in on her long horn.
+38. Binocular POV: `@mamarhino` and `@littlerhino` sleeping under the tree. Zoom in on her long horn.
 39. The tall one taps the short one; both grin. The short one pulls out a long dart blowpipe.
-40. Close-up: `@littlehorn`'s ears twist toward the hill. His eyes open. He heard something.
+40. Close-up: `@littlerhino`'s ears twist toward the hill. His eyes open. He heard something.
 
 ### CHASE IN THE RAIN (8:55-9:50)
 41. Thunder. Rain starts. `@jeep` roars down the hill.
-42. `@mamarhino` jumps up; she and `@littlehorn` run through the grass, rain pouring.
+42. `@mamarhino` jumps up; she and `@littlerhino` run through the grass, rain pouring.
 43. Close-ups: his little feet splashing in mud; the jeep's wheels spraying mud.
 44. `@oxpecker` flying beside them through the rain.
 45. The short poacher leans out of the jeep and blows the dart; slow motion as it flies.
@@ -182,12 +182,12 @@ E10. A huge shadow: he looks up, up, up a long neck: the `@giraffe` lowers its h
 47. She stumbles and lies down in the mud, falling asleep. The jeep stops.
 
 ### MOTHER DOWN (9:50-10:15)
-48. `@littlehorn` nudges her face with his tiny horn, again and again. She doesn't wake.
+48. `@littlerhino` nudges her face with his tiny horn, again and again. She doesn't wake.
 49. Close-up of his face: tears in his eyes. The rain stops; quiet.
 50. The poachers climb out of the jeep, the tall one grinning, walking toward them.
 
 ### BRAVE (10:15-10:45)
-51. `@littlehorn` turns around and stands in front of his mother. He lowers his tiny horn. He scrapes the ground with his foot. *(Title moment, slow push-in.)*
+51. `@littlerhino` turns around and stands in front of his mother. He lowers his tiny horn. He scrapes the ground with his foot. *(Title moment, slow push-in.)*
 52. Low angle: the poachers stop, then laugh at the tiny rhino.
 53. He charges, like the bush in clip 4, but this time he doesn't bounce off: he hooks the blowpipe with his horn (like the log) and flips it away.
 54. He rolls a log down the slope with his horn (like clip 32) into the jeep's wheel; the jeep slides into the mud.
@@ -197,7 +197,7 @@ E10. A huge shadow: he looks up, up, up a long neck: the `@giraffe` lowers its h
 
 ### ENDING (10:45-11:10)
 58. Sun breaks through the clouds. `@mamarhino`'s eye slowly opens. She lifts her head.
-59. `@littlehorn` presses his face against hers; she nuzzles him with her big horn. *(Long, slow, 6-8 s.)*
+59. `@littlerhino` presses his face against hers; she nuzzles him with her big horn. *(Long, slow, 6-8 s.)*
 60. He looks at his reflection in a puddle; for a moment his tiny horn looks big and proud. He smiles.
 61. Wide: mother and baby walk into the golden sunset, the bird on his horn. Slow push-out, fade to black.
     Optional line 2 from his mother: **"My brave little horn."**
