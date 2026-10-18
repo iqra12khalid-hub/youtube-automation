@@ -15,7 +15,7 @@ Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to
 Short spoken dialogue in English. The characters SPEAK OUT LOUD: generate their real voices in the video's audio, with lips moving in sync with the words. Never move the lips without sound.
 
 VOICES (same in every clip)
-- LITTLE RHINO: a cute young boy's voice (about 6 years old), bright, curious, a little squeaky.
+- LITTLE RHINO: a small, high, squeaky cartoon voice, bright and curious.
 - MAMA RHINO: a warm, gentle, loving adult woman's voice, soft and calm.
 
 STYLE (every clip)
@@ -68,11 +68,11 @@ REFERENCE LOCK: copy the uploaded character sheets and location exactly - same s
       "action": "He trips over a small root and tumbles head over heels into a soft patch of grass, rolling, and ends lying on his back, legs up, giggling."
     },
     {
-      "time": "10-15 s",
-      "action": "A big shadow falls over him. He opens his eyes and looks up: MAMA RHINO is standing over him, looking down at him with a warm loving smile. He smiles back up at her, upside down."
+      "time": "9-15 s",
+      "action": "A big shadow falls over him. He opens his eyes and looks up: MAMA RHINO is standing over him, looking down at him with a warm loving smile, and speaks to him (9.5-13.5 s). Then he smiles back up at her, upside down, and answers (13.5-15 s)."
     }
   ],
-  "dialogue": "LITTLE RHINO (running, at about 2 s): \"Wheee!\"  /  MAMA RHINO (smiling down at him, at about 12 s): \"There you are, little one.\"  /  LITTLE RHINO (upside down, happy, at about 14 s): \"Hi, Mama!\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
+  "dialogue": "LITTLE RHINO (running, at about 2 s): \"Wheee!\"  /  MAMA RHINO (smiling down at him, from 9.5 s to 13.5 s, warm and slow): \"There you are, my little one... did you fall again?\"  /  LITTLE RHINO (upside down, happy, giggling, from 13.5 s to 15 s): \"Hi, Mama!\"  -> SPEAK these lines out loud with real voices and lip sync, in English, at the given times. Keep each line short and clear.",
   "acting": "Big, clear, cute cartoon emotions on the faces and ears; natural real-time speed; smooth animation.",
   "physics": "Soft natural weight: grass bends, dust and mud react to every step, the baby is light and bouncy, the adults are heavy and slow.",
   "sound": "Spoken dialogue (real voices, lip-synced) + Fast little hoof steps, grass swishing, a tumble, giggles, then quiet with birds. No music.",

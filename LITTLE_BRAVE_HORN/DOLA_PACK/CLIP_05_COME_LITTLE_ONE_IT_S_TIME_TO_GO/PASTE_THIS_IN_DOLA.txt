@@ -15,7 +15,7 @@ Story: a baby rhino is embarrassed by his tiny horn, until the day he uses it to
 Short spoken dialogue in English. The characters SPEAK OUT LOUD: generate their real voices in the video's audio, with lips moving in sync with the words. Never move the lips without sound.
 
 VOICES (same in every clip)
-- LITTLE RHINO: a cute young boy's voice (about 6 years old), bright, curious, a little squeaky.
+- LITTLE RHINO: a small, high, squeaky cartoon voice, bright and curious.
 - MAMA RHINO: a warm, gentle, loving adult woman's voice, soft and calm.
 
 STYLE (every clip)
