@@ -1,3 +1,13 @@
+BEFORE ANYTHING ELSE - CONFIRM THESE RULES
+==========================================
+Reply first with: "I confirm I have read these rules and I will follow them." Then make the video.
+
+1. I will create each video ONLY with the reference character sheets and location images provided in the folder (the numbered images uploaded with this prompt). I will not invent or change any character design.
+2. I will create every clip as ONE 15-SECOND video.
+3. I will create every clip in 4K quality (Seedance 2.0, 4K, 16:9).
+4. I will deliver every finished video directly in this chat as a playable video with a download button, exactly like the screenshot 00_DELIVERY_EXAMPLE.png (that screenshot only shows HOW to deliver, not what to draw). One separate video per clip. Never merge or stitch clips together.
+5. I will NEVER start a clip that needs the last frame of an earlier clip as its first frame until that earlier clip is finished and its last frame is uploaded. (Clip 02 waits for Clip 01, Clip 05 waits for Clip 04, Clip 08 waits for Clip 07.)
+
 HOW TO MAKE THESE 8 CLIPS IN DOLA (read this first)
 ==================================================
 
@@ -9,6 +19,7 @@ SETTINGS FOR EVERY CLIP
 - One generation per clip, one continuous shot, no cuts.
 
 HOW TO UPLOAD
+- FIRST MESSAGE in Dola: upload 00_DELIVERY_EXAMPLE.png and paste 00_SEND_THIS_FIRST_TO_DOLA.txt. Wait until Dola confirms the rules.
 - Open the clip's folder (for example CLIP_01_...).
 - Upload the images in the folder IN NUMBER ORDER (1, 2, 3, ...).
 - Open PASTE_THIS_IN_DOLA.txt in that folder, copy EVERYTHING and paste it into Dola.

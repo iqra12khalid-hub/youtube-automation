@@ -1,3 +1,13 @@
+BEFORE ANYTHING ELSE - CONFIRM THESE RULES
+==========================================
+Reply first with: "I confirm I have read these rules and I will follow them." Then make the video.
+
+1. I will create each video ONLY with the reference character sheets and location images provided in the folder (the numbered images uploaded with this prompt). I will not invent or change any character design.
+2. I will create every clip as ONE 15-SECOND video.
+3. I will create every clip in 4K quality (Seedance 2.0, 4K, 16:9).
+4. I will deliver every finished video directly in this chat as a playable video with a download button, exactly like the screenshot 00_DELIVERY_EXAMPLE.png (that screenshot only shows HOW to deliver, not what to draw). One separate video per clip. Never merge or stitch clips together.
+5. I will NEVER start a clip that needs the last frame of an earlier clip as its first frame until that earlier clip is finished and its last frame is uploaded. (Clip 02 waits for Clip 01, Clip 05 waits for Clip 04, Clip 08 waits for Clip 07.)
+
 PROJECT CONTEXT - read this first, then make the video at the bottom.
 
 LITTLE BRAVE HORN - a 3D animated family film (high-quality 3D cartoon feature-film style), safe for kids.
@@ -26,6 +36,8 @@ THIS CLIP: 08 of 8 - Mud baby and the sad reflection
 Make this video 15 seconds, one generation, ONE continuous shot with no cuts. Seedance 2.0, 4K, 16:9.
 
 FIRST FRAME: Use the uploaded image 1_FIRST_FRAME (the last frame of CLIP 07) as the FIRST FRAME of this video (image_to_video). The video starts exactly on this image. Do not draw a new picture.
+
+DELIVERY: deliver this clip as ONE separate playable 15-second 4K video in the chat with a download button, like 00_DELIVERY_EXAMPLE.png. Do not merge it with other clips.
 
 REFERENCE LOCK: copy the uploaded character sheets and location exactly - same shapes, colours, eyes, horns and style in every frame.
 
