@@ -15,7 +15,7 @@ Built on the structure and rhythm of "One Brave Trunk" (see `../ANALYSIS_One_Bra
 | `@mamarhino` | his mother | big, gentle, grey, a long curved horn, kind eyes |
 | `@oxpecker` | his best friend | small brown bird, bright red-and-yellow beak, cheeky |
 | `@hippo` | the grumpy "rock" | big sleepy hippo, comedy |
-| `@poachers` | two comedy villains | one tall and thin, one short and round, khaki clothes, safari hats |
+| `@tallpoacher` + `@shortpoacer` | two comedy villains | one tall and thin, one short and round, khaki clothes, safari hats |
 | `@jeep` | their car (object) | old dusty green jeep, a roof rack |
 | `@zebrafoal` | playmate while exploring | fluffy baby zebra, wobbly long legs, short spiky mane |
 | `@meerkats` | comedy group | 3 meerkats that pop up from holes and stand on guard |
@@ -167,7 +167,7 @@ E10. A huge shadow: he looks up, up, up a long neck: the `@giraffe` lowers its h
 
 ### POACHERS (8:00-8:55)
 36. Cut to grey: `@jeep` parked behind bushes on a hill.
-37. `@poachers`: the tall one looks through binoculars, the short one is busy taking a selfie (joke).
+37. `@tallpoacher` and `@shortpoacer`: the tall one looks through binoculars, the short one is busy taking a selfie (joke).
 38. Binocular POV: `@mamarhino` and `@littlerhino` sleeping under the tree. Zoom in on her long horn.
 39. The tall one taps the short one; both grin. The short one pulls out a long dart blowpipe.
 40. Close-up: `@littlerhino`'s ears twist toward the hill. His eyes open. He heard something.
