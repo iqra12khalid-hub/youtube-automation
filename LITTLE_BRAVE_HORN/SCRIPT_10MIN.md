@@ -1,4 +1,4 @@
-# LITTLE BRAVE HORN - full 10-minute script
+# LITTLE BRAVE HORN - full 11-minute script
 
 3D animated, Pixar style. Almost no dialogue: only 2 short lines. Music, sound and faces tell the story.
 Built on the structure and rhythm of "One Brave Trunk" (see `../ANALYSIS_One_Brave_Trunk.md`), stretched from 8:16 to 10:00.
@@ -17,6 +17,10 @@ Built on the structure and rhythm of "One Brave Trunk" (see `../ANALYSIS_One_Bra
 | `@hippo` | the grumpy "rock" | big sleepy hippo, comedy |
 | `@poachers` | two comedy villains | one tall and thin, one short and round, khaki clothes, safari hats |
 | `@jeep` | their car (object) | old dusty green jeep, a roof rack |
+| `@zebrafoal` | playmate while exploring | fluffy baby zebra, wobbly long legs, short spiky mane |
+| `@meerkats` | comedy group | 3 meerkats that pop up from holes and stand on guard |
+| `@chameleon` | comedy friend | small green chameleon that changes colour, curly tail, rolling eyes |
+| `@giraffe` | gentle giant | tall friendly giraffe, long eyelashes, helps him once |
 
 ### Character sheet prompts (Firefly Image, 16:9)
 
@@ -50,6 +54,26 @@ Built on the structure and rhythm of "One Brave Trunk" (see `../ANALYSIS_One_Bra
 3D animated reference sheet in Pixar style, ONE old dusty green safari jeep shown FRONT, SIDE, BACK and 3/4 on a plain light grey background. Dented, a roof rack, big muddy tyres. No text, no logos. Soft studio light.
 ```
 
+**@zebrafoal**
+```
+3D animated character sheet in Pixar style, ONE baby zebra foal shown 4 times on a plain light grey background: FRONT, SIDE, BACK and a FACE close-up. Fluffy soft fur with bold black and white stripes, very long wobbly legs, big shiny eyes, short spiky mane, small tuft on the tail. Playful and bouncy. Soft studio light, labels under each view.
+```
+
+**@meerkats**
+```
+3D animated character sheet in Pixar style, a group of THREE meerkats on a plain light grey background: standing upright on guard side by side (one big, one medium, one tiny), plus each one from the SIDE. Sandy brown fur, dark eye patches, big curious eyes, thin tails. Funny and alert. Soft studio light, labels under each view.
+```
+
+**@chameleon**
+```
+3D animated character sheet in Pixar style, ONE small chameleon shown 4 times on a plain light grey background: SIDE, FRONT, on a branch, and a FACE close-up with each eye looking a different way. Bright green skin with soft yellow spots, curly tail, big round rolling eyes. Funny and shy. Soft studio light, labels under each view.
+```
+
+**@giraffe**
+```
+3D animated character sheet in Pixar style, ONE adult giraffe shown 4 times on a plain light grey background: FRONT, SIDE, BACK and a FACE close-up. Very tall, warm orange-brown patches, long eyelashes, gentle sleepy smile, small ossicones on the head. Kind and calm. Soft studio light, labels under each view.
+```
+
 **Locations** (Firefly Image, then location elements):
 - `savanna`: golden African savanna, tall dry grass, acacia trees, a waterhole, warm sunlight.
 - `mudpool`: a shallow muddy pool with reeds and a big round grey rock at the edge.
@@ -65,14 +89,15 @@ Built on the structure and rhythm of "One Brave Trunk" (see `../ANALYSIS_One_Bra
 | 0:12-1:05 | Play: the tiny horn | warm, golden morning |
 | 1:05-2:20 | Herd and mud bath | warm |
 | 2:20-3:20 | The oxpecker friend | warm |
-| 3:20-4:20 | The "rock" (hippo) | warm, comedy |
-| 4:20-6:40 | The marula fruit (big comedy) | warm afternoon |
-| 6:40-7:35 | Poachers | colder, shadows |
-| 7:35-8:30 | Chase in the rain | grey, rain, mud |
-| 8:30-8:55 | Mother down | grey, quiet |
-| 8:55-9:25 | Brave | grey, then a sunbreak |
-| 9:25-9:50 | Ending | golden sunset |
-| 9:50-10:00 | End card | - |
+| 3:20-4:40 | Exploring: zebra, meerkats, chameleon, giraffe | warm, bright |
+| 4:40-5:40 | The "rock" (hippo) | warm, comedy |
+| 5:40-8:00 | The marula fruit (big comedy) | warm afternoon |
+| 8:00-8:55 | Poachers | colder, shadows |
+| 8:55-9:50 | Chase in the rain | grey, rain, mud |
+| 9:50-10:15 | Mother down | grey, quiet |
+| 10:15-10:45 | Brave | grey, then a sunbreak |
+| 10:45-11:10 | Ending | golden sunset |
+| 11:10-11:20 | End card | - |
 
 Rhythm, as in One Brave Trunk: play and comedy shots about 3 s, the chase about 1.5-2 s, the ending 5-8 s with a slow push-in.
 Every big moment is followed by a close-up of Little Horn's face.
@@ -108,14 +133,26 @@ Every big moment is followed by a close-up of Little Horn's face.
 18. They play chase: the bird flies low, he runs after it through the grass.
 19. He runs back to `@mamarhino` and snuggles against her leg, the bird on his back.
 
-### THE "ROCK" (3:20-4:20)
+### EXPLORING (3:20-4:40)
+E1. `@littlehorn` wanders away from the herd, sniffing everything, the bird on his back. Wide: big savanna, he is tiny.
+E2. A `@zebrafoal` bounces out of the grass. They stare at each other; the foal hops sideways, he copies it, they hop together.
+E3. They race through the grass; the foal's long legs tangle and it falls, he laughs, then he falls too. Both roll in the grass laughing.
+E4. The foal's mother calls; it runs back to the zebra herd, looks back once and wags its tail goodbye. He waves his tiny horn.
+E5. He walks over a field of holes: `@meerkats` pop up one by one around him and stand on guard, staring.
+E6. He pops his head up the same way, standing on his back legs like them; they all turn their heads at the same time. Comedy.
+E7. A shadow (a bird) passes; all meerkats vanish down their holes at once. He tries to dive into a hole too and gets stuck, bottom in the air.
+E8. He pulls free and sniffs a branch; a leaf opens its eyes: it's the `@chameleon`. Its two eyes look at him in different directions.
+E9. The chameleon turns grey like a rhino to copy him; he tries to turn green by rolling in the grass. They look at each other and laugh.
+E10. A huge shadow: he looks up, up, up a long neck: the `@giraffe` lowers its head down to his level and gently licks his tiny horn. He giggles and runs back toward the herd.
+
+### THE "ROCK" (4:40-5:40)
 20. Evening walk; `@littlehorn` sniffs the ground, following his nose, and gets left behind.
 21. He sees a big grey shape at the edge of `@mudpool`, thinks it's his mother, runs and snuggles against it happily.
 22. The "rock" opens one eye: it's `@hippo`. It yawns a giant yawn right over him.
 23. `@littlehorn` freezes, then runs away so fast that his legs spin in the air first, like a cartoon.
 24. He crashes into `@mamarhino`'s leg; she looks at the hippo, the hippo shrugs and goes back to sleep.
 
-### THE MARULA FRUIT (4:20-6:40)
+### THE MARULA FRUIT (5:40-8:00)
 25. `@littlehorn` sees a juicy yellow fruit high on `@fruittree`. Licks his lips.
 26. He stretches up on his back legs, wobbling, can't reach.
 27. He spears a fallen fruit with his horn, proud, then can't get it off; shakes his head, it flies away and hits `@oxpecker`.
@@ -128,14 +165,14 @@ Every big moment is followed by a close-up of Little Horn's face.
 34. He sits under the fruit, dazed, then eats it happily, juice everywhere. `@mamarhino` laughs.
 35. Sunset: he falls asleep against his mother, the bird on his horn.
 
-### POACHERS (6:40-7:35)
+### POACHERS (8:00-8:55)
 36. Cut to grey: `@jeep` parked behind bushes on a hill.
 37. `@poachers`: the tall one looks through binoculars, the short one is busy taking a selfie (joke).
 38. Binocular POV: `@mamarhino` and `@littlehorn` sleeping under the tree. Zoom in on her long horn.
 39. The tall one taps the short one; both grin. The short one pulls out a long dart blowpipe.
 40. Close-up: `@littlehorn`'s ears twist toward the hill. His eyes open. He heard something.
 
-### CHASE IN THE RAIN (7:35-8:30)
+### CHASE IN THE RAIN (8:55-9:50)
 41. Thunder. Rain starts. `@jeep` roars down the hill.
 42. `@mamarhino` jumps up; she and `@littlehorn` run through the grass, rain pouring.
 43. Close-ups: his little feet splashing in mud; the jeep's wheels spraying mud.
@@ -144,28 +181,28 @@ Every big moment is followed by a close-up of Little Horn's face.
 46. The dart hits `@mamarhino`'s side (soft, no blood). She slows down, eyes heavy.
 47. She stumbles and lies down in the mud, falling asleep. The jeep stops.
 
-### MOTHER DOWN (8:30-8:55)
+### MOTHER DOWN (9:50-10:15)
 48. `@littlehorn` nudges her face with his tiny horn, again and again. She doesn't wake.
 49. Close-up of his face: tears in his eyes. The rain stops; quiet.
 50. The poachers climb out of the jeep, the tall one grinning, walking toward them.
 
-### BRAVE (8:55-9:25)
+### BRAVE (10:15-10:45)
 51. `@littlehorn` turns around and stands in front of his mother. He lowers his tiny horn. He scrapes the ground with his foot. *(Title moment, slow push-in.)*
 52. Low angle: the poachers stop, then laugh at the tiny rhino.
 53. He charges, like the bush in clip 4, but this time he doesn't bounce off: he hooks the blowpipe with his horn (like the log) and flips it away.
 54. He rolls a log down the slope with his horn (like clip 32) into the jeep's wheel; the jeep slides into the mud.
 55. `@oxpecker` screams and flies off; the ground starts to shake.
-56. Wide: the whole rhino herd, and the hippo, appear on the hill and CHARGE.
+56. Wide: the whole rhino herd, the hippo, the giraffe and the zebras appear on the hill and CHARGE.
 57. The herd pushes the jeep over into the mud pool; the poachers run away screaming, one falls face-first into the mud; the hippo yawns at them.
 
-### ENDING (9:25-9:50)
+### ENDING (10:45-11:10)
 58. Sun breaks through the clouds. `@mamarhino`'s eye slowly opens. She lifts her head.
 59. `@littlehorn` presses his face against hers; she nuzzles him with her big horn. *(Long, slow, 6-8 s.)*
 60. He looks at his reflection in a puddle; for a moment his tiny horn looks big and proud. He smiles.
 61. Wide: mother and baby walk into the golden sunset, the bird on his horn. Slow push-out, fade to black.
     Optional line 2 from his mother: **"My brave little horn."**
 
-### END CARD (9:50-10:00)
+### END CARD (11:10-11:20)
 62. `@oxpecker` holding a SUBSCRIBE sign in its beak.
 
 ---
@@ -179,6 +216,7 @@ Every big moment is followed by a close-up of Little Horn's face.
 | Clip 29-31: horn stuck in a log | Clip 53: hooks the blowpipe with his horn |
 | Clip 32: rolls a log into the tree | Clip 54: rolls a log into the jeep |
 | Clip 21-24: the hippo | Clip 56-57: the hippo joins the herd |
+| E1-E10: the friends he made exploring | Clip 56: the giraffe and zebras come to help; the meerkats watch from their holes |
 | Clip 14: sad at his tiny reflection | Clip 60: proud of his reflection |
 
 ---
