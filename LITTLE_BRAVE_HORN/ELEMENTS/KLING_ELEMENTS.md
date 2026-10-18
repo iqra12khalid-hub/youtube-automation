@@ -7,7 +7,7 @@
 | `oxpecker` | character | best friend bird, brown, red beak, yellow eye rings | oxpecker/ |
 | `hippo` | character | grumpy sleepy hippo on four legs, "the rock" | hippo/ |
 | `tallpoacher` | character | tall skinny poacher, curly moustache, pith helmet | tallpoacher/ |
-| `shortpoacer` | character | short round poacher (saved in Kling with this spelling) | shortpoacher/ |
+| `shortpoacer` | character | short round poacher | shortpoacher/ |
 | `jeep` | object | old dusty green jeep, spare tyre on the roof | jeep/ |
 | `zebrafoal` | character | baby zebra, playmate while exploring | zebrafoal/ |
 | `meerkats` | character group | three meerkats: big, medium, tiny | meerkats/ |
@@ -19,6 +19,6 @@
 |---|---|
 | `savanna` | savanna/ (BASE, FRONT, BACK) |
 | `mudpool` | mudpool/ (BASE, FRONT padded 2.4:1, BACK) |
-| `fruitree` | marula tree with hollow log, slope and path (saved in Kling with this spelling) |
+| `fruittree` | marula tree with hollow log, slope and path |
 
 Kling limit: max 3 elements per clip. For shots with more, use a first-frame image.
