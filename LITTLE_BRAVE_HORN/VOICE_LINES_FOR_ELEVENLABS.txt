@@ -1,0 +1,34 @@
+LITTLE BRAVE HORN - VOICE LINES (make in ElevenLabs, Claude syncs them in editing)
+=================================================================================
+
+VOICE 1 - MAMA RHINO (ElevenLabs Voice Design prompt):
+  Warm, gentle, loving adult woman in her 30s, soft and calm, slightly low and smooth,
+  speaks slowly with a smile in her voice, like a kind mother in an animated family film.
+
+VOICE 2 - LITTLE RHINO (ElevenLabs Voice Design prompt):
+  Small, high, bright, squeaky cartoon creature voice, playful and curious,
+  giggly, like a cute animated baby animal character.
+
+One audio file per line. Name each file like: 04_mama_1.mp3
+
+CLIP  FILE NAME        WHO      TIME IN CLIP   LINE
+01    01_little_1      Little   ~11 s          "Mmm... good morning, sun!"
+02    02_little_1      Little   ~3 s           "Hello, little butterfly..."
+02    02_little_2      Little   ~8 s           "Whoa... oof!"
+02    02_little_3      Little   ~13 s          "I'm a big rhino!"
+03    03_little_1      Little   ~4 s           "Here I come!"
+03    03_little_2      Little   ~9 s           "Ow... bouncy bush."
+03    03_little_3      Little   ~13 s          "Ta-da!"
+04    04_little_1      Little   ~2 s           "Wheee!"
+04    04_mama_1        Mama     9.5-13.5 s     "There you are, my little one... did you fall again?"
+04    04_little_2      Little   14-15 s        "Hi, Mama!"
+05    05_mama_1        Mama     ~6 s           "Come, little one. It's time to go."
+05    05_little_1      Little   ~9 s           "Okay, Mama!"
+06    06_little_1      Little   ~6 s           "Mama... your horn is so big."
+06    06_mama_1        Mama     ~9 s           "Yours will grow too, little one."
+06    06_little_2      Little   ~13 s          "Mine is so tiny..."
+07    07_mama_1        Mama     ~3 s           "Come on in, sweetheart!"
+07    07_little_1      Little   ~8 s           "Pop! Pop! Hee-hee!"
+08    08_mama_1        Mama     ~4 s           "Look at you! A little mud ball!"
+08    08_little_1      Little   ~8 s           "Bigger... bigger..."
+08    08_little_2      Little   ~13 s          "It's still tiny."
