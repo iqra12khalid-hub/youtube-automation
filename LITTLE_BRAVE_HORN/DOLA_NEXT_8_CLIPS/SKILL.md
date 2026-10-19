@@ -60,6 +60,8 @@ AUDIO: <what sound is wanted, or VISUAL ONLY>
 
 ### Delivery format (must be exactly this)
 
+**Look at DELIVERY_EXAMPLE.png (also 00_DELIVERY_EXAMPLE.png in the clip folder). Deliver EXACTLY like that picture:** the generated videos shown directly in the chat as your normal video results, one under the other, each showing its first frame, playing inline when clicked, with download available. Nothing else.
+
 - Deliver every clip using your **normal built-in video result**: the same video card that appears automatically in the chat when you finish generating a video.
 - That built-in card already shows the first frame, plays inline when clicked, and has a download button. **Use it as it is.**
 - **Do NOT build your own card.** Do NOT make HTML, a webpage, a gallery, a chart, a "visualization", a poster image or a thumbnail yourself.
