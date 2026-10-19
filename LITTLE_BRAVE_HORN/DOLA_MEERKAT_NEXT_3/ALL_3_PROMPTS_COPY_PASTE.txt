@@ -1,0 +1,60 @@
+INSTRUCTIONS FOR DOLA (read first):
+- 3 clips in order: CLIP A -> CLIP B -> CLIP C.
+- Settings for all 3: Seedance 2.0 | 15 seconds | 16:9 | 4K.
+- CLIP A first frame: 01_FIRST_FRAME_CLIP_A.jpg
+- CLIP B first frame: take the LAST FRAME of CLIP A yourself.
+- CLIP C first frame: take the LAST FRAME of CLIP B yourself.
+- References for every clip: REFERENCE_SHEETS/littlerhino (the little rhino), REFERENCE_SHEETS/meerkat (ONE single meerkat), REFERENCE_SHEETS/savanna (location).
+- No music in any clip. No text. No watermark.
+- Confirm these settings with me before you start. Never start without my confirmation.
+
+======================================================================
+CLIP A - "HEY! THAT'S MY HOUSE!"
+Characters: little rhino + ONE meerkat | Location: savanna
+First frame: 01_FIRST_FRAME_CLIP_A.jpg
+
+3D animated cartoon. The little blue baby rhino with a tiny blunt horn from the reference sheet, and ONE meerkat from the meerkat reference, in a golden savanna, sunny afternoon. Continue exactly from the first frame: the rhino sits on the ground on the left, the meerkat stands on its back legs right in front of him, paws on its hips. Static camera, same view.
+
+0-3s: The meerkat frowns, angry. Both mouths closed.
+3-6s: Only the meerkat speaks, loud and cross, in a quick, scratchy, cheeky little voice: "Hey! That's my house!" Then its mouth closes. The rhino's mouth stays closed.
+6-8s: The rhino shrinks back, ears down, eyes wide. Only the rhino speaks in a small, high, squeaky voice: "S-sorry!" Then his mouth closes. The meerkat's mouth stays closed.
+8-10s: The meerkat keeps frowning. Both mouths closed.
+10-12s: Only the meerkat speaks with a big grin, in the same cheeky voice: "Ha! Just kidding!" Then its mouth closes.
+12-15s: Both smile with mouths closed, happy eyes, shoulders shaking with a silent laugh.
+
+A mouth moves only while that character speaks its line. Sound: light wind, soft grass. No music. No text.
+
+NEGATIVE: mouth moving in silent parts, babbling, mumbling, extra speech, singing, music, more than one meerkat, extra animals, camera movement, camera cut, text, watermark
+
+======================================================================
+CLIP B - STANDING ON GUARD TOGETHER
+Characters: little rhino + ONE meerkat | Location: savanna
+First frame: LAST FRAME of CLIP A (take it yourself)
+
+3D animated cartoon. The little blue baby rhino from the reference sheet and ONE meerkat from the meerkat reference, in a golden savanna, sunny afternoon. Continue exactly from the first frame: the rhino and the meerkat close together. Static camera, same view. No dialogue. Mouths closed, lips still the whole clip.
+
+0-4s: The meerkat stands tall on its back legs, on guard, front paws tucked, looking left and right.
+4-8s: The rhino copies it: he stands up on his back legs, wobbling, front legs tucked like the meerkat, very proud.
+8-11s: Both turn their heads to the left at the exact same time, then to the right at the exact same time.
+11-15s: The rhino wobbles and plops down onto his bottom. The meerkat looks at him and smiles with its mouth closed.
+
+Sound effects only: light wind, soft grass, a soft thud when he plops down. No music. No voices.
+
+NEGATIVE: talking, mouth moving, lip movement, speech, music, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, watermark
+
+======================================================================
+CLIP C - BIRD SHADOW, MEERKAT VANISHES, HE WALKS ON
+Characters: little rhino + ONE meerkat (+ only a bird SHADOW, no bird) | Location: savanna
+First frame: LAST FRAME of CLIP B (take it yourself)
+
+3D animated cartoon. The little blue baby rhino from the reference sheet and ONE meerkat from the meerkat reference, in a golden savanna, sunny afternoon. Continue exactly from the first frame: the rhino and the meerkat, the meerkat's hole in the ground next to them. Static camera, same view. No dialogue. Mouths closed, lips still the whole clip.
+
+0-3s: A big dark bird shadow sweeps across the ground over them. No bird is seen, only its shadow.
+3-4s: The meerkat's eyes go wide and it dives straight down into its hole in a blink, gone.
+4-8s: The rhino looks around, confused, then peeks down into the empty hole.
+8-11s: He looks up, shrugs, a little sad again, alone.
+11-15s: He stands up and slowly walks away toward the tall grass and bushes on the right.
+
+Sound effects only: a whoosh as the shadow passes, a quick pop as the meerkat dives in, soft footsteps. No music. No voices.
+
+NEGATIVE: talking, mouth moving, lip movement, speech, music, more than one meerkat, extra animals, bird landing, eagle attacking, mud, water, camera movement, camera cut, text, watermark
