@@ -1,0 +1,17 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_03
+CHARACTERS: littlerhino, giraffe
+LOCATION: savanna
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: sound effects only: a deep soft whoosh as the big shadow comes, a gentle wet lick, soft hoofsteps running, light wind. No music. No voices. (If audio is blocked: VISUAL ONLY.)
+
+PROMPT:
+3D animated cartoon, bright warm colours, soft lighting, big expressive faces. Characters look exactly like their reference sheets. Continue exactly from the first frame. The chameleon has gone back into the bush. Golden afternoon.
+
+0-3s: A huge shadow falls over the little rhino. He stops smiling and slowly looks up.
+3-6s: Camera tilts up with his eyes: up, up, up a very long spotted neck, to the giraffe's friendly face high above.
+6-9s: The giraffe slowly lowers its long neck all the way down until its face is right in front of the tiny rhino. He stands frozen, eyes huge.
+9-12s: The giraffe gives his tiny horn one gentle lick with its long tongue. His eyes close, he scrunches his face and smiles, ticklish.
+12-15s: Happy and excited, he turns and runs off through the golden grass with a bouncy little run. The giraffe watches him go and smiles.
+
+NEGATIVE: talking, speech, words, singing, text, subtitles, logo, watermark, camera cut, extra characters, more than one giraffe, giraffe attacking, mud, water

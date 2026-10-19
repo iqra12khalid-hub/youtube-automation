@@ -1,0 +1,16 @@
+MODE: TEXT-TO-VIDEO
+FIRST FRAME: NONE
+CHARACTERS: littlerhino, hippo
+LOCATION: mudpool
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: sound effects only: evening crickets, soft footsteps, gentle water lapping, a happy little sigh. No music. No voices. (If audio is blocked: VISUAL ONLY.)
+
+PROMPT:
+3D animated cartoon, bright warm colours, soft lighting, big expressive faces. Characters look exactly like their reference sheets. Evening at the mud pool, warm orange sunset light, long shadows. Wide shot.
+
+0-4s: The little rhino walks alone along the edge of the mud pool, nose to the ground, sniffing and following a smell, tired after his long day.
+4-7s: He looks up and sees a big round grey shape lying very still at the water's edge, like a huge smooth grey rock. It is the hippo, fast asleep, eyes closed, only its back and head showing.
+7-10s: The little rhino thinks it is his mother. His face lights up with joy and he runs happily toward it.
+10-15s: He snuggles his whole body against the side of the big grey shape, eyes closed, smiling, very happy and safe. The grey shape does not move.
+
+NEGATIVE: talking, speech, words, singing, text, subtitles, logo, watermark, camera cut, extra characters, hippo awake, hippo moving, other rhinos, other animals, daytime, rain

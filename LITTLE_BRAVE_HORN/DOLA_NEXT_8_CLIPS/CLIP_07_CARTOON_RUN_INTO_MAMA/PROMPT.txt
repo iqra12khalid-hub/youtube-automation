@@ -1,0 +1,16 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_06
+CHARACTERS: littlerhino, hippo, mamarhino
+LOCATION: mudpool
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: sound effects only: cartoon feet spinning whirr, fast little footsteps, a soft bump, evening crickets. No music. No voices. (If audio is blocked: VISUAL ONLY.)
+
+PROMPT:
+3D animated cartoon, bright warm colours, soft lighting, big expressive faces. Characters look exactly like their reference sheets. Continue exactly from the first frame. Evening at the mud pool, sunset light.
+
+0-3s: The frozen little rhino suddenly snaps out of it. His legs spin super fast in the air like a cartoon before he moves.
+3-8s: He zooms away from the hippo at top speed, ears flapping, dust flying behind him.
+8-11s: He runs straight into the front leg of his mother, the big mama rhino, bumps into it and bounces back onto his bottom.
+11-15s: He quickly jumps up and hides behind her front leg, peeking out at the hippo with one scared eye. The mama rhino looks down at him, surprised.
+
+NEGATIVE: talking, speech, words, singing, text, subtitles, logo, watermark, camera cut, extra characters, hippo chasing, hippo attacking, other rhinos, other animals, daytime
