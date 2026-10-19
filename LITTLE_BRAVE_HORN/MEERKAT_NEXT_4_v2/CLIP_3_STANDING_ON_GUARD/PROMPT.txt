@@ -1,14 +1,17 @@
-Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
-Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+DOLA - Seedance 2.0 | 15 seconds | 16:9 | 4K
 First frame: LAST FRAME of CLIP 2
+Character references: REFERENCE_SHEETS/littlerhino (the little rhino), REFERENCE_SHEETS/meerkat (ONE single meerkat)
+Location reference: REFERENCE_SHEETS/savanna
+Confirm these settings with me before you start. Never start without my confirmation.
 
-PROMPT (copy everything below):
+PROMPT:
+3D animated cartoon. The little blue baby rhino with a tiny blunt horn from the reference sheet, and ONE meerkat from the meerkat reference, in a golden savanna, sunny afternoon. Continue exactly from the first frame: the rhino and the meerkat close together. Static camera, same view. Mouths closed, lips still the whole clip.
 
-Continue exactly from the first frame. @littlerhino and the @meerkat close together in @savanna. Static camera, same view. No dialogue, mouths closed, lips still the entire clip.
+0-4s: The meerkat stands tall on its back legs, on guard, front paws tucked, looking left and right.
+4-8s: The rhino copies it: he stands up on his back legs, wobbling, front legs tucked like the meerkat, very proud.
+8-11s: Both turn their heads to the left at the exact same time, then to the right at the exact same time.
+11-15s: The rhino wobbles and plops down onto his bottom. The meerkat looks at him and smiles with its mouth closed.
 
-0-3s: The @meerkat stands tall on its back legs, on guard, front paws tucked, looking left and right.
-3-6s: @littlerhino copies it: he stands up on his back legs, wobbling, front legs tucked like the meerkat, very proud. Mouths closed.
-6-8s: Both turn their heads to the left at the exact same time, then to the right at the exact same time.
-8-10s: @littlerhino wobbles and plops down onto his bottom. The @meerkat looks at him and smiles with mouth closed.
+Only ONE meerkat in the whole clip. Sound effects only: light wind, soft grass, a soft thud when he plops down. No music. No voices. No speech.
 
-NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text
+NEGATIVE: talking, mouth moving, lip movement, speech, music, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, watermark

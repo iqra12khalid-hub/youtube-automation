@@ -1,15 +1,18 @@
-Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
-Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+DOLA - Seedance 2.0 | 15 seconds | 16:9 | 4K
 First frame: LAST FRAME of CLIP 3
+Character references: REFERENCE_SHEETS/littlerhino (the little rhino), REFERENCE_SHEETS/meerkat (ONE single meerkat)
+Location reference: REFERENCE_SHEETS/savanna
+Confirm these settings with me before you start. Never start without my confirmation.
 
-PROMPT (copy everything below):
+PROMPT:
+3D animated cartoon. The little blue baby rhino with a tiny blunt horn from the reference sheet, and ONE meerkat from the meerkat reference, in a golden savanna, sunny afternoon. Continue exactly from the first frame: the rhino and the meerkat, the meerkat's hole in the ground next to them. Static camera, same view. Mouths closed, lips still the whole clip.
 
-Continue exactly from the first frame. @littlerhino and the @meerkat in @savanna, the meerkat's hole in the ground next to them. Static camera, same view. No dialogue, mouths closed, lips still the entire clip.
+0-3s: A big dark bird shadow sweeps across the ground over them. No bird lands.
+3-4s: The meerkat's eyes go wide and it dives straight down into its hole in a blink, gone.
+4-8s: The rhino looks around, confused, then peeks down into the empty hole.
+8-11s: He looks up, shrugs, a little sad again, alone.
+11-15s: He stands up and slowly walks away toward the tall grass and bushes on the right.
 
-0-2s: A big dark bird shadow sweeps across the ground over them.
-2-3s: The @meerkat's eyes go wide and it dives straight down into its hole in a blink, gone.
-3-6s: @littlerhino looks around, confused, then peeks down into the empty hole. Mouth closed.
-6-8s: He looks up, shrugs, a little sad again, alone.
-8-10s: He stands up and slowly walks away toward the tall grass and bushes on the right. Mouth closed.
+Only ONE meerkat in the whole clip. Sound effects only: a whoosh as the shadow passes, a quick pop as the meerkat dives in, soft footsteps. No music. No voices. No speech.
 
-NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, bird landing, eagle attacking
+NEGATIVE: talking, mouth moving, lip movement, speech, music, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, watermark

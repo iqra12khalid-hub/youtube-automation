@@ -1,22 +1,27 @@
 CLIP_1_MEERKAT_RUNS_BACK
-Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
-Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+DOLA - Seedance 2.0 | 15 seconds | 16:9 | 4K
 First frame: FIRST_FRAME.jpg (in this folder)
+Character references: REFERENCE_SHEETS/littlerhino (the little rhino), REFERENCE_SHEETS/meerkat (ONE single meerkat)
+Location reference: REFERENCE_SHEETS/savanna
+Confirm these settings with me before you start. Never start without my confirmation.
 
-PROMPT (copy everything below):
+PROMPT:
+3D animated cartoon. The little blue baby rhino with a tiny blunt horn from the reference sheet, and ONE meerkat from the meerkat reference, in a golden savanna, sunny afternoon. Continue exactly from the first frame: the rhino sits on his bottom on the left, the meerkat sits far away on the path on the right. Static camera, same wide view. Mouths closed, lips still the whole clip.
 
-Continue exactly from the first frame. @littlerhino sits on his bottom in @savanna on the left, the @meerkat sits far away on the path on the right. Static camera, same wide view. No dialogue, mouths closed, lips still the entire clip.
+0-3s: The meerkat shakes its dizzy head and stands up on its back legs, frowning, angry.
+3-8s: The meerkat runs fast along the path straight back toward the rhino, little dust puffs behind its feet.
+8-10s: The meerkat skids to a stop right in front of the rhino's face and stands tall on its back legs, paws on its hips, angry frown.
+10-15s: The rhino leans back nervously, eyes wide, ears down. They stare at each other, nose to nose. Mouths closed, lips still.
 
-0-2s: The @meerkat shakes its dizzy head and stands up on its back legs, frowning, angry.
-2-6s: The @meerkat runs fast along the path straight back toward @littlerhino, little dust puffs behind its feet.
-6-8s: The @meerkat skids to a stop right in front of @littlerhino's face and stands tall on its back legs, paws on its hips, angry frown.
-8-10s: @littlerhino leans back nervously, eyes wide. They stare at each other. Mouths closed, lips still.
+Only ONE meerkat in the whole clip. Sound effects only: fast little footsteps on dirt, a skid, light wind. No music. No voices. No speech.
 
-NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, meerkat flying
+NEGATIVE: talking, mouth moving, lip movement, speech, music, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, watermark
 
 ======================================================================
 
 CLIP_2_HEY_THATS_MY_HOUSE
+!!! THIS ONE CLIP IN KLING, NOT DOLA (Dola makes no voices). Audio ON. !!!
+
 Kling 3.0 Omni | 15 s | 16:9 | 1080p | Multi-shot OFF | Audio ON
 Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
 First frame: LAST FRAME of CLIP 1 (send me clip 1, I give you the frame)
@@ -39,36 +44,42 @@ NEGATIVE: mouth moving in silent parts, lip movement, babbling, mumbling, chewin
 ======================================================================
 
 CLIP_3_STANDING_ON_GUARD
-Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
-Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+DOLA - Seedance 2.0 | 15 seconds | 16:9 | 4K
 First frame: LAST FRAME of CLIP 2
+Character references: REFERENCE_SHEETS/littlerhino (the little rhino), REFERENCE_SHEETS/meerkat (ONE single meerkat)
+Location reference: REFERENCE_SHEETS/savanna
+Confirm these settings with me before you start. Never start without my confirmation.
 
-PROMPT (copy everything below):
+PROMPT:
+3D animated cartoon. The little blue baby rhino with a tiny blunt horn from the reference sheet, and ONE meerkat from the meerkat reference, in a golden savanna, sunny afternoon. Continue exactly from the first frame: the rhino and the meerkat close together. Static camera, same view. Mouths closed, lips still the whole clip.
 
-Continue exactly from the first frame. @littlerhino and the @meerkat close together in @savanna. Static camera, same view. No dialogue, mouths closed, lips still the entire clip.
+0-4s: The meerkat stands tall on its back legs, on guard, front paws tucked, looking left and right.
+4-8s: The rhino copies it: he stands up on his back legs, wobbling, front legs tucked like the meerkat, very proud.
+8-11s: Both turn their heads to the left at the exact same time, then to the right at the exact same time.
+11-15s: The rhino wobbles and plops down onto his bottom. The meerkat looks at him and smiles with its mouth closed.
 
-0-3s: The @meerkat stands tall on its back legs, on guard, front paws tucked, looking left and right.
-3-6s: @littlerhino copies it: he stands up on his back legs, wobbling, front legs tucked like the meerkat, very proud. Mouths closed.
-6-8s: Both turn their heads to the left at the exact same time, then to the right at the exact same time.
-8-10s: @littlerhino wobbles and plops down onto his bottom. The @meerkat looks at him and smiles with mouth closed.
+Only ONE meerkat in the whole clip. Sound effects only: light wind, soft grass, a soft thud when he plops down. No music. No voices. No speech.
 
-NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text
+NEGATIVE: talking, mouth moving, lip movement, speech, music, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, watermark
 
 ======================================================================
 
 CLIP_4_BIRD_SHADOW_HE_WALKS_ON
-Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
-Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+DOLA - Seedance 2.0 | 15 seconds | 16:9 | 4K
 First frame: LAST FRAME of CLIP 3
+Character references: REFERENCE_SHEETS/littlerhino (the little rhino), REFERENCE_SHEETS/meerkat (ONE single meerkat)
+Location reference: REFERENCE_SHEETS/savanna
+Confirm these settings with me before you start. Never start without my confirmation.
 
-PROMPT (copy everything below):
+PROMPT:
+3D animated cartoon. The little blue baby rhino with a tiny blunt horn from the reference sheet, and ONE meerkat from the meerkat reference, in a golden savanna, sunny afternoon. Continue exactly from the first frame: the rhino and the meerkat, the meerkat's hole in the ground next to them. Static camera, same view. Mouths closed, lips still the whole clip.
 
-Continue exactly from the first frame. @littlerhino and the @meerkat in @savanna, the meerkat's hole in the ground next to them. Static camera, same view. No dialogue, mouths closed, lips still the entire clip.
+0-3s: A big dark bird shadow sweeps across the ground over them. No bird lands.
+3-4s: The meerkat's eyes go wide and it dives straight down into its hole in a blink, gone.
+4-8s: The rhino looks around, confused, then peeks down into the empty hole.
+8-11s: He looks up, shrugs, a little sad again, alone.
+11-15s: He stands up and slowly walks away toward the tall grass and bushes on the right.
 
-0-2s: A big dark bird shadow sweeps across the ground over them.
-2-3s: The @meerkat's eyes go wide and it dives straight down into its hole in a blink, gone.
-3-6s: @littlerhino looks around, confused, then peeks down into the empty hole. Mouth closed.
-6-8s: He looks up, shrugs, a little sad again, alone.
-8-10s: He stands up and slowly walks away toward the tall grass and bushes on the right. Mouth closed.
+Only ONE meerkat in the whole clip. Sound effects only: a whoosh as the shadow passes, a quick pop as the meerkat dives in, soft footsteps. No music. No voices. No speech.
 
-NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, bird landing, eagle attacking
+NEGATIVE: talking, mouth moving, lip movement, speech, music, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, watermark
