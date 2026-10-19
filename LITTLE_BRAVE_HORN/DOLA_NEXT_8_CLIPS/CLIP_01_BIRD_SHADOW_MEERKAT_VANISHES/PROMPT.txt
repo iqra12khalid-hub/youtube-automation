@@ -14,6 +14,6 @@ PROMPT:
 5-7s: The little rhino looks up, sees the eagle coming and ducks flat on the ground, eyes squeezed shut. The eagle swoops very low over the empty hole, finds nothing, and its talons grab only air.
 7-9s: The eagle flaps its big wings and flies away up into the sky, getting smaller and smaller until it is gone.
 9-12s: The little rhino slowly opens one eye, looks around, then crawls to the hole and peeks down into it, bottom up in the air. The meerkat does not come out.
-12-15s: He sits back, ears drooping, a little sad, alone again, then gets up and slowly walks away to the right, toward a leafy green bush at the edge of the path.
+12-15s: He sits back, ears drooping, a little sad, alone again, then gets up and slowly walks away to the right along the same dirt path. Nothing new appears in the scene.
 
 NEGATIVE: talking, speech, words, singing, text, subtitles, logo, watermark, camera cut, extra characters, more than one meerkat, more than one eagle, eagle catching the meerkat, eagle catching the rhino, eagle landing, blood, injury, mud, water

@@ -6,9 +6,9 @@ SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: sound effects only: soft footsteps, leaves rustling, a tiny comic blink sound, light wind. No music. No voices. (If audio is blocked: VISUAL ONLY.)
 
 PROMPT:
-3D animated cartoon, bright warm colours, soft lighting, big expressive faces. Characters look exactly like their reference sheets. Continue exactly from the first frame. Static camera, medium shot, golden afternoon.
+3D animated cartoon, bright warm colours, soft lighting, big expressive faces. Characters look exactly like their reference sheets. Continue exactly from the first frame. Golden afternoon.
 
-0-3s: The little rhino walks up to a leafy green bush and sniffs a low branch, curious.
+0-3s: The camera follows the little rhino as he keeps walking slowly along the dirt path, a little sad. Further along the path he comes to a leafy green bush and stops to sniff a low branch, curious.
 3-6s: One green leaf on the branch suddenly opens two big eyes: it is the chameleon, perfectly green like the leaves. The rhino freezes, eyes wide.
 6-10s: The chameleon's two eyes roll and look in two different directions at the same time, one at him and one at the sky. The rhino tilts his head left and right, trying to follow both eyes, getting dizzy.
 10-15s: The chameleon walks slowly along the branch toward his face, curly tail wrapped around the branch. The rhino leans in close, nose almost touching it, fascinated.
