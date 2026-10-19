@@ -1,0 +1,9 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: FIRST_FRAME.jpg            (or: LAST FRAME OF CLIP_01  /  NONE)
+CHARACTERS: littlerhino, meerkat
+LOCATION: savanna
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: VISUAL ONLY (mouth movements kept)   (or: sound effects + music as described)
+
+PROMPT:
+...
