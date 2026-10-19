@@ -1,3 +1,8 @@
+---
+name: clip-pipeline
+description: Read a folder of character sheets and clip prompts, generate each clip in order (image-to-video or text-to-video as the prompt header says), chain last frames when asked, run at most 2 independent clips in parallel, and deliver every clip immediately as an inline playable and downloadable video card.
+---
+
 # SKILL: Clip pipeline from a folder (read this first, follow it every time)
 
 You will receive ONE folder (zip). Everything you need is inside it. Follow these steps exactly.
