@@ -5,7 +5,7 @@ INSTRUCTIONS FOR DOLA (read first):
 - CLIP B first frame: take the LAST FRAME of CLIP A yourself.
 - CLIP C first frame: take the LAST FRAME of CLIP B yourself.
 - References for every clip: REFERENCE_SHEETS/littlerhino (the little rhino), REFERENCE_SHEETS/meerkat (ONE single meerkat), REFERENCE_SHEETS/savanna (location).
-- No music in any clip. No text. No watermark.
+- Music and sound effects ON in every clip (described in each prompt). No text. No watermark.
 - Confirm these settings with me before you start. Never start without my confirmation.
 
 ======================================================================
@@ -22,9 +22,12 @@ First frame: 01_FIRST_FRAME_CLIP_A.jpg
 10-12s: Only the meerkat speaks with a big grin, in the same cheeky voice: "Ha! Just kidding!" Then its mouth closes.
 12-15s: Both smile with mouths closed, happy eyes, shoulders shaking with a silent laugh.
 
-A mouth moves only while that character speaks its line. Sound: light wind, soft grass. No music. No text.
+A mouth moves only while that character speaks its line.
+MUSIC: playful, cheeky cartoon music, plucky pizzicato strings and light woodwinds; a short tense sting when the meerkat shouts, then a bouncy happy turn on "Ha! Just kidding!". Keep the music soft under the voices.
+SOUND EFFECTS: light wind, soft grass, a little stomp when the meerkat taps its foot.
+No text.
 
-NEGATIVE: mouth moving in silent parts, babbling, mumbling, extra speech, singing, music, more than one meerkat, extra animals, camera movement, camera cut, text, watermark
+NEGATIVE: mouth moving in silent parts, babbling, mumbling, extra speech, singing, loud music over the voices, more than one meerkat, extra animals, camera movement, camera cut, text, watermark
 
 ======================================================================
 CLIP B - STANDING ON GUARD TOGETHER
@@ -38,9 +41,10 @@ First frame: LAST FRAME of CLIP A (take it yourself)
 8-11s: Both turn their heads to the left at the exact same time, then to the right at the exact same time.
 11-15s: The rhino wobbles and plops down onto his bottom. The meerkat looks at him and smiles with its mouth closed.
 
-Sound effects only: light wind, soft grass, a soft thud when he plops down. No music. No voices.
+MUSIC: light, bouncy, comic savanna music with soft marimba and hand drums, a funny wobbly slide-whistle as he wobbles.
+SOUND EFFECTS: light wind, soft grass, a soft comic thud when he plops down. No voices.
 
-NEGATIVE: talking, mouth moving, lip movement, speech, music, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, watermark
+NEGATIVE: talking, mouth moving, lip movement, speech, singing, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, watermark
 
 ======================================================================
 CLIP C - BIRD SHADOW, MEERKAT VANISHES, HE WALKS ON
@@ -55,6 +59,7 @@ First frame: LAST FRAME of CLIP B (take it yourself)
 8-11s: He looks up, shrugs, a little sad again, alone.
 11-15s: He stands up and slowly walks away toward the tall grass and bushes on the right.
 
-Sound effects only: a whoosh as the shadow passes, a quick pop as the meerkat dives in, soft footsteps. No music. No voices.
+MUSIC: starts playful, a quick low suspense sting as the shadow passes, then soft, slow, slightly sad music as he is alone and walks away.
+SOUND EFFECTS: a whoosh as the shadow passes, distant bird cry, a quick pop as the meerkat dives in, soft footsteps on dirt. No voices.
 
-NEGATIVE: talking, mouth moving, lip movement, speech, music, more than one meerkat, extra animals, bird landing, eagle attacking, mud, water, camera movement, camera cut, text, watermark
+NEGATIVE: talking, mouth moving, lip movement, speech, singing, more than one meerkat, extra animals, bird landing, eagle attacking, mud, water, camera movement, camera cut, text, watermark
