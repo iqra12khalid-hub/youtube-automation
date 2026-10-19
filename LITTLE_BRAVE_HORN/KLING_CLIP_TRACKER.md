@@ -17,11 +17,11 @@
 | 11-I | Underground thumps, scared, jumps back (bulges added in edit) | Shot C | DONE (CLIP11I_SCARED_WITH_BULGE) |
 | 11-II | Front legs sink into the ground | 11-I | DONE (try3) |
 | B | Stuck, shocked, pulling | 11-II try3 at 11.7 s | DONE (SHOT_B_try1) |
-| D | Pops free, meerkat shoots out | last frame of B | DONE (SHOT_D_try2, cut at 8.0 s) |
-| 11C | Meerkat drops in front of his face | D at 8.0 s | NEXT |
-| 11D | "Hey! That's my house!" / "S-sorry!" / "Ha! Just kidding!" | last of 11C | TODO |
-| 11E | Stand on guard together, he plops down | last of 11D | TODO |
-| 11F | Bird shadow, meerkat vanishes, he walks on | last of 11E | TODO |
+| D | Pops free, meerkat flies far (user edit) | - | DONE (MEERKAT_SEQUENCE_COMBINED.mp4) |
+| M1 | Meerkat runs back, stops at his face | last of COMBINED | NEXT (folder MEERKAT_NEXT_4_v2) |
+| M2 | "Hey! That's my house!" / "S-sorry!" / "Ha! Just kidding!" | last of M1 | TODO |
+| M3 | Stand on guard together, he plops down | last of M2 | TODO |
+| M4 | Bird shadow, meerkat vanishes, he walks on | last of M3 | TODO |
 
 Chain A: 6 -> 7 -> 8 -> 9   (9 ends with Mama + baby + bird)
 Chain B: 10 -> 11 -> ...    (exploring: zebra, meerkats, chameleon, giraffe)

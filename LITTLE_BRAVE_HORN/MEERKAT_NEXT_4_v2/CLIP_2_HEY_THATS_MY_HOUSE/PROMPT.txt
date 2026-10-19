@@ -1,0 +1,18 @@
+Kling 3.0 Omni | 15 s | 16:9 | 1080p | Multi-shot OFF | Audio ON
+Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+First frame: LAST FRAME of CLIP 1 (send me clip 1, I give you the frame)
+
+PROMPT (copy everything below):
+
+Continue exactly from the first frame. @littlerhino sits on the ground in @savanna, the @meerkat stands on its back legs right in front of his face. Static camera, same view.
+
+0-3s: The @meerkat keeps its paws on its hips and frowns, angry. Both mouths closed, lips still.
+3-6s: Only the @meerkat speaks, loud and cross, in a quick, scratchy, cheeky little voice: "Hey! That's my house!" Then its mouth closes and stays closed. @littlerhino's mouth stays closed.
+6-8s: @littlerhino shrinks back, ears down, eyes wide. Only @littlerhino speaks in his small, high, squeaky voice: "S-sorry!" Then his mouth closes and stays closed. The @meerkat's mouth stays closed.
+8-10s: The @meerkat keeps frowning, both mouths closed, lips still.
+10-12s: Only the @meerkat speaks with a big grin, in the same quick, scratchy, cheeky voice: "Ha! Just kidding!" Then its mouth closes and stays closed.
+12-15s: Both smile with mouths closed, happy eyes, shoulders shake with a silent laugh. Lips still.
+
+Lip sync rules: a mouth moves ONLY when that character is speaking a line, exactly matching the words and timing. No mouth movement at any other time. No silent lip movement. Sound: light wind, soft grass. No music. No text.
+
+NEGATIVE: mouth moving in silent parts, lip movement, babbling, mumbling, chewing, mouth flapping, extra speech, singing, more than one meerkat, extra animals, camera movement, camera cut, text

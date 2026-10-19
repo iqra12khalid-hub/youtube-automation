@@ -1,0 +1,14 @@
+Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
+Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+First frame: FIRST_FRAME.jpg (in this folder)
+
+PROMPT (copy everything below):
+
+Continue exactly from the first frame. @littlerhino sits on his bottom in @savanna on the left, the @meerkat sits far away on the path on the right. Static camera, same wide view. No dialogue, mouths closed, lips still the entire clip.
+
+0-2s: The @meerkat shakes its dizzy head and stands up on its back legs, frowning, angry.
+2-6s: The @meerkat runs fast along the path straight back toward @littlerhino, little dust puffs behind its feet.
+6-8s: The @meerkat skids to a stop right in front of @littlerhino's face and stands tall on its back legs, paws on its hips, angry frown.
+8-10s: @littlerhino leans back nervously, eyes wide. They stare at each other. Mouths closed, lips still.
+
+NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, meerkat flying

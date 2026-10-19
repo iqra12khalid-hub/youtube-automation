@@ -1,0 +1,74 @@
+CLIP_1_MEERKAT_RUNS_BACK
+Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
+Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+First frame: FIRST_FRAME.jpg (in this folder)
+
+PROMPT (copy everything below):
+
+Continue exactly from the first frame. @littlerhino sits on his bottom in @savanna on the left, the @meerkat sits far away on the path on the right. Static camera, same wide view. No dialogue, mouths closed, lips still the entire clip.
+
+0-2s: The @meerkat shakes its dizzy head and stands up on its back legs, frowning, angry.
+2-6s: The @meerkat runs fast along the path straight back toward @littlerhino, little dust puffs behind its feet.
+6-8s: The @meerkat skids to a stop right in front of @littlerhino's face and stands tall on its back legs, paws on its hips, angry frown.
+8-10s: @littlerhino leans back nervously, eyes wide. They stare at each other. Mouths closed, lips still.
+
+NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, meerkat flying
+
+======================================================================
+
+CLIP_2_HEY_THATS_MY_HOUSE
+Kling 3.0 Omni | 15 s | 16:9 | 1080p | Multi-shot OFF | Audio ON
+Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+First frame: LAST FRAME of CLIP 1 (send me clip 1, I give you the frame)
+
+PROMPT (copy everything below):
+
+Continue exactly from the first frame. @littlerhino sits on the ground in @savanna, the @meerkat stands on its back legs right in front of his face. Static camera, same view.
+
+0-3s: The @meerkat keeps its paws on its hips and frowns, angry. Both mouths closed, lips still.
+3-6s: Only the @meerkat speaks, loud and cross, in a quick, scratchy, cheeky little voice: "Hey! That's my house!" Then its mouth closes and stays closed. @littlerhino's mouth stays closed.
+6-8s: @littlerhino shrinks back, ears down, eyes wide. Only @littlerhino speaks in his small, high, squeaky voice: "S-sorry!" Then his mouth closes and stays closed. The @meerkat's mouth stays closed.
+8-10s: The @meerkat keeps frowning, both mouths closed, lips still.
+10-12s: Only the @meerkat speaks with a big grin, in the same quick, scratchy, cheeky voice: "Ha! Just kidding!" Then its mouth closes and stays closed.
+12-15s: Both smile with mouths closed, happy eyes, shoulders shake with a silent laugh. Lips still.
+
+Lip sync rules: a mouth moves ONLY when that character is speaking a line, exactly matching the words and timing. No mouth movement at any other time. No silent lip movement. Sound: light wind, soft grass. No music. No text.
+
+NEGATIVE: mouth moving in silent parts, lip movement, babbling, mumbling, chewing, mouth flapping, extra speech, singing, more than one meerkat, extra animals, camera movement, camera cut, text
+
+======================================================================
+
+CLIP_3_STANDING_ON_GUARD
+Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
+Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+First frame: LAST FRAME of CLIP 2
+
+PROMPT (copy everything below):
+
+Continue exactly from the first frame. @littlerhino and the @meerkat close together in @savanna. Static camera, same view. No dialogue, mouths closed, lips still the entire clip.
+
+0-3s: The @meerkat stands tall on its back legs, on guard, front paws tucked, looking left and right.
+3-6s: @littlerhino copies it: he stands up on his back legs, wobbling, front legs tucked like the meerkat, very proud. Mouths closed.
+6-8s: Both turn their heads to the left at the exact same time, then to the right at the exact same time.
+8-10s: @littlerhino wobbles and plops down onto his bottom. The @meerkat looks at him and smiles with mouth closed.
+
+NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text
+
+======================================================================
+
+CLIP_4_BIRD_SHADOW_HE_WALKS_ON
+Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
+Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+First frame: LAST FRAME of CLIP 3
+
+PROMPT (copy everything below):
+
+Continue exactly from the first frame. @littlerhino and the @meerkat in @savanna, the meerkat's hole in the ground next to them. Static camera, same view. No dialogue, mouths closed, lips still the entire clip.
+
+0-2s: A big dark bird shadow sweeps across the ground over them.
+2-3s: The @meerkat's eyes go wide and it dives straight down into its hole in a blink, gone.
+3-6s: @littlerhino looks around, confused, then peeks down into the empty hole. Mouth closed.
+6-8s: He looks up, shrugs, a little sad again, alone.
+8-10s: He stands up and slowly walks away toward the tall grass and bushes on the right. Mouth closed.
+
+NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, bird landing, eagle attacking

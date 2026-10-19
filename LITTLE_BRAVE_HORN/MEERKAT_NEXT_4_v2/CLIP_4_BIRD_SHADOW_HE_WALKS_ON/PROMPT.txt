@@ -1,0 +1,15 @@
+Kling 3.0 Omni | 10 s | 16:9 | 1080p | Multi-shot OFF | Audio OFF
+Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
+First frame: LAST FRAME of CLIP 3
+
+PROMPT (copy everything below):
+
+Continue exactly from the first frame. @littlerhino and the @meerkat in @savanna, the meerkat's hole in the ground next to them. Static camera, same view. No dialogue, mouths closed, lips still the entire clip.
+
+0-2s: A big dark bird shadow sweeps across the ground over them.
+2-3s: The @meerkat's eyes go wide and it dives straight down into its hole in a blink, gone.
+3-6s: @littlerhino looks around, confused, then peeks down into the empty hole. Mouth closed.
+6-8s: He looks up, shrugs, a little sad again, alone.
+8-10s: He stands up and slowly walks away toward the tall grass and bushes on the right. Mouth closed.
+
+NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, bird landing, eagle attacking
