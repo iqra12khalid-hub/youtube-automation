@@ -32,3 +32,8 @@ CLIP  FILE NAME        WHO      TIME IN CLIP   LINE
 08    08_mama_1        Mama     ~4 s           "Look at you! A little mud ball!"
 08    08_little_1      Little   ~8 s           "Bigger... bigger..."
 08    08_little_2      Little   ~13 s          "It's still tiny."
+
+--- MEERKAT SCENE (Dola clip A, visual-only; voices added in edit) ---
+MEERKAT (quick, scratchy, cheeky little voice, cross):  "Hey! That's my house!"
+LITTLE RHINO (small, high, squeaky voice, scared):      "S-sorry!"
+MEERKAT (same voice, big grin, teasing):                "Ha! Just kidding!"
