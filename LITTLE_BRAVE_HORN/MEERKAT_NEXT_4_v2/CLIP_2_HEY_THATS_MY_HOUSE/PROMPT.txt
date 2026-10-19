@@ -2,7 +2,7 @@
 
 Kling 3.0 Omni | 15 s | 16:9 | 1080p | Multi-shot OFF | Audio ON
 Elements: @littlerhino @meerkat @savanna   (@meerkat = the single one, NOT @meerkats)
-First frame: LAST FRAME of CLIP 1 (send me clip 1, I give you the frame)
+First frame: FIRST_FRAME.jpg (in this folder = last frame of clip 1)
 
 PROMPT (copy everything below):
 
