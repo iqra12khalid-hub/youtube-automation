@@ -12,7 +12,7 @@
 | `zebrafoal` | character | baby zebra, playmate while exploring | zebrafoal/ |
 | `meerkats` | character group | three meerkats: big, medium, tiny | meerkats/ |
 | `chameleon` | character | green chameleon with yellow spots | chameleon/ |
-| `giraffe` | character | gentle giraffe (NOT yet saved in Kling) | giraffe/ |
+| `giraffe` | character | gentle giraffe | giraffe/ |
 
 ## Locations (saved in Kling)
 | Kling name | Images here |
