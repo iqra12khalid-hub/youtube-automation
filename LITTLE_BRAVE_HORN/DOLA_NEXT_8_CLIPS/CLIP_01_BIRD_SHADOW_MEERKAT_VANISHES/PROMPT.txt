@@ -6,9 +6,9 @@ SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: sound effects only: a soft whoosh as the shadow passes, a quick pop as the meerkat dives into its hole, soft footsteps on dirt, light wind. No music. No voices. (If audio is blocked: VISUAL ONLY.)
 
 PROMPT:
-3D animated cartoon, bright warm colours, soft lighting, big expressive faces. Characters look exactly like their reference sheets. Continue exactly from the first frame: the little rhino lies on his back on the left, giggling, the meerkat stands grinning on the right next to its hole in the ground. Static camera, same wide view, golden afternoon.
+3D animated cartoon, bright warm colours, soft lighting, big expressive faces. Characters look exactly like their reference sheets. Continue exactly from the first frame: the little rhino stands on his back legs on the left, smiling at the meerkat; the meerkat stands on guard on the right, smiling, next to its hole in the ground. Static camera, same wide view, golden afternoon.
 
-0-3s: The little rhino rolls over and sits up, still smiling. The meerkat smiles at him.
+0-3s: The little rhino drops down onto all four legs. Both keep smiling at each other.
 3-5s: A big dark bird shadow sweeps fast across the ground over them. No bird is seen, only the shadow.
 5-6s: The meerkat's eyes go huge and it dives head-first straight down into its hole, gone in a blink.
 6-10s: The little rhino looks around, confused, then crawls to the hole and peeks down into it, bottom up in the air.
