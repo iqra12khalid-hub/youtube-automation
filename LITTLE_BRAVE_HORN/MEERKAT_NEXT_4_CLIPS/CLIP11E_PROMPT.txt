@@ -1,0 +1,14 @@
+CLIP 11E - STANDING ON GUARD TOGETHER (comedy)
+Kling 3.0 Omni | 10 s | 16:9 | 1080p | Audio OFF | Multi-shot OFF
+Elements: @littlerhino @meerkat @savanna
+First frame: last frame of CLIP 11D
+
+PROMPT:
+Continue exactly from the first frame. @littlerhino and the @meerkat side by side in @savanna. Static camera, same view. No dialogue, mouths closed, lips still the entire clip.
+
+0-3s: The @meerkat stands tall on its back legs, on guard, front paws tucked, looking left and right.
+3-6s: @littlerhino copies it: he stands up on his back legs, wobbling, front legs tucked like the meerkat, very proud. Mouths closed.
+6-8s: Both turn their heads to the left at the exact same time, then to the right at the exact same time.
+8-10s: @littlerhino wobbles and plops down onto his bottom. The @meerkat looks at him and smiles with mouth closed.
+
+NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text

@@ -1,0 +1,14 @@
+CLIP 11C - MEERKAT DROPS IN FRONT OF HIS FACE
+Kling 3.0 Omni | 10 s | 16:9 | 1080p | Audio OFF | Multi-shot OFF
+Elements: @littlerhino @meerkat @savanna
+First frame: CLIP11C_FIRST_FRAME.jpg (Shot D try2 at 8.0 s; cut Shot D there)
+
+PROMPT:
+Continue exactly from the first frame. @littlerhino sits on the ground in @savanna, the @meerkat is in the air just in front of him. Static camera, same wide view. No dialogue, mouths closed, lips still the entire clip.
+
+0-2s: The @meerkat falls straight down and lands on its bottom right in front of @littlerhino's face with a small puff of dust.
+2-5s: The @meerkat sits there dizzy, head wobbling, eyes spinning. @littlerhino stares at it, eyes huge, frozen, mouth closed.
+5-8s: The @meerkat shakes its head, stands up on its back legs and turns to face @littlerhino, nose to nose, very close.
+8-10s: They stare at each other without moving. Mouths closed, lips still.
+
+NEGATIVE: talking, mouth moving, lip movement, open mouth, chewing, babbling, more than one meerkat, extra animals, mud, water, camera movement, camera cut, text, meerkat flying away, meerkat landing far away

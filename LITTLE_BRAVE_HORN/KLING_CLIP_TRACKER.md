@@ -13,7 +13,15 @@
 | 9 | Chase with bird, "Mama, look! I have a friend!" | last frame of 8 | DONE |
 | 10A | Leaves mud, meets Zuri: "Hi, I'm Little Horn. Want to play?" / "Yes! I'm Zuri!" | last frame of 9 | DONE (no play part) |
 | 10B | Play, mother zebra calls, "We'll play again soon!" / "Promise?", Zuri leaves | last frame of 10A | DONE |
-| 11 | Sad alone, walks on, meerkats | last frame of 10B | NEXT |
+| 11 | Sad alone, walks on (Shot C) | last frame of 10B | DONE |
+| 11-I | Underground thumps, scared, jumps back (bulges added in edit) | Shot C | DONE (CLIP11I_SCARED_WITH_BULGE) |
+| 11-II | Front legs sink into the ground | 11-I | DONE (try3) |
+| B | Stuck, shocked, pulling | 11-II try3 at 11.7 s | DONE (SHOT_B_try1) |
+| D | Pops free, meerkat shoots out | last frame of B | DONE (SHOT_D_try2, cut at 8.0 s) |
+| 11C | Meerkat drops in front of his face | D at 8.0 s | NEXT |
+| 11D | "Hey! That's my house!" / "S-sorry!" / "Ha! Just kidding!" | last of 11C | TODO |
+| 11E | Stand on guard together, he plops down | last of 11D | TODO |
+| 11F | Bird shadow, meerkat vanishes, he walks on | last of 11E | TODO |
 
 Chain A: 6 -> 7 -> 8 -> 9   (9 ends with Mama + baby + bird)
 Chain B: 10 -> 11 -> ...    (exploring: zebra, meerkats, chameleon, giraffe)
