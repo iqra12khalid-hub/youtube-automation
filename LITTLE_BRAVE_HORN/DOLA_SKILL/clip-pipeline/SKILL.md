@@ -60,14 +60,12 @@ AUDIO: <what sound is wanted, or VISUAL ONLY>
 
 ### Delivery format (must be exactly this)
 
-Deliver every clip with your **default inline video card**:
-
-- The card shows the clip's **FIRST FRAME** as its picture.
-- On that picture there is a **PLAY button** and a **DOWNLOAD button**.
-- Clicking PLAY **plays the video right there, inside the same card/picture**. It must NOT open a separate player, a new tab or a new window.
-- Clicking DOWNLOAD **downloads the video file** straight away.
-- Do NOT deliver a plain still image with fake buttons. Do NOT deliver only a link.
-- Under the card write one line: clip name, length, and "first frame for next clip taken: yes/no".
+- Deliver every clip using your **normal built-in video result**: the same video card that appears automatically in the chat when you finish generating a video.
+- That built-in card already shows the first frame, plays inline when clicked, and has a download button. **Use it as it is.**
+- **Do NOT build your own card.** Do NOT make HTML, a webpage, a gallery, a chart, a "visualization", a poster image or a thumbnail yourself.
+- Do NOT use any visualization / chart / design skill for delivery.
+- Do NOT re-upload the video as a file attachment or a link. Do NOT extract frames to make a preview.
+- Just let the generated video appear in the chat the normal way, then write one line under it: clip name, length, and "last frame for next clip taken: yes/no".
 
 ## 5. Settings check before starting
 
