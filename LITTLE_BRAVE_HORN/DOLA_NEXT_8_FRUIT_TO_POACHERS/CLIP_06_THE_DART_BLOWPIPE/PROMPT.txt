@@ -1,0 +1,19 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_04
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 05_TALL_POACHER_SHEET = the tall skinny poacher
+- 06_SHORT_POACHER_SHEET = the short round poacher
+- 07_JEEP_SHEET = the old dusty green jeep
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: wind, a sly chuckle, the clink of the tube. Low tense music. Visual only for any talking (no voices). (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: Continue from the first frame: the two poachers stand next to the jeep on the hill, cold evening light.
+
+0-5s: The tall poacher taps the short poacher on the shoulder and points down toward the savanna.
+5-10s: Both poachers look at each other and slowly grin a sneaky grin.
+10-15s: The short poacher reaches into the jeep and pulls out a long thin dart blowpipe (a sleeping dart, not a gun). He holds it up proudly.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, guns, rifles, knives, blood, violence, realistic, photorealistic, extra people, animals, text

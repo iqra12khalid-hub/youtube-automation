@@ -1,0 +1,18 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_02
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 01_BABY_RHINO_SHEET = the baby rhino (keep his exact look and skin colour from the sheet)
+- 04_MAMA_RHINO_SHEET = the mother rhino, bigger, long curved horn
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: a soft mechanical zoom whirr, crickets far away. Low tense music. No voices. (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: This is the view THROUGH the poachers' binoculars. Start from the first frame (the mama rhino and baby rhino asleep under the acacia tree) but show it inside a black double-circle binocular frame, slightly blue and cold.
+
+0-5s: Through the binoculars: the mama rhino and the baby rhino sleeping peacefully under the tree.
+5-10s: The binocular view slowly zooms in on the mama rhino's long curved horn.
+10-15s: Hold on the horn, the image slightly shaking as if held by hand. Tense.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, realistic, photorealistic, different rhinos, green chameleon, guns, crosshair, blood, text

@@ -1,0 +1,22 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: FIRST_FRAME.jpg (in this folder)
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 01_BABY_RHINO_SHEET = the baby rhino (keep his exact look and skin colour from the sheet)
+- 02_BLUE_CHAMELEON_SHEET = the small chameleon, BLUE with yellow spots, never green
+- 03_FRUIT_TREE_LOCATION = the huge fruit tree with apple-sized yellow fruits, hollow log, golden savanna and dirt path
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects and soft playful music. The two spoken lines may be VISUAL ONLY (mouth movement only, voices added later in editing). (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: The first frame shows the baby rhino sitting in front of the hollow log under the huge fruit tree, smiling at one apple-sized yellow fruit on the ground in front of him. The blue chameleon is NOT in the first frame: it is high up on the branch right above him.
+FRUIT SIZE: the fruit is the size of a normal apple, never bigger.
+
+0-3s: The baby rhino looks up into the tree. The camera tilts up: high on the branch, the blue chameleon waves down at him with a big proud grin.
+3-6s: Only the chameleon talks, cheeky and proud (line: "Breakfast is served, little horn!"). The rhino's mouth stays closed.
+6-8s: Back on the baby rhino. Only he talks, happy (line: "Thank you!"). The chameleon's mouth stays closed.
+8-13s: The baby rhino takes a big happy bite of the apple-sized fruit, juice dripping, eyes closed with joy, chewing.
+13-15s: He licks his lips and trots off along the dirt path, while the blue chameleon scurries down the trunk and hops onto his back.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, realistic, photorealistic, different rhino, green chameleon, giant fruit, fruit bigger than an apple, many fruits, extra animals

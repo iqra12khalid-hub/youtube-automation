@@ -1,0 +1,185 @@
+CLIP_01_BREAKFAST_IS_SERVED
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: FIRST_FRAME.jpg (in this folder)
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 01_BABY_RHINO_SHEET = the baby rhino (keep his exact look and skin colour from the sheet)
+- 02_BLUE_CHAMELEON_SHEET = the small chameleon, BLUE with yellow spots, never green
+- 03_FRUIT_TREE_LOCATION = the huge fruit tree with apple-sized yellow fruits, hollow log, golden savanna and dirt path
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects and soft playful music. The two spoken lines may be VISUAL ONLY (mouth movement only, voices added later in editing). (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: The first frame shows the baby rhino sitting in front of the hollow log under the huge fruit tree, smiling at one apple-sized yellow fruit on the ground in front of him. The blue chameleon is NOT in the first frame: it is high up on the branch right above him.
+FRUIT SIZE: the fruit is the size of a normal apple, never bigger.
+
+0-3s: The baby rhino looks up into the tree. The camera tilts up: high on the branch, the blue chameleon waves down at him with a big proud grin.
+3-6s: Only the chameleon talks, cheeky and proud (line: "Breakfast is served, little horn!"). The rhino's mouth stays closed.
+6-8s: Back on the baby rhino. Only he talks, happy (line: "Thank you!"). The chameleon's mouth stays closed.
+8-13s: The baby rhino takes a big happy bite of the apple-sized fruit, juice dripping, eyes closed with joy, chewing.
+13-15s: He licks his lips and trots off along the dirt path, while the blue chameleon scurries down the trunk and hops onto his back.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, realistic, photorealistic, different rhino, green chameleon, giant fruit, fruit bigger than an apple, many fruits, extra animals
+
+======================================================================
+
+CLIP_02_SUNSET_SLEEP_WITH_MAMA
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_01
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 01_BABY_RHINO_SHEET = the baby rhino (keep his exact look and skin colour from the sheet)
+- 02_BLUE_CHAMELEON_SHEET = the small chameleon, BLUE with yellow spots, never green
+- 04_MAMA_RHINO_SHEET = the mother rhino, bigger, long curved horn
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: soft footsteps, evening crickets, a happy sigh. Soft warm lullaby-like music. No voices. (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: Continue from the first frame: the baby rhino trots along the dirt path with the blue chameleon on his back.
+
+0-4s: The sky slowly turns orange and pink at sunset. The baby rhino trots along the path and sees his mother, the big mama rhino, standing under an acacia tree.
+4-8s: He runs happily to her and snuggles against her front leg. She lowers her head and gently nuzzles him with the side of her big horn.
+8-12s: The mama rhino lies down under the acacia tree. The baby rhino curls up against her side, the blue chameleon curled up on his back.
+12-15s: All three fall asleep, eyes closed, peaceful, warm sunset light fading into a soft purple evening.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, realistic, photorealistic, different rhino, green chameleon, extra rhinos, other animals, rain, night darkness too early
+
+======================================================================
+
+CLIP_03_THE_JEEP_ON_THE_HILL
+MODE: TEXT-TO-VIDEO
+FIRST FRAME: NONE
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 07_JEEP_SHEET = the old dusty green jeep
+- 08_SAVANNA_LOCATION = the golden savanna location
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: cold evening wind, a crow cawing far away, the jeep engine ticking as it cools. Low, tense music. No voices. (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: A new place. Cold blue-grey evening on a small hill above the savanna, long dark shadows, the colours colder and darker than before.
+
+0-5s: Slow camera push through some dry thorny bushes on top of the hill.
+5-10s: Behind the bushes, the old dusty green jeep from the sheet is parked, half hidden, its headlights off.
+10-15s: The camera slowly moves around the jeep: nobody is inside yet, but there is a rope, a net and a long thin tube on the back seat. Quiet, tense, mysterious.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, warm golden light, sunny, cheerful colours, animals, people, guns, weapons, blood, text
+
+======================================================================
+
+CLIP_04_TALL_AND_SHORT_POACHER
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_03
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 05_TALL_POACHER_SHEET = the tall skinny poacher
+- 06_SHORT_POACHER_SHEET = the short round poacher
+- 07_JEEP_SHEET = the old dusty green jeep
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: wind, a camera-phone shutter click, a grumpy hmph. Low tense but slightly comic music. Visual only for any talking (no voices). (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: Continue from the first frame, on the hill next to the jeep, cold evening light.
+
+0-5s: The tall skinny poacher steps out from behind the jeep and looks through a pair of binoculars toward the savanna below, very serious.
+5-10s: Next to him, the short round poacher is NOT looking — he is busy taking a selfie with his phone, making a silly duck face. Click.
+10-15s: The tall poacher lowers his binoculars, turns and glares at the short one. The short one quickly hides the phone behind his back and gives an innocent grin.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, guns, rifles, blood, violence, realistic, photorealistic, extra people, animals, text
+
+======================================================================
+
+CLIP_05_BINOCULAR_VIEW
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_02
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 01_BABY_RHINO_SHEET = the baby rhino (keep his exact look and skin colour from the sheet)
+- 04_MAMA_RHINO_SHEET = the mother rhino, bigger, long curved horn
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: a soft mechanical zoom whirr, crickets far away. Low tense music. No voices. (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: This is the view THROUGH the poachers' binoculars. Start from the first frame (the mama rhino and baby rhino asleep under the acacia tree) but show it inside a black double-circle binocular frame, slightly blue and cold.
+
+0-5s: Through the binoculars: the mama rhino and the baby rhino sleeping peacefully under the tree.
+5-10s: The binocular view slowly zooms in on the mama rhino's long curved horn.
+10-15s: Hold on the horn, the image slightly shaking as if held by hand. Tense.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, realistic, photorealistic, different rhinos, green chameleon, guns, crosshair, blood, text
+
+======================================================================
+
+CLIP_06_THE_DART_BLOWPIPE
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_04
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 05_TALL_POACHER_SHEET = the tall skinny poacher
+- 06_SHORT_POACHER_SHEET = the short round poacher
+- 07_JEEP_SHEET = the old dusty green jeep
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: wind, a sly chuckle, the clink of the tube. Low tense music. Visual only for any talking (no voices). (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: Continue from the first frame: the two poachers stand next to the jeep on the hill, cold evening light.
+
+0-5s: The tall poacher taps the short poacher on the shoulder and points down toward the savanna.
+5-10s: Both poachers look at each other and slowly grin a sneaky grin.
+10-15s: The short poacher reaches into the jeep and pulls out a long thin dart blowpipe (a sleeping dart, not a gun). He holds it up proudly.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, guns, rifles, knives, blood, violence, realistic, photorealistic, extra people, animals, text
+
+======================================================================
+
+CLIP_07_HIS_EARS_HEAR_SOMETHING
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_02
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 01_BABY_RHINO_SHEET = the baby rhino (keep his exact look and skin colour from the sheet)
+- 02_BLUE_CHAMELEON_SHEET = the small chameleon, BLUE with yellow spots, never green
+- 04_MAMA_RHINO_SHEET = the mother rhino, bigger, long curved horn
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: crickets, a far-away car door clunk, a tiny twig snap. Low tense music. No voices. (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: Continue from the first frame: the baby rhino and the mama rhino asleep under the acacia tree, evening, the blue chameleon curled on his back.
+
+0-5s: Close-up of the sleeping baby rhino's face. Very peaceful.
+5-9s: One of his ears twitches and slowly turns toward the hill, like a little radar. Then the other ear turns too.
+9-13s: His eyes slowly open. He lifts his head, looking toward the hill, worried.
+13-15s: The blue chameleon on his back opens its eyes too and looks the same way.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, realistic, photorealistic, different rhino, green chameleon, people visible, extra animals, text
+
+======================================================================
+
+CLIP_08_THUNDER_AND_THE_JEEP
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_06
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 05_TALL_POACHER_SHEET = the tall skinny poacher
+- 06_SHORT_POACHER_SHEET = the short round poacher
+- 07_JEEP_SHEET = the old dusty green jeep
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: a loud thunder crack, rain starting to pour, the jeep engine roaring to life, tyres spinning in wet dirt. Fast dramatic music. No voices. (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: Continue from the first frame: the two poachers next to the jeep on the hill, the short one holding the dart blowpipe.
+
+0-3s: A flash of lightning and a huge thunder crack. Rain suddenly starts pouring down.
+3-7s: The two poachers jump into the jeep, the tall one driving, the short one in the passenger seat holding the blowpipe.
+7-12s: The jeep's headlights switch on and it roars off down the hill toward the savanna, mud spraying from the wheels.
+12-15s: Wide shot: the jeep's headlights bouncing down the hill through the rain toward the sleeping rhinos far below.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, guns, rifles, blood, violence, realistic, photorealistic, extra people, animals, text

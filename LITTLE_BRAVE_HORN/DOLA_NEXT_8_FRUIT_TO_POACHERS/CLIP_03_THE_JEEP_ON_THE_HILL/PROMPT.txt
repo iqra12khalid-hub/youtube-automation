@@ -1,0 +1,18 @@
+MODE: TEXT-TO-VIDEO
+FIRST FRAME: NONE
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly):
+- 07_JEEP_SHEET = the old dusty green jeep
+- 08_SAVANNA_LOCATION = the golden savanna location
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Sound effects: cold evening wind, a crow cawing far away, the jeep engine ticking as it cools. Low, tense music. No voices. (If audio is blocked: VISUAL ONLY, keep all actions and mouth timings.)
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. Never change a character's look between clips.
+
+WHERE EVERYONE IS: A new place. Cold blue-grey evening on a small hill above the savanna, long dark shadows, the colours colder and darker than before.
+
+0-5s: Slow camera push through some dry thorny bushes on top of the hill.
+5-10s: Behind the bushes, the old dusty green jeep from the sheet is parked, half hidden, its headlights off.
+10-15s: The camera slowly moves around the jeep: nobody is inside yet, but there is a rope, a net and a long thin tube on the back seat. Quiet, tense, mysterious.
+
+NEGATIVE: text, subtitles, logo, watermark, camera cut to a different place, warm golden light, sunny, cheerful colours, animals, people, guns, weapons, blood, text
