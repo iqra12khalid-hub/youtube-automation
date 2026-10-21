@@ -145,7 +145,7 @@ CLIP_06_THE_SAW
 
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_05
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET, 12_THE_NEXT_HILL
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: grunting while dragging, a jeep door, a metal saw being pulled out, a deep low rumble, pebbles rattling. Music: dark and tense, then a deep drum boom.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -155,14 +155,15 @@ PROMPT:
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
 LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
-GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
+THE NEXT HILL: exactly 12_THE_NEXT_HILL: the smooth rounded hill with dry golden-brown grass, the reddish dirt track up to the crest, full moon, stormy blue sky, and the small acacia hill far away on the left. Anything behind the crest is hidden from view.
+GROUND: short, low grass everywhere on the hill. No tall grass, no stone floor.
 
 WHERE EVERYONE IS: the same sleeping place under the acacia tree. Mama sleeps. The tall poacher snores on the grass. The short poacher holds the blue chameleon dangling by the tail. The poachers' jeep (EXACTLY 07_JEEP_SHEET: sage-green, rusty, muddy, black roll-cage, spare tyre on the roof and on the back) is parked a little way down the hill.
 
 0-5s: the short poacher drops the blue chameleon into an empty glass jar and screws the lid on (the chameleon pulls faces and bangs on the glass, unhurt). Then he drags the sleeping tall poacher by his boots down to the jeep and heaves him into the passenger seat, and puts the jar on the bonnet.
 5-9s: from the back of the jeep he pulls out a big cartoon hand saw, grins, and walks back up to sleeping Mama.
 9-12s: he lifts the saw toward Mama's big horn. Just BEFORE it touches the horn (it never touches), he freezes.
-12-15s: the ground starts to shake. Pebbles bounce on the grass, the acacia leaves tremble, the saw wobbles in his hand. He slowly looks up toward the top of the next hill.
+12-15s: the ground starts to shake. Pebbles bounce on the grass, the acacia leaves tremble, the saw wobbles in his hand. He slowly looks up toward the top of the next hill (12_THE_NEXT_HILL).
 
 NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, blood, red marks, wounds, realistic, photorealistic, tall grass, stone floor, extra characters, extra poachers, green chameleon, bright pink baby rhino, small child-sized poacher, beard on the short poacher, golden or brass blowpipe, trumpet-shaped blowpipe, blowing into the wide metal end, dart coming out of the thin end, character changing look, location changing, floating objects, teleporting, gibberish, extra dialogue, saw touching the horn, cutting, injury, dialogue, speech, talking, voices, words
 
@@ -173,7 +174,7 @@ CLIP_07_ONLY_THE_LITTLE_ONE
 
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_06
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 12_THE_NEXT_HILL
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: rumbling ground fading, wind, the poacher's snort of laughter. Music: one held tense note, then comic.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -182,9 +183,10 @@ PROMPT:
 3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body, exactly like 05_SHORT_POACHER_SHEET (never small like a child). Never change a character's look between clips.
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
-GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
+THE NEXT HILL: exactly 12_THE_NEXT_HILL: the smooth rounded hill with dry golden-brown grass, the reddish dirt track up to the crest, full moon, stormy blue sky, and the small acacia hill far away on the left. Anything behind the crest is hidden from view.
+GROUND: short, low grass everywhere on the hill. No tall grass, no stone floor.
 
-WHERE EVERYONE IS: on the next grassy hill, across from the acacia tree. Night, moonlight.
+WHERE EVERYONE IS: on the next hill (12_THE_NEXT_HILL), across from the acacia tree. Night, moonlight.
 
 0-5s: wide shot: on top of the next hill, against the moonlit sky, the baby rhino walks up and stops on the crest, small and alone, staring down bravely. Nothing else is visible on the hill (the herd is hidden behind the crest and is NOT shown). The rumbling stops. This is the first time we see the baby since he ran away.
 5-10s: the short poacher, saw in hand, stares up at the tiny baby. Then he bursts out laughing, holding his belly.
@@ -199,7 +201,7 @@ CLIP_08_THE_BULLY_IN_THE_JEEP
 
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_07
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET, 12_THE_NEXT_HILL
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: the jeep engine revving, wheels spinning on grass, the engine roaring uphill. Music: tense, comic villain theme, building.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -208,7 +210,8 @@ PROMPT:
 3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body, exactly like 05_SHORT_POACHER_SHEET (never small like a child). Never change a character's look between clips.
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
-GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
+THE NEXT HILL: exactly 12_THE_NEXT_HILL: the smooth rounded hill with dry golden-brown grass, the reddish dirt track up to the crest, full moon, stormy blue sky, and the small acacia hill far away on the left. Anything behind the crest is hidden from view.
+GROUND: short, low grass everywhere on the hill. No tall grass, no stone floor.
 
 WHERE EVERYONE IS: the jeep (EXACTLY 07_JEEP_SHEET) at the bottom of the next hill with the short poacher driving and the tall poacher asleep in the passenger seat. On top of the hill stands only the baby rhino.
 
@@ -225,7 +228,7 @@ CLIP_09_THE_BIG_RHINO
 
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_08
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (the big rhino looks like her, but even bigger), 05_SHORT_POACHER_SHEET, 07_JEEP_SHEET
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (the big rhino looks like her, but even bigger), 05_SHORT_POACHER_SHEET, 07_JEEP_SHEET, 12_THE_NEXT_HILL
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: a sudden deep angry bellow, a huge 'CRUNCH-BONK' on the jeep, a long falling whistle, the poacher's faraway yell. Music: big heroic hit.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -234,7 +237,8 @@ PROMPT:
 3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body, exactly like 05_SHORT_POACHER_SHEET (never small like a child). Never change a character's look between clips.
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
-GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
+THE NEXT HILL: exactly 12_THE_NEXT_HILL: the smooth rounded hill with dry golden-brown grass, the reddish dirt track up to the crest, full moon, stormy blue sky, and the small acacia hill far away on the left. Anything behind the crest is hidden from view.
+GROUND: short, low grass everywhere on the hill. No tall grass, no stone floor.
 
 WHERE EVERYONE IS: the top of the next hill. The jeep (EXACTLY 07_JEEP_SHEET) is driving up at the baby rhino.
 
@@ -278,7 +282,7 @@ CLIP_11_THE_HERD
 
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_09
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (all herd rhinos look like her, different sizes)
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (all herd rhinos look like her, different sizes), 12_THE_NEXT_HILL
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: deep thundering hooves, many snorts, one big bellow, dust. Music: big, triumphant, heroic.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -287,7 +291,8 @@ PROMPT:
 3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body, exactly like 05_SHORT_POACHER_SHEET (never small like a child). Never change a character's look between clips.
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
-GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
+THE NEXT HILL: exactly 12_THE_NEXT_HILL: the smooth rounded hill with dry golden-brown grass, the reddish dirt track up to the crest, full moon, stormy blue sky, and the small acacia hill far away on the left. Anything behind the crest is hidden from view.
+GROUND: short, low grass everywhere on the hill. No tall grass, no stone floor.
 
 WHERE EVERYONE IS: the top of the next hill. The baby rhino and the huge rhino stand on the crest.
 

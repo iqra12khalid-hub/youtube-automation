@@ -1,6 +1,6 @@
 READ ME FIRST - follow SKILL.md (clip-pipeline).
 
-VERSION 6 - THE FINAL ACT of LITTLE BRAVE HORN. This replaces ALL earlier versions. 13 clips in this order:
+VERSION 7 - THE FINAL ACT of LITTLE BRAVE HORN. This replaces ALL earlier versions. 13 clips in this order:
 
 CLIP_01_THE_SLEEPING_DART
    MODE: IMAGE-TO-VIDEO | FIRST FRAME: FIRST_FRAME.jpg (in this folder)
@@ -64,6 +64,7 @@ DELIVER EACH CLIP AS SOON AS IT IS READY, exactly like 00_DELIVERY_EXAMPLE.png.
 Settings for all: Seedance 2.0 | 15 seconds | 16:9 | 4K. Confirm with me once before starting.
 
 RULES FOR EVERY CLIP:
+- NEW 12_THE_NEXT_HILL = the hill where the baby appears, the jeep drives up and the big rhino rises over the crest (CLIP_06 to CLIP_09 and CLIP_11). Use exactly this hill every time.
 - Sound effects and music in every clip. Dialogue ONLY where the exact lines are written; clips marked "No dialogue" have no speech at all.
 - The BLOWPIPE is always exactly 06_BLOWPIPE.jpg (brown bamboo, short dark grey metal wide end, no gold, no trumpet). Mouth on the THIN end, the dart comes out of the WIDE METAL end. Tiny sleeping dart with a pink tuft, no blood.
 - When the dart is fired there is always a clear distance (several metres) between the shooter and the target, and the location stays exactly the same.
