@@ -9,13 +9,14 @@ PROMPT:
 3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-grey exactly like 01_BABY_RHINO_SHEET (do not change his colour). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). Never change a character's look between clips.
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 The blowpipe is the long bamboo tube from 06_BLOWPIPE, about as long as the short poacher's arm span. The short poacher carries it in his hands; it never floats and never changes shape. It shoots only a tiny SLEEPING dart with a fluffy pink tuft.
+FACES: the SHORT poacher is CLEAN-SHAVEN exactly like 05_SHORT_POACHER_SHEET: NO beard, NO stubble, NO moustache, clean round face. The TALL poacher has only the thin curled moustache from 04_TALL_POACHER_SHEET, no beard. No mud on their faces.
 GRASS: short, low grass everywhere. No tall grass.
 
-WHERE EVERYONE IS: at night, at the bottom of the gentle hill with the acacia tree. The old green jeep from 07_JEEP_SHEET is parked next to a big muddy pool.
+WHERE EVERYONE IS: at night, at the bottom of the gentle hill with the acacia tree. The old green jeep from 07_JEEP_SHEET is parked on flat ground; right IN FRONT of the jeep is a big muddy pool.
 
 0-4s: the ground rumbles. Over the hill comes a herd of five big grown-up rhinos that look exactly like 03_MAMA_RHINO_SHEET, snorting.
-4-8s: the short poacher drags the sleepy, half-awake tall poacher down the hill and shoves him into the jeep, then jumps into the driver's seat. The engine coughs and won't start.
-8-12s: the herd of rhinos lines up behind the jeep and pushes it with their noses. The jeep rolls forward and slides into the big muddy pool, 'splorch'.
-12-15s: the jeep sinks in the mud up to its doors. The two poachers sit in it covered in mud from head to toe, blinking. The rhinos snort proudly.
+4-8s: the short poacher drags the sleepy, half-awake tall poacher by the arm, both feet on the ground, and helps him climb into the passenger seat; then the short poacher climbs into the driver's seat step by step (no jumping, no flying). He turns the key: the engine coughs and will NOT start. The jeep does not move by itself.
+8-12s: the herd walks up BEHIND the jeep. The rhinos put their noses against the back of the jeep and PUSH. Only because of their pushing, the jeep slowly rolls forward into the muddy pool, 'splorch'.
+12-15s: the jeep sinks in the mud up to its doors. The two poachers sit in it splattered with mud, blinking. The rhinos stand behind it and snort proudly.
 
-NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, real weapons, blood, injuries, violence, realistic, photorealistic, tall grass, high grass, extra characters, extra poachers, green chameleon, character changing look, poachers in front of the rhinos' faces at the start, floating objects, jumping into the air, flying, teleporting, gibberish, extra dialogue, dialogue, speech, talking, voices, words
+NEGATIVE: jeep driving by itself, engine starting, jumping into the jeep, beard, stubble, moustache on the short poacher, text, subtitles, logo, watermark, guns, rifles, knives, real weapons, blood, injuries, violence, realistic, photorealistic, tall grass, high grass, extra characters, extra poachers, green chameleon, character changing look, poachers in front of the rhinos' faces at the start, floating objects, jumping into the air, flying, teleporting, gibberish, extra dialogue, dialogue, speech, talking, voices, words
