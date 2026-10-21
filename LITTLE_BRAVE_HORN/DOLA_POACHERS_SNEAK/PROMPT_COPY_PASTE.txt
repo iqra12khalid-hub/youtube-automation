@@ -1,0 +1,29 @@
+LITTLE BRAVE HORN - POACHERS SNEAK (10 seconds, 16:9, one continuous shot)
+
+IMAGES IN THIS FOLDER:
+01_FIRST_FRAME.jpg       = the FIRST FRAME. The video starts exactly from this image.
+02_TALL_POACHER_SHEET.jpg = the tall skinny poacher (character sheet)
+03_SHORT_POACHER_SHEET.jpg = the short round poacher (character sheet)
+04_BLOWPIPE.jpg          = the blowpipe the short poacher carries
+
+IMPORTANT AUDIO RULE:
+NO DIALOGUE. NO SPEECH. NO VOICES. NO WORDS. Nobody talks, whispers or mumbles.
+YES to SOUND EFFECTS and MUSIC: the video MUST have full sound effects and background music.
+
+PROMPT:
+Start exactly from the first frame (01_FIRST_FRAME.jpg): the two poachers sitting in the mud at the bottom of the slope at night, in light rain, covered in mud from head to toe.
+
+The tall skinny poacher (02_TALL_POACHER_SHEET.jpg) and the short round poacher (03_SHORT_POACHER_SHEET.jpg) look exactly like their character sheets, but covered in mud from head to toe exactly as in the first frame, and they stay that muddy the whole time, faces included. The short one carries the long bamboo blowpipe (04_BLOWPIPE.jpg) carefully in both hands, about as long as his arm span. It never changes shape and it never goes to his mouth.
+
+0-3s: they get up from the mud, wipe their faces, and both stare at something far away off-screen to the right. The tall one points and puts a finger to his lips.
+3-7s: crouched low, they tiptoe across the dark wet savanna with short grass and duck behind a big rock. The tall one peeks over the top, then waves the short one on.
+7-10s: they crawl on their bellies to the next big rock and slowly peek over it, looking off-screen to the right. The short one grips the blowpipe and gives a sneaky nod.
+
+Only these two poachers in the whole clip. No animals anywhere in the shot. The camera follows them closely. Grounded, realistic movement: no jumping, flying or floating. Short grass only. Night, light rain, dark blue light. 3D animated cartoon, kid-friendly, tense and a little comic.
+
+SOUND EFFECTS (must include): steady light rain, squelch of mud when they stand up, wet footsteps on grass, soft tiptoe steps, scraping when they crawl on their bellies, held breaths, a nervous gulp.
+MUSIC (must include): quiet, tense, sneaky cartoon music with plucked strings and soft low drums, a little comic, building slowly toward the end.
+NO dialogue, NO speech, NO voices.
+
+NEGATIVE:
+dialogue, speech, talking, voices, whispering, words, gibberish, rhinos, animals, chameleon, extra poachers, more than two people, daytime, sunset, golden light, blue sky, tall grass, clean poachers, mud disappearing, different faces, jumping, flying, floating, blowpipe at the mouth, holding the blowpipe like a rifle, giant blowpipe, guns, blood, jeep, realistic, photorealistic, text, subtitles, watermark, camera cuts
