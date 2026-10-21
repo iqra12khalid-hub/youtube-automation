@@ -1,0 +1,21 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: FIRST_FRAME.jpg (in this folder)
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 06_BLOWPIPE, 08_ACACIA_TREE_NIGHT_LOCATION, 09_FAMILY_ASLEEP_LOOK
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: No dialogue. Sound effects: soft night breeze, crickets, belly-crawling on grass, a soft 'pfft' from the blowpipe, a tiny 'tuk' when the dart lands, Mama's deep sleepy sigh and a soft snore. Music: quiet, tense, sneaky plucked strings, a little comic.
+SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-grey exactly like 01_BABY_RHINO_SHEET (do not change his colour). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). Never change a character's look between clips.
+VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
+The blowpipe is the long bamboo tube from 06_BLOWPIPE, about as long as the short poacher's arm span. The short poacher carries it in his hands; it never floats and never changes shape. It shoots only a tiny SLEEPING dart with a fluffy pink tuft.
+GRASS: short, low grass everywhere. No tall grass.
+
+WHERE EVERYONE IS: continue from the first frame: the two poachers behind a big rock on a gentle hill at night, moonlit sky. Just ahead of them is the acacia tree from 08_ACACIA_TREE_NIGHT_LOCATION with the mama rhino, the baby rhino and the blue chameleon lying under it, fast asleep with EYES CLOSED exactly like 09_FAMILY_ASLEEP_LOOK. The poachers are BEHIND Mama's back, never in front of the family's faces.
+
+0-4s: the two poachers crawl on their bellies from the rock toward the tree, very slowly, and stop a few steps behind the sleeping Mama's back. The family keeps sleeping, eyes closed.
+4-8s: the short poacher kneels and lifts the blowpipe. He puts the thin end to his lips; the wide metal end points at Mama's big shoulder. The tall poacher covers his own ears and squeezes his eyes shut.
+8-11s: slow motion: the short poacher puffs his cheeks, a soft 'pfft', and a tiny dart with a fluffy pink tuft flies out of the wide metal end and lands softly in Mama's thick shoulder with a tiny 'tuk'. No blood, no pain.
+11-15s: Mama gives a long sleepy sigh and sinks even deeper into sleep, a soft snore. The baby and the chameleon stay asleep. The two poachers give each other a silent high-five behind the rock and grin.
+
+NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, real weapons, blood, injuries, violence, realistic, photorealistic, tall grass, high grass, extra characters, extra poachers, green chameleon, character changing look, poachers in front of the rhinos' faces at the start, floating objects, jumping into the air, flying, teleporting, gibberish, extra dialogue, the family waking up, open eyes on the sleeping family, dialogue, speech, talking, voices, words
