@@ -1,5 +1,5 @@
 MODE: IMAGE-TO-VIDEO
-FIRST FRAME: LAST FRAME OF CLIP_11
+FIRST FRAME: LAST FRAME OF CLIP_10
 CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: Dialogue (only this line). Sound effects: squelching mud, a rope net swishing, a 'thump', a truck arriving, doors closing, birds starting to sing. Music: comic, then warm and happy.
@@ -14,7 +14,7 @@ GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path
 WHERE EVERYONE IS: the muddy pool with the upside-down jeep. Very early dawn, the sky turning soft pink.
 
 0-5s: the two muddy poachers finally crawl out of the mud. The tall one trips over their own rope net; it flies open and falls over both of them.
-5-9s: they spin around trying to get out and end up wrapped together in their own net like a parcel, and fall over with a 'thump'. The blue chameleon rides in on the back of a running rhino of the herd and hops onto the bundle. Chameleon: "Gift-wrapped!"
+5-9s: they spin around trying to get out and end up wrapped together in their own net like a parcel, and fall over with a 'thump'. The blue chameleon (free again: the jar flew off and rolled open in the crash) hops onto the bundle. Chameleon: "Gift-wrapped!"
 9-15s: a friendly white ranger truck with a green stripe drives up. Two kind wildlife rangers in khaki uniforms and green caps (no weapons) lift the netted poachers into the back of the truck and drive away into the dawn.
 
 NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, blood, red marks, wounds, realistic, photorealistic, tall grass, stone floor, extra characters, extra poachers, green chameleon, bright pink baby rhino, small child-sized poacher, beard on the short poacher, golden or brass blowpipe, trumpet-shaped blowpipe, blowing into the wide metal end, dart coming out of the thin end, character changing look, location changing, floating objects, teleporting, gibberish, extra dialogue, guns, weapons on the rangers

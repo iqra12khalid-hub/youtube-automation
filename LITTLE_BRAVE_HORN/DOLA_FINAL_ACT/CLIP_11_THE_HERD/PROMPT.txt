@@ -1,5 +1,5 @@
 MODE: IMAGE-TO-VIDEO
-FIRST FRAME: LAST FRAME OF CLIP_10
+FIRST FRAME: LAST FRAME OF CLIP_09
 CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (all herd rhinos look like her, different sizes)
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: deep thundering hooves, many snorts, one big bellow, dust. Music: big, triumphant, heroic.
@@ -11,7 +11,7 @@ VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
 GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
 
-WHERE EVERYONE IS: the top of the next hill. The baby rhino and the huge lead rhino stand on the crest.
+WHERE EVERYONE IS: the top of the next hill. The baby rhino and the huge rhino stand on the crest.
 
 THE HERD (natural, not fake): 10 grown-up rhinos that look like 03_MAMA_RHINO_SHEET in different sizes. They come over the hill spread out and uneven: some in small groups, some alone, some trotting, some running, at different distances and moments, with dust rising behind them. NEVER in a straight line, never all the same pose.
 

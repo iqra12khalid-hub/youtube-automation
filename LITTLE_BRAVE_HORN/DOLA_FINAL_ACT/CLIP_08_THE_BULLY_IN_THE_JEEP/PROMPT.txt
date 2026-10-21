@@ -1,5 +1,5 @@
 MODE: IMAGE-TO-VIDEO
-FIRST FRAME: LAST FRAME OF CLIP_08
+FIRST FRAME: LAST FRAME OF CLIP_07
 CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: the jeep engine revving, wheels spinning on grass, the engine roaring uphill. Music: tense, comic villain theme, building.

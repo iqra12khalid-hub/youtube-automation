@@ -1,5 +1,5 @@
 MODE: IMAGE-TO-VIDEO
-FIRST FRAME: LAST FRAME OF CLIP_07
+FIRST FRAME: LAST FRAME OF CLIP_06
 CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: rumbling ground fading, wind, the poacher's snort of laughter. Music: one held tense note, then comic.
@@ -13,7 +13,7 @@ GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path
 
 WHERE EVERYONE IS: on the next grassy hill, across from the acacia tree. Night, moonlight.
 
-0-5s: wide shot: on top of the next hill, against the moonlit sky, stands ONLY the baby rhino, small and alone, staring down bravely. Nothing else is visible on the hill. The rumbling stops.
+0-5s: wide shot: on top of the next hill, against the moonlit sky, the baby rhino walks up and stops on the crest, small and alone, staring down bravely. Nothing else is visible on the hill (the herd is hidden behind the crest and is NOT shown). The rumbling stops. This is the first time we see the baby since he ran away.
 5-10s: the short poacher, saw in hand, stares up at the tiny baby. Then he bursts out laughing, holding his belly.
 10-15s: he tosses the saw into the jeep and climbs into the driver's seat, grinning, rubbing his hands.
 

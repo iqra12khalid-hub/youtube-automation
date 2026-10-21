@@ -1,6 +1,6 @@
 MODE: IMAGE-TO-VIDEO
-FIRST FRAME: LAST FRAME OF CLIP_06
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 03_MAMA_RHINO_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
+FIRST FRAME: LAST FRAME OF CLIP_05
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: grunting while dragging, a jeep door, a metal saw being pulled out, a deep low rumble, pebbles rattling. Music: dark and tense, then a deep drum boom.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -12,9 +12,9 @@ POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and
 LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
 GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
 
-WHERE EVERYONE IS: the same sleeping place under the acacia tree. Mama sleeps. The tall poacher snores on the grass. The poachers' jeep (EXACTLY 07_JEEP_SHEET: sage-green, rusty, muddy, black roll-cage, spare tyre on the roof and on the back) is parked a little way down the hill.
+WHERE EVERYONE IS: the same sleeping place under the acacia tree. Mama sleeps. The tall poacher snores on the grass. The short poacher holds the blue chameleon dangling by the tail. The poachers' jeep (EXACTLY 07_JEEP_SHEET: sage-green, rusty, muddy, black roll-cage, spare tyre on the roof and on the back) is parked a little way down the hill.
 
-0-5s: the short poacher drags the sleeping tall poacher by his boots down to the jeep and heaves him into the passenger seat.
+0-5s: the short poacher drops the blue chameleon into an empty glass jar and screws the lid on (the chameleon pulls faces and bangs on the glass, unhurt). Then he drags the sleeping tall poacher by his boots down to the jeep and heaves him into the passenger seat, and puts the jar on the bonnet.
 5-9s: from the back of the jeep he pulls out a big cartoon hand saw, grins, and walks back up to sleeping Mama.
 9-12s: he lifts the saw toward Mama's big horn. Just BEFORE it touches the horn (it never touches), he freezes.
 12-15s: the ground starts to shake. Pebbles bounce on the grass, the acacia leaves tremble, the saw wobbles in his hand. He slowly looks up toward the top of the next hill.

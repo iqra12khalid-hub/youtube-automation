@@ -1,6 +1,6 @@
 MODE: IMAGE-TO-VIDEO
-FIRST FRAME: LAST FRAME OF CLIP_09
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (the lead rhino looks like her, but even bigger, with a scar on her ear), 05_SHORT_POACHER_SHEET, 07_JEEP_SHEET
+FIRST FRAME: LAST FRAME OF CLIP_08
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (the big rhino looks like her, but even bigger), 05_SHORT_POACHER_SHEET, 07_JEEP_SHEET
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: a sudden deep angry bellow, a huge 'CRUNCH-BONK' on the jeep, a long falling whistle, the poacher's faraway yell. Music: big heroic hit.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -14,7 +14,7 @@ GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path
 WHERE EVERYONE IS: the top of the next hill. The jeep (EXACTLY 07_JEEP_SHEET) is driving up at the baby rhino.
 
 0-4s: at the last second, the baby rhino hops to the side out of the jeep's way.
-4-8s: right behind him, a HUGE rhino (the lead rhino) rises up over the top of the hill, where she was hidden just below the crest. She lowers her great head and gives a deep, angry bellow.
+4-8s: right behind him, a HUGE rhino rises up over the top of the hill, where she was hidden just below the crest. She lowers her great head and gives a deep, angry bellow.
 8-11s: she hooks her big horn under the front bumper and flings the WHOLE jeep up into the air with both poachers inside.
 11-15s: the jeep spins far, far away through the moonlit sky, getting smaller and smaller, the short poacher yelling. The baby and the big rhino watch it fly.
 
