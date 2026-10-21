@@ -50,5 +50,9 @@ AUDIO: every clip MUST have sound effects and music. Dialogue ONLY where a clip 
 Kid-friendly: the poachers use a SLEEPING DART blowpipe only. No guns, no blood, no violence. Mama is only asleep and wakes up at sunrise.
 The poachers always come from BEHIND the rhinos. Short grass only, never tall grass. The chameleon is always BLUE with yellow spots.
 
-VERSION 2 FIXES: the short poacher is CLEAN-SHAVEN in every clip (no beard, no stubble, no moustache). CLIP_01: poachers stay three steps behind Mama the whole time, one wide angle, blow into the THIN end, dart out of the WIDE METAL end, no red mark. CLIP_06: the jeep never drives by itself, the herd pushes it into the mud.
-CLIP_06 now starts from FIRST_FRAME.jpg so the jeep is OUR sage-green jeep with the roll-cage and spare tyres (07_JEEP_SHEET), not a dark army jeep.
+VERSION 3 FIXES (read before generating):
+- NEW 10_SLEEPING_PLACE_FAMILY_ASLEEP = the exact place where the family sleeps under the acacia tree, all eyes closed. Use it for CLIP_01 to CLIP_05.
+- NEW 11_POACHERS_MUDDY_LOOK = how the poachers look NOW: muddy. Mud is brown splashes, NEVER a beard. The short poacher has no beard and no moustache.
+- 06_BLOWPIPE now has arrows: MOUTH on the THIN bamboo end, the dart comes OUT of the WIDE METAL end (the back tail).
+- CLIP_01: TEXT-TO-VIDEO, poachers stay three steps behind Mama in one wide shot, no red mark.
+- CLIP_06: starts from its FIRST_FRAME.jpg so the jeep is OUR sage-green jeep with roll-cage and spare tyres (07_JEEP_SHEET). The herd pushes the jeep into the mud; it never drives by itself.
