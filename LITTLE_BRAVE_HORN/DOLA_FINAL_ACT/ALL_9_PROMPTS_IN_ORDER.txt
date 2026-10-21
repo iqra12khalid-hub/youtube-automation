@@ -1,7 +1,7 @@
 CLIP_01_THE_SLEEPING_DART
 
-MODE: TEXT-TO-VIDEO
-FIRST FRAME: NONE (build the scene from 10_SLEEPING_PLACE_FAMILY_ASLEEP and 11_POACHERS_MUDDY_LOOK)
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: FIRST_FRAME.jpg (in this folder) - it shows the EXACT location. Keep this location, tree, sky, moon, ground and camera angle for the whole clip.
 CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 06_BLOWPIPE, 08_ACACIA_TREE_NIGHT_LOCATION, 09_FAMILY_ASLEEP_LOOK, 11_POACHERS_MUDDY_LOOK, 10_SLEEPING_PLACE_FAMILY_ASLEEP
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: soft night breeze, crickets, belly-crawling on grass, a soft 'pfft' from the blowpipe, a tiny 'tuk' when the dart lands, Mama's deep sleepy sigh and a soft snore. Music: quiet, tense, sneaky plucked strings, a little comic.
@@ -14,7 +14,7 @@ The blowpipe is the long bamboo tube from 06_BLOWPIPE, about as long as the shor
 FACES: the two poachers are MUDDY exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on their skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache under the mud; the TALL poacher has only his thin curled moustache from 04_TALL_POACHER_SHEET.
 GRASS: short, low grass everywhere. No tall grass.
 
-WHERE EVERYONE IS: the two poachers (muddy exactly like 11_POACHERS_MUDDY_LOOK) behind a big rock on a gentle hill at night, moonlit sky. Just ahead is the EXACT sleeping place from 10_SLEEPING_PLACE_FAMILY_ASLEEP: the acacia tree with the mama rhino, the baby rhino and the blue chameleon lying under it, fast asleep with EYES CLOSED (close-up look: 09_FAMILY_ASLEEP_LOOK). The poachers are BEHIND Mama's back, never in front of the family's faces.
+WHERE EVERYONE IS: continue from the first frame, same place, never change it. The two poachers (muddy exactly like 11_POACHERS_MUDDY_LOOK) behind a big rock on a gentle hill at night, moonlit sky. Just ahead is the EXACT sleeping place from 10_SLEEPING_PLACE_FAMILY_ASLEEP: the acacia tree with the mama rhino, the baby rhino and the blue chameleon lying under it, fast asleep with EYES CLOSED (close-up look: 09_FAMILY_ASLEEP_LOOK). The poachers are BEHIND Mama's back, never in front of the family's faces.
 
 DISTANCE RULE: the poachers crawl to a spot about THREE STEPS behind Mama's back and STAY at exactly that distance until the end. One wide side-view camera angle for 0-11s that shows the poachers and the sleeping family in the same frame the whole time, so the distance never changes. No close-ups of the poacher before or during the shot.
 
