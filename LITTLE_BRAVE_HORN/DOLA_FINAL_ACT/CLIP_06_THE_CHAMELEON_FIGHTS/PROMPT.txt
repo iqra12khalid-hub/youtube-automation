@@ -1,0 +1,23 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_04
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 06_BLOWPIPE
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Dialogue (only this line). Sound effects: a cheeky battle cry squeak, a 'splat' on a face, muffled yelling, a soft 'pfft', a 'tuk', a huge comic yawn, a thud on the grass. Music: fast, comic, action.
+SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body, exactly like 05_SHORT_POACHER_SHEET (never small like a child). Never change a character's look between clips.
+VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The short poacher has ONE line only: gruff, nasal voice. The tall poacher never speaks. Say ONLY the lines written below, word for word, nothing else, no gibberish.
+POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
+BLOWPIPE AND DART (the same one as in the whole film): exactly 06_BLOWPIPE.jpg: a long BROWN BAMBOO tube with bamboo joints and a short DARK GREY METAL wide end, about as long as the short poacher's arm span. No gold, no brass, no trumpet shape. He puts his MOUTH on the THIN bamboo end and blows; the dart flies out of the WIDE METAL end. It is a tiny SLEEPING dart with a fluffy PINK tuft. It lands softly: only the pink tuft is seen, NO red, NO mark, NO blood.
+LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
+GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
+
+WHERE EVERYONE IS: the same sleeping place under the acacia tree. Same location as CLIP_01, it does not change. Mama sleeps. The two poachers stand rubbing their heads. The blue chameleon is on Mama's head.
+
+0-4s: the blue chameleon leaps through the air and lands flat on the tall poacher's face, covering his eyes with his body. The tall poacher stumbles around blindly, waving his arms.
+4-7s: the short poacher steps BACK to get a clear shot, so there are a few metres between him and the tall poacher. He lifts the blowpipe, thin end at his lips, wide metal end pointing at the chameleon. Short poacher (gruff, nasal voice): "Don't move!"
+7-11s: he blows, 'pfft'. At the last moment the chameleon jumps off. The tiny pink-tufted dart flies out of the WIDE METAL end across the gap and hits the tall poacher on the nose with a 'tuk'.
+11-15s: the tall poacher gives a huge yawn, his eyes droop, he wobbles like jelly and flops onto the grass, snoring. The chameleon lands on a branch of the acacia tree and blows a raspberry at the short poacher.
+
+NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, blood, red marks, wounds, realistic, photorealistic, tall grass, stone floor, extra characters, extra poachers, green chameleon, bright pink baby rhino, small child-sized poacher, beard on the short poacher, golden or brass blowpipe, trumpet-shaped blowpipe, blowing into the wide metal end, dart coming out of the thin end, character changing look, location changing, floating objects, teleporting, gibberish, extra dialogue

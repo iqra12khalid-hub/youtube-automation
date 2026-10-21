@@ -1,58 +1,78 @@
 READ ME FIRST - follow SKILL.md (clip-pipeline).
 
-THE FINAL ACT of LITTLE BRAVE HORN: 9 clips in this order:
+VERSION 5 - THE FINAL ACT of LITTLE BRAVE HORN (NEW STORY). This replaces ALL earlier versions. 14 clips in this order:
 
 CLIP_01_THE_SLEEPING_DART
    MODE: IMAGE-TO-VIDEO | FIRST FRAME: FIRST_FRAME.jpg (in this folder)
-   REFERENCES: 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 06_BLOWPIPE, 08_ACACIA_TREE_NIGHT_LOCATION, 09_FAMILY_ASLEEP_LOOK
+   REFERENCES: 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 06_BLOWPIPE, 10_SLEEPING_PLACE_FAMILY_ASLEEP, 09_FAMILY_ASLEEP_LOOK
 
 CLIP_02_MAMA_WON_T_WAKE_UP
    MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_01
-   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 08_ACACIA_TREE_NIGHT_LOCATION
+   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 10_SLEEPING_PLACE_FAMILY_ASLEEP
 
-CLIP_03_THE_NET
+CLIP_03_THEY_COME_FOR_THE_BABY
    MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_02
-   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET
+   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
 
-CLIP_04_THE_BRAVE_STAND
+CLIP_04_HE_RUNS
    MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_03
-   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET
+   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
 
-CLIP_05_THE_DART_BACKFIRES
-   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_04
-   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET
-
-CLIP_06_THE_HERD_AND_THE_JEEP
-   MODE: IMAGE-TO-VIDEO | FIRST FRAME: FIRST_FRAME.jpg (in this folder)
-   REFERENCES: 03_MAMA_RHINO_SHEET (the herd rhinos look like her), 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 07_JEEP_SHEET
-
-CLIP_07_TANGLED_IN_THEIR_OWN_NET
-   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_06
-   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET
-
-CLIP_08_THE_RANGERS
-   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_07
-   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET
-
-CLIP_09_MY_BRAVE_LITTLE_HORN
+CLIP_05_THE_BABY_FINDS_THE_HERD
    MODE: TEXT-TO-VIDEO | FIRST FRAME: NONE
-   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 08_ACACIA_TREE_NIGHT_LOCATION
+   REFERENCES: 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (the herd rhinos look like her)
 
-PARALLEL (max 2 at a time):
-- Start CLIP_01 and CLIP_06 together (neither waits for another clip).
-- CLIP_02 waits for CLIP_01, CLIP_03 waits for CLIP_02, CLIP_04 waits for CLIP_03, CLIP_05 waits for CLIP_04.
-- CLIP_07 waits for CLIP_06, CLIP_08 waits for CLIP_07.
-- CLIP_09 needs no first frame: start it whenever a slot is free.
+CLIP_06_THE_CHAMELEON_FIGHTS
+   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_04
+   REFERENCES: 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 06_BLOWPIPE
 
-DELIVER EACH CLIP AS SOON AS IT IS READY, exactly like 00_DELIVERY_EXAMPLE.png (your normal video result in the chat).
+CLIP_07_THE_SAW
+   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_06
+   REFERENCES: 03_MAMA_RHINO_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
+
+CLIP_08_ONLY_THE_LITTLE_ONE
+   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_07
+   REFERENCES: 01_BABY_RHINO_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
+
+CLIP_09_THE_BULLY_IN_THE_JEEP
+   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_08
+   REFERENCES: 01_BABY_RHINO_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
+
+CLIP_10_THE_BIG_RHINO
+   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_09
+   REFERENCES: 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (the lead rhino looks like her, but even bigger, with a scar on her ear), 05_SHORT_POACHER_SHEET, 07_JEEP_SHEET
+
+CLIP_11_THE_LANDING
+   MODE: TEXT-TO-VIDEO | FIRST FRAME: NONE
+   REFERENCES: 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
+
+CLIP_12_THE_HERD
+   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_10
+   REFERENCES: 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET (all herd rhinos look like her, different sizes)
+
+CLIP_13_THE_NET_AND_THE_RANGERS
+   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_11
+   REFERENCES: 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
+
+CLIP_14_MY_BRAVE_LITTLE_HORN
+   MODE: TEXT-TO-VIDEO | FIRST FRAME: NONE
+   REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 10_SLEEPING_PLACE_FAMILY_ASLEEP
+
+CHAINS (a clip waits for the clip whose last frame it uses):
+- 01 -> 02 -> 03 -> 04 -> 06 -> 07 -> 08 -> 09 -> 10 -> 11 -> 13
+- 10 -> 12
+- CLIP_05 and CLIP_14 need no first frame: run them whenever a slot is free.
+PARALLEL: max 2 at a time. Start CLIP_01 and CLIP_05 together.
+
+DELIVER EACH CLIP AS SOON AS IT IS READY, exactly like 00_DELIVERY_EXAMPLE.png.
 Settings for all: Seedance 2.0 | 15 seconds | 16:9 | 4K. Confirm with me once before starting.
-AUDIO: every clip MUST have sound effects and music. Dialogue ONLY where a clip writes the exact lines; clips marked "No dialogue" have no speech at all.
-Kid-friendly: the poachers use a SLEEPING DART blowpipe only. No guns, no blood, no violence. Mama is only asleep and wakes up at sunrise.
-The poachers always come from BEHIND the rhinos. Short grass only, never tall grass. The chameleon is always BLUE with yellow spots.
 
-VERSION 3 FIXES (read before generating):
-- NEW 10_SLEEPING_PLACE_FAMILY_ASLEEP = the exact place where the family sleeps under the acacia tree, all eyes closed. Use it for CLIP_01 to CLIP_05.
-- NEW 11_POACHERS_MUDDY_LOOK = how the poachers look NOW: muddy. Mud is brown splashes, NEVER a beard. The short poacher has no beard and no moustache.
-- 06_BLOWPIPE now has arrows: MOUTH on the THIN bamboo end, the dart comes OUT of the WIDE METAL end (the back tail).
-- CLIP_01: TEXT-TO-VIDEO, poachers stay three steps behind Mama in one wide shot, no red mark.
-- CLIP_06: starts from its FIRST_FRAME.jpg so the jeep is OUR sage-green jeep with roll-cage and spare tyres (07_JEEP_SHEET). The herd pushes the jeep into the mud; it never drives by itself.
+RULES FOR EVERY CLIP:
+- Sound effects and music in every clip. Dialogue ONLY where the exact lines are written; clips marked "No dialogue" have no speech at all.
+- The BLOWPIPE is always exactly 06_BLOWPIPE.jpg (brown bamboo, short dark grey metal wide end, no gold, no trumpet). Mouth on the THIN end, the dart comes out of the WIDE METAL end. Tiny sleeping dart with a pink tuft, no blood.
+- When the dart is fired there is always a clear distance (several metres) between the shooter and the target, and the location stays exactly the same.
+- The family's sleeping place is always exactly 10_SLEEPING_PLACE_FAMILY_ASLEEP (grassy hill, acacia tree, no stone floor).
+- The poachers look like their original sheets 04 and 05 plus the mud from 11. No beard on the short poacher. He is an adult, never child-sized.
+- The baby rhino is pinkish-GREY, never bright pink. The chameleon is always BLUE.
+- The herd is always natural: different sizes, spread out, never in a straight line.
+- The saw NEVER touches Mama's horn. Kid-friendly: no guns, no blood, no injuries.

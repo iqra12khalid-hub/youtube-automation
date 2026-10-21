@@ -1,0 +1,22 @@
+MODE: TEXT-TO-VIDEO
+FIRST FRAME: NONE
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 10_SLEEPING_PLACE_FAMILY_ASLEEP
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Dialogue (only these lines). Sound effects: birds singing, a soft breeze, a big happy yawn from Mama, gentle rhino snorts. Music: warm, emotional, happy ending theme.
+SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body, exactly like 05_SHORT_POACHER_SHEET (never small like a child). Never change a character's look between clips.
+VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
+POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
+LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
+GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
+
+WHERE EVERYONE IS: the same sleeping place under the acacia tree as in 10_SLEEPING_PLACE_FAMILY_ASLEEP, but now at SUNRISE with golden-orange light and a clear sky. Mama still lies asleep. The baby rhino and the blue chameleon sit by her face. The herd rests naturally around them, spread out on the hill.
+
+0-4s: the sun rises behind the acacia tree. Mama gives a big yawn and slowly opens her eyes.
+4-8s: the baby rhino jumps up happily. Baby rhino: "Mama! You're awake!"
+8-12s: Mama nuzzles him tenderly with her big horn and smiles. Mama rhino: "My brave little horn."
+12-15s: the blue chameleon leans on the baby's horn. Chameleon: "Told you he's a hero." The camera slowly pulls back to a wide shot of the family under the tree in the sunrise, the herd resting around them.
+
+NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, blood, red marks, wounds, realistic, photorealistic, tall grass, stone floor, extra characters, extra poachers, green chameleon, bright pink baby rhino, small child-sized poacher, beard on the short poacher, golden or brass blowpipe, trumpet-shaped blowpipe, blowing into the wide metal end, dart coming out of the thin end, character changing look, location changing, floating objects, teleporting, gibberish, extra dialogue
