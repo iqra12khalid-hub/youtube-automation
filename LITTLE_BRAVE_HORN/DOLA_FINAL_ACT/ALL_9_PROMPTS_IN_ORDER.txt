@@ -141,8 +141,8 @@ NEGATIVE: beard, stubble, moustache on the short poacher, text, subtitles, logo,
 
 CLIP_06_THE_HERD_AND_THE_JEEP
 
-MODE: TEXT-TO-VIDEO
-FIRST FRAME: NONE
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: FIRST_FRAME.jpg (in this folder) - it shows OUR jeep and OUR two poachers
 CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 03_MAMA_RHINO_SHEET (the herd rhinos look like her), 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 07_JEEP_SHEET
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: a deep rumbling of hooves, rhinos snorting, the jeep's engine coughing, a big 'splorch' of mud. Music: big, comic, triumphant.
@@ -155,14 +155,16 @@ The blowpipe is the long bamboo tube from 06_BLOWPIPE, about as long as the shor
 FACES: the SHORT poacher is CLEAN-SHAVEN exactly like 05_SHORT_POACHER_SHEET: NO beard, NO stubble, NO moustache, clean round face. The TALL poacher has only the thin curled moustache from 04_TALL_POACHER_SHEET, no beard. No mud on their faces.
 GRASS: short, low grass everywhere. No tall grass.
 
-WHERE EVERYONE IS: at night, at the bottom of the gentle hill with the acacia tree. The old green jeep from 07_JEEP_SHEET is parked on flat ground; right IN FRONT of the jeep is a big muddy pool.
+WHERE EVERYONE IS: continue from the first frame: the two poachers stand next to their jeep at night. Right in front of the jeep, on flat ground at the bottom of the gentle hill, is a big muddy pool. The tall poacher is very sleepy from his own dart: droopy eyes, yawning, wobbly legs.
 
-0-4s: the ground rumbles. Over the hill comes a herd of five big grown-up rhinos that look exactly like 03_MAMA_RHINO_SHEET, snorting.
-4-8s: the short poacher drags the sleepy, half-awake tall poacher by the arm, both feet on the ground, and helps him climb into the passenger seat; then the short poacher climbs into the driver's seat step by step (no jumping, no flying). He turns the key: the engine coughs and will NOT start. The jeep does not move by itself.
-8-12s: the herd walks up BEHIND the jeep. The rhinos put their noses against the back of the jeep and PUSH. Only because of their pushing, the jeep slowly rolls forward into the muddy pool, 'splorch'.
-12-15s: the jeep sinks in the mud up to its doors. The two poachers sit in it splattered with mud, blinking. The rhinos stand behind it and snort proudly.
+THE JEEP (most important): it must be EXACTLY the jeep from 07_JEEP_SHEET and from the first frame, in every second of the clip: light SAGE-GREEN paint with rust and mud splashes, an open top with a black ROLL-CAGE frame, a SPARE TYRE on the roof rack AND a spare tyre on the back door, a windshield, round headlights, a rusty front bumper and muddy wheels. NOT a dark olive army jeep, NOT a jeep without the roll-cage.
 
-NEGATIVE: jeep driving by itself, engine starting, jumping into the jeep, beard, stubble, moustache on the short poacher, text, subtitles, logo, watermark, guns, rifles, knives, real weapons, blood, injuries, violence, realistic, photorealistic, tall grass, high grass, extra characters, extra poachers, green chameleon, character changing look, poachers in front of the rhinos' faces at the start, floating objects, jumping into the air, flying, teleporting, gibberish, extra dialogue, dialogue, speech, talking, voices, words
+0-4s: the ground rumbles. The short poacher turns and sees, over the hill behind them, a herd of five big grown-up rhinos that look exactly like 03_MAMA_RHINO_SHEET, snorting and walking toward them.
+4-8s: the short poacher pushes the sleepy tall poacher into the passenger seat, both feet on the ground, then climbs into the driver's seat step by step (no jumping, no flying). He turns the key: the engine coughs and will NOT start. The jeep does not move by itself.
+8-12s: the herd walks up BEHIND the jeep. The rhinos put their noses against the spare tyre on the back of the jeep and PUSH. Only because of their pushing, the jeep slowly rolls forward into the muddy pool, 'splorch'.
+12-15s: the jeep (still exactly the sage-green jeep with the roll-cage and the spare tyres) sinks in the mud up to its doors. The two poachers sit in it splattered with mud, blinking. The rhinos stand behind it and snort proudly.
+
+NEGATIVE: different jeep, dark olive army jeep, jeep without roll-cage, jeep without spare tyre, jeep driving by itself, engine starting, jumping into the jeep, beard, stubble, moustache on the short poacher, text, subtitles, logo, watermark, guns, rifles, knives, real weapons, blood, injuries, violence, realistic, photorealistic, tall grass, high grass, extra characters, extra poachers, green chameleon, character changing look, poachers in front of the rhinos' faces at the start, floating objects, jumping into the air, flying, teleporting, gibberish, extra dialogue, dialogue, speech, talking, voices, words
 
 
 ==========

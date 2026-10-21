@@ -23,7 +23,7 @@ CLIP_05_THE_DART_BACKFIRES
    REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET
 
 CLIP_06_THE_HERD_AND_THE_JEEP
-   MODE: TEXT-TO-VIDEO | FIRST FRAME: NONE
+   MODE: IMAGE-TO-VIDEO | FIRST FRAME: FIRST_FRAME.jpg (in this folder)
    REFERENCES: 03_MAMA_RHINO_SHEET (the herd rhinos look like her), 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 07_JEEP_SHEET
 
 CLIP_07_TANGLED_IN_THEIR_OWN_NET
@@ -39,7 +39,7 @@ CLIP_09_MY_BRAVE_LITTLE_HORN
    REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 08_ACACIA_TREE_NIGHT_LOCATION
 
 PARALLEL (max 2 at a time):
-- Start CLIP_01 and CLIP_06 together (neither needs a first frame).
+- Start CLIP_01 and CLIP_06 together (neither waits for another clip).
 - CLIP_02 waits for CLIP_01, CLIP_03 waits for CLIP_02, CLIP_04 waits for CLIP_03, CLIP_05 waits for CLIP_04.
 - CLIP_07 waits for CLIP_06, CLIP_08 waits for CLIP_07.
 - CLIP_09 needs no first frame: start it whenever a slot is free.
@@ -51,3 +51,4 @@ Kid-friendly: the poachers use a SLEEPING DART blowpipe only. No guns, no blood,
 The poachers always come from BEHIND the rhinos. Short grass only, never tall grass. The chameleon is always BLUE with yellow spots.
 
 VERSION 2 FIXES: the short poacher is CLEAN-SHAVEN in every clip (no beard, no stubble, no moustache). CLIP_01: poachers stay three steps behind Mama the whole time, one wide angle, blow into the THIN end, dart out of the WIDE METAL end, no red mark. CLIP_06: the jeep never drives by itself, the herd pushes it into the mud.
+CLIP_06 now starts from FIRST_FRAME.jpg so the jeep is OUR sage-green jeep with the roll-cage and spare tyres (07_JEEP_SHEET), not a dark army jeep.
