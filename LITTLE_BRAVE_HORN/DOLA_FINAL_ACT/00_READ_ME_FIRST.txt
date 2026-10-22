@@ -1,13 +1,13 @@
 READ ME FIRST - follow SKILL.md (clip-pipeline).
 
-VERSION 7 - THE FINAL ACT of LITTLE BRAVE HORN. This replaces ALL earlier versions. 13 clips in this order:
+VERSION 8 - THE FINAL ACT of LITTLE BRAVE HORN. This replaces ALL earlier versions. 13 clips in this order:
 
 CLIP_01_THE_SLEEPING_DART
    MODE: IMAGE-TO-VIDEO | FIRST FRAME: FIRST_FRAME.jpg (in this folder)
    REFERENCES: 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 06_BLOWPIPE, 10_SLEEPING_PLACE_FAMILY_ASLEEP, 09_FAMILY_ASLEEP_LOOK
 
 CLIP_02_MAMA_WON_T_WAKE_UP
-   MODE: IMAGE-TO-VIDEO | FIRST FRAME: LAST FRAME OF CLIP_01
+   MODE: IMAGE-TO-VIDEO | FIRST FRAME: FIRST_FRAME.jpg (in this folder) = the real last frame of CLIP_01
    REFERENCES: 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 10_SLEEPING_PLACE_FAMILY_ASLEEP
 
 CLIP_03_THEY_COME_FOR_THE_BABY
@@ -64,6 +64,8 @@ DELIVER EACH CLIP AS SOON AS IT IS READY, exactly like 00_DELIVERY_EXAMPLE.png.
 Settings for all: Seedance 2.0 | 15 seconds | 16:9 | 4K. Confirm with me once before starting.
 
 RULES FOR EVERY CLIP:
+- CLIP_01 is DONE. Start from CLIP_02 using its FIRST_FRAME.jpg.
+- NEW 13_DART_ON_MAMA = the dart's round fluffy PINK tuft on top of Mama's back, just behind her shoulder hump. It stays in exactly that spot, same colour, same fluff, in every clip until it drops off at sunrise in CLIP_13.
 - NEW 12_THE_NEXT_HILL = the hill where the baby appears, the jeep drives up and the big rhino rises over the crest (CLIP_06 to CLIP_09 and CLIP_11). Use exactly this hill every time.
 - Sound effects and music in every clip. Dialogue ONLY where the exact lines are written; clips marked "No dialogue" have no speech at all.
 - The BLOWPIPE is always exactly 06_BLOWPIPE.jpg (brown bamboo, short dark grey metal wide end, no gold, no trumpet). Mouth on the THIN end, the dart comes out of the WIDE METAL end. Tiny sleeping dart with a pink tuft, no blood.

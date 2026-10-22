@@ -1,6 +1,6 @@
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_03
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 13_DART_ON_MAMA
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: Dialogue (only this line). Sound effects: quick little hoof steps, the poachers bumping heads ('bonk'), a net tangling, wind. Music: fast, comic chase.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -10,6 +10,7 @@ PROMPT:
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
 LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
+THE DART ON MAMA (continuity, exactly like 13_DART_ON_MAMA): the tiny dart is stuck in the TOP of Mama's back, just behind her shoulder hump, and only its round fluffy PINK tuft (the fletching) shows, like a small pink pom-pom. It stays in EXACTLY that spot, the same pink colour and the same fluffy look in every shot. Nobody pulls it out. No red, no mark, no blood.
 GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
 
 WHERE EVERYONE IS: the same sleeping place under the acacia tree. Mama sleeps. The two poachers try to grab the baby rhino from both sides.

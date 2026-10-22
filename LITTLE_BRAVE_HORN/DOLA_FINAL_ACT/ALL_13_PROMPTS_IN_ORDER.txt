@@ -32,8 +32,8 @@ NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, blood, red mar
 CLIP_02_MAMA_WON_T_WAKE_UP
 
 MODE: IMAGE-TO-VIDEO
-FIRST FRAME: LAST FRAME OF CLIP_01
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 10_SLEEPING_PLACE_FAMILY_ASLEEP
+FIRST FRAME: FIRST_FRAME.jpg (in this folder) = the real last frame of CLIP_01
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 10_SLEEPING_PLACE_FAMILY_ASLEEP, 13_DART_ON_MAMA
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: Dialogue (only these lines). Sound effects: crickets, soft breeze, Mama's deep snoring, the baby's sniffles. Music: soft, sad, gentle piano.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -43,11 +43,12 @@ PROMPT:
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
 LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
+THE DART ON MAMA (continuity, exactly like 13_DART_ON_MAMA): the tiny dart is stuck in the TOP of Mama's back, just behind her shoulder hump, and only its round fluffy PINK tuft (the fletching) shows, like a small pink pom-pom. It stays in EXACTLY that spot, the same pink colour and the same fluffy look in every shot. Nobody pulls it out. No red, no mark, no blood.
 GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
 
-WHERE EVERYONE IS: the same sleeping place under the acacia tree. Mama is in a very deep sleep with the fluffy pink dart in her shoulder. The poachers have stepped back into the dark and are NOT seen in this clip.
+WHERE EVERYONE IS: the same sleeping place under the acacia tree. Mama is in a very deep sleep with the dart's pink fluffy tuft on top of her back, exactly as in the first frame. The poachers have stepped back into the dark and are NOT seen in this clip.
 
-0-4s: close on the baby rhino: his ear twitches, he opens his eyes and sees the pink dart in Mama's shoulder. He gently pulls it out with his mouth and drops it in the grass.
+0-4s: close on the baby rhino: his ear twitches, he opens his eyes and sees the pink fluffy tuft on top of Mama's back. He sniffs it, worried, and does not touch it. The tuft stays exactly where it is.
 4-8s: he nudges Mama's cheek with his little horn. Baby rhino: "Mama? Mama, wake up!" Mama only snores softly, eyes closed.
 8-12s: the blue chameleon wakes, scurries onto Mama's nose and pats it. Chameleon: "Hey, big lady! Up, up!" Mama keeps snoring.
 12-15s: the baby's eyes fill with tears and he presses his head against Mama's cheek. Baby rhino (about to cry): "Please, Mama..." 
@@ -61,7 +62,7 @@ CLIP_03_THEY_COME_FOR_THE_BABY
 
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_02
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 13_DART_ON_MAMA
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: crickets, a rope net swishing, sneaky footsteps on grass, a twig snapping, the baby's frightened squeak. Music: tense, building fast.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -71,6 +72,7 @@ PROMPT:
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
 LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
+THE DART ON MAMA (continuity, exactly like 13_DART_ON_MAMA): the tiny dart is stuck in the TOP of Mama's back, just behind her shoulder hump, and only its round fluffy PINK tuft (the fletching) shows, like a small pink pom-pom. It stays in EXACTLY that spot, the same pink colour and the same fluffy look in every shot. Nobody pulls it out. No red, no mark, no blood.
 GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
 
 WHERE EVERYONE IS: the same sleeping place under the acacia tree. Mama is fast asleep. The baby rhino is next to her face, the blue chameleon sits on Mama's head.
@@ -88,7 +90,7 @@ CLIP_04_HE_RUNS
 
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_03
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 13_DART_ON_MAMA
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: Dialogue (only this line). Sound effects: quick little hoof steps, the poachers bumping heads ('bonk'), a net tangling, wind. Music: fast, comic chase.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -98,6 +100,7 @@ PROMPT:
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
 LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
+THE DART ON MAMA (continuity, exactly like 13_DART_ON_MAMA): the tiny dart is stuck in the TOP of Mama's back, just behind her shoulder hump, and only its round fluffy PINK tuft (the fletching) shows, like a small pink pom-pom. It stays in EXACTLY that spot, the same pink colour and the same fluffy look in every shot. Nobody pulls it out. No red, no mark, no blood.
 GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
 
 WHERE EVERYONE IS: the same sleeping place under the acacia tree. Mama sleeps. The two poachers try to grab the baby rhino from both sides.
@@ -115,7 +118,7 @@ CLIP_05_THE_CHAMELEON_FIGHTS
 
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_04
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 06_BLOWPIPE
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 02_BLUE_CHAMELEON_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 06_BLOWPIPE, 13_DART_ON_MAMA
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: Dialogue (only this line). Sound effects: a cheeky battle cry squeak, a 'splat' on a face, muffled yelling, a soft 'pfft', a 'tuk', a huge comic yawn, a thud on the grass. Music: fast, comic, action.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -126,6 +129,7 @@ VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
 BLOWPIPE AND DART (the same one as in the whole film): exactly 06_BLOWPIPE.jpg: a long BROWN BAMBOO tube with bamboo joints and a short DARK GREY METAL wide end, about as long as the short poacher's arm span. No gold, no brass, no trumpet shape. He puts his MOUTH on the THIN bamboo end and blows; the dart flies out of the WIDE METAL end. It is a tiny SLEEPING dart with a fluffy PINK tuft. It lands softly: only the pink tuft is seen, NO red, NO mark, NO blood.
 LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
+THE DART ON MAMA (continuity, exactly like 13_DART_ON_MAMA): the tiny dart is stuck in the TOP of Mama's back, just behind her shoulder hump, and only its round fluffy PINK tuft (the fletching) shows, like a small pink pom-pom. It stays in EXACTLY that spot, the same pink colour and the same fluffy look in every shot. Nobody pulls it out. No red, no mark, no blood.
 GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path. No tall grass, no stone floor.
 
 WHERE EVERYONE IS: the same sleeping place under the acacia tree. Same location as CLIP_01, it does not change. Mama sleeps. The two poachers stand rubbing their heads. The blue chameleon is on Mama's head.
@@ -145,7 +149,7 @@ CLIP_06_THE_SAW
 
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_05
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET, 12_THE_NEXT_HILL
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 02_BLUE_CHAMELEON_SHEET, 03_MAMA_RHINO_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET, 12_THE_NEXT_HILL, 13_DART_ON_MAMA
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: grunting while dragging, a jeep door, a metal saw being pulled out, a deep low rumble, pebbles rattling. Music: dark and tense, then a deep drum boom.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -156,6 +160,7 @@ VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle
 POACHERS: they look exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
 LOCATION LOCK: the place where the family sleeps is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP / the first frame of CLIP_01: the same acacia tree, the same grassy gentle hill, the same dark stormy blue night sky. It never changes.
 THE NEXT HILL: exactly 12_THE_NEXT_HILL: the smooth rounded hill with dry golden-brown grass, the reddish dirt track up to the crest, full moon, stormy blue sky, and the small acacia hill far away on the left. Anything behind the crest is hidden from view.
+THE DART ON MAMA (continuity, exactly like 13_DART_ON_MAMA): the tiny dart is stuck in the TOP of Mama's back, just behind her shoulder hump, and only its round fluffy PINK tuft (the fletching) shows, like a small pink pom-pom. It stays in EXACTLY that spot, the same pink colour and the same fluffy look in every shot. Nobody pulls it out. No red, no mark, no blood.
 GROUND: short, low grass everywhere on the hill. No tall grass, no stone floor.
 
 WHERE EVERYONE IS: the same sleeping place under the acacia tree. Mama sleeps. The tall poacher snores on the grass. The short poacher holds the blue chameleon dangling by the tail. The poachers' jeep (EXACTLY 07_JEEP_SHEET: sage-green, rusty, muddy, black roll-cage, spare tyre on the roof and on the back) is parked a little way down the hill.
@@ -351,7 +356,7 @@ GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path
 
 WHERE EVERYONE IS: the same sleeping place under the acacia tree as in 10_SLEEPING_PLACE_FAMILY_ASLEEP, but now at SUNRISE with golden-orange light and a clear sky. Mama still lies asleep. The baby rhino and the blue chameleon sit by her face. The herd rests naturally around them, spread out on the hill.
 
-0-4s: the sun rises behind the acacia tree. Mama gives a big yawn and slowly opens her eyes.
+0-4s: the sun rises behind the acacia tree. Mama (with the small pink tuft of the dart still on top of her back, behind her shoulder hump) gives a big yawn, slowly opens her eyes and gives a little shake; the dart drops off into the grass.
 4-8s: the baby rhino jumps up happily. Baby rhino: "Mama! You're awake!"
 8-12s: Mama nuzzles him tenderly with her big horn and smiles. Mama rhino: "My brave little horn."
 12-15s: the blue chameleon leans on the baby's horn. Chameleon: "Told you he's a hero." The camera slowly pulls back to a wide shot of the family under the tree in the sunrise, the herd resting around them.

@@ -14,7 +14,7 @@ GROUND: short, low grass everywhere on the gentle grassy hill with the dirt path
 
 WHERE EVERYONE IS: the same sleeping place under the acacia tree as in 10_SLEEPING_PLACE_FAMILY_ASLEEP, but now at SUNRISE with golden-orange light and a clear sky. Mama still lies asleep. The baby rhino and the blue chameleon sit by her face. The herd rests naturally around them, spread out on the hill.
 
-0-4s: the sun rises behind the acacia tree. Mama gives a big yawn and slowly opens her eyes.
+0-4s: the sun rises behind the acacia tree. Mama (with the small pink tuft of the dart still on top of her back, behind her shoulder hump) gives a big yawn, slowly opens her eyes and gives a little shake; the dart drops off into the grass.
 4-8s: the baby rhino jumps up happily. Baby rhino: "Mama! You're awake!"
 8-12s: Mama nuzzles him tenderly with her big horn and smiles. Mama rhino: "My brave little horn."
 12-15s: the blue chameleon leans on the baby's horn. Chameleon: "Told you he's a hero." The camera slowly pulls back to a wide shot of the family under the tree in the sunrise, the herd resting around them.
