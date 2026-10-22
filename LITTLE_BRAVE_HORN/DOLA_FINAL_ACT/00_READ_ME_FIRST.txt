@@ -55,7 +55,12 @@ CLIP_12_MY_BRAVE_LITTLE_HORN
 
 CHAINS: 01 -> 02 -> 03 -> 04 -> 05 -> 06 -> 07 -> 08 -> 09 -> 10 -> 11 (each waits for the previous clip's last frame).
 CLIP_12 needs no first frame.
-PARALLEL: max 2 at a time. Start CLIP_01 and CLIP_12 together.
+
+!!! IMPORTANT - HOW TO START !!!
+STEP 1: Generate ONLY CLIP_01. Nothing else. Deliver it to me and STOP.
+STEP 2: WAIT until I check it and tell you "OK, continue".
+STEP 3: Only after my OK, continue with the rest, maximum 2 clips at the same time (for example the next clip in the chain + CLIP_12).
+If I ask for a redo of any clip, redo it before using its last frame for the next clip.
 
 DELIVER EACH CLIP AS SOON AS IT IS READY, exactly like 00_DELIVERY_EXAMPLE.png.
 Settings for all: Seedance 2.0 | 15 seconds | 16:9 | 4K. Confirm with me once before starting.
@@ -65,6 +70,7 @@ REFERENCE_SHEETS:
 
 RULES FOR EVERY CLIP:
 - Sound effects and music in every clip. Dialogue ONLY where the exact lines are written; "No dialogue" clips have no speech.
+- MAMA'S SLEEPING SPOT: Mama lies asleep on her belly right UNDER the acacia tree, trunk just behind her back, head to the RIGHT, back end to the LEFT, small blue-grey rocks to her right, the dirt path in front of her, the baby tucked against her front. Same spot and pose in every clip at the sleeping place until she wakes at sunrise.
 - The sleeping place is always exactly 10_SLEEPING_PLACE_FAMILY_ASLEEP: acacia tree, gentle hill, short golden-brown grass, dirt path, stormy blue night sky. Never a stone floor.
 - The dart: its round fluffy PINK tuft sits on top of Mama's back behind her shoulder hump (12_DART_ON_MAMA), same spot and colour, until the baby pulls it out in CLIP_01. After that there is no dart on Mama.
 - The blowpipe is thrown away in CLIP_01 and is not used again.
