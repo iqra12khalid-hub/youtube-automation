@@ -1,6 +1,6 @@
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_08
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 03_MAMA_RHINO_SHEET (the herd rhinos look like her, different sizes), 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 03_MAMA_RHINO_SHEET (the herd rhinos look like her, different sizes), 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET, 10_SLEEPING_PLACE_FAMILY_ASLEEP
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: a jeep door, the engine coughing then roaring, thundering hooves, rhinos snorting, a big crunch as they push, the jeep rolling over and over, a final crash. Music: big, fast, heroic chase.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -9,11 +9,12 @@ PROMPT:
 3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly, same look as the first frame. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body exactly like 05_SHORT_POACHER_SHEET (never child-sized). Never change a character's look between clips.
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
 POACHERS: exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
+STAY NEAR: this happens close to the sleeping place, on the grass just below the gentle hill. In the background you can always see the same acacia tree from 10_SLEEPING_PLACE_FAMILY_ASLEEP with Mama still asleep under it (and the baby with the chameleon on his horn standing by her). Same night sky, same short golden-brown grass, same dirt path.
 GRASS: short, low grass everywhere. No tall grass, no stone floor.
 THE JEEP: EXACTLY 07_JEEP_SHEET: light sage-green, rusty and muddy, open top with a black roll-cage, a spare tyre on the roof rack and a spare tyre on the back. Never a different jeep.
 THE HERD (natural, never fake): 10 big grown-up rhinos that look like 03_MAMA_RHINO_SHEET but in different sizes, moving spread out and uneven, some in small groups, some alone, at different speeds, with dust behind them. NEVER in a straight line, never all the same pose.
 
-WHERE EVERYONE IS: the dirt path below the acacia tree at night. The jeep is parked with the tall poacher asleep in the passenger seat.
+WHERE EVERYONE IS: the dirt path just below the acacia tree at night; the tree with sleeping Mama is in the background. The jeep is parked with the tall poacher asleep in the passenger seat.
 
 0-4s: the short poacher jumps into the driver's seat and turns the key: the engine coughs, then roars. He speeds off down the dirt path.
 4-10s: out of the dark, big rhinos of the herd gallop up on BOTH sides of the jeep, running alongside it, snorting.

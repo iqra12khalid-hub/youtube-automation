@@ -69,6 +69,7 @@ REFERENCE_SHEETS:
 01 baby rhino | 02 blue chameleon | 03 mama rhino (the herd looks like her) | 04 tall poacher | 05 short poacher | 06 blowpipe | 07 jeep | 08 acacia tree at night | 09 family asleep close-up | 10 the exact sleeping place | 11 the poachers' muddy look | 12 the dart's pink tuft on Mama's back
 
 RULES FOR EVERY CLIP:
+- ONE PLACE: clips 01-08 and 12 happen at the sleeping place. Clips 09-11 happen just below it, and the acacia tree with sleeping Mama is always visible in the background.
 - Sound effects and music in every clip. Dialogue ONLY where the exact lines are written; "No dialogue" clips have no speech.
 - MAMA'S SLEEPING SPOT: Mama lies asleep on her belly right UNDER the acacia tree, trunk just behind her back, head to the RIGHT, back end to the LEFT, small blue-grey rocks to her right, the dirt path in front of her, the baby tucked against her front. Same spot and pose in every clip at the sleeping place until she wakes at sunrise.
 - The sleeping place is always exactly 10_SLEEPING_PLACE_FAMILY_ASLEEP: acacia tree, gentle hill, short golden-brown grass, dirt path, stormy blue night sky. Never a stone floor.

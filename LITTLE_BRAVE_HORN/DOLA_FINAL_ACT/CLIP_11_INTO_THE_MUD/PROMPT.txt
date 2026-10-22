@@ -1,6 +1,6 @@
 MODE: IMAGE-TO-VIDEO
 FIRST FRAME: LAST FRAME OF CLIP_10
-CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 03_MAMA_RHINO_SHEET (the herd rhinos look like her, different sizes), 07_JEEP_SHEET
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 03_MAMA_RHINO_SHEET (the herd rhinos look like her, different sizes), 07_JEEP_SHEET, 10_SLEEPING_PLACE_FAMILY_ASLEEP
 SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
 AUDIO: No dialogue. Sound effects: heavy pushing grunts, metal scraping over grass, a big 'SPLORCH', thick mud bubbling, a last 'blub'. Music: comic and proud.
 SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
@@ -8,11 +8,12 @@ SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
 PROMPT:
 3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly, same look as the first frame. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body exactly like 05_SHORT_POACHER_SHEET (never child-sized). Never change a character's look between clips.
 VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
+STAY NEAR: this happens close to the sleeping place, on the grass just below the gentle hill. In the background you can always see the same acacia tree from 10_SLEEPING_PLACE_FAMILY_ASLEEP with Mama still asleep under it (and the baby with the chameleon on his horn standing by her). Same night sky, same short golden-brown grass, same dirt path.
 GRASS: short, low grass everywhere. No tall grass, no stone floor.
 THE JEEP: EXACTLY 07_JEEP_SHEET: light sage-green, rusty and muddy, open top with a black roll-cage, a spare tyre on the roof rack and a spare tyre on the back. Never a different jeep.
 THE HERD (natural, never fake): 10 big grown-up rhinos that look like 03_MAMA_RHINO_SHEET but in different sizes, moving spread out and uneven, some in small groups, some alone, at different speeds, with dust behind them. NEVER in a straight line, never all the same pose.
 
-WHERE EVERYONE IS: the upside-down jeep on the grass at night. Nearby on the flat ground is a big muddy pool.
+WHERE EVERYONE IS: the upside-down jeep on the grass at night. Nearby on the flat ground below the hill is a big muddy pool; the acacia tree with sleeping Mama is in the background.
 
 0-6s: several rhinos of the herd line up naturally behind the upside-down jeep (not in a straight row) and push it with their heads, scraping it across the grass toward the muddy pool.
 6-10s: the jeep slides into the mud with a big 'SPLORCH'.
