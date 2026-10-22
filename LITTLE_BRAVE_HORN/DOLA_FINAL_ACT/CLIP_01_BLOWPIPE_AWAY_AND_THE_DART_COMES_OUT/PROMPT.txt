@@ -1,0 +1,22 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: FIRST_FRAME.jpg (in this folder) = the last frame of the dart clip
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 06_BLOWPIPE, 10_SLEEPING_PLACE_FAMILY_ASLEEP, 12_DART_ON_MAMA
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: No dialogue. Sound effects: the poachers' quiet clap, the blowpipe landing in the grass with a soft thud, wind, crickets, a sudden tense sting when the baby wakes, a soft 'pop' when the dart comes out, Mama's deep snoring. Music: suddenly tense and suspenseful.
+SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly, same look as the first frame. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body exactly like 05_SHORT_POACHER_SHEET (never child-sized). Never change a character's look between clips.
+VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
+POACHERS: exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
+LOCATION LOCK: the sleeping place is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP and the first frame of CLIP_01: the same flat-topped acacia tree, the same gentle hill with short golden-brown grass and the reddish dirt path, the same dark stormy blue night sky. It never changes. Mama lies asleep under the tree the whole time.
+GRASS: short, low grass everywhere. No tall grass, no stone floor.
+
+WHERE EVERYONE IS: continue from the first frame. The two poachers kneel on the grass on the left, several metres behind Mama's back, just after their happy clap. Mama, the baby rhino and the blue chameleon are asleep under the acacia tree. The dart's round fluffy PINK tuft sits on top of Mama's back, just behind her shoulder hump, exactly as in the first frame and 12_DART_ON_MAMA.
+
+0-3s: the short poacher grins and tosses the blowpipe (exactly 06_BLOWPIPE) over his shoulder; it lands in the grass behind them with a soft thud. The job is done. They stay where they are, far behind Mama.
+3-7s: close on the baby rhino: suddenly his eyes SNAP open. Tense music. He lifts his head and looks around.
+7-11s: close-up: he sees the round pink fluffy tuft on top of Mama's back, in exactly the same spot and the same pink colour as before. He reaches up and pulls the dart out with his mouth, a soft 'pop'.
+11-15s: he spits the dart into the grass and looks at Mama's face, worried. Mama keeps snoring, eyes closed.
+
+NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, blood, red marks, wounds, injuries, realistic, photorealistic, tall grass, stone floor, extra characters, extra poachers, green chameleon, bright pink baby rhino, child-sized poacher, beard on the short poacher, character changing look, location changing, teleporting, gibberish, extra dialogue, dialogue, speech, talking, words

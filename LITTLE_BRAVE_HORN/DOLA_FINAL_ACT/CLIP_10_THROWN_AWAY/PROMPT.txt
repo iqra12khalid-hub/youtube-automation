@@ -1,0 +1,23 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_09
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 03_MAMA_RHINO_SHEET (the big rhino looks like her, but bigger), 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 07_JEEP_SHEET
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: No dialogue. Sound effects: dizzy giggling and 'whee' sounds (no words), a nervous gulp, a deep snort, a 'BOING' toss, a long falling whistle fading into the distance, a second goofy whistle. Music: comic and triumphant.
+SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly, same look as the first frame. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body exactly like 05_SHORT_POACHER_SHEET (never child-sized). Never change a character's look between clips.
+VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers make only sounds (gulp, giggle, whee), no words. Say ONLY the lines written below, word for word, nothing else, no gibberish.
+POACHERS: exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
+GRASS: short, low grass everywhere. No tall grass, no stone floor.
+THE JEEP: EXACTLY 07_JEEP_SHEET: light sage-green, rusty and muddy, open top with a black roll-cage, a spare tyre on the roof rack and a spare tyre on the back. Never a different jeep.
+THE HERD (natural, never fake): 10 big grown-up rhinos that look like 03_MAMA_RHINO_SHEET but in different sizes, moving spread out and uneven, some in small groups, some alone, at different speeds, with dust behind them. NEVER in a straight line, never all the same pose.
+
+WHERE EVERYONE IS: the upside-down jeep on the grass at night, with rhinos of the herd standing around it.
+
+0-4s: inside the upside-down jeep the tall poacher wakes up hanging upside down, dizzy, stars around his head, grinning goofily and waving at nobody.
+4-8s: the short poacher crawls out from under the upside-down jeep on his belly, looks up, and comes face to face with a HUGE rhino waiting for him. He gulps.
+8-11s: the huge rhino scoops him up with her horn and flings him far, far away into the dark sky; he gets smaller and smaller and disappears with a tiny twinkle.
+11-15s: the dizzy tall poacher crawls out, stands up wobbling and waves happily at the rhino. The rhino gives him a gentle flick with her horn and he flies off spinning like a pinwheel, still smiling dizzily, into the dark after his partner. Cartoon style: nobody is hurt.
+
+NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, blood, red marks, wounds, injuries, realistic, photorealistic, tall grass, stone floor, extra characters, extra poachers, green chameleon, bright pink baby rhino, child-sized poacher, beard on the short poacher, character changing look, location changing, teleporting, gibberish, extra dialogue, injuries, falling on rocks

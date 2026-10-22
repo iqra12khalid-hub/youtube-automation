@@ -1,0 +1,21 @@
+MODE: IMAGE-TO-VIDEO
+FIRST FRAME: LAST FRAME OF CLIP_02
+CHARACTERS / REFERENCES (use ONLY these sheets from REFERENCE_SHEETS, follow them exactly): 01_BABY_RHINO_SHEET, 03_MAMA_RHINO_SHEET, 04_TALL_POACHER_SHEET, 05_SHORT_POACHER_SHEET, 11_POACHERS_MUDDY_LOOK, 10_SLEEPING_PLACE_FAMILY_ASLEEP
+SETTINGS: Seedance 2.0 | 15 seconds | 16:9 | 4K
+AUDIO: Dialogue (only this line). Sound effects: Mama's deep snoring, the baby's sniff, soft footsteps on grass, crickets. Music: sad, then creepy and tense.
+SOUND EFFECTS AND MUSIC ARE REQUIRED in every clip.
+
+PROMPT:
+3D animated cartoon, soft cinematic lighting, big expressive faces, kid-friendly, same look as the first frame. Every character must look EXACTLY like its reference sheet: same face, body, proportions and colours. The baby rhino is pinkish-GREY exactly like 01_BABY_RHINO_SHEET (not bright pink). The chameleon is BLUE with yellow spots exactly like 02_BLUE_CHAMELEON_SHEET (never green). The short poacher is a normal ADULT with a big round body exactly like 05_SHORT_POACHER_SHEET (never child-sized). Never change a character's look between clips.
+VOICES: baby rhino = small, high, squeaky voice. Mama rhino = soft, warm, gentle mother's voice. Chameleon = quick, raspy, cheeky little voice. The poachers never speak. Say ONLY the lines written below, word for word, nothing else, no gibberish.
+POACHERS: exactly like their original sheets 04_TALL_POACHER_SHEET and 05_SHORT_POACHER_SHEET, plus mud exactly like 11_POACHERS_MUDDY_LOOK (brown mud splashes on skin, clothes and hats). The mud is NEVER a beard: the SHORT poacher has NO beard and NO moustache; the TALL poacher has only his thin curled moustache.
+LOCATION LOCK: the sleeping place is EXACTLY 10_SLEEPING_PLACE_FAMILY_ASLEEP and the first frame of CLIP_01: the same flat-topped acacia tree, the same gentle hill with short golden-brown grass and the reddish dirt path, the same dark stormy blue night sky. It never changes. Mama lies asleep under the tree the whole time.
+GRASS: short, low grass everywhere. No tall grass, no stone floor.
+
+WHERE EVERYONE IS: the same sleeping place. Mama snores deeply. The tall poacher is crouched behind Mama's back, out of the baby's sight.
+
+0-6s: the baby nudges Mama again and again. Nothing. He slowly understands she will not wake up. His lip trembles. Baby rhino (very small, sad): "Mama...?"
+6-9s: the tall poacher sneaks back to the short poacher. The short poacher gives him a sly nod, then slips away into the dark and is gone.
+9-15s: the tall poacher stands up and slowly WALKS around Mama toward the baby, grinning, his long shadow stretching over the grass. The baby sees him for the first time and backs up against Mama.
+
+NEGATIVE: text, subtitles, logo, watermark, guns, rifles, knives, blood, red marks, wounds, injuries, realistic, photorealistic, tall grass, stone floor, extra characters, extra poachers, green chameleon, bright pink baby rhino, child-sized poacher, beard on the short poacher, character changing look, location changing, teleporting, gibberish, extra dialogue
